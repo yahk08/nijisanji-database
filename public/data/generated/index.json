@@ -1,0 +1,340 @@
+{
+  "generatedAt": "2026-11-10T12:25:03.865Z",
+  "demo": true,
+  "livers": [
+    {
+      "id": "demo_001",
+      "status": "active",
+      "name": "ライバーA",
+      "reading": "らいばーえー",
+      "englishName": "Liver A",
+      "affiliation": "NIJISANJI (DEMO)",
+      "group": "サンプルグループA",
+      "branch": "JP",
+      "officialProfileUrl": "",
+      "portraitUrl": null,
+      "youtubeChannelUrl": null,
+      "youtubeChannelId": null,
+      "xUrl": null,
+      "birthday": {
+        "value": "03-15"
+      },
+      "debutDate": {
+        "value": "2022-04-01"
+      },
+      "height": {
+        "value": "165cm"
+      },
+      "fanMark": {
+        "value": "🌸"
+      },
+      "introduction": {
+        "value": "画面を確認するための架空のライバープロフィールです。ここには公式サイトから確認した紹介文を全文表示します。"
+      },
+      "fields": [
+        {
+          "section": "ファン・配信情報",
+          "items": [
+            {
+              "label": "ファンネーム",
+              "data": {
+                "value": "サンプルファン"
+              }
+            },
+            {
+              "label": "配信タグ",
+              "data": {
+                "value": null
+              }
+            },
+            {
+              "label": "ファンアートタグ",
+              "data": {
+                "value": null
+              }
+            }
+          ]
+        },
+        {
+          "section": "所属・活動情報",
+          "items": [
+            {
+              "label": "デビューグループ",
+              "data": {
+                "value": "サンプルグループA"
+              }
+            },
+            {
+              "label": "初配信日",
+              "data": {
+                "value": null
+              }
+            }
+          ]
+        },
+        {
+          "section": "公式設定",
+          "items": [
+            {
+              "label": "出身地",
+              "data": {
+                "value": null
+              }
+            },
+            {
+              "label": "年齢設定",
+              "data": {
+                "value": null
+              }
+            }
+          ]
+        }
+      ],
+      "changes": [
+        {
+          "id": "chg_1",
+          "field": "紹介文",
+          "oldValue": "旧サンプル文",
+          "newValue": "サンプル紹介文",
+          "changedAt": "2026-10-20"
+        }
+      ],
+      "visuals": [
+        {
+          "id": "vs_demo1",
+          "title": "初期衣装",
+          "category": "2D",
+          "kind": "初期衣装",
+          "date": "2022-04-01",
+          "imageUrl": null,
+          "revealUrl": null,
+          "variants": [
+            {
+              "id": "vr_demo1",
+              "name": "通常",
+              "date": "2022-04-01"
+            },
+            {
+              "id": "vr_demo2",
+              "name": "髪型差分",
+              "date": "2023-01-01"
+            }
+          ]
+        },
+        {
+          "id": "vs_demo2",
+          "title": "3Dモデル",
+          "category": "3D",
+          "kind": "3D",
+          "date": "2024-03-20",
+          "variants": [
+            {
+              "id": "vr_demo3",
+              "name": "通常",
+              "date": "2024-03-20"
+            }
+          ]
+        }
+      ],
+      "music": [
+        {
+          "id": "ms_demo1",
+          "title": "サンプル楽曲A",
+          "category": "original",
+          "date": "2023-06-01",
+          "participantIds": [
+            "demo_001",
+            "demo_002"
+          ]
+        },
+        {
+          "id": "ms_demo2",
+          "title": "サンプルカバー曲",
+          "category": "cover",
+          "date": "2024-05-16",
+          "participantIds": [
+            "demo_001"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "id": "ev_demo1",
+          "title": "記念配信",
+          "date": "2025-04-01",
+          "category": "milestone",
+          "description": "架空の記念配信イベントです。"
+        }
+      ],
+      "youtube": {
+        "fetchedAt": null,
+        "stateCheckedAt": null,
+        "videos": [
+          {
+            "id": "yt_demo1",
+            "title": "【デモ】ゲーム配信",
+            "status": "live",
+            "publishedAt": "2026-11-10T12:00:00+09:00"
+          },
+          {
+            "id": "yt_demo2",
+            "title": "【デモ】次の雑談配信",
+            "status": "upcoming",
+            "publishedAt": "2026-11-09T12:00:00+09:00",
+            "scheduledStartAt": "2026-11-11T21:00:00+09:00"
+          },
+          {
+            "id": "yt_demo3",
+            "title": "【デモ】歌ってみた動画",
+            "status": "video",
+            "publishedAt": "2026-11-08T10:00:00+09:00"
+          },
+          {
+            "id": "yt_demo4",
+            "title": "【デモ】アーカイブ配信",
+            "status": "archive",
+            "publishedAt": "2026-11-07T20:00:00+09:00"
+          },
+          {
+            "id": "yt_demo5",
+            "title": "【デモ】Shorts動画",
+            "status": "short",
+            "publishedAt": "2026-11-05T20:00:00+09:00"
+          }
+        ]
+      }
+    },
+    {
+      "id": "demo_002",
+      "status": "active",
+      "name": "ライバーB",
+      "reading": "らいばーびー",
+      "englishName": null,
+      "affiliation": "NIJISANJI (DEMO)",
+      "group": "サンプルグループB",
+      "branch": "JP",
+      "officialProfileUrl": "",
+      "portraitUrl": null,
+      "youtubeChannelUrl": null,
+      "youtubeChannelId": null,
+      "xUrl": null,
+      "birthday": {
+        "value": "11-15"
+      },
+      "debutDate": {
+        "value": "2023-06-10"
+      },
+      "height": {
+        "value": null
+      },
+      "fanMark": {
+        "value": "⭐"
+      },
+      "introduction": {
+        "value": "こちらもデモ用の架空プロフィールです。"
+      },
+      "fields": [
+        {
+          "section": "ファン・配信情報",
+          "items": [
+            {
+              "label": "ファンネーム",
+              "data": {
+                "value": null
+              }
+            }
+          ]
+        }
+      ],
+      "changes": [],
+      "visuals": [],
+      "music": [],
+      "events": [],
+      "youtube": {
+        "fetchedAt": null,
+        "stateCheckedAt": null,
+        "videos": []
+      }
+    },
+    {
+      "id": "demo_003",
+      "status": "active",
+      "name": "ライバーC",
+      "reading": "らいばーしー",
+      "englishName": null,
+      "affiliation": "NIJISANJI (DEMO)",
+      "group": "サンプルグループC",
+      "branch": "EN",
+      "officialProfileUrl": "",
+      "portraitUrl": null,
+      "youtubeChannelUrl": null,
+      "youtubeChannelId": null,
+      "xUrl": null,
+      "birthday": {
+        "value": "01-20"
+      },
+      "debutDate": {
+        "value": "2024-02-15"
+      },
+      "height": {
+        "value": null
+      },
+      "fanMark": {
+        "value": null
+      },
+      "introduction": {
+        "value": "英語圏ライバーの表示確認用サンプルです。"
+      },
+      "fields": [],
+      "changes": [],
+      "visuals": [],
+      "music": [],
+      "events": [],
+      "youtube": {
+        "fetchedAt": null,
+        "stateCheckedAt": null,
+        "videos": []
+      }
+    },
+    {
+      "id": "demo_004",
+      "status": "active",
+      "name": "ライバーD",
+      "reading": "らいばーでぃー",
+      "englishName": null,
+      "affiliation": "NIJISANJI (DEMO)",
+      "group": "サンプルグループA",
+      "branch": "JP",
+      "officialProfileUrl": "",
+      "portraitUrl": null,
+      "youtubeChannelUrl": null,
+      "youtubeChannelId": null,
+      "xUrl": null,
+      "birthday": {
+        "value": "12-05"
+      },
+      "debutDate": {
+        "value": "2025-08-01"
+      },
+      "height": {
+        "value": "172cm"
+      },
+      "fanMark": {
+        "value": "🌙"
+      },
+      "introduction": {
+        "value": "画面レイアウト検証用サンプルです。"
+      },
+      "fields": [],
+      "changes": [],
+      "visuals": [],
+      "music": [],
+      "events": [],
+      "youtube": {
+        "fetchedAt": null,
+        "stateCheckedAt": null,
+        "videos": []
+      }
+    }
+  ]
+}

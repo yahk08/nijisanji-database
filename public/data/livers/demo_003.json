@@ -1,0 +1,40 @@
+{
+  "id": "demo_003",
+  "status": "active",
+  "name": "ライバーC",
+  "reading": "らいばーしー",
+  "englishName": null,
+  "affiliation": "NIJISANJI (DEMO)",
+  "group": "サンプルグループC",
+  "branch": "EN",
+  "officialProfileUrl": "",
+  "portraitUrl": null,
+  "youtubeChannelUrl": null,
+  "youtubeChannelId": null,
+  "xUrl": null,
+  "birthday": {
+    "value": "01-20"
+  },
+  "debutDate": {
+    "value": "2024-02-15"
+  },
+  "height": {
+    "value": null
+  },
+  "fanMark": {
+    "value": null
+  },
+  "introduction": {
+    "value": "英語圏ライバーの表示確認用サンプルです。"
+  },
+  "fields": [],
+  "changes": [],
+  "visuals": [],
+  "music": [],
+  "events": [],
+  "youtube": {
+    "fetchedAt": null,
+    "stateCheckedAt": null,
+    "videos": []
+  }
+}
