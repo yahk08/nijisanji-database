@@ -1,0 +1,180 @@
+{
+  "updatedAt": "2026-11-14",
+  "description": "にじさんじ公式プロフィールの画像リンクに由来する代表画像。画像URLが利用不可の場合はUI側で未登録表示。画像の権利は各権利者に帰属します。",
+  "portraits": [
+    {
+      "id": "TMP_ange_katrina",
+      "name": "アンジュ・カトリーナ",
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/9621c6474a884751a176ee3e706fdd73/liver-full-body_Ange_Katrina.png?fm=webp&w=800",
+      "sourceUrl": "https://www.nijisanji.jp/talents/l/ange-katrina"
+    },
+    {
+      "id": "TMP_ars_almal",
+      "name": "アルス・アルマル",
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/a3a0ab5d72a04854966ad5bcc9b6fea0/liver-full-body_Ars_Almal.png?fm=webp&w=800",
+      "sourceUrl": "https://www.nijisanji.jp/talents/l/ars-almal"
+    },
+    {
+      "id": "TMP_elu",
+      "name": "える",
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/69cf805f317243ebb4af729a63669483/%E3%81%88%E3%82%8B%E3%81%95%E3%82%93_%E3%82%BF%E3%83%AC%E3%83%B3%E3%83%88%E3%83%98%E3%82%9A%E3%83%BC%E3%82%B7%E3%82%993D_20250312.png?fm=webp&w=800",
+      "sourceUrl": "https://www.nijisanji.jp/talents/l/elu"
+    },
+    {
+      "id": "TMP_gaku_fushimi",
+      "name": "伏見ガク",
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/adc28ca3769d4695b7361f80250aaa24/liver-full-body_Gaku_Fushimi_costume2.png?fm=webp&w=800",
+      "sourceUrl": "https://www.nijisanji.jp/talents/l/gaku-fushimi"
+    },
+    {
+      "id": "TMP_hajime_shibuya",
+      "name": "渋谷ハジメ",
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/f045b16b84064809baa048a0ae97ab07/liver-full-body_Hajime_Shibuya_costume2.png?fm=webp&w=800",
+      "sourceUrl": "https://www.nijisanji.jp/talents/l/hajime-shibuya"
+    },
+    {
+      "id": "TMP_haru_kaida",
+      "name": "甲斐田晴",
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/00266cb3d5d044d29cd081f3c4edccb8/liver-full-body_Haru_Kaida_costume4.png?fm=webp&w=800",
+      "sourceUrl": "https://www.nijisanji.jp/talents/l/haru-kaida"
+    },
+    {
+      "id": "TMP_hayato_kagami",
+      "name": "加賀美ハヤト",
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/0ddd86b2d55d4d80a075583462bb3b82/liver-full-body_Hayato_Kagami_costume4.png?fm=webp&w=800",
+      "sourceUrl": "https://www.nijisanji.jp/talents/l/hayato-kagami"
+    },
+    {
+      "id": "TMP_ichigo_ushimi",
+      "name": "宇志海いちご",
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/a36b1cdac921468ab192bc1403be118b/liver-full-body_Ichigo_Ushimi.png.webp?fm=webp&w=800",
+      "sourceUrl": "https://www.nijisanji.jp/talents/l/ichigo-ushimi"
+    },
+    {
+      "id": "TMP_kaede_higuchi",
+      "name": "樋口楓",
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/c0db59faca7c412d82a8c3b7da9d1fd5/%E6%A8%8B%E5%8F%A3%E3%81%95%E3%82%93HP%E3%83%9B%E3%82%9A%E3%83%BC%E3%82%B9%E3%82%99_240924.png?fm=webp&w=800",
+      "sourceUrl": "https://www.nijisanji.jp/talents/l/kaede-higuchi"
+    },
+    {
+      "id": "TMP_kakeru_yumeoi",
+      "name": "夢追翔",
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/35b72cd8777347baa249c988f1ec386f/liver-full-body_Kakeru_Yumeoi_costume2.png?fm=webp&w=800",
+      "sourceUrl": "https://www.nijisanji.jp/talents/l/kakeru-yumeoi"
+    },
+    {
+      "id": "TMP_kanae",
+      "name": "叶",
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/c22012c1710143cbabcf3e2d2bb9a7d1/liver-full-body_Kanae.png?fm=webp&w=800",
+      "sourceUrl": "https://www.nijisanji.jp/talents/l/kanae"
+    },
+    {
+      "id": "TMP_kazaki_morinaka",
+      "name": "森中花咲",
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/f862cb8ebdd645faa8e71be91d467bf0/liver-full-body_Kazaki_Morinaka_costume3.png?fm=webp&w=800",
+      "sourceUrl": "https://www.nijisanji.jp/talents/l/kazaki-morinaka"
+    },
+    {
+      "id": "TMP_keisuke_maimoto",
+      "name": "舞元啓介",
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/e8fa6c21a87449868f72278d5d04a273/liver-full-body_Keisuke_Maimoto.png?fm=webp&w=800",
+      "sourceUrl": "https://www.nijisanji.jp/talents/l/keisuke-maimoto"
+    },
+    {
+      "id": "TMP_kizuku_yashiro",
+      "name": "社築",
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/def82e9e6aee4b5c90856ce8dc624116/liver-full-body_Kizuku_Yashiro.png?fm=webp&w=800",
+      "sourceUrl": "https://www.nijisanji.jp/talents/l/kizuku-yashiro"
+    },
+    {
+      "id": "TMP_kokoro_amamiya",
+      "name": "天宮こころ",
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/cae598e65dd04eb8bf83cb8ab7cfda18/%E5%A4%A9%E5%AE%AE%E3%81%93%E3%81%93%E3%82%8D%E3%81%95%E3%82%93%E3%82%BF%E3%83%AC%E3%83%B3%E3%83%88%E3%83%9A%E3%83%BC%E3%82%B83D_240905%20%281%29.png?fm=webp&w=800",
+      "sourceUrl": "https://www.nijisanji.jp/talents/l/kokoro-amamiya"
+    },
+    {
+      "id": "TMP_kuzuha",
+      "name": "葛葉",
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/c4154c10623f40028ed5e83c65970283/liver-full-body_Kuzuha_costume3.png?fm=webp&w=800",
+      "sourceUrl": "https://www.nijisanji.jp/talents/l/kuzuha"
+    },
+    {
+      "id": "TMP_lize_helesta",
+      "name": "リゼ・ヘルエスタ",
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/2a499367d3d647edbe66000e9d415a49/liver-full-body_Lize_Helesta_costume4.png?fm=webp&w=800",
+      "sourceUrl": "https://www.nijisanji.jp/talents/l/lize-helesta"
+    },
+    {
+      "id": "TMP_minato_fuwa",
+      "name": "不破湊",
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/61deb1ddae0a461688e94616c74f5e0a/liver-full-body_Minato_Fuwa_costume4.png?fm=webp&w=800",
+      "sourceUrl": "https://www.nijisanji.jp/talents/l/minato-fuwa"
+    },
+    {
+      "id": "TMP_mito_tsukino",
+      "name": "月ノ美兎",
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/5bbcd2520d8c40c4becb54aa3349ca5c/%E6%9C%88%E3%83%8E%E7%BE%8E%E5%85%8E%E3%81%95%E3%82%93HP%E3%83%9B%E3%82%9A%E3%83%BC%E3%82%B9%E3%82%99_240911.png?fm=webp&w=800",
+      "sourceUrl": "https://www.nijisanji.jp/talents/l/mito-tsukino"
+    },
+    {
+      "id": "TMP_moira",
+      "name": "モイラ",
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/cd155159dd5346a3bb5100ee5d8cec7f/liver-full-body_Moira.png.webp?fm=webp&w=800",
+      "sourceUrl": "https://www.nijisanji.jp/talents/l/moira"
+    },
+    {
+      "id": "TMP_mugi_ienaga",
+      "name": "家長むぎ",
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/53fec386a0434dfe85368cd8d908b607/liver-full-body_Mugi_Ienaga.png.webp?fm=webp&w=800",
+      "sourceUrl": "https://www.nijisanji.jp/talents/l/mugi-ienaga"
+    },
+    {
+      "id": "TMP_rin_shizuka",
+      "name": "静凛",
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/f61e16b1785944188f392827c3eb1828/liver-full-body_Rin_Shizuka_costume4.png?fm=webp&w=800",
+      "sourceUrl": "https://www.nijisanji.jp/talents/l/rin-shizuka"
+    },
+    {
+      "id": "TMP_riri_yuhi",
+      "name": "夕陽リリ",
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/7ee32435eb744d30bcdae4eb3e53df99/liver-full-body_Riri_Yuhi_costume4.png?fm=webp&w=800",
+      "sourceUrl": "https://www.nijisanji.jp/talents/l/riri-yuhi"
+    },
+    {
+      "id": "TMP_sara_hoshikawa",
+      "name": "星川サラ",
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/a62eb01315c94a649a75c7b32412a71e/%E6%98%9F%E5%B7%9D%E3%82%B5%E3%83%A9%E3%81%95%E3%82%93%E3%82%BF%E3%83%AC%E3%83%B3%E3%83%88%E3%83%98%E3%82%9A%E3%83%BC%E3%82%B7%E3%82%993D_240905.png?fm=webp&w=800",
+      "sourceUrl": "https://www.nijisanji.jp/talents/l/sara-hoshikawa"
+    },
+    {
+      "id": "TMP_sou_hayase",
+      "name": "早瀬走",
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/3229af01946b415595748cc5b2792957/%E6%97%A9%E7%80%AC%E8%B5%B0%E3%81%95%E3%82%93HP%E3%83%9B%E3%82%9A%E3%83%BC%E3%82%B9%E3%82%99_241206.png?fm=webp&w=800",
+      "sourceUrl": "https://www.nijisanji.jp/talents/l/sou-hayase"
+    },
+    {
+      "id": "TMP_toko_inui",
+      "name": "戌亥とこ",
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/d518e3b27fcf46e596edead045cd34a7/liver-full-body_Toko_Inui_costume4.png?fm=webp&w=800",
+      "sourceUrl": "https://www.nijisanji.jp/talents/l/toko-inui"
+    },
+    {
+      "id": "TMP_toya_kenmochi",
+      "name": "剣持刀也",
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/28f7d54c25b54e0badc67aa37ea21a10/liver-full-body_Toya_Kenmochi_costume4.png?fm=webp&w=800",
+      "sourceUrl": "https://www.nijisanji.jp/talents/l/toya-kenmochi"
+    },
+    {
+      "id": "TMP_youko_akabane",
+      "name": "赤羽葉子",
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/c67dd6c0374b4df6bc7516eead332fde/liver-full-body_Youko_Akabane_costume2.png?fm=webp&w=800",
+      "sourceUrl": "https://www.nijisanji.jp/talents/l/youko-akabane"
+    },
+    {
+      "id": "TMP_yuika_shiina",
+      "name": "椎名唯華",
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/dd599c63126b4ef892011f3d06f77ff5/liver-full-body_Yuika_Shiina_costume4.png?fm=webp&w=800",
+      "sourceUrl": "https://www.nijisanji.jp/talents/l/yuika-shiina"
+    }
+  ]
+}
