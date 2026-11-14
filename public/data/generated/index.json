@@ -1,7 +1,827 @@
 {
-  "generatedAt": "2026-11-14T10:28:57.167Z",
+  "generatedAt": "2026-11-14T12:37:44.849Z",
   "demo": false,
   "livers": [
+    {
+      "id": "TMP_ange_katrina",
+      "status": "active",
+      "name": "アンジュ・カトリーナ",
+      "reading": null,
+      "englishName": null,
+      "affiliation": "にじさんじ",
+      "group": null,
+      "branch": "JP",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ange-katrina",
+      "portraitUrl": null,
+      "youtubeChannelUrl": null,
+      "youtubeChannelId": null,
+      "xUrl": null,
+      "birthday": {
+        "value": "09-30",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/ange-katrina",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "debutDate": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "height": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "fanMark": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "introduction": {
+        "value": "錬金術の研究に夢中なライバー。",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/ange-katrina",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "fields": [
+        {
+          "section": "ファン・配信情報",
+          "items": [
+            {
+              "label": "ファンネーム",
+              "data": {
+                "value": "賢者キッズ（非公式：FCL）",
+                "sources": [
+                  {
+                    "label": "にじさんじ公式プロフィール",
+                    "url": "https://www.nijisanji.jp/talents/l/ange-katrina",
+                    "verifiedAt": "2026-11-14"
+                  }
+                ],
+                "showSources": true
+              }
+            }
+          ]
+        }
+      ],
+      "changes": [],
+      "visuals": [],
+      "music": [],
+      "events": [],
+      "youtube": {
+        "fetchedAt": null,
+        "stateCheckedAt": null,
+        "videos": []
+      }
+    },
+    {
+      "id": "TMP_ars_almal",
+      "status": "active",
+      "name": "アルス・アルマル",
+      "reading": null,
+      "englishName": null,
+      "affiliation": "にじさんじ",
+      "group": null,
+      "branch": "JP",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ars-almal",
+      "portraitUrl": null,
+      "youtubeChannelUrl": null,
+      "youtubeChannelId": null,
+      "xUrl": null,
+      "birthday": {
+        "value": "03-21",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/ars-almal",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "debutDate": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "height": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "fanMark": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "introduction": {
+        "value": "駆け出しの魔法使い。",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/ars-almal",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "fields": [
+        {
+          "section": "ファン・配信情報",
+          "items": [
+            {
+              "label": "ファンネーム",
+              "data": {
+                "value": "トゲ丸",
+                "sources": [
+                  {
+                    "label": "にじさんじ公式プロフィール",
+                    "url": "https://www.nijisanji.jp/talents/l/ars-almal",
+                    "verifiedAt": "2026-11-14"
+                  }
+                ],
+                "showSources": true
+              }
+            }
+          ]
+        }
+      ],
+      "changes": [],
+      "visuals": [],
+      "music": [],
+      "events": [],
+      "youtube": {
+        "fetchedAt": null,
+        "stateCheckedAt": null,
+        "videos": []
+      }
+    },
+    {
+      "id": "TMP_elu",
+      "status": "active",
+      "name": "える",
+      "reading": null,
+      "englishName": null,
+      "affiliation": "にじさんじ",
+      "group": null,
+      "branch": "JP",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/elu",
+      "portraitUrl": null,
+      "youtubeChannelUrl": null,
+      "youtubeChannelId": null,
+      "xUrl": null,
+      "birthday": {
+        "value": "01-24",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/elu",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "debutDate": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "height": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "fanMark": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "introduction": {
+        "value": "森から上京したエルフ。おしゃべりが好き。",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/elu",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "fields": [
+        {
+          "section": "ファン・配信情報",
+          "items": [
+            {
+              "label": "ファンネーム",
+              "data": {
+                "value": "おれら",
+                "sources": [
+                  {
+                    "label": "にじさんじ公式プロフィール",
+                    "url": "https://www.nijisanji.jp/talents/l/elu",
+                    "verifiedAt": "2026-11-14"
+                  }
+                ],
+                "showSources": true
+              }
+            }
+          ]
+        }
+      ],
+      "changes": [],
+      "visuals": [],
+      "music": [],
+      "events": [],
+      "youtube": {
+        "fetchedAt": null,
+        "stateCheckedAt": null,
+        "videos": []
+      }
+    },
+    {
+      "id": "TMP_gaku_fushimi",
+      "status": "active",
+      "name": "伏見ガク",
+      "reading": null,
+      "englishName": null,
+      "affiliation": "にじさんじ",
+      "group": null,
+      "branch": "JP",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/gaku-fushimi",
+      "portraitUrl": null,
+      "youtubeChannelUrl": null,
+      "youtubeChannelId": null,
+      "xUrl": null,
+      "birthday": {
+        "value": "10-05",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/gaku-fushimi",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "debutDate": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "height": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "fanMark": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "introduction": {
+        "value": "大学生。バンド活動やアルバイトをしている。",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/gaku-fushimi",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "fields": [
+        {
+          "section": "ファン・配信情報",
+          "items": [
+            {
+              "label": "ファンネーム",
+              "data": {
+                "value": "アクター",
+                "sources": [
+                  {
+                    "label": "にじさんじ公式プロフィール",
+                    "url": "https://www.nijisanji.jp/talents/l/gaku-fushimi",
+                    "verifiedAt": "2026-11-14"
+                  }
+                ],
+                "showSources": true
+              }
+            }
+          ]
+        }
+      ],
+      "changes": [],
+      "visuals": [],
+      "music": [],
+      "events": [],
+      "youtube": {
+        "fetchedAt": null,
+        "stateCheckedAt": null,
+        "videos": []
+      }
+    },
+    {
+      "id": "TMP_hajime_shibuya",
+      "status": "active",
+      "name": "渋谷ハジメ",
+      "reading": null,
+      "englishName": null,
+      "affiliation": "にじさんじ",
+      "group": null,
+      "branch": "JP",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/hajime-shibuya",
+      "portraitUrl": null,
+      "youtubeChannelUrl": null,
+      "youtubeChannelId": null,
+      "xUrl": null,
+      "birthday": {
+        "value": "05-05",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/hajime-shibuya",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "debutDate": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "height": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "fanMark": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "introduction": {
+        "value": "ゲームやアニメが好きな大学生。",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/hajime-shibuya",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "fields": [
+        {
+          "section": "ファン・配信情報",
+          "items": [
+            {
+              "label": "ファンネーム",
+              "data": {
+                "value": "しぶミン",
+                "sources": [
+                  {
+                    "label": "にじさんじ公式プロフィール",
+                    "url": "https://www.nijisanji.jp/talents/l/hajime-shibuya",
+                    "verifiedAt": "2026-11-14"
+                  }
+                ],
+                "showSources": true
+              }
+            }
+          ]
+        }
+      ],
+      "changes": [],
+      "visuals": [],
+      "music": [],
+      "events": [],
+      "youtube": {
+        "fetchedAt": null,
+        "stateCheckedAt": null,
+        "videos": []
+      }
+    },
+    {
+      "id": "TMP_haru_kaida",
+      "status": "active",
+      "name": "甲斐田晴",
+      "reading": null,
+      "englishName": null,
+      "affiliation": "にじさんじ",
+      "group": null,
+      "branch": "JP",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/haru-kaida",
+      "portraitUrl": null,
+      "youtubeChannelUrl": "https://www.youtube.com/@KaidaHaru",
+      "youtubeChannelId": null,
+      "xUrl": null,
+      "birthday": {
+        "value": "10-25",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/haru-kaida",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "debutDate": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "height": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "fanMark": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "introduction": {
+        "value": "皇都で魔の研究を行う研究者。",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/haru-kaida",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "fields": [
+        {
+          "section": "ファン・配信情報",
+          "items": [
+            {
+              "label": "ファンネーム",
+              "data": {
+                "value": "晴れ男・晴れ女",
+                "sources": [
+                  {
+                    "label": "にじさんじ公式プロフィール",
+                    "url": "https://www.nijisanji.jp/talents/l/haru-kaida",
+                    "verifiedAt": "2026-11-14"
+                  }
+                ],
+                "showSources": true
+              }
+            }
+          ]
+        }
+      ],
+      "changes": [],
+      "visuals": [],
+      "music": [],
+      "events": [],
+      "youtube": {
+        "fetchedAt": null,
+        "stateCheckedAt": null,
+        "videos": []
+      }
+    },
+    {
+      "id": "TMP_hayato_kagami",
+      "status": "active",
+      "name": "加賀美ハヤト",
+      "reading": null,
+      "englishName": null,
+      "affiliation": "にじさんじ",
+      "group": null,
+      "branch": "JP",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/hayato-kagami",
+      "portraitUrl": null,
+      "youtubeChannelUrl": null,
+      "youtubeChannelId": null,
+      "xUrl": null,
+      "birthday": {
+        "value": "12-02",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/hayato-kagami",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "debutDate": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "height": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "fanMark": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "introduction": {
+        "value": "玩具会社の若き社長。",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/hayato-kagami",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "fields": [
+        {
+          "section": "ファン・配信情報",
+          "items": [
+            {
+              "label": "ファンネーム",
+              "data": {
+                "value": "潜在株主",
+                "sources": [
+                  {
+                    "label": "にじさんじ公式プロフィール",
+                    "url": "https://www.nijisanji.jp/talents/l/hayato-kagami",
+                    "verifiedAt": "2026-11-14"
+                  }
+                ],
+                "showSources": true
+              }
+            }
+          ]
+        }
+      ],
+      "changes": [],
+      "visuals": [],
+      "music": [],
+      "events": [],
+      "youtube": {
+        "fetchedAt": null,
+        "stateCheckedAt": null,
+        "videos": []
+      }
+    },
+    {
+      "id": "TMP_ichigo_ushimi",
+      "status": "active",
+      "name": "宇志海いちご",
+      "reading": null,
+      "englishName": null,
+      "affiliation": "にじさんじ",
+      "group": null,
+      "branch": "JP",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ichigo-ushimi",
+      "portraitUrl": null,
+      "youtubeChannelUrl": null,
+      "youtubeChannelId": null,
+      "xUrl": null,
+      "birthday": {
+        "value": "04-15",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/ichigo-ushimi",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "debutDate": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "height": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "fanMark": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "introduction": {
+        "value": "海辺の町に住むイチゴミルクウミウシの女の子。",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/ichigo-ushimi",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "fields": [
+        {
+          "section": "ファン・配信情報",
+          "items": [
+            {
+              "label": "ファンネーム",
+              "data": {
+                "value": "うみとも",
+                "sources": [
+                  {
+                    "label": "にじさんじ公式プロフィール",
+                    "url": "https://www.nijisanji.jp/talents/l/ichigo-ushimi",
+                    "verifiedAt": "2026-11-14"
+                  }
+                ],
+                "showSources": true
+              }
+            }
+          ]
+        }
+      ],
+      "changes": [],
+      "visuals": [],
+      "music": [],
+      "events": [],
+      "youtube": {
+        "fetchedAt": null,
+        "stateCheckedAt": null,
+        "videos": []
+      }
+    },
+    {
+      "id": "TMP_kaede_higuchi",
+      "status": "active",
+      "name": "樋口楓",
+      "reading": null,
+      "englishName": null,
+      "affiliation": "にじさんじ",
+      "group": null,
+      "branch": "JP",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kaede-higuchi",
+      "portraitUrl": null,
+      "youtubeChannelUrl": "https://www.youtube.com/@HiguchiKaede",
+      "youtubeChannelId": null,
+      "xUrl": null,
+      "birthday": {
+        "value": "秘密",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/kaede-higuchi",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "debutDate": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "height": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "fanMark": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "introduction": {
+        "value": "VR関西に住む高校生。吹奏楽部でトランペットを演奏している。",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/kaede-higuchi",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "fields": [
+        {
+          "section": "ファン・配信情報",
+          "items": [
+            {
+              "label": "ファンネーム",
+              "data": {
+                "value": "楓組",
+                "sources": [
+                  {
+                    "label": "にじさんじ公式プロフィール",
+                    "url": "https://www.nijisanji.jp/talents/l/kaede-higuchi",
+                    "verifiedAt": "2026-11-14"
+                  }
+                ],
+                "showSources": true
+              }
+            }
+          ]
+        }
+      ],
+      "changes": [],
+      "visuals": [],
+      "music": [],
+      "events": [],
+      "youtube": {
+        "fetchedAt": null,
+        "stateCheckedAt": null,
+        "videos": []
+      }
+    },
+    {
+      "id": "TMP_kakeru_yumeoi",
+      "status": "active",
+      "name": "夢追翔",
+      "reading": null,
+      "englishName": null,
+      "affiliation": "にじさんじ",
+      "group": null,
+      "branch": "JP",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kakeru-yumeoi",
+      "portraitUrl": null,
+      "youtubeChannelUrl": null,
+      "youtubeChannelId": null,
+      "xUrl": null,
+      "birthday": {
+        "value": "06-28",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/kakeru-yumeoi",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "debutDate": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "height": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "fanMark": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "introduction": {
+        "value": "作曲と歌を得意とするミュージシャン。",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/kakeru-yumeoi",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "fields": [
+        {
+          "section": "ファン・配信情報",
+          "items": [
+            {
+              "label": "ファンネーム",
+              "data": {
+                "value": "追っ翔",
+                "sources": [
+                  {
+                    "label": "にじさんじ公式プロフィール",
+                    "url": "https://www.nijisanji.jp/talents/l/kakeru-yumeoi",
+                    "verifiedAt": "2026-11-14"
+                  }
+                ],
+                "showSources": true
+              }
+            }
+          ]
+        }
+      ],
+      "changes": [],
+      "visuals": [],
+      "music": [],
+      "events": [],
+      "youtube": {
+        "fetchedAt": null,
+        "stateCheckedAt": null,
+        "videos": []
+      }
+    },
     {
       "id": "TMP_kanae",
       "status": "active",
@@ -72,6 +892,340 @@
                   {
                     "label": "にじさんじ公式プロフィール",
                     "url": "https://www.nijisanji.jp/talents/l/kanae",
+                    "verifiedAt": "2026-11-14"
+                  }
+                ],
+                "showSources": true
+              }
+            }
+          ]
+        }
+      ],
+      "changes": [],
+      "visuals": [],
+      "music": [],
+      "events": [],
+      "youtube": {
+        "fetchedAt": null,
+        "stateCheckedAt": null,
+        "videos": []
+      }
+    },
+    {
+      "id": "TMP_kazaki_morinaka",
+      "status": "active",
+      "name": "森中花咲",
+      "reading": null,
+      "englishName": null,
+      "affiliation": "にじさんじ",
+      "group": null,
+      "branch": "JP",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kazaki-morinaka",
+      "portraitUrl": null,
+      "youtubeChannelUrl": null,
+      "youtubeChannelId": null,
+      "xUrl": null,
+      "birthday": {
+        "value": "05-23",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/kazaki-morinaka",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "debutDate": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "height": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "fanMark": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "introduction": {
+        "value": "いろいろな年齢の姿に変身できる小学生。",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/kazaki-morinaka",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "fields": [
+        {
+          "section": "ファン・配信情報",
+          "items": [
+            {
+              "label": "ファンネーム",
+              "data": {
+                "value": "くまさんず",
+                "sources": [
+                  {
+                    "label": "にじさんじ公式プロフィール",
+                    "url": "https://www.nijisanji.jp/talents/l/kazaki-morinaka",
+                    "verifiedAt": "2026-11-14"
+                  }
+                ],
+                "showSources": true
+              }
+            }
+          ]
+        }
+      ],
+      "changes": [],
+      "visuals": [],
+      "music": [],
+      "events": [],
+      "youtube": {
+        "fetchedAt": null,
+        "stateCheckedAt": null,
+        "videos": []
+      }
+    },
+    {
+      "id": "TMP_keisuke_maimoto",
+      "status": "active",
+      "name": "舞元啓介",
+      "reading": null,
+      "englishName": null,
+      "affiliation": "にじさんじ",
+      "group": null,
+      "branch": "JP",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/keisuke-maimoto",
+      "portraitUrl": null,
+      "youtubeChannelUrl": null,
+      "youtubeChannelId": null,
+      "xUrl": null,
+      "birthday": {
+        "value": "11-09",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/keisuke-maimoto",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "debutDate": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "height": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "fanMark": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "introduction": {
+        "value": "スポーツ観戦を愛する農家。",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/keisuke-maimoto",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "fields": [
+        {
+          "section": "ファン・配信情報",
+          "items": [
+            {
+              "label": "ファンネーム",
+              "data": {
+                "value": "加齢衆",
+                "sources": [
+                  {
+                    "label": "にじさんじ公式プロフィール",
+                    "url": "https://www.nijisanji.jp/talents/l/keisuke-maimoto",
+                    "verifiedAt": "2026-11-14"
+                  }
+                ],
+                "showSources": true
+              }
+            }
+          ]
+        }
+      ],
+      "changes": [],
+      "visuals": [],
+      "music": [],
+      "events": [],
+      "youtube": {
+        "fetchedAt": null,
+        "stateCheckedAt": null,
+        "videos": []
+      }
+    },
+    {
+      "id": "TMP_kizuku_yashiro",
+      "status": "active",
+      "name": "社築",
+      "reading": null,
+      "englishName": null,
+      "affiliation": "にじさんじ",
+      "group": null,
+      "branch": "JP",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kizuku-yashiro",
+      "portraitUrl": null,
+      "youtubeChannelUrl": null,
+      "youtubeChannelId": null,
+      "xUrl": null,
+      "birthday": {
+        "value": "11-23",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/kizuku-yashiro",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "debutDate": {
+        "value": "2018-06-05",
+        "sources": [
+          {
+            "label": "にじさんじ公式ストア",
+            "url": "https://shop.nijisanji.jp/1030",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "height": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "fanMark": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "introduction": {
+        "value": "IT企業に勤めるプログラマー。",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/kizuku-yashiro",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "fields": [
+        {
+          "section": "ファン・配信情報",
+          "items": [
+            {
+              "label": "ファンネーム",
+              "data": {
+                "value": "飲み友",
+                "sources": [
+                  {
+                    "label": "にじさんじ公式プロフィール",
+                    "url": "https://www.nijisanji.jp/talents/l/kizuku-yashiro",
+                    "verifiedAt": "2026-11-14"
+                  }
+                ],
+                "showSources": true
+              }
+            }
+          ]
+        }
+      ],
+      "changes": [],
+      "visuals": [],
+      "music": [],
+      "events": [],
+      "youtube": {
+        "fetchedAt": null,
+        "stateCheckedAt": null,
+        "videos": []
+      }
+    },
+    {
+      "id": "TMP_kokoro_amamiya",
+      "status": "active",
+      "name": "天宮こころ",
+      "reading": null,
+      "englishName": null,
+      "affiliation": "にじさんじ",
+      "group": null,
+      "branch": "JP",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kokoro-amamiya",
+      "portraitUrl": null,
+      "youtubeChannelUrl": null,
+      "youtubeChannelId": null,
+      "xUrl": null,
+      "birthday": {
+        "value": "07-01",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/kokoro-amamiya",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "debutDate": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "height": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "fanMark": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "introduction": {
+        "value": "龍と対話できる一族の巫女。",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/kokoro-amamiya",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "fields": [
+        {
+          "section": "ファン・配信情報",
+          "items": [
+            {
+              "label": "ファンネーム",
+              "data": {
+                "value": "MYAOZ",
+                "sources": [
+                  {
+                    "label": "にじさんじ公式プロフィール",
+                    "url": "https://www.nijisanji.jp/talents/l/kokoro-amamiya",
                     "verifiedAt": "2026-11-14"
                   }
                 ],
@@ -181,6 +1335,170 @@
       }
     },
     {
+      "id": "TMP_lize_helesta",
+      "status": "active",
+      "name": "リゼ・ヘルエスタ",
+      "reading": null,
+      "englishName": null,
+      "affiliation": "にじさんじ",
+      "group": null,
+      "branch": "JP",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/lize-helesta",
+      "portraitUrl": null,
+      "youtubeChannelUrl": "https://www.youtube.com/@LizeHelesta",
+      "youtubeChannelId": null,
+      "xUrl": null,
+      "birthday": {
+        "value": "05-25",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/lize-helesta",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "debutDate": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "height": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "fanMark": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "introduction": {
+        "value": "ヘルエスタ王国の第二皇女。",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/lize-helesta",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "fields": [
+        {
+          "section": "ファン・配信情報",
+          "items": [
+            {
+              "label": "ファンネーム",
+              "data": {
+                "value": "ヘルエスタ王国民",
+                "sources": [
+                  {
+                    "label": "にじさんじ公式プロフィール",
+                    "url": "https://www.nijisanji.jp/talents/l/lize-helesta",
+                    "verifiedAt": "2026-11-14"
+                  }
+                ],
+                "showSources": true
+              }
+            }
+          ]
+        }
+      ],
+      "changes": [],
+      "visuals": [],
+      "music": [],
+      "events": [],
+      "youtube": {
+        "fetchedAt": null,
+        "stateCheckedAt": null,
+        "videos": []
+      }
+    },
+    {
+      "id": "TMP_minato_fuwa",
+      "status": "active",
+      "name": "不破湊",
+      "reading": null,
+      "englishName": null,
+      "affiliation": "にじさんじ",
+      "group": null,
+      "branch": "JP",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/minato-fuwa",
+      "portraitUrl": null,
+      "youtubeChannelUrl": null,
+      "youtubeChannelId": null,
+      "xUrl": null,
+      "birthday": {
+        "value": "04-18",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/minato-fuwa",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "debutDate": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "height": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "fanMark": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "introduction": {
+        "value": "歌とゲームが好きなバーチャルホスト。",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/minato-fuwa",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "fields": [
+        {
+          "section": "ファン・配信情報",
+          "items": [
+            {
+              "label": "ファンネーム",
+              "data": {
+                "value": "不破狂",
+                "sources": [
+                  {
+                    "label": "にじさんじ公式プロフィール",
+                    "url": "https://www.nijisanji.jp/talents/l/minato-fuwa",
+                    "verifiedAt": "2026-11-14"
+                  }
+                ],
+                "showSources": true
+              }
+            }
+          ]
+        }
+      ],
+      "changes": [],
+      "visuals": [],
+      "music": [],
+      "events": [],
+      "youtube": {
+        "fetchedAt": null,
+        "stateCheckedAt": null,
+        "videos": []
+      }
+    },
+    {
       "id": "TMP_mito_tsukino",
       "status": "active",
       "name": "月ノ美兎",
@@ -250,6 +1568,826 @@
                   {
                     "label": "にじさんじ公式プロフィール",
                     "url": "https://www.nijisanji.jp/talents/l/mito-tsukino",
+                    "verifiedAt": "2026-11-14"
+                  }
+                ],
+                "showSources": true
+              }
+            }
+          ]
+        }
+      ],
+      "changes": [],
+      "visuals": [],
+      "music": [],
+      "events": [],
+      "youtube": {
+        "fetchedAt": null,
+        "stateCheckedAt": null,
+        "videos": []
+      }
+    },
+    {
+      "id": "TMP_moira",
+      "status": "active",
+      "name": "モイラ",
+      "reading": null,
+      "englishName": null,
+      "affiliation": "にじさんじ",
+      "group": null,
+      "branch": "JP",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/moira",
+      "portraitUrl": null,
+      "youtubeChannelUrl": null,
+      "youtubeChannelId": null,
+      "xUrl": null,
+      "birthday": {
+        "value": "02-10",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/moira",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "debutDate": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "height": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "fanMark": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "introduction": {
+        "value": "運命を司ると語る女神。",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/moira",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "fields": [
+        {
+          "section": "ファン・配信情報",
+          "items": [
+            {
+              "label": "ファンネーム",
+              "data": {
+                "value": "こいぬ",
+                "sources": [
+                  {
+                    "label": "にじさんじ公式プロフィール",
+                    "url": "https://www.nijisanji.jp/talents/l/moira",
+                    "verifiedAt": "2026-11-14"
+                  }
+                ],
+                "showSources": true
+              }
+            }
+          ]
+        }
+      ],
+      "changes": [],
+      "visuals": [],
+      "music": [],
+      "events": [],
+      "youtube": {
+        "fetchedAt": null,
+        "stateCheckedAt": null,
+        "videos": []
+      }
+    },
+    {
+      "id": "TMP_mugi_ienaga",
+      "status": "active",
+      "name": "家長むぎ",
+      "reading": null,
+      "englishName": null,
+      "affiliation": "にじさんじ",
+      "group": null,
+      "branch": "JP",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/mugi-ienaga",
+      "portraitUrl": null,
+      "youtubeChannelUrl": null,
+      "youtubeChannelId": null,
+      "xUrl": null,
+      "birthday": {
+        "value": "11-07",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/mugi-ienaga",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "debutDate": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "height": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "fanMark": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "introduction": {
+        "value": "読書や美術館巡りが好きな大学生。",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/mugi-ienaga",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "fields": [
+        {
+          "section": "ファン・配信情報",
+          "items": [
+            {
+              "label": "ファンネーム",
+              "data": {
+                "value": "むぎのともだち",
+                "sources": [
+                  {
+                    "label": "にじさんじ公式プロフィール",
+                    "url": "https://www.nijisanji.jp/talents/l/mugi-ienaga",
+                    "verifiedAt": "2026-11-14"
+                  }
+                ],
+                "showSources": true
+              }
+            }
+          ]
+        }
+      ],
+      "changes": [],
+      "visuals": [],
+      "music": [],
+      "events": [],
+      "youtube": {
+        "fetchedAt": null,
+        "stateCheckedAt": null,
+        "videos": []
+      }
+    },
+    {
+      "id": "TMP_rin_shizuka",
+      "status": "active",
+      "name": "静凛",
+      "reading": null,
+      "englishName": null,
+      "affiliation": "にじさんじ",
+      "group": null,
+      "branch": "JP",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/rin-shizuka",
+      "portraitUrl": null,
+      "youtubeChannelUrl": null,
+      "youtubeChannelId": null,
+      "xUrl": null,
+      "birthday": {
+        "value": "08-28",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/rin-shizuka",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "debutDate": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "height": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "fanMark": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "introduction": {
+        "value": "周りから頼られる高校3年生。",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/rin-shizuka",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "fields": [
+        {
+          "section": "ファン・配信情報",
+          "items": [
+            {
+              "label": "ファンネーム",
+              "data": {
+                "value": "凛fam",
+                "sources": [
+                  {
+                    "label": "にじさんじ公式プロフィール",
+                    "url": "https://www.nijisanji.jp/talents/l/rin-shizuka",
+                    "verifiedAt": "2026-11-14"
+                  }
+                ],
+                "showSources": true
+              }
+            }
+          ]
+        }
+      ],
+      "changes": [],
+      "visuals": [],
+      "music": [],
+      "events": [],
+      "youtube": {
+        "fetchedAt": null,
+        "stateCheckedAt": null,
+        "videos": []
+      }
+    },
+    {
+      "id": "TMP_riri_yuhi",
+      "status": "active",
+      "name": "夕陽リリ",
+      "reading": null,
+      "englishName": null,
+      "affiliation": "にじさんじ",
+      "group": null,
+      "branch": "JP",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/riri-yuhi",
+      "portraitUrl": null,
+      "youtubeChannelUrl": null,
+      "youtubeChannelId": null,
+      "xUrl": null,
+      "birthday": {
+        "value": "01-21",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/riri-yuhi",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "debutDate": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "height": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "fanMark": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "introduction": {
+        "value": "いたずら好きな未来人の女の子。",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/riri-yuhi",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "fields": [
+        {
+          "section": "ファン・配信情報",
+          "items": [
+            {
+              "label": "ファンネーム",
+              "data": {
+                "value": "無し",
+                "sources": [
+                  {
+                    "label": "にじさんじ公式プロフィール",
+                    "url": "https://www.nijisanji.jp/talents/l/riri-yuhi",
+                    "verifiedAt": "2026-11-14"
+                  }
+                ],
+                "showSources": true
+              }
+            }
+          ]
+        }
+      ],
+      "changes": [],
+      "visuals": [],
+      "music": [],
+      "events": [],
+      "youtube": {
+        "fetchedAt": null,
+        "stateCheckedAt": null,
+        "videos": []
+      }
+    },
+    {
+      "id": "TMP_sara_hoshikawa",
+      "status": "active",
+      "name": "星川サラ",
+      "reading": null,
+      "englishName": null,
+      "affiliation": "にじさんじ",
+      "group": null,
+      "branch": "JP",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/sara-hoshikawa",
+      "portraitUrl": null,
+      "youtubeChannelUrl": "https://www.youtube.com/@HoshikawaSara",
+      "youtubeChannelId": null,
+      "xUrl": null,
+      "birthday": {
+        "value": "08-07",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/sara-hoshikawa",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "debutDate": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "height": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "fanMark": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "introduction": {
+        "value": "日本とイギリスにルーツを持つ、自称インフルエンサー。",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/sara-hoshikawa",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "fields": [
+        {
+          "section": "ファン・配信情報",
+          "items": [
+            {
+              "label": "ファンネーム",
+              "data": {
+                "value": "星くず",
+                "sources": [
+                  {
+                    "label": "にじさんじ公式プロフィール",
+                    "url": "https://www.nijisanji.jp/talents/l/sara-hoshikawa",
+                    "verifiedAt": "2026-11-14"
+                  }
+                ],
+                "showSources": true
+              }
+            }
+          ]
+        }
+      ],
+      "changes": [],
+      "visuals": [],
+      "music": [],
+      "events": [],
+      "youtube": {
+        "fetchedAt": null,
+        "stateCheckedAt": null,
+        "videos": []
+      }
+    },
+    {
+      "id": "TMP_sou_hayase",
+      "status": "active",
+      "name": "早瀬走",
+      "reading": null,
+      "englishName": null,
+      "affiliation": "にじさんじ",
+      "group": null,
+      "branch": "JP",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/sou-hayase",
+      "portraitUrl": null,
+      "youtubeChannelUrl": null,
+      "youtubeChannelId": null,
+      "xUrl": null,
+      "birthday": {
+        "value": "03-20",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/sou-hayase",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "debutDate": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "height": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "fanMark": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "introduction": {
+        "value": "コスプレやロードバイクなどアウトドアが好き。",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/sou-hayase",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "fields": [
+        {
+          "section": "ファン・配信情報",
+          "items": [
+            {
+              "label": "ファンネーム",
+              "data": {
+                "value": "らんナー",
+                "sources": [
+                  {
+                    "label": "にじさんじ公式プロフィール",
+                    "url": "https://www.nijisanji.jp/talents/l/sou-hayase",
+                    "verifiedAt": "2026-11-14"
+                  }
+                ],
+                "showSources": true
+              }
+            }
+          ]
+        }
+      ],
+      "changes": [],
+      "visuals": [],
+      "music": [],
+      "events": [],
+      "youtube": {
+        "fetchedAt": null,
+        "stateCheckedAt": null,
+        "videos": []
+      }
+    },
+    {
+      "id": "TMP_toko_inui",
+      "status": "active",
+      "name": "戌亥とこ",
+      "reading": null,
+      "englishName": null,
+      "affiliation": "にじさんじ",
+      "group": null,
+      "branch": "JP",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/toko-inui",
+      "portraitUrl": null,
+      "youtubeChannelUrl": "https://www.youtube.com/@InuiToko",
+      "youtubeChannelId": null,
+      "xUrl": null,
+      "birthday": {
+        "value": "09-09",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/toko-inui",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "debutDate": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "height": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "fanMark": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "introduction": {
+        "value": "和風喫茶で働く女の子。",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/toko-inui",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "fields": [
+        {
+          "section": "ファン・配信情報",
+          "items": [
+            {
+              "label": "ファンネーム",
+              "data": {
+                "value": "無し",
+                "sources": [
+                  {
+                    "label": "にじさんじ公式プロフィール",
+                    "url": "https://www.nijisanji.jp/talents/l/toko-inui",
+                    "verifiedAt": "2026-11-14"
+                  }
+                ],
+                "showSources": true
+              }
+            }
+          ]
+        }
+      ],
+      "changes": [],
+      "visuals": [],
+      "music": [],
+      "events": [],
+      "youtube": {
+        "fetchedAt": null,
+        "stateCheckedAt": null,
+        "videos": []
+      }
+    },
+    {
+      "id": "TMP_toya_kenmochi",
+      "status": "active",
+      "name": "剣持刀也",
+      "reading": null,
+      "englishName": null,
+      "affiliation": "にじさんじ",
+      "group": null,
+      "branch": "JP",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/toya-kenmochi",
+      "portraitUrl": null,
+      "youtubeChannelUrl": "https://www.youtube.com/@KenmochiToya",
+      "youtubeChannelId": null,
+      "xUrl": null,
+      "birthday": {
+        "value": "08-22",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/toya-kenmochi",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "debutDate": {
+        "value": "2018-03-15",
+        "sources": [
+          {
+            "label": "にじさんじ公式ストア",
+            "url": "https://shop.nijisanji.jp/searchAjax?cgid=1014&secondCgid=category",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "height": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "fanMark": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "introduction": {
+        "value": "剣道部に所属する高校生。",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/toya-kenmochi",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "fields": [
+        {
+          "section": "ファン・配信情報",
+          "items": [
+            {
+              "label": "ファンネーム",
+              "data": {
+                "value": null,
+                "sources": [],
+                "showSources": false
+              }
+            }
+          ]
+        }
+      ],
+      "changes": [],
+      "visuals": [],
+      "music": [],
+      "events": [],
+      "youtube": {
+        "fetchedAt": null,
+        "stateCheckedAt": null,
+        "videos": []
+      }
+    },
+    {
+      "id": "TMP_youko_akabane",
+      "status": "active",
+      "name": "赤羽葉子",
+      "reading": null,
+      "englishName": null,
+      "affiliation": "にじさんじ",
+      "group": null,
+      "branch": "JP",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/youko-akabane",
+      "portraitUrl": null,
+      "youtubeChannelUrl": null,
+      "youtubeChannelId": null,
+      "xUrl": null,
+      "birthday": {
+        "value": "04-05",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/youko-akabane",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "debutDate": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "height": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "fanMark": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "introduction": {
+        "value": "オカルト研究部の部長で怪談好き。",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/youko-akabane",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "fields": [
+        {
+          "section": "ファン・配信情報",
+          "items": [
+            {
+              "label": "ファンネーム",
+              "data": {
+                "value": "しかばね",
+                "sources": [
+                  {
+                    "label": "にじさんじ公式プロフィール",
+                    "url": "https://www.nijisanji.jp/talents/l/youko-akabane",
+                    "verifiedAt": "2026-11-14"
+                  }
+                ],
+                "showSources": true
+              }
+            }
+          ]
+        }
+      ],
+      "changes": [],
+      "visuals": [],
+      "music": [],
+      "events": [],
+      "youtube": {
+        "fetchedAt": null,
+        "stateCheckedAt": null,
+        "videos": []
+      }
+    },
+    {
+      "id": "TMP_yuika_shiina",
+      "status": "active",
+      "name": "椎名唯華",
+      "reading": null,
+      "englishName": null,
+      "affiliation": "にじさんじ",
+      "group": null,
+      "branch": "JP",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/yuika-shiina",
+      "portraitUrl": null,
+      "youtubeChannelUrl": null,
+      "youtubeChannelId": null,
+      "xUrl": null,
+      "birthday": {
+        "value": "04-17",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/yuika-shiina",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "debutDate": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "height": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "fanMark": {
+        "value": null,
+        "sources": [],
+        "showSources": false
+      },
+      "introduction": {
+        "value": "ゲーム好きで関西弁の高校生。",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール",
+            "url": "https://www.nijisanji.jp/talents/l/yuika-shiina",
+            "verifiedAt": "2026-11-14"
+          }
+        ],
+        "showSources": true
+      },
+      "fields": [
+        {
+          "section": "ファン・配信情報",
+          "items": [
+            {
+              "label": "ファンネーム",
+              "data": {
+                "value": "ゴリスナー",
+                "sources": [
+                  {
+                    "label": "にじさんじ公式プロフィール",
+                    "url": "https://www.nijisanji.jp/talents/l/yuika-shiina",
                     "verifiedAt": "2026-11-14"
                   }
                 ],

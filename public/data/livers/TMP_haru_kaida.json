@@ -1,0 +1,82 @@
+{
+  "id": "TMP_haru_kaida",
+  "status": "active",
+  "name": "甲斐田晴",
+  "reading": null,
+  "englishName": null,
+  "affiliation": "にじさんじ",
+  "group": null,
+  "branch": "JP",
+  "officialProfileUrl": "https://www.nijisanji.jp/talents/l/haru-kaida",
+  "portraitUrl": null,
+  "youtubeChannelUrl": "https://www.youtube.com/@KaidaHaru",
+  "youtubeChannelId": null,
+  "xUrl": null,
+  "birthday": {
+    "value": "10-25",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール",
+        "url": "https://www.nijisanji.jp/talents/l/haru-kaida",
+        "verifiedAt": "2026-11-14"
+      }
+    ],
+    "showSources": true
+  },
+  "debutDate": {
+    "value": null,
+    "sources": [],
+    "showSources": false
+  },
+  "height": {
+    "value": null,
+    "sources": [],
+    "showSources": false
+  },
+  "fanMark": {
+    "value": null,
+    "sources": [],
+    "showSources": false
+  },
+  "introduction": {
+    "value": "皇都で魔の研究を行う研究者。",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール",
+        "url": "https://www.nijisanji.jp/talents/l/haru-kaida",
+        "verifiedAt": "2026-11-14"
+      }
+    ],
+    "showSources": true
+  },
+  "fields": [
+    {
+      "section": "ファン・配信情報",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "晴れ男・晴れ女",
+            "sources": [
+              {
+                "label": "にじさんじ公式プロフィール",
+                "url": "https://www.nijisanji.jp/talents/l/haru-kaida",
+                "verifiedAt": "2026-11-14"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    }
+  ],
+  "changes": [],
+  "visuals": [],
+  "music": [],
+  "events": [],
+  "youtube": {
+    "fetchedAt": null,
+    "stateCheckedAt": null,
+    "videos": []
+  }
+}

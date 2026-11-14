@@ -1,0 +1,82 @@
+{
+  "id": "TMP_sou_hayase",
+  "status": "active",
+  "name": "早瀬走",
+  "reading": null,
+  "englishName": null,
+  "affiliation": "にじさんじ",
+  "group": null,
+  "branch": "JP",
+  "officialProfileUrl": "https://www.nijisanji.jp/talents/l/sou-hayase",
+  "portraitUrl": null,
+  "youtubeChannelUrl": null,
+  "youtubeChannelId": null,
+  "xUrl": null,
+  "birthday": {
+    "value": "03-20",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール",
+        "url": "https://www.nijisanji.jp/talents/l/sou-hayase",
+        "verifiedAt": "2026-11-14"
+      }
+    ],
+    "showSources": true
+  },
+  "debutDate": {
+    "value": null,
+    "sources": [],
+    "showSources": false
+  },
+  "height": {
+    "value": null,
+    "sources": [],
+    "showSources": false
+  },
+  "fanMark": {
+    "value": null,
+    "sources": [],
+    "showSources": false
+  },
+  "introduction": {
+    "value": "コスプレやロードバイクなどアウトドアが好き。",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール",
+        "url": "https://www.nijisanji.jp/talents/l/sou-hayase",
+        "verifiedAt": "2026-11-14"
+      }
+    ],
+    "showSources": true
+  },
+  "fields": [
+    {
+      "section": "ファン・配信情報",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "らんナー",
+            "sources": [
+              {
+                "label": "にじさんじ公式プロフィール",
+                "url": "https://www.nijisanji.jp/talents/l/sou-hayase",
+                "verifiedAt": "2026-11-14"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    }
+  ],
+  "changes": [],
+  "visuals": [],
+  "music": [],
+  "events": [],
+  "youtube": {
+    "fetchedAt": null,
+    "stateCheckedAt": null,
+    "videos": []
+  }
+}

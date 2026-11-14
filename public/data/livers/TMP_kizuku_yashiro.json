@@ -1,0 +1,88 @@
+{
+  "id": "TMP_kizuku_yashiro",
+  "status": "active",
+  "name": "社築",
+  "reading": null,
+  "englishName": null,
+  "affiliation": "にじさんじ",
+  "group": null,
+  "branch": "JP",
+  "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kizuku-yashiro",
+  "portraitUrl": null,
+  "youtubeChannelUrl": null,
+  "youtubeChannelId": null,
+  "xUrl": null,
+  "birthday": {
+    "value": "11-23",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール",
+        "url": "https://www.nijisanji.jp/talents/l/kizuku-yashiro",
+        "verifiedAt": "2026-11-14"
+      }
+    ],
+    "showSources": true
+  },
+  "debutDate": {
+    "value": "2018-06-05",
+    "sources": [
+      {
+        "label": "にじさんじ公式ストア",
+        "url": "https://shop.nijisanji.jp/1030",
+        "verifiedAt": "2026-11-14"
+      }
+    ],
+    "showSources": true
+  },
+  "height": {
+    "value": null,
+    "sources": [],
+    "showSources": false
+  },
+  "fanMark": {
+    "value": null,
+    "sources": [],
+    "showSources": false
+  },
+  "introduction": {
+    "value": "IT企業に勤めるプログラマー。",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール",
+        "url": "https://www.nijisanji.jp/talents/l/kizuku-yashiro",
+        "verifiedAt": "2026-11-14"
+      }
+    ],
+    "showSources": true
+  },
+  "fields": [
+    {
+      "section": "ファン・配信情報",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "飲み友",
+            "sources": [
+              {
+                "label": "にじさんじ公式プロフィール",
+                "url": "https://www.nijisanji.jp/talents/l/kizuku-yashiro",
+                "verifiedAt": "2026-11-14"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    }
+  ],
+  "changes": [],
+  "visuals": [],
+  "music": [],
+  "events": [],
+  "youtube": {
+    "fetchedAt": null,
+    "stateCheckedAt": null,
+    "videos": []
+  }
+}

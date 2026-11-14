@@ -2,7 +2,7 @@
   "checkedAt": "2026-11-14",
   "source": "https://shop.nijisanji.jp/search/artist?cgid=nijisanji",
   "scope": "公式ストア掲載170名＋2026年8月27日の公式デビュー発表2名。個別プロフィール未照合を含み、現在の全員収録は未確認。NIJISANJI ENは対象外。",
-  "note": "この一覧の名前だけで個別プロフィールURLやデビュー日を確定していない。固定L IDは付与しない。",
+  "note": "掲載名は公式ストアの照合候補。verified は個別の公式プロフィールページURLを個別に確認済み。未照合項目は現役所属・デビュー日・プロフィールURLを確定しない。",
   "candidates": [
     {
       "name": "愛園愛美",
@@ -14,7 +14,8 @@
     },
     {
       "name": "赤羽葉子",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "profileUrl": "https://www.nijisanji.jp/talents/l/youko-akabane"
     },
     {
       "name": "明楽レイ",
@@ -30,7 +31,8 @@
     },
     {
       "name": "天宮こころ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "profileUrl": "https://www.nijisanji.jp/talents/l/kokoro-amamiya"
     },
     {
       "name": "雨森小夜",
@@ -38,11 +40,13 @@
     },
     {
       "name": "アルス・アルマル",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "profileUrl": "https://www.nijisanji.jp/talents/l/ars-almal"
     },
     {
       "name": "アンジュ・カトリーナ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "profileUrl": "https://www.nijisanji.jp/talents/l/ange-katrina"
     },
     {
       "name": "イ ロハ",
@@ -50,7 +54,8 @@
     },
     {
       "name": "家長むぎ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "profileUrl": "https://www.nijisanji.jp/talents/l/mugi-ienaga"
     },
     {
       "name": "五十嵐梨花",
@@ -70,7 +75,8 @@
     },
     {
       "name": "戌亥とこ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "profileUrl": "https://www.nijisanji.jp/talents/l/toko-inui"
     },
     {
       "name": "イブラヒム",
@@ -82,7 +88,8 @@
     },
     {
       "name": "宇志海いちご",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "profileUrl": "https://www.nijisanji.jp/talents/l/ichigo-ushimi"
     },
     {
       "name": "卯月コウ",
@@ -110,7 +117,8 @@
     },
     {
       "name": "える",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "profileUrl": "https://www.nijisanji.jp/talents/l/elu"
     },
     {
       "name": "オ ジユ",
@@ -130,11 +138,13 @@
     },
     {
       "name": "甲斐田晴",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "profileUrl": "https://www.nijisanji.jp/talents/l/haru-kaida"
     },
     {
       "name": "加賀美ハヤト",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "profileUrl": "https://www.nijisanji.jp/talents/l/hayato-kagami"
     },
     {
       "name": "語部紡",
@@ -202,7 +212,8 @@
     },
     {
       "name": "剣持刀也",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "profileUrl": "https://www.nijisanji.jp/talents/l/toya-kenmochi"
     },
     {
       "name": "弦月藤士郎",
@@ -254,7 +265,8 @@
     },
     {
       "name": "椎名唯華",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "profileUrl": "https://www.nijisanji.jp/talents/l/yuika-shiina"
     },
     {
       "name": "シェリン・バーガンディ",
@@ -282,7 +294,8 @@
     },
     {
       "name": "静凛",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "profileUrl": "https://www.nijisanji.jp/talents/l/rin-shizuka"
     },
     {
       "name": "篠宮ゆの",
@@ -290,7 +303,8 @@
     },
     {
       "name": "渋谷ハジメ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "profileUrl": "https://www.nijisanji.jp/talents/l/hajime-shibuya"
     },
     {
       "name": "白砂あやね",
@@ -450,7 +464,8 @@
     },
     {
       "name": "早瀬走",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "profileUrl": "https://www.nijisanji.jp/talents/l/sou-hayase"
     },
     {
       "name": "葉山舞鈴",
@@ -462,7 +477,8 @@
     },
     {
       "name": "樋口楓",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "profileUrl": "https://www.nijisanji.jp/talents/l/kaede-higuchi"
     },
     {
       "name": "一橋綾人",
@@ -482,7 +498,8 @@
     },
     {
       "name": "伏見ガク",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "profileUrl": "https://www.nijisanji.jp/talents/l/gaku-fushimi"
     },
     {
       "name": "フミ",
@@ -498,7 +515,8 @@
     },
     {
       "name": "不破湊",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "profileUrl": "https://www.nijisanji.jp/talents/l/minato-fuwa"
     },
     {
       "name": "ぷりん・らら・もーど",
@@ -510,7 +528,8 @@
     },
     {
       "name": "星川サラ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "profileUrl": "https://www.nijisanji.jp/talents/l/sara-hoshikawa"
     },
     {
       "name": "星導ショウ",
@@ -530,7 +549,8 @@
     },
     {
       "name": "舞元啓介",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "profileUrl": "https://www.nijisanji.jp/talents/l/keisuke-maimoto"
     },
     {
       "name": "魔界ノりりむ",
@@ -570,7 +590,8 @@
     },
     {
       "name": "モイラ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "profileUrl": "https://www.nijisanji.jp/talents/l/moira"
     },
     {
       "name": "物述有栖",
@@ -578,7 +599,8 @@
     },
     {
       "name": "森中花咲",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "profileUrl": "https://www.nijisanji.jp/talents/l/kazaki-morinaka"
     },
     {
       "name": "夜牛詩乃",
@@ -590,7 +612,8 @@
     },
     {
       "name": "社築",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "profileUrl": "https://www.nijisanji.jp/talents/l/kizuku-yashiro"
     },
     {
       "name": "山神カルタ",
@@ -602,7 +625,8 @@
     },
     {
       "name": "夕陽リリ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "profileUrl": "https://www.nijisanji.jp/talents/l/riri-yuhi"
     },
     {
       "name": "雪城眞尋",
@@ -614,7 +638,8 @@
     },
     {
       "name": "夢追翔",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "profileUrl": "https://www.nijisanji.jp/talents/l/kakeru-yumeoi"
     },
     {
       "name": "夜見れな",
@@ -634,7 +659,8 @@
     },
     {
       "name": "リゼ・ヘルエスタ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "profileUrl": "https://www.nijisanji.jp/talents/l/lize-helesta"
     },
     {
       "name": "リュ ハリ",
