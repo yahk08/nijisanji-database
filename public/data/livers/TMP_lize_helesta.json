@@ -73,8 +73,8 @@
   "changes": [],
   "visuals": [
     {
-      "id": "official-candidate-2d-0",
-      "title": "公式掲載衣装候補 1",
+      "id": "official-discovery-91b04e06cec5",
+      "title": "公式掲載衣装候補（追加収集）",
       "category": "2D",
       "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
       "date": null,
@@ -82,13 +82,13 @@
       "revealUrl": null,
       "variants": [
         {
-          "id": "official-candidate-2d-0-full",
+          "id": "official-discovery-91b04e06cec5-full",
           "name": "全身",
           "date": null,
           "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/e54857a164394896aa1b8d4ebb8860c4/liver-full-body_Lize_Helesta_costume2.png"
         },
         {
-          "id": "official-candidate-2d-0-face",
+          "id": "official-discovery-91b04e06cec5-face",
           "name": "顔アップ",
           "date": null,
           "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/8b2bf192da664eaf91201522131491e7/liver-face_Lize_Helesta_costume2.png"
@@ -98,15 +98,15 @@
         {
           "label": "にじさんじ公式プロフィール",
           "url": "https://www.nijisanji.jp/talents/l/lize-helesta",
-          "verifiedAt": "2026-11-14T15:15:11.965Z"
+          "verifiedAt": "2026-11-14T17:03:21.830Z"
         }
       ],
       "verification": "candidate",
-      "sourcePath": "images.variation.0"
+      "sourcePath": "official-profile-page"
     },
     {
-      "id": "official-candidate-2d-1",
-      "title": "公式掲載衣装候補 2",
+      "id": "official-discovery-a986b7466d4e",
+      "title": "公式掲載衣装候補（追加収集）",
       "category": "2D",
       "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
       "date": null,
@@ -114,13 +114,13 @@
       "revealUrl": null,
       "variants": [
         {
-          "id": "official-candidate-2d-1-full",
+          "id": "official-discovery-a986b7466d4e-full",
           "name": "全身",
           "date": null,
           "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/af9570fa81ba445d90eaa39f4168b1ff/liver-full-body_Lize_Helesta_costume3.png"
         },
         {
-          "id": "official-candidate-2d-1-face",
+          "id": "official-discovery-a986b7466d4e-face",
           "name": "顔アップ",
           "date": null,
           "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/22ec9562a6c04b27b5058d25ecb9eca6/liver-face_Lize_Helesta_costume3.png"
@@ -130,15 +130,15 @@
         {
           "label": "にじさんじ公式プロフィール",
           "url": "https://www.nijisanji.jp/talents/l/lize-helesta",
-          "verifiedAt": "2026-11-14T15:15:11.965Z"
+          "verifiedAt": "2026-11-14T17:03:21.830Z"
         }
       ],
       "verification": "candidate",
-      "sourcePath": "images.variation.1"
+      "sourcePath": "official-profile-page"
     },
     {
-      "id": "official-candidate-2d-2",
-      "title": "公式掲載衣装候補 3",
+      "id": "official-discovery-6c8a55afae7c",
+      "title": "公式掲載衣装候補（追加収集）",
       "category": "2D",
       "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
       "date": null,
@@ -146,13 +146,13 @@
       "revealUrl": null,
       "variants": [
         {
-          "id": "official-candidate-2d-2-full",
+          "id": "official-discovery-6c8a55afae7c-full",
           "name": "全身",
           "date": null,
           "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/2a499367d3d647edbe66000e9d415a49/liver-full-body_Lize_Helesta_costume4.png"
         },
         {
-          "id": "official-candidate-2d-2-face",
+          "id": "official-discovery-6c8a55afae7c-face",
           "name": "顔アップ",
           "date": null,
           "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/98a61fe9e0a84c0fa92260d51005e2d7/liver-face_Lize_Helesta_costume4.png"
@@ -162,11 +162,11 @@
         {
           "label": "にじさんじ公式プロフィール",
           "url": "https://www.nijisanji.jp/talents/l/lize-helesta",
-          "verifiedAt": "2026-11-14T15:15:11.965Z"
+          "verifiedAt": "2026-11-14T17:03:21.830Z"
         }
       ],
       "verification": "candidate",
-      "sourcePath": "images.variation.2"
+      "sourcePath": "official-profile-page"
     }
   ],
   "music": [],

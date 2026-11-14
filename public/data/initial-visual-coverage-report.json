@@ -1,0 +1,865 @@
+{
+  "schemaVersion": 1,
+  "totalLivers": 172,
+  "verifiedInitialInManifest": 1,
+  "additions": 1,
+  "alreadyPresent": 0,
+  "notYetManuallyVerified": [
+    {
+      "id": "niji_01fq_kisd",
+      "name": "小柳ロウ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/rou-koyanagi"
+    },
+    {
+      "id": "niji_02hirq8aa",
+      "name": "明楽レイ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/akira-ray"
+    },
+    {
+      "id": "niji_046vmsxot1",
+      "name": "ぽめろ・ぱんち",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/pomelo-punch"
+    },
+    {
+      "id": "niji_04gk1i_rc2",
+      "name": "水面まどか",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/madoka-minamo"
+    },
+    {
+      "id": "niji_0k1fv9e8zs4g",
+      "name": "五十嵐梨花",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/rika-igarashi"
+    },
+    {
+      "id": "niji_1cdsti8fe",
+      "name": "白砂あやね",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ayane-shirasa"
+    },
+    {
+      "id": "niji_1g8u74cfh8",
+      "name": "千凛あゆむ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ayumu-senri"
+    },
+    {
+      "id": "niji_1k1ui5wnu4b",
+      "name": "蝸堂みかる",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/mikaru-kadou"
+    },
+    {
+      "id": "niji_1wk-t2f2yc",
+      "name": "北見遊征",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/yusei-kitami"
+    },
+    {
+      "id": "niji_21sys3w9foka",
+      "name": "三枝明那",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/akina-saegusa"
+    },
+    {
+      "id": "niji_22dj46kyd0z4",
+      "name": "七瀬すず菜",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/suzuna-nanase"
+    },
+    {
+      "id": "niji_2ehwuvca1hs",
+      "name": "轟京子",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kyoko-todoroki"
+    },
+    {
+      "id": "niji_2fx8bv60ip_e",
+      "name": "魔使マオ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/mao-matsukai"
+    },
+    {
+      "id": "niji_36jp7m8s3",
+      "name": "ナ セラ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/na-sera"
+    },
+    {
+      "id": "niji_3f2cdigou2s",
+      "name": "ライラ アルストロエメリア",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/layla-alstroemeria"
+    },
+    {
+      "id": "niji_3gfol13a9yre",
+      "name": "魔界ノりりむ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/makaino-ririmu"
+    },
+    {
+      "id": "niji_3kn45uiube",
+      "name": "ジョー・力一",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/joe-rikiichi"
+    },
+    {
+      "id": "niji_3q_85uwlmsw8",
+      "name": "天ヶ瀬むゆ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/muyu-amagase"
+    },
+    {
+      "id": "niji_41ylgu4nz7iz",
+      "name": "エトナ クリムソン",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/etna-crimson"
+    },
+    {
+      "id": "niji_4eez5dwcno",
+      "name": "西園チグサ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/chigusa-nishizono"
+    },
+    {
+      "id": "niji_4ieg-un_fi",
+      "name": "レオス・ヴィンセント",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/leos-vincent"
+    },
+    {
+      "id": "niji_4kgv4t1q2",
+      "name": "夢月ロア",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/roa-yuzuki"
+    },
+    {
+      "id": "niji_4pynx1or5pze",
+      "name": "海妹四葉",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/yotsuha-umise"
+    },
+    {
+      "id": "niji_54ppvp3jf3p",
+      "name": "塚原大地",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/daichi-tsukahara"
+    },
+    {
+      "id": "niji_57lwxmz0atj",
+      "name": "デレム カド",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/derem-kado"
+    },
+    {
+      "id": "niji_5rrs_8nslj0",
+      "name": "ライ ガリレイ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/rai-galilei"
+    },
+    {
+      "id": "niji_6d9lepsxqm",
+      "name": "ミン スゥーハ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/min-suha"
+    },
+    {
+      "id": "niji_6lie843e9m6y",
+      "name": "ソ ナギ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/so-nagi"
+    },
+    {
+      "id": "niji_6_i1c2y7p93r",
+      "name": "ヤン ナリ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/yang-nari"
+    },
+    {
+      "id": "niji_77ns9sa90a3",
+      "name": "ナギサ アルシニア",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/nagisa-arcinia"
+    },
+    {
+      "id": "niji_7c0af4ry218a",
+      "name": "ガオン",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/gaon"
+    },
+    {
+      "id": "niji_7ct2ahy1ja",
+      "name": "セフィナ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/seffyna"
+    },
+    {
+      "id": "niji_7r36ly_n2ity",
+      "name": "ハナ マキア",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/hana-macchia"
+    },
+    {
+      "id": "niji_7_ambl6tt",
+      "name": "ルイス・キャミー",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/luis-cammy"
+    },
+    {
+      "id": "niji_8lu02jzlo-z",
+      "name": "雪城眞尋",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/mahiro-yukishiro"
+    },
+    {
+      "id": "niji_8xt67h5vov",
+      "name": "司賀りこ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/riko-shiga"
+    },
+    {
+      "id": "niji_95qxlfkpe",
+      "name": "エリー・コニファー",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/eli-conifer"
+    },
+    {
+      "id": "niji_9nngk8bf8",
+      "name": "フレン・E・ルスタリオ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/furen-e-lustario"
+    },
+    {
+      "id": "niji_9of6xz5dzyfw",
+      "name": "叢雲カゲツ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kagetsu-murakumo"
+    },
+    {
+      "id": "niji_aglwi3fi_-d",
+      "name": "猫屋敷美紅",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/miku-nekoyashiki"
+    },
+    {
+      "id": "niji_av8uxpfmi",
+      "name": "シェリン・バーガンディ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/shellin-burgundy"
+    },
+    {
+      "id": "niji_b5npgpc-it2n",
+      "name": "鈴木勝",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/masaru-suzuki"
+    },
+    {
+      "id": "niji_b63ccj17ms2",
+      "name": "Rei7",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/reina"
+    },
+    {
+      "id": "niji_ba0vptr1cb",
+      "name": "白雪巴",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/tomoe-shirayuki"
+    },
+    {
+      "id": "niji_bmh6dc3bc5io",
+      "name": "魁星",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kaisei"
+    },
+    {
+      "id": "niji_c4p3zk71_znr",
+      "name": "セラフ・ダズルガーデン",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/seraph-dazzlegarden"
+    },
+    {
+      "id": "niji_c9ekhf008tg",
+      "name": "イブラヒム",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ibrahim"
+    },
+    {
+      "id": "niji_ck4t-23mex_o",
+      "name": "花畑チャイカ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/chaika-hanabatake"
+    },
+    {
+      "id": "niji_clhmbr_qujq0",
+      "name": "健屋花那",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kana-sukoya"
+    },
+    {
+      "id": "niji_cnxncpq4tsw",
+      "name": "東堂コハク",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kohaku-todo"
+    },
+    {
+      "id": "niji_cp7qpqhfxga1",
+      "name": "ラトナ・プティ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ratna-petit"
+    },
+    {
+      "id": "niji_cqinr375u4lv",
+      "name": "春崎エアル",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/air-harusaki"
+    },
+    {
+      "id": "niji_cursglxpoac",
+      "name": "周央サンゴ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/sango-suo"
+    },
+    {
+      "id": "niji_dbmr8bakj",
+      "name": "レイン・パターソン",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/lain-paterson"
+    },
+    {
+      "id": "niji_dpqvaz40-dc",
+      "name": "本間ひまわり",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/himawari-honma"
+    },
+    {
+      "id": "niji_e01y66srp7d",
+      "name": "鷹宮リオン",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/rion-takamiya"
+    },
+    {
+      "id": "niji_e23zi9axalo",
+      "name": "御子神琴音",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kotone-mikogami"
+    },
+    {
+      "id": "niji_ea7kln75lom",
+      "name": "フミ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/fumi"
+    },
+    {
+      "id": "niji_eh3k6jd98ok5",
+      "name": "四季凪アキラ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/akira-shikinagi"
+    },
+    {
+      "id": "niji_eqqh-ejo620",
+      "name": "榊ネス",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ness-sakaki"
+    },
+    {
+      "id": "niji_e_1i07-a6",
+      "name": "篠宮ゆの",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/yuno-shinomiya"
+    },
+    {
+      "id": "niji_f3m6902048yw",
+      "name": "酒寄颯馬",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/soma-sakayori"
+    },
+    {
+      "id": "niji_fc0gqp8m-u",
+      "name": "長尾景",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kei-nagao"
+    },
+    {
+      "id": "niji_fmi2ay76ya3",
+      "name": "笹木咲",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/saku-sasaki"
+    },
+    {
+      "id": "niji_f_gnq77vu8m",
+      "name": "佐伯イッテツ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ittetsu-saiki"
+    },
+    {
+      "id": "niji_gxancbkhyuwt",
+      "name": "鏑木ろこ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/roco-kaburaki"
+    },
+    {
+      "id": "niji_hp2z53g1cs0c",
+      "name": "十河ののは",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/nonoha-togawa"
+    },
+    {
+      "id": "niji_hva2c6igf75",
+      "name": "ローレン・イロアス",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/lauren-iroas"
+    },
+    {
+      "id": "niji_i3so0lfq05",
+      "name": "緋八マナ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/mana-hibachi"
+    },
+    {
+      "id": "niji_ifxbqhn36",
+      "name": "ドーラ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/dola"
+    },
+    {
+      "id": "niji_ikv7iu4b3891",
+      "name": "葉加瀬冬雪",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/fuyuki-hakase"
+    },
+    {
+      "id": "niji_jbhd99wl1md4",
+      "name": "山田龍一郎",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ryuichiro-yamada"
+    },
+    {
+      "id": "niji_jc21v1nzsc1",
+      "name": "赤城ウェン",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/wen-akagi"
+    },
+    {
+      "id": "niji_jght-6_j1",
+      "name": "先斗寧",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/nei-ponto"
+    },
+    {
+      "id": "niji_j_76ny28xjb",
+      "name": "五木左京",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/sakyo-itsuki"
+    },
+    {
+      "id": "niji_k1rfwt9vh",
+      "name": "城瀬いすみ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/isumi-shirose"
+    },
+    {
+      "id": "niji_k4d1zb9whr",
+      "name": "文野環",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/tamaki-fumino"
+    },
+    {
+      "id": "niji_kz580-8rddgn",
+      "name": "男虎",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/onotora"
+    },
+    {
+      "id": "niji_l41nu24h5f",
+      "name": "雲母たまこ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/tamako-kirara"
+    },
+    {
+      "id": "niji_la6zix1yp6jd",
+      "name": "神永タイガ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/taiga-kaminaga"
+    },
+    {
+      "id": "niji_lieef5j5q",
+      "name": "星導ショウ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/sho-hoshirube"
+    },
+    {
+      "id": "niji_lulduocrt",
+      "name": "矢車りね",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/rine-yaguruma"
+    },
+    {
+      "id": "niji_mam1q0b_d1t",
+      "name": "イ ロハ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/lee-roha"
+    },
+    {
+      "id": "niji_ng874y8ckrj",
+      "name": "雨森小夜",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/sayo-amemori"
+    },
+    {
+      "id": "niji_nhawoxm9in6",
+      "name": "渡会雲雀",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/hibari-watarai"
+    },
+    {
+      "id": "niji_ni0ao9zni",
+      "name": "石神のぞみ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/nozomi-ishigami"
+    },
+    {
+      "id": "niji_ni1twjl76ms4",
+      "name": "皇れお",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/reo-sumeragi"
+    },
+    {
+      "id": "niji_nx0nhtbc6w2i",
+      "name": "獅子堂あかり",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/akari-shishido"
+    },
+    {
+      "id": "niji_o4q_hlyz5mn",
+      "name": "物述有栖",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/alice-mononobe"
+    },
+    {
+      "id": "niji_orizixlqdz4",
+      "name": "ギルザレンⅢ世",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/gilzaren-iii"
+    },
+    {
+      "id": "niji_pugwgnvpi7",
+      "name": "レヴィ・エリファ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/levi-elipha"
+    },
+    {
+      "id": "niji_px1axfh-lx6",
+      "name": "えま★おうがすと",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/emma-august"
+    },
+    {
+      "id": "niji_qcqq5r0w561",
+      "name": "卯月コウ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kou-uzuki"
+    },
+    {
+      "id": "niji_qjgnmspnmu8",
+      "name": "風楽奏斗",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kanato-fura"
+    },
+    {
+      "id": "niji_qq8dk_x28",
+      "name": "夜見れな",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/rena-yorumi"
+    },
+    {
+      "id": "niji_qr4dll2s8eng",
+      "name": "伊波ライ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/rai-inami"
+    },
+    {
+      "id": "niji_r1w-2mesm5ea",
+      "name": "ぷりん・らら・もーど",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/purin-lala-mode"
+    },
+    {
+      "id": "niji_run5rxlhy7",
+      "name": "町田ちま",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/chima-machita"
+    },
+    {
+      "id": "niji_s0098uwq0e",
+      "name": "珠乃井ナナ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/nana-tamanoi"
+    },
+    {
+      "id": "niji_s3osbcy305",
+      "name": "愛園愛美",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/manami-aizono"
+    },
+    {
+      "id": "niji_s6z5xs_ce",
+      "name": "でびでび・でびる",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/debidebi-debiru"
+    },
+    {
+      "id": "niji_s82prqvh7bj",
+      "name": "綺沙良",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kisara"
+    },
+    {
+      "id": "niji_sbk2wurljyjp",
+      "name": "エクス・アルビオ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ex-albio"
+    },
+    {
+      "id": "niji_skfl9cnycb",
+      "name": "九里詠太",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/eita-kuri"
+    },
+    {
+      "id": "niji_sqlr2xuh3",
+      "name": "シスター・クレア",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/sister-claire"
+    },
+    {
+      "id": "niji_sykokgzgpyk",
+      "name": "鈴原るる",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/lulu-suzuhara"
+    },
+    {
+      "id": "niji_t-uui4v2m6fu",
+      "name": "山神カルタ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/karuta-yamagami"
+    },
+    {
+      "id": "niji_t90ymq2y8j7",
+      "name": "渚トラウト",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/trout-nagisa"
+    },
+    {
+      "id": "niji_tjynw7pak7",
+      "name": "倉持めると",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/meruto-kuramochi"
+    },
+    {
+      "id": "niji_tkiqaddce",
+      "name": "早乙女ベリー",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/berry-saotome"
+    },
+    {
+      "id": "niji_tyi7av99me",
+      "name": "梢桃音",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/mone-kozue"
+    },
+    {
+      "id": "niji_t_52ark1wxc",
+      "name": "空星きらめ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kirame-sorahoshi"
+    },
+    {
+      "id": "niji_u7--gnaqe90",
+      "name": "オ ジユ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/oh-jiyu"
+    },
+    {
+      "id": "niji_u8b1yl0okdlz",
+      "name": "語部紡",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/tsumugu-kataribe"
+    },
+    {
+      "id": "niji_uievaw0z_pt",
+      "name": "竜胆尊",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/mikoto-rindou"
+    },
+    {
+      "id": "niji_uvyeibtkt3",
+      "name": "壱百満天原サロメ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/salome-hyakumantenbara"
+    },
+    {
+      "id": "niji_v8o1t023zv5",
+      "name": "ベルモンド・バンデラス",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/belmond-banderas"
+    },
+    {
+      "id": "niji_vrzbe02k3dl",
+      "name": "弦月藤士郎",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/tojiro-genzuki"
+    },
+    {
+      "id": "niji_w5eu6_7sqvf9",
+      "name": "一橋綾人",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ayato-hitotsubashi"
+    },
+    {
+      "id": "niji_wjyu_5shm-g",
+      "name": "飛鳥ひな",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/hina-asuka"
+    },
+    {
+      "id": "niji_wqewq2mghnn",
+      "name": "緑仙",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ryushen"
+    },
+    {
+      "id": "niji_wwz5hv2pw5wi",
+      "name": "ましろ爻",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/meme-mashiro"
+    },
+    {
+      "id": "niji_x-5g5ncpwksj",
+      "name": "神田笑一",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/shoichi-kanda"
+    },
+    {
+      "id": "niji_x1im6zq9v8",
+      "name": "花籠つばさ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/tsubasa-hanakago"
+    },
+    {
+      "id": "niji_xcdldllil5nt",
+      "name": "ニュイ・ソシエール",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/nui-sociere"
+    },
+    {
+      "id": "niji_xdo7bpg66j",
+      "name": "オリバー・エバンス",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/oliver-evans"
+    },
+    {
+      "id": "niji_xe7r9ndu-vm",
+      "name": "ソフィア・ヴァレンタイン",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/sophia-valentine"
+    },
+    {
+      "id": "niji_xgf91_n-k0r",
+      "name": "レヨン",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/rayon"
+    },
+    {
+      "id": "niji_xh6u5mlpx",
+      "name": "小々波いるか",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/iruka-kokonami"
+    },
+    {
+      "id": "niji_xjrdo3l8q",
+      "name": "ハ ユン",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ha-yun"
+    },
+    {
+      "id": "niji_xu6yc6um0jaq",
+      "name": "桜凛月",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ritsuki-sakura"
+    },
+    {
+      "id": "niji_xv-z-kvwx",
+      "name": "宇佐美リト",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/rito-usami"
+    },
+    {
+      "id": "niji_xzalni7jjyb",
+      "name": "夜牛詩乃",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/shino-yagyu"
+    },
+    {
+      "id": "niji_y6z8znyms2d7",
+      "name": "黒井しば",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/shiba-kuroi"
+    },
+    {
+      "id": "niji_ylv_8o1_34",
+      "name": "リュ ハリ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ryu-hari"
+    },
+    {
+      "id": "niji_yyqqd2eo1mvf",
+      "name": "来栖夏芽",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/natsume-kurusu"
+    },
+    {
+      "id": "niji_z5un7llkr80",
+      "name": "ミラン・ケストレル",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/milan-kestrel"
+    },
+    {
+      "id": "niji_z7l0v4eu_l",
+      "name": "葉山舞鈴",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/marin-hayama"
+    },
+    {
+      "id": "niji_zjd0d1-ncu",
+      "name": "ルンルン",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/lunlun"
+    },
+    {
+      "id": "niji_zt_mthf2lifn",
+      "name": "立伝都々",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/toto-tachitsute"
+    },
+    {
+      "id": "niji_zx-e3qpysbk",
+      "name": "栞葉るり",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ruri-shioriha"
+    },
+    {
+      "id": "niji_zxebrf0qngqc",
+      "name": "北小路ヒスイ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/hisui-kitakoji"
+    },
+    {
+      "id": "niji_zz_7rbwsol",
+      "name": "小清水透",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/toru-koshimizu"
+    },
+    {
+      "id": "TMP_ange_katrina",
+      "name": "アンジュ・カトリーナ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ange-katrina"
+    },
+    {
+      "id": "TMP_ars_almal",
+      "name": "アルス・アルマル",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ars-almal"
+    },
+    {
+      "id": "TMP_elu",
+      "name": "える",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/elu"
+    },
+    {
+      "id": "TMP_gaku_fushimi",
+      "name": "伏見ガク",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/gaku-fushimi"
+    },
+    {
+      "id": "TMP_hajime_shibuya",
+      "name": "渋谷ハジメ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/hajime-shibuya"
+    },
+    {
+      "id": "TMP_haru_kaida",
+      "name": "甲斐田晴",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/haru-kaida"
+    },
+    {
+      "id": "TMP_hayato_kagami",
+      "name": "加賀美ハヤト",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/hayato-kagami"
+    },
+    {
+      "id": "TMP_ichigo_ushimi",
+      "name": "宇志海いちご",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ichigo-ushimi"
+    },
+    {
+      "id": "TMP_kaede_higuchi",
+      "name": "樋口楓",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kaede-higuchi"
+    },
+    {
+      "id": "TMP_kakeru_yumeoi",
+      "name": "夢追翔",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kakeru-yumeoi"
+    },
+    {
+      "id": "TMP_kanae",
+      "name": "叶",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kanae"
+    },
+    {
+      "id": "TMP_kazaki_morinaka",
+      "name": "森中花咲",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kazaki-morinaka"
+    },
+    {
+      "id": "TMP_keisuke_maimoto",
+      "name": "舞元啓介",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/keisuke-maimoto"
+    },
+    {
+      "id": "TMP_kizuku_yashiro",
+      "name": "社築",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kizuku-yashiro"
+    },
+    {
+      "id": "TMP_kokoro_amamiya",
+      "name": "天宮こころ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kokoro-amamiya"
+    },
+    {
+      "id": "TMP_kuzuha",
+      "name": "葛葉",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kuzuha"
+    },
+    {
+      "id": "TMP_lize_helesta",
+      "name": "リゼ・ヘルエスタ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/lize-helesta"
+    },
+    {
+      "id": "TMP_minato_fuwa",
+      "name": "不破湊",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/minato-fuwa"
+    },
+    {
+      "id": "TMP_mito_tsukino",
+      "name": "月ノ美兎",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/mito-tsukino"
+    },
+    {
+      "id": "TMP_moira",
+      "name": "モイラ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/moira"
+    },
+    {
+      "id": "TMP_mugi_ienaga",
+      "name": "家長むぎ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/mugi-ienaga"
+    },
+    {
+      "id": "TMP_rin_shizuka",
+      "name": "静凛",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/rin-shizuka"
+    },
+    {
+      "id": "TMP_riri_yuhi",
+      "name": "夕陽リリ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/riri-yuhi"
+    },
+    {
+      "id": "TMP_sara_hoshikawa",
+      "name": "星川サラ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/sara-hoshikawa"
+    },
+    {
+      "id": "TMP_sou_hayase",
+      "name": "早瀬走",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/sou-hayase"
+    },
+    {
+      "id": "TMP_toko_inui",
+      "name": "戌亥とこ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/toko-inui"
+    },
+    {
+      "id": "TMP_youko_akabane",
+      "name": "赤羽葉子",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/youko-akabane"
+    },
+    {
+      "id": "TMP_yuika_shiina",
+      "name": "椎名唯華",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/yuika-shiina"
+    }
+  ],
+  "notice": "未掲載のライバーは未検証。全員に初期衣装がないことを意味しません。"
+}

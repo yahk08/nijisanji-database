@@ -73,8 +73,8 @@
   "changes": [],
   "visuals": [
     {
-      "id": "official-candidate-2d-0",
-      "title": "公式掲載衣装候補 1",
+      "id": "official-discovery-5012a2892f93",
+      "title": "公式掲載衣装候補（追加収集）",
       "category": "2D",
       "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
       "date": null,
@@ -82,13 +82,13 @@
       "revealUrl": null,
       "variants": [
         {
-          "id": "official-candidate-2d-0-full",
+          "id": "official-discovery-5012a2892f93-full",
           "name": "全身",
           "date": null,
           "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/c67dd6c0374b4df6bc7516eead332fde/liver-full-body_Youko_Akabane_costume2.png"
         },
         {
-          "id": "official-candidate-2d-0-face",
+          "id": "official-discovery-5012a2892f93-face",
           "name": "顔アップ",
           "date": null,
           "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/078fa703179447fb860cb996bead9f16/liver-face_Youko_Akabane_costume2.png"
@@ -98,11 +98,11 @@
         {
           "label": "にじさんじ公式プロフィール",
           "url": "https://www.nijisanji.jp/talents/l/youko-akabane",
-          "verifiedAt": "2026-11-14T15:15:11.965Z"
+          "verifiedAt": "2026-11-14T17:03:21.830Z"
         }
       ],
       "verification": "candidate",
-      "sourcePath": "images.variation.0"
+      "sourcePath": "official-profile-page"
     }
   ],
   "music": [],

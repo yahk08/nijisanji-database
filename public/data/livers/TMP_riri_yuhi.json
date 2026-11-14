@@ -73,8 +73,8 @@
   "changes": [],
   "visuals": [
     {
-      "id": "official-candidate-2d-0",
-      "title": "公式掲載衣装候補 1",
+      "id": "official-discovery-9f59e03e85e2",
+      "title": "公式掲載衣装候補（追加収集）",
       "category": "2D",
       "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
       "date": null,
@@ -82,13 +82,13 @@
       "revealUrl": null,
       "variants": [
         {
-          "id": "official-candidate-2d-0-full",
+          "id": "official-discovery-9f59e03e85e2-full",
           "name": "全身",
           "date": null,
           "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/71d7b25ce21b417d9cfdff5fe387f00a/liver-full-body_Riri_Yuhi_costume2.png"
         },
         {
-          "id": "official-candidate-2d-0-face",
+          "id": "official-discovery-9f59e03e85e2-face",
           "name": "顔アップ",
           "date": null,
           "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/f4b89199b9ed4794b7fa349e0d498236/liver-face_Riri_Yuhi_costume2.png"
@@ -98,15 +98,15 @@
         {
           "label": "にじさんじ公式プロフィール",
           "url": "https://www.nijisanji.jp/talents/l/riri-yuhi",
-          "verifiedAt": "2026-11-14T15:15:11.965Z"
+          "verifiedAt": "2026-11-14T17:03:21.830Z"
         }
       ],
       "verification": "candidate",
-      "sourcePath": "images.variation.0"
+      "sourcePath": "official-profile-page"
     },
     {
-      "id": "official-candidate-2d-1",
-      "title": "公式掲載衣装候補 2",
+      "id": "official-discovery-494d975028ec",
+      "title": "公式掲載衣装候補（追加収集）",
       "category": "2D",
       "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
       "date": null,
@@ -114,13 +114,13 @@
       "revealUrl": null,
       "variants": [
         {
-          "id": "official-candidate-2d-1-full",
+          "id": "official-discovery-494d975028ec-full",
           "name": "全身",
           "date": null,
           "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/5363715cf9a249b4b1c539116f7fda12/liver-full-body_Riri_Yuhi_costume3.png"
         },
         {
-          "id": "official-candidate-2d-1-face",
+          "id": "official-discovery-494d975028ec-face",
           "name": "顔アップ",
           "date": null,
           "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/dca9d3514e2441588ff73ad8577af870/liver-face_Riri_Yuhi_costume3.png"
@@ -130,15 +130,15 @@
         {
           "label": "にじさんじ公式プロフィール",
           "url": "https://www.nijisanji.jp/talents/l/riri-yuhi",
-          "verifiedAt": "2026-11-14T15:15:11.965Z"
+          "verifiedAt": "2026-11-14T17:03:21.830Z"
         }
       ],
       "verification": "candidate",
-      "sourcePath": "images.variation.1"
+      "sourcePath": "official-profile-page"
     },
     {
-      "id": "official-candidate-2d-2",
-      "title": "公式掲載衣装候補 3",
+      "id": "official-discovery-a80b23176909",
+      "title": "公式掲載衣装候補（追加収集）",
       "category": "2D",
       "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
       "date": null,
@@ -146,13 +146,13 @@
       "revealUrl": null,
       "variants": [
         {
-          "id": "official-candidate-2d-2-full",
+          "id": "official-discovery-a80b23176909-full",
           "name": "全身",
           "date": null,
           "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/7ee32435eb744d30bcdae4eb3e53df99/liver-full-body_Riri_Yuhi_costume4.png"
         },
         {
-          "id": "official-candidate-2d-2-face",
+          "id": "official-discovery-a80b23176909-face",
           "name": "顔アップ",
           "date": null,
           "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/5305076bf52a4ac2892579e18b12779d/liver-face_Riri_Yuhi_costume4.png"
@@ -162,11 +162,11 @@
         {
           "label": "にじさんじ公式プロフィール",
           "url": "https://www.nijisanji.jp/talents/l/riri-yuhi",
-          "verifiedAt": "2026-11-14T15:15:11.965Z"
+          "verifiedAt": "2026-11-14T17:03:21.830Z"
         }
       ],
       "verification": "candidate",
-      "sourcePath": "images.variation.2"
+      "sourcePath": "official-profile-page"
     }
   ],
   "music": [],

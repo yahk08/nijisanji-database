@@ -73,8 +73,8 @@
   "changes": [],
   "visuals": [
     {
-      "id": "official-candidate-2d-0",
-      "title": "公式掲載衣装候補 1",
+      "id": "official-discovery-3d9459c3e878",
+      "title": "公式掲載衣装候補（追加収集）",
       "category": "2D",
       "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
       "date": null,
@@ -82,13 +82,13 @@
       "revealUrl": null,
       "variants": [
         {
-          "id": "official-candidate-2d-0-full",
+          "id": "official-discovery-3d9459c3e878-full",
           "name": "全身",
           "date": null,
           "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/ab6854d864cc447e98a89104c978c461/liver-full-body_Toko_Inui_costume2.png"
         },
         {
-          "id": "official-candidate-2d-0-face",
+          "id": "official-discovery-3d9459c3e878-face",
           "name": "顔アップ",
           "date": null,
           "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/5321b3e88ac843248e8fee51a7e9bf95/liver-face_Toko_Inui_costume2.png"
@@ -98,15 +98,15 @@
         {
           "label": "にじさんじ公式プロフィール",
           "url": "https://www.nijisanji.jp/talents/l/toko-inui",
-          "verifiedAt": "2026-11-14T15:15:11.965Z"
+          "verifiedAt": "2026-11-14T17:03:21.830Z"
         }
       ],
       "verification": "candidate",
-      "sourcePath": "images.variation.0"
+      "sourcePath": "official-profile-page"
     },
     {
-      "id": "official-candidate-2d-1",
-      "title": "公式掲載衣装候補 2",
+      "id": "official-discovery-2164635b74b8",
+      "title": "公式掲載衣装候補（追加収集）",
       "category": "2D",
       "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
       "date": null,
@@ -114,13 +114,13 @@
       "revealUrl": null,
       "variants": [
         {
-          "id": "official-candidate-2d-1-full",
+          "id": "official-discovery-2164635b74b8-full",
           "name": "全身",
           "date": null,
           "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/88eaa2f5bdd742e49e308c40bc8ea4d4/liver-full-body_Toko_Inui_costume3.png"
         },
         {
-          "id": "official-candidate-2d-1-face",
+          "id": "official-discovery-2164635b74b8-face",
           "name": "顔アップ",
           "date": null,
           "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/11eb4d8c6db64e8bbf3bd73b4dd019cf/liver-face_Toko_Inui_costume3.png"
@@ -130,15 +130,15 @@
         {
           "label": "にじさんじ公式プロフィール",
           "url": "https://www.nijisanji.jp/talents/l/toko-inui",
-          "verifiedAt": "2026-11-14T15:15:11.965Z"
+          "verifiedAt": "2026-11-14T17:03:21.830Z"
         }
       ],
       "verification": "candidate",
-      "sourcePath": "images.variation.1"
+      "sourcePath": "official-profile-page"
     },
     {
-      "id": "official-candidate-2d-2",
-      "title": "公式掲載衣装候補 3",
+      "id": "official-discovery-a8b790ab2282",
+      "title": "公式掲載衣装候補（追加収集）",
       "category": "2D",
       "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
       "date": null,
@@ -146,13 +146,13 @@
       "revealUrl": null,
       "variants": [
         {
-          "id": "official-candidate-2d-2-full",
+          "id": "official-discovery-a8b790ab2282-full",
           "name": "全身",
           "date": null,
           "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/d518e3b27fcf46e596edead045cd34a7/liver-full-body_Toko_Inui_costume4.png"
         },
         {
-          "id": "official-candidate-2d-2-face",
+          "id": "official-discovery-a8b790ab2282-face",
           "name": "顔アップ",
           "date": null,
           "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/7e6550f7c17d4a908be07a5d781145f6/liver-face_Toko_Inui_costume4.png"
@@ -162,11 +162,11 @@
         {
           "label": "にじさんじ公式プロフィール",
           "url": "https://www.nijisanji.jp/talents/l/toko-inui",
-          "verifiedAt": "2026-11-14T15:15:11.965Z"
+          "verifiedAt": "2026-11-14T17:03:21.830Z"
         }
       ],
       "verification": "candidate",
-      "sourcePath": "images.variation.2"
+      "sourcePath": "official-profile-page"
     }
   ],
   "music": [],

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "description": "公式アセットの画像URLと公開情報を個別に照合した初期衣装。未確認のライバーを推測で追加しない。",
+  "entries": [
+    {
+      "liverId": "TMP_toya_kenmochi",
+      "liverName": "剣持刀也",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/toya-kenmochi",
+      "visualId": "initial-2d-kenmochi-school-uniform",
+      "title": "初期衣装（学生服）",
+      "category": "2D",
+      "kind": "初期衣装",
+      "date": "2018-03-14",
+      "imageUrl": "https://images.microcms-assets.io/assets/08e9ffa2c9d94cf88900071dfa1879e9/a5cd65d76816497490b50b35c7346471/liver-full-body_Toya_Kenmochi.png",
+      "revealUrl": null,
+      "sources": [
+        {
+          "label": "にじさんじ公式画像（公式CDN）",
+          "url": "https://images.microcms-assets.io/assets/08e9ffa2c9d94cf88900071dfa1879e9/a5cd65d76816497490b50b35c7346471/liver-full-body_Toya_Kenmochi.png"
+        },
+        {
+          "label": "衣装公開日と初期衣装の照合（非公式Wiki）",
+          "url": "https://wikiwiki.jp/nijisanji/%E8%A1%A3%E8%A3%85%E7%AD%89%E3%81%BE%E3%81%A8%E3%82%81/%E7%B5%B1%E5%90%88%E4%BB%A5%E5%89%8D"
+        }
+      ]
+    }
+  ]
+}

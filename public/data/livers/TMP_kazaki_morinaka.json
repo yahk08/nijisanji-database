@@ -73,8 +73,8 @@
   "changes": [],
   "visuals": [
     {
-      "id": "official-candidate-2d-0",
-      "title": "公式掲載衣装候補 1",
+      "id": "official-discovery-80ebed17dc06",
+      "title": "公式掲載衣装候補（追加収集）",
       "category": "2D",
       "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
       "date": null,
@@ -82,13 +82,13 @@
       "revealUrl": null,
       "variants": [
         {
-          "id": "official-candidate-2d-0-full",
+          "id": "official-discovery-80ebed17dc06-full",
           "name": "全身",
           "date": null,
           "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/a67f981fc59940518017230840eb5aa6/liver-full-body_Kazaki_Morinaka_costume2.png"
         },
         {
-          "id": "official-candidate-2d-0-face",
+          "id": "official-discovery-80ebed17dc06-face",
           "name": "顔アップ",
           "date": null,
           "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/86054d7061f84aa0b8665ac0138527ef/liver-face_Kazaki_Morinaka_costume2.png"
@@ -98,15 +98,15 @@
         {
           "label": "にじさんじ公式プロフィール",
           "url": "https://www.nijisanji.jp/talents/l/kazaki-morinaka",
-          "verifiedAt": "2026-11-14T15:15:11.965Z"
+          "verifiedAt": "2026-11-14T17:03:21.830Z"
         }
       ],
       "verification": "candidate",
-      "sourcePath": "images.variation.0"
+      "sourcePath": "official-profile-page"
     },
     {
-      "id": "official-candidate-2d-1",
-      "title": "公式掲載衣装候補 2",
+      "id": "official-discovery-cbb993d76cd5",
+      "title": "公式掲載衣装候補（追加収集）",
       "category": "2D",
       "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
       "date": null,
@@ -114,13 +114,13 @@
       "revealUrl": null,
       "variants": [
         {
-          "id": "official-candidate-2d-1-full",
+          "id": "official-discovery-cbb993d76cd5-full",
           "name": "全身",
           "date": null,
           "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/f862cb8ebdd645faa8e71be91d467bf0/liver-full-body_Kazaki_Morinaka_costume3.png"
         },
         {
-          "id": "official-candidate-2d-1-face",
+          "id": "official-discovery-cbb993d76cd5-face",
           "name": "顔アップ",
           "date": null,
           "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/c53a417782cc4ee38ab74ff656a7446e/liver-face_Kazaki_Morinaka_costume3.png"
@@ -130,11 +130,11 @@
         {
           "label": "にじさんじ公式プロフィール",
           "url": "https://www.nijisanji.jp/talents/l/kazaki-morinaka",
-          "verifiedAt": "2026-11-14T15:15:11.965Z"
+          "verifiedAt": "2026-11-14T17:03:21.830Z"
         }
       ],
       "verification": "candidate",
-      "sourcePath": "images.variation.1"
+      "sourcePath": "official-profile-page"
     }
   ],
   "music": [],

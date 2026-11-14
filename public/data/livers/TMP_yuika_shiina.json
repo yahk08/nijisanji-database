@@ -73,8 +73,8 @@
   "changes": [],
   "visuals": [
     {
-      "id": "official-candidate-2d-0",
-      "title": "公式掲載衣装候補 1",
+      "id": "official-discovery-398f536b7c76",
+      "title": "公式掲載衣装候補（追加収集）",
       "category": "2D",
       "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
       "date": null,
@@ -82,13 +82,13 @@
       "revealUrl": null,
       "variants": [
         {
-          "id": "official-candidate-2d-0-full",
+          "id": "official-discovery-398f536b7c76-full",
           "name": "全身",
           "date": null,
           "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/f15f0e48b3924e7d803529e511b05681/liver-full-body_Yuika_Shiina_costume2.png"
         },
         {
-          "id": "official-candidate-2d-0-face",
+          "id": "official-discovery-398f536b7c76-face",
           "name": "顔アップ",
           "date": null,
           "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/11259e8fe6c146099a3f0b7a3e2dd00d/liver-face_Yuika_Shiina_costume2.png"
@@ -98,15 +98,15 @@
         {
           "label": "にじさんじ公式プロフィール",
           "url": "https://www.nijisanji.jp/talents/l/yuika-shiina",
-          "verifiedAt": "2026-11-14T15:15:11.965Z"
+          "verifiedAt": "2026-11-14T17:03:21.830Z"
         }
       ],
       "verification": "candidate",
-      "sourcePath": "images.variation.0"
+      "sourcePath": "official-profile-page"
     },
     {
-      "id": "official-candidate-2d-1",
-      "title": "公式掲載衣装候補 2",
+      "id": "official-discovery-89279f340c16",
+      "title": "公式掲載衣装候補（追加収集）",
       "category": "2D",
       "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
       "date": null,
@@ -114,13 +114,13 @@
       "revealUrl": null,
       "variants": [
         {
-          "id": "official-candidate-2d-1-full",
+          "id": "official-discovery-89279f340c16-full",
           "name": "全身",
           "date": null,
           "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/4bfe786f2f6a4fa3a4fded1d38a704ef/liver-full-body_Yuika_Shiina_costume3.png"
         },
         {
-          "id": "official-candidate-2d-1-face",
+          "id": "official-discovery-89279f340c16-face",
           "name": "顔アップ",
           "date": null,
           "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/df79978f55e345deb7c8e959f6ba20be/liver-face_Yuika_Shiina_costume3.png"
@@ -130,15 +130,15 @@
         {
           "label": "にじさんじ公式プロフィール",
           "url": "https://www.nijisanji.jp/talents/l/yuika-shiina",
-          "verifiedAt": "2026-11-14T15:15:11.965Z"
+          "verifiedAt": "2026-11-14T17:03:21.830Z"
         }
       ],
       "verification": "candidate",
-      "sourcePath": "images.variation.1"
+      "sourcePath": "official-profile-page"
     },
     {
-      "id": "official-candidate-2d-2",
-      "title": "公式掲載衣装候補 3",
+      "id": "official-discovery-a8736456762b",
+      "title": "公式掲載衣装候補（追加収集）",
       "category": "2D",
       "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
       "date": null,
@@ -146,13 +146,13 @@
       "revealUrl": null,
       "variants": [
         {
-          "id": "official-candidate-2d-2-full",
+          "id": "official-discovery-a8736456762b-full",
           "name": "全身",
           "date": null,
           "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/dd599c63126b4ef892011f3d06f77ff5/liver-full-body_Yuika_Shiina_costume4.png"
         },
         {
-          "id": "official-candidate-2d-2-face",
+          "id": "official-discovery-a8736456762b-face",
           "name": "顔アップ",
           "date": null,
           "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/386d092391a14093b8f3a7d88d34ed8f/liver-face_Yuika_Shiina_costume4.png"
@@ -162,11 +162,11 @@
         {
           "label": "にじさんじ公式プロフィール",
           "url": "https://www.nijisanji.jp/talents/l/yuika-shiina",
-          "verifiedAt": "2026-11-14T15:15:11.965Z"
+          "verifiedAt": "2026-11-14T17:03:21.830Z"
         }
       ],
       "verification": "candidate",
-      "sourcePath": "images.variation.2"
+      "sourcePath": "official-profile-page"
     }
   ],
   "music": [],

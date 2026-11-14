@@ -73,40 +73,8 @@
   "changes": [],
   "visuals": [
     {
-      "id": "official-candidate-3d-0",
-      "title": "公式掲載衣装候補 1",
-      "category": "3D",
-      "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
-      "date": null,
-      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/bbf0e777aa2048aea09df3cea8e8f250/liver-full-body_Kaede_Higuchi_costume5.png",
-      "revealUrl": null,
-      "variants": [
-        {
-          "id": "official-candidate-3d-0-full",
-          "name": "全身",
-          "date": null,
-          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/bbf0e777aa2048aea09df3cea8e8f250/liver-full-body_Kaede_Higuchi_costume5.png"
-        },
-        {
-          "id": "official-candidate-3d-0-face",
-          "name": "顔アップ",
-          "date": null,
-          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/28aa212ee69a41b8bf9a492f34ac04f2/liver-face_Kaede_Higuchi_costume5.png"
-        }
-      ],
-      "sources": [
-        {
-          "label": "にじさんじ公式プロフィール",
-          "url": "https://www.nijisanji.jp/talents/l/kaede-higuchi",
-          "verifiedAt": "2026-11-14T15:15:11.965Z"
-        }
-      ],
-      "verification": "candidate",
-      "sourcePath": "images.threeDVariation.0"
-    },
-    {
-      "id": "official-candidate-2d-0",
-      "title": "公式掲載衣装候補 1",
+      "id": "official-discovery-e73120112a2e",
+      "title": "公式掲載衣装候補（追加収集）",
       "category": "2D",
       "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
       "date": null,
@@ -114,13 +82,13 @@
       "revealUrl": null,
       "variants": [
         {
-          "id": "official-candidate-2d-0-full",
+          "id": "official-discovery-e73120112a2e-full",
           "name": "全身",
           "date": null,
           "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/369f61171dca46369a64a6a757c25541/liver-full-body_Kaede_Higuchi_costume2.png"
         },
         {
-          "id": "official-candidate-2d-0-face",
+          "id": "official-discovery-e73120112a2e-face",
           "name": "顔アップ",
           "date": null,
           "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/4ec2f1e46a4042c1b11b25db88b7ee7d/liver-face_Kaede_Higuchi_costume2.png"
@@ -130,15 +98,15 @@
         {
           "label": "にじさんじ公式プロフィール",
           "url": "https://www.nijisanji.jp/talents/l/kaede-higuchi",
-          "verifiedAt": "2026-11-14T15:15:11.965Z"
+          "verifiedAt": "2026-11-14T17:03:21.830Z"
         }
       ],
       "verification": "candidate",
-      "sourcePath": "images.variation.0"
+      "sourcePath": "official-profile-page"
     },
     {
-      "id": "official-candidate-2d-1",
-      "title": "公式掲載衣装候補 2",
+      "id": "official-discovery-20d95aaaa7af",
+      "title": "公式掲載衣装候補（追加収集）",
       "category": "2D",
       "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
       "date": null,
@@ -146,13 +114,13 @@
       "revealUrl": null,
       "variants": [
         {
-          "id": "official-candidate-2d-1-full",
+          "id": "official-discovery-20d95aaaa7af-full",
           "name": "全身",
           "date": null,
           "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/500516661e554300894177d157b1df36/liver-full-body_Kaede_Higuchi_costume3.png"
         },
         {
-          "id": "official-candidate-2d-1-face",
+          "id": "official-discovery-20d95aaaa7af-face",
           "name": "顔アップ",
           "date": null,
           "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/5c89669fd54a4e06934d2271505ced2e/liver-face_Kaede_Higuchi_costume3.png"
@@ -162,15 +130,15 @@
         {
           "label": "にじさんじ公式プロフィール",
           "url": "https://www.nijisanji.jp/talents/l/kaede-higuchi",
-          "verifiedAt": "2026-11-14T15:15:11.965Z"
+          "verifiedAt": "2026-11-14T17:03:21.830Z"
         }
       ],
       "verification": "candidate",
-      "sourcePath": "images.variation.1"
+      "sourcePath": "official-profile-page"
     },
     {
-      "id": "official-candidate-2d-2",
-      "title": "公式掲載衣装候補 3",
+      "id": "official-discovery-bd06974ae33a",
+      "title": "公式掲載衣装候補（追加収集）",
       "category": "2D",
       "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
       "date": null,
@@ -178,13 +146,13 @@
       "revealUrl": null,
       "variants": [
         {
-          "id": "official-candidate-2d-2-full",
+          "id": "official-discovery-bd06974ae33a-full",
           "name": "全身",
           "date": null,
           "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/5a786c1074ae40e297618f654c65e9df/liver-full-body_Kaede_Higuchi_costume4.png"
         },
         {
-          "id": "official-candidate-2d-2-face",
+          "id": "official-discovery-bd06974ae33a-face",
           "name": "顔アップ",
           "date": null,
           "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/131354661c3944de94059fca10ce1990/liver-face_Kaede_Higuchi_costume4.png"
@@ -194,11 +162,43 @@
         {
           "label": "にじさんじ公式プロフィール",
           "url": "https://www.nijisanji.jp/talents/l/kaede-higuchi",
-          "verifiedAt": "2026-11-14T15:15:11.965Z"
+          "verifiedAt": "2026-11-14T17:03:21.830Z"
         }
       ],
       "verification": "candidate",
-      "sourcePath": "images.variation.2"
+      "sourcePath": "official-profile-page"
+    },
+    {
+      "id": "official-discovery-9c4a2e4922cb",
+      "title": "公式掲載衣装候補（追加収集）",
+      "category": "2D",
+      "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
+      "date": null,
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/bbf0e777aa2048aea09df3cea8e8f250/liver-full-body_Kaede_Higuchi_costume5.png",
+      "revealUrl": null,
+      "variants": [
+        {
+          "id": "official-discovery-9c4a2e4922cb-full",
+          "name": "全身",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/bbf0e777aa2048aea09df3cea8e8f250/liver-full-body_Kaede_Higuchi_costume5.png"
+        },
+        {
+          "id": "official-discovery-9c4a2e4922cb-face",
+          "name": "顔アップ",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/28aa212ee69a41b8bf9a492f34ac04f2/liver-face_Kaede_Higuchi_costume5.png"
+        }
+      ],
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/kaede-higuchi",
+          "verifiedAt": "2026-11-14T17:03:21.830Z"
+        }
+      ],
+      "verification": "candidate",
+      "sourcePath": "official-profile-page"
     }
   ],
   "music": [],

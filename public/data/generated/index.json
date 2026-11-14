@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T15:53:05.011Z",
+  "generatedAt": "2026-11-14T17:04:43.282Z",
   "demo": false,
   "livers": [
     {
@@ -243,40 +243,8 @@
       "changes": [],
       "visuals": [
         {
-          "id": "official-candidate-3d-0",
-          "title": "公式掲載衣装候補 1",
-          "category": "3D",
-          "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
-          "date": null,
-          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/052056dc5bba4a168664e32f273c5442/liver-full-body_Elu_costume5.png",
-          "revealUrl": null,
-          "variants": [
-            {
-              "id": "official-candidate-3d-0-full",
-              "name": "全身",
-              "date": null,
-              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/052056dc5bba4a168664e32f273c5442/liver-full-body_Elu_costume5.png"
-            },
-            {
-              "id": "official-candidate-3d-0-face",
-              "name": "顔アップ",
-              "date": null,
-              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/b57250c51c7e4493aa537469ba9245f3/liver-face_Elu_costume5.png"
-            }
-          ],
-          "sources": [
-            {
-              "label": "にじさんじ公式プロフィール",
-              "url": "https://www.nijisanji.jp/talents/l/elu",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
-            }
-          ],
-          "verification": "candidate",
-          "sourcePath": "images.threeDVariation.0"
-        },
-        {
-          "id": "official-candidate-2d-0",
-          "title": "公式掲載衣装候補 1",
+          "id": "official-discovery-ea1292fbfd38",
+          "title": "公式掲載衣装候補（追加収集）",
           "category": "2D",
           "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
           "date": null,
@@ -284,13 +252,13 @@
           "revealUrl": null,
           "variants": [
             {
-              "id": "official-candidate-2d-0-full",
+              "id": "official-discovery-ea1292fbfd38-full",
               "name": "全身",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/0cd91d9a412047bea192534a7f965c38/liver-full-body_Elu_costume2.png"
             },
             {
-              "id": "official-candidate-2d-0-face",
+              "id": "official-discovery-ea1292fbfd38-face",
               "name": "顔アップ",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/67a43fea3f304f8c8fcca9df6932415d/liver-face_Elu_costume2.png"
@@ -300,15 +268,15 @@
             {
               "label": "にじさんじ公式プロフィール",
               "url": "https://www.nijisanji.jp/talents/l/elu",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
             }
           ],
           "verification": "candidate",
-          "sourcePath": "images.variation.0"
+          "sourcePath": "official-profile-page"
         },
         {
-          "id": "official-candidate-2d-1",
-          "title": "公式掲載衣装候補 2",
+          "id": "official-discovery-f5098fa23736",
+          "title": "公式掲載衣装候補（追加収集）",
           "category": "2D",
           "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
           "date": null,
@@ -316,13 +284,13 @@
           "revealUrl": null,
           "variants": [
             {
-              "id": "official-candidate-2d-1-full",
+              "id": "official-discovery-f5098fa23736-full",
               "name": "全身",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/892e3e874f7c4b66b8f84f59f542e261/liver-full-body_Elu_costume3.png"
             },
             {
-              "id": "official-candidate-2d-1-face",
+              "id": "official-discovery-f5098fa23736-face",
               "name": "顔アップ",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/4ce12229dffb4f2488d54a2c635abdb5/liver-face_Elu_costume3.png"
@@ -332,15 +300,15 @@
             {
               "label": "にじさんじ公式プロフィール",
               "url": "https://www.nijisanji.jp/talents/l/elu",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
             }
           ],
           "verification": "candidate",
-          "sourcePath": "images.variation.1"
+          "sourcePath": "official-profile-page"
         },
         {
-          "id": "official-candidate-2d-2",
-          "title": "公式掲載衣装候補 3",
+          "id": "official-discovery-d1ea5f0bd9a7",
+          "title": "公式掲載衣装候補（追加収集）",
           "category": "2D",
           "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
           "date": null,
@@ -348,13 +316,13 @@
           "revealUrl": null,
           "variants": [
             {
-              "id": "official-candidate-2d-2-full",
+              "id": "official-discovery-d1ea5f0bd9a7-full",
               "name": "全身",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/d8f389dc6ed84ca281d68cc20e799d75/liver-full-body_Elu_costume4.png"
             },
             {
-              "id": "official-candidate-2d-2-face",
+              "id": "official-discovery-d1ea5f0bd9a7-face",
               "name": "顔アップ",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/330c3fe49dee4a15978183cac5064c4e/liver-face_Elu_costume4.png"
@@ -364,11 +332,43 @@
             {
               "label": "にじさんじ公式プロフィール",
               "url": "https://www.nijisanji.jp/talents/l/elu",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
             }
           ],
           "verification": "candidate",
-          "sourcePath": "images.variation.2"
+          "sourcePath": "official-profile-page"
+        },
+        {
+          "id": "official-discovery-4d5510ad1985",
+          "title": "公式掲載衣装候補（追加収集）",
+          "category": "2D",
+          "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/052056dc5bba4a168664e32f273c5442/liver-full-body_Elu_costume5.png",
+          "revealUrl": null,
+          "variants": [
+            {
+              "id": "official-discovery-4d5510ad1985-full",
+              "name": "全身",
+              "date": null,
+              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/052056dc5bba4a168664e32f273c5442/liver-full-body_Elu_costume5.png"
+            },
+            {
+              "id": "official-discovery-4d5510ad1985-face",
+              "name": "顔アップ",
+              "date": null,
+              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/b57250c51c7e4493aa537469ba9245f3/liver-face_Elu_costume5.png"
+            }
+          ],
+          "sources": [
+            {
+              "label": "にじさんじ公式プロフィール",
+              "url": "https://www.nijisanji.jp/talents/l/elu",
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
+            }
+          ],
+          "verification": "candidate",
+          "sourcePath": "official-profile-page"
         }
       ],
       "music": [],
@@ -455,72 +455,8 @@
       "changes": [],
       "visuals": [
         {
-          "id": "official-candidate-2d-0",
-          "title": "公式掲載衣装候補 1",
-          "category": "2D",
-          "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
-          "date": null,
-          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/c6bd1cfa120b458bae8a4bc76ef1e071/liver-full-body_Gaku_Fushimi_costume4.png",
-          "revealUrl": null,
-          "variants": [
-            {
-              "id": "official-candidate-2d-0-full",
-              "name": "全身",
-              "date": null,
-              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/c6bd1cfa120b458bae8a4bc76ef1e071/liver-full-body_Gaku_Fushimi_costume4.png"
-            },
-            {
-              "id": "official-candidate-2d-0-face",
-              "name": "顔アップ",
-              "date": null,
-              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/6418cc196aad4dccaf90341726a3742e/liver-face_Gaku_Fushimi_costume4.png"
-            }
-          ],
-          "sources": [
-            {
-              "label": "にじさんじ公式プロフィール",
-              "url": "https://www.nijisanji.jp/talents/l/gaku-fushimi",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
-            }
-          ],
-          "verification": "candidate",
-          "sourcePath": "images.variation.0"
-        },
-        {
-          "id": "official-candidate-2d-1",
-          "title": "公式掲載衣装候補 2",
-          "category": "2D",
-          "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
-          "date": null,
-          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/d2c7a550f190472583651e104364d53c/liver-full-body_Gaku_Fushimi_costume3.png",
-          "revealUrl": null,
-          "variants": [
-            {
-              "id": "official-candidate-2d-1-full",
-              "name": "全身",
-              "date": null,
-              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/d2c7a550f190472583651e104364d53c/liver-full-body_Gaku_Fushimi_costume3.png"
-            },
-            {
-              "id": "official-candidate-2d-1-face",
-              "name": "顔アップ",
-              "date": null,
-              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/1acceb39c7104b6d960d79a61634e4a1/liver-face_Gaku_Fushimi_costume3.png"
-            }
-          ],
-          "sources": [
-            {
-              "label": "にじさんじ公式プロフィール",
-              "url": "https://www.nijisanji.jp/talents/l/gaku-fushimi",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
-            }
-          ],
-          "verification": "candidate",
-          "sourcePath": "images.variation.1"
-        },
-        {
-          "id": "official-candidate-2d-2",
-          "title": "公式掲載衣装候補 3",
+          "id": "official-discovery-70ff9c583106",
+          "title": "公式掲載衣装候補（追加収集）",
           "category": "2D",
           "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
           "date": null,
@@ -528,13 +464,13 @@
           "revealUrl": null,
           "variants": [
             {
-              "id": "official-candidate-2d-2-full",
+              "id": "official-discovery-70ff9c583106-full",
               "name": "全身",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/adc28ca3769d4695b7361f80250aaa24/liver-full-body_Gaku_Fushimi_costume2.png"
             },
             {
-              "id": "official-candidate-2d-2-face",
+              "id": "official-discovery-70ff9c583106-face",
               "name": "顔アップ",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/76b4b2d5bc8c4a3eb27d28f78d225428/liver-face_Gaku_Fushimi_costume2.png"
@@ -544,11 +480,75 @@
             {
               "label": "にじさんじ公式プロフィール",
               "url": "https://www.nijisanji.jp/talents/l/gaku-fushimi",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
             }
           ],
           "verification": "candidate",
-          "sourcePath": "images.variation.2"
+          "sourcePath": "official-profile-page"
+        },
+        {
+          "id": "official-discovery-0e5776b58450",
+          "title": "公式掲載衣装候補（追加収集）",
+          "category": "2D",
+          "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/d2c7a550f190472583651e104364d53c/liver-full-body_Gaku_Fushimi_costume3.png",
+          "revealUrl": null,
+          "variants": [
+            {
+              "id": "official-discovery-0e5776b58450-full",
+              "name": "全身",
+              "date": null,
+              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/d2c7a550f190472583651e104364d53c/liver-full-body_Gaku_Fushimi_costume3.png"
+            },
+            {
+              "id": "official-discovery-0e5776b58450-face",
+              "name": "顔アップ",
+              "date": null,
+              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/1acceb39c7104b6d960d79a61634e4a1/liver-face_Gaku_Fushimi_costume3.png"
+            }
+          ],
+          "sources": [
+            {
+              "label": "にじさんじ公式プロフィール",
+              "url": "https://www.nijisanji.jp/talents/l/gaku-fushimi",
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
+            }
+          ],
+          "verification": "candidate",
+          "sourcePath": "official-profile-page"
+        },
+        {
+          "id": "official-discovery-6ad24f8fd9a8",
+          "title": "公式掲載衣装候補（追加収集）",
+          "category": "2D",
+          "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/c6bd1cfa120b458bae8a4bc76ef1e071/liver-full-body_Gaku_Fushimi_costume4.png",
+          "revealUrl": null,
+          "variants": [
+            {
+              "id": "official-discovery-6ad24f8fd9a8-full",
+              "name": "全身",
+              "date": null,
+              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/c6bd1cfa120b458bae8a4bc76ef1e071/liver-full-body_Gaku_Fushimi_costume4.png"
+            },
+            {
+              "id": "official-discovery-6ad24f8fd9a8-face",
+              "name": "顔アップ",
+              "date": null,
+              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/6418cc196aad4dccaf90341726a3742e/liver-face_Gaku_Fushimi_costume4.png"
+            }
+          ],
+          "sources": [
+            {
+              "label": "にじさんじ公式プロフィール",
+              "url": "https://www.nijisanji.jp/talents/l/gaku-fushimi",
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
+            }
+          ],
+          "verification": "candidate",
+          "sourcePath": "official-profile-page"
         }
       ],
       "music": [],
@@ -635,72 +635,8 @@
       "changes": [],
       "visuals": [
         {
-          "id": "official-candidate-2d-0",
-          "title": "公式掲載衣装候補 1",
-          "category": "2D",
-          "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
-          "date": null,
-          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/e67b63d8e08341a3bc89cab0932ef1ff/liver-full-body_Hajime_Shibuya_costume4.png",
-          "revealUrl": null,
-          "variants": [
-            {
-              "id": "official-candidate-2d-0-full",
-              "name": "全身",
-              "date": null,
-              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/e67b63d8e08341a3bc89cab0932ef1ff/liver-full-body_Hajime_Shibuya_costume4.png"
-            },
-            {
-              "id": "official-candidate-2d-0-face",
-              "name": "顔アップ",
-              "date": null,
-              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/fabf3d5251244361b87ea2312b500b09/liver-face_Hajime_Shibuya_costume4.png"
-            }
-          ],
-          "sources": [
-            {
-              "label": "にじさんじ公式プロフィール",
-              "url": "https://www.nijisanji.jp/talents/l/hajime-shibuya",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
-            }
-          ],
-          "verification": "candidate",
-          "sourcePath": "images.variation.0"
-        },
-        {
-          "id": "official-candidate-2d-1",
-          "title": "公式掲載衣装候補 2",
-          "category": "2D",
-          "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
-          "date": null,
-          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/a8a4cfed424f490196c206b1a79ea5d7/liver-full-body_Hajime_Shibuya_costume3.png",
-          "revealUrl": null,
-          "variants": [
-            {
-              "id": "official-candidate-2d-1-full",
-              "name": "全身",
-              "date": null,
-              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/a8a4cfed424f490196c206b1a79ea5d7/liver-full-body_Hajime_Shibuya_costume3.png"
-            },
-            {
-              "id": "official-candidate-2d-1-face",
-              "name": "顔アップ",
-              "date": null,
-              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/6c7b702704944299a395c8a550fb635a/liver-face_Hajime_Shibuya_costume3.png"
-            }
-          ],
-          "sources": [
-            {
-              "label": "にじさんじ公式プロフィール",
-              "url": "https://www.nijisanji.jp/talents/l/hajime-shibuya",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
-            }
-          ],
-          "verification": "candidate",
-          "sourcePath": "images.variation.1"
-        },
-        {
-          "id": "official-candidate-2d-2",
-          "title": "公式掲載衣装候補 3",
+          "id": "official-discovery-2dae64912e91",
+          "title": "公式掲載衣装候補（追加収集）",
           "category": "2D",
           "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
           "date": null,
@@ -708,13 +644,13 @@
           "revealUrl": null,
           "variants": [
             {
-              "id": "official-candidate-2d-2-full",
+              "id": "official-discovery-2dae64912e91-full",
               "name": "全身",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/f045b16b84064809baa048a0ae97ab07/liver-full-body_Hajime_Shibuya_costume2.png"
             },
             {
-              "id": "official-candidate-2d-2-face",
+              "id": "official-discovery-2dae64912e91-face",
               "name": "顔アップ",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/4cac44c2b78043149f1256114487300e/liver-face_Hajime_Shibuya_costume2.png"
@@ -724,11 +660,75 @@
             {
               "label": "にじさんじ公式プロフィール",
               "url": "https://www.nijisanji.jp/talents/l/hajime-shibuya",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
             }
           ],
           "verification": "candidate",
-          "sourcePath": "images.variation.2"
+          "sourcePath": "official-profile-page"
+        },
+        {
+          "id": "official-discovery-990378acf8e1",
+          "title": "公式掲載衣装候補（追加収集）",
+          "category": "2D",
+          "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/a8a4cfed424f490196c206b1a79ea5d7/liver-full-body_Hajime_Shibuya_costume3.png",
+          "revealUrl": null,
+          "variants": [
+            {
+              "id": "official-discovery-990378acf8e1-full",
+              "name": "全身",
+              "date": null,
+              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/a8a4cfed424f490196c206b1a79ea5d7/liver-full-body_Hajime_Shibuya_costume3.png"
+            },
+            {
+              "id": "official-discovery-990378acf8e1-face",
+              "name": "顔アップ",
+              "date": null,
+              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/6c7b702704944299a395c8a550fb635a/liver-face_Hajime_Shibuya_costume3.png"
+            }
+          ],
+          "sources": [
+            {
+              "label": "にじさんじ公式プロフィール",
+              "url": "https://www.nijisanji.jp/talents/l/hajime-shibuya",
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
+            }
+          ],
+          "verification": "candidate",
+          "sourcePath": "official-profile-page"
+        },
+        {
+          "id": "official-discovery-9adf3374352e",
+          "title": "公式掲載衣装候補（追加収集）",
+          "category": "2D",
+          "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/e67b63d8e08341a3bc89cab0932ef1ff/liver-full-body_Hajime_Shibuya_costume4.png",
+          "revealUrl": null,
+          "variants": [
+            {
+              "id": "official-discovery-9adf3374352e-full",
+              "name": "全身",
+              "date": null,
+              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/e67b63d8e08341a3bc89cab0932ef1ff/liver-full-body_Hajime_Shibuya_costume4.png"
+            },
+            {
+              "id": "official-discovery-9adf3374352e-face",
+              "name": "顔アップ",
+              "date": null,
+              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/fabf3d5251244361b87ea2312b500b09/liver-face_Hajime_Shibuya_costume4.png"
+            }
+          ],
+          "sources": [
+            {
+              "label": "にじさんじ公式プロフィール",
+              "url": "https://www.nijisanji.jp/talents/l/hajime-shibuya",
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
+            }
+          ],
+          "verification": "candidate",
+          "sourcePath": "official-profile-page"
         }
       ],
       "music": [],
@@ -815,40 +815,8 @@
       "changes": [],
       "visuals": [
         {
-          "id": "official-candidate-2d-0",
-          "title": "公式掲載衣装候補 1",
-          "category": "2D",
-          "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
-          "date": null,
-          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/373883130796485e9a63a46808b352b0/liver-full-body_Haru_Kaida_costume3.png",
-          "revealUrl": null,
-          "variants": [
-            {
-              "id": "official-candidate-2d-0-full",
-              "name": "全身",
-              "date": null,
-              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/373883130796485e9a63a46808b352b0/liver-full-body_Haru_Kaida_costume3.png"
-            },
-            {
-              "id": "official-candidate-2d-0-face",
-              "name": "顔アップ",
-              "date": null,
-              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/783595de53e945cdaba14afc9be9def8/liver-face_Haru_Kaida_costume3.png"
-            }
-          ],
-          "sources": [
-            {
-              "label": "にじさんじ公式プロフィール",
-              "url": "https://www.nijisanji.jp/talents/l/haru-kaida",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
-            }
-          ],
-          "verification": "candidate",
-          "sourcePath": "images.variation.0"
-        },
-        {
-          "id": "official-candidate-2d-1",
-          "title": "公式掲載衣装候補 2",
+          "id": "official-discovery-86e8caa391f4",
+          "title": "公式掲載衣装候補（追加収集）",
           "category": "2D",
           "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
           "date": null,
@@ -856,13 +824,13 @@
           "revealUrl": null,
           "variants": [
             {
-              "id": "official-candidate-2d-1-full",
+              "id": "official-discovery-86e8caa391f4-full",
               "name": "全身",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/fc557cb0b38a4ee2a9d7a250a12e514b/liver-full-body_Haru_Kaida_costume2.png"
             },
             {
-              "id": "official-candidate-2d-1-face",
+              "id": "official-discovery-86e8caa391f4-face",
               "name": "顔アップ",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/a256d73f22fb459db96aa2563f12f8f2/liver-face_Haru_Kaida_costume2.png"
@@ -872,15 +840,47 @@
             {
               "label": "にじさんじ公式プロフィール",
               "url": "https://www.nijisanji.jp/talents/l/haru-kaida",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
             }
           ],
           "verification": "candidate",
-          "sourcePath": "images.variation.1"
+          "sourcePath": "official-profile-page"
         },
         {
-          "id": "official-candidate-2d-2",
-          "title": "公式掲載衣装候補 3",
+          "id": "official-discovery-4ecc2f2e0db0",
+          "title": "公式掲載衣装候補（追加収集）",
+          "category": "2D",
+          "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/373883130796485e9a63a46808b352b0/liver-full-body_Haru_Kaida_costume3.png",
+          "revealUrl": null,
+          "variants": [
+            {
+              "id": "official-discovery-4ecc2f2e0db0-full",
+              "name": "全身",
+              "date": null,
+              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/373883130796485e9a63a46808b352b0/liver-full-body_Haru_Kaida_costume3.png"
+            },
+            {
+              "id": "official-discovery-4ecc2f2e0db0-face",
+              "name": "顔アップ",
+              "date": null,
+              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/783595de53e945cdaba14afc9be9def8/liver-face_Haru_Kaida_costume3.png"
+            }
+          ],
+          "sources": [
+            {
+              "label": "にじさんじ公式プロフィール",
+              "url": "https://www.nijisanji.jp/talents/l/haru-kaida",
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
+            }
+          ],
+          "verification": "candidate",
+          "sourcePath": "official-profile-page"
+        },
+        {
+          "id": "official-discovery-41b62699a394",
+          "title": "公式掲載衣装候補（追加収集）",
           "category": "2D",
           "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
           "date": null,
@@ -888,13 +888,13 @@
           "revealUrl": null,
           "variants": [
             {
-              "id": "official-candidate-2d-2-full",
+              "id": "official-discovery-41b62699a394-full",
               "name": "全身",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/00266cb3d5d044d29cd081f3c4edccb8/liver-full-body_Haru_Kaida_costume4.png"
             },
             {
-              "id": "official-candidate-2d-2-face",
+              "id": "official-discovery-41b62699a394-face",
               "name": "顔アップ",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/15e27d701bb2480b8950464eb6777283/liver-face_Haru_Kaida_costume4.png"
@@ -904,11 +904,11 @@
             {
               "label": "にじさんじ公式プロフィール",
               "url": "https://www.nijisanji.jp/talents/l/haru-kaida",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
             }
           ],
           "verification": "candidate",
-          "sourcePath": "images.variation.2"
+          "sourcePath": "official-profile-page"
         }
       ],
       "music": [],
@@ -995,8 +995,8 @@
       "changes": [],
       "visuals": [
         {
-          "id": "official-candidate-2d-0",
-          "title": "公式掲載衣装候補 1",
+          "id": "official-discovery-1f47105ae284",
+          "title": "公式掲載衣装候補（追加収集）",
           "category": "2D",
           "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
           "date": null,
@@ -1004,13 +1004,13 @@
           "revealUrl": null,
           "variants": [
             {
-              "id": "official-candidate-2d-0-full",
+              "id": "official-discovery-1f47105ae284-full",
               "name": "全身",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/5e7eeb349c1e4018bcb04e69927e0d99/liver-full-body_Hayato_Kagami_costume2.png"
             },
             {
-              "id": "official-candidate-2d-0-face",
+              "id": "official-discovery-1f47105ae284-face",
               "name": "顔アップ",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/0a5424f8acc4495d9d661d9f34da30a6/liver-face_Hayato_Kagami_costume2.png"
@@ -1020,15 +1020,15 @@
             {
               "label": "にじさんじ公式プロフィール",
               "url": "https://www.nijisanji.jp/talents/l/hayato-kagami",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
             }
           ],
           "verification": "candidate",
-          "sourcePath": "images.variation.0"
+          "sourcePath": "official-profile-page"
         },
         {
-          "id": "official-candidate-2d-1",
-          "title": "公式掲載衣装候補 2",
+          "id": "official-discovery-17e1c6a3a2cd",
+          "title": "公式掲載衣装候補（追加収集）",
           "category": "2D",
           "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
           "date": null,
@@ -1036,13 +1036,13 @@
           "revealUrl": null,
           "variants": [
             {
-              "id": "official-candidate-2d-1-full",
+              "id": "official-discovery-17e1c6a3a2cd-full",
               "name": "全身",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/17e6612a24884fb5a1ad792fe709c5d2/liver-full-body_Hayato_Kagami_costume3.png"
             },
             {
-              "id": "official-candidate-2d-1-face",
+              "id": "official-discovery-17e1c6a3a2cd-face",
               "name": "顔アップ",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/f237cc219e094ba58ab52a66a1a8e6af/liver-face_Hayato_Kagami_costume3.png"
@@ -1052,15 +1052,15 @@
             {
               "label": "にじさんじ公式プロフィール",
               "url": "https://www.nijisanji.jp/talents/l/hayato-kagami",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
             }
           ],
           "verification": "candidate",
-          "sourcePath": "images.variation.1"
+          "sourcePath": "official-profile-page"
         },
         {
-          "id": "official-candidate-2d-2",
-          "title": "公式掲載衣装候補 3",
+          "id": "official-discovery-c753f0932360",
+          "title": "公式掲載衣装候補（追加収集）",
           "category": "2D",
           "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
           "date": null,
@@ -1068,13 +1068,13 @@
           "revealUrl": null,
           "variants": [
             {
-              "id": "official-candidate-2d-2-full",
+              "id": "official-discovery-c753f0932360-full",
               "name": "全身",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/0ddd86b2d55d4d80a075583462bb3b82/liver-full-body_Hayato_Kagami_costume4.png"
             },
             {
-              "id": "official-candidate-2d-2-face",
+              "id": "official-discovery-c753f0932360-face",
               "name": "顔アップ",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/68b74b0b037f49398ee6bd4518c9648d/liver-face_Hayato_Kagami_costume4.png"
@@ -1084,11 +1084,11 @@
             {
               "label": "にじさんじ公式プロフィール",
               "url": "https://www.nijisanji.jp/talents/l/hayato-kagami",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
             }
           ],
           "verification": "candidate",
-          "sourcePath": "images.variation.2"
+          "sourcePath": "official-profile-page"
         }
       ],
       "music": [],
@@ -1258,40 +1258,8 @@
       "changes": [],
       "visuals": [
         {
-          "id": "official-candidate-3d-0",
-          "title": "公式掲載衣装候補 1",
-          "category": "3D",
-          "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
-          "date": null,
-          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/bbf0e777aa2048aea09df3cea8e8f250/liver-full-body_Kaede_Higuchi_costume5.png",
-          "revealUrl": null,
-          "variants": [
-            {
-              "id": "official-candidate-3d-0-full",
-              "name": "全身",
-              "date": null,
-              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/bbf0e777aa2048aea09df3cea8e8f250/liver-full-body_Kaede_Higuchi_costume5.png"
-            },
-            {
-              "id": "official-candidate-3d-0-face",
-              "name": "顔アップ",
-              "date": null,
-              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/28aa212ee69a41b8bf9a492f34ac04f2/liver-face_Kaede_Higuchi_costume5.png"
-            }
-          ],
-          "sources": [
-            {
-              "label": "にじさんじ公式プロフィール",
-              "url": "https://www.nijisanji.jp/talents/l/kaede-higuchi",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
-            }
-          ],
-          "verification": "candidate",
-          "sourcePath": "images.threeDVariation.0"
-        },
-        {
-          "id": "official-candidate-2d-0",
-          "title": "公式掲載衣装候補 1",
+          "id": "official-discovery-e73120112a2e",
+          "title": "公式掲載衣装候補（追加収集）",
           "category": "2D",
           "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
           "date": null,
@@ -1299,13 +1267,13 @@
           "revealUrl": null,
           "variants": [
             {
-              "id": "official-candidate-2d-0-full",
+              "id": "official-discovery-e73120112a2e-full",
               "name": "全身",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/369f61171dca46369a64a6a757c25541/liver-full-body_Kaede_Higuchi_costume2.png"
             },
             {
-              "id": "official-candidate-2d-0-face",
+              "id": "official-discovery-e73120112a2e-face",
               "name": "顔アップ",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/4ec2f1e46a4042c1b11b25db88b7ee7d/liver-face_Kaede_Higuchi_costume2.png"
@@ -1315,15 +1283,15 @@
             {
               "label": "にじさんじ公式プロフィール",
               "url": "https://www.nijisanji.jp/talents/l/kaede-higuchi",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
             }
           ],
           "verification": "candidate",
-          "sourcePath": "images.variation.0"
+          "sourcePath": "official-profile-page"
         },
         {
-          "id": "official-candidate-2d-1",
-          "title": "公式掲載衣装候補 2",
+          "id": "official-discovery-20d95aaaa7af",
+          "title": "公式掲載衣装候補（追加収集）",
           "category": "2D",
           "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
           "date": null,
@@ -1331,13 +1299,13 @@
           "revealUrl": null,
           "variants": [
             {
-              "id": "official-candidate-2d-1-full",
+              "id": "official-discovery-20d95aaaa7af-full",
               "name": "全身",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/500516661e554300894177d157b1df36/liver-full-body_Kaede_Higuchi_costume3.png"
             },
             {
-              "id": "official-candidate-2d-1-face",
+              "id": "official-discovery-20d95aaaa7af-face",
               "name": "顔アップ",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/5c89669fd54a4e06934d2271505ced2e/liver-face_Kaede_Higuchi_costume3.png"
@@ -1347,15 +1315,15 @@
             {
               "label": "にじさんじ公式プロフィール",
               "url": "https://www.nijisanji.jp/talents/l/kaede-higuchi",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
             }
           ],
           "verification": "candidate",
-          "sourcePath": "images.variation.1"
+          "sourcePath": "official-profile-page"
         },
         {
-          "id": "official-candidate-2d-2",
-          "title": "公式掲載衣装候補 3",
+          "id": "official-discovery-bd06974ae33a",
+          "title": "公式掲載衣装候補（追加収集）",
           "category": "2D",
           "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
           "date": null,
@@ -1363,13 +1331,13 @@
           "revealUrl": null,
           "variants": [
             {
-              "id": "official-candidate-2d-2-full",
+              "id": "official-discovery-bd06974ae33a-full",
               "name": "全身",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/5a786c1074ae40e297618f654c65e9df/liver-full-body_Kaede_Higuchi_costume4.png"
             },
             {
-              "id": "official-candidate-2d-2-face",
+              "id": "official-discovery-bd06974ae33a-face",
               "name": "顔アップ",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/131354661c3944de94059fca10ce1990/liver-face_Kaede_Higuchi_costume4.png"
@@ -1379,11 +1347,43 @@
             {
               "label": "にじさんじ公式プロフィール",
               "url": "https://www.nijisanji.jp/talents/l/kaede-higuchi",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
             }
           ],
           "verification": "candidate",
-          "sourcePath": "images.variation.2"
+          "sourcePath": "official-profile-page"
+        },
+        {
+          "id": "official-discovery-9c4a2e4922cb",
+          "title": "公式掲載衣装候補（追加収集）",
+          "category": "2D",
+          "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/bbf0e777aa2048aea09df3cea8e8f250/liver-full-body_Kaede_Higuchi_costume5.png",
+          "revealUrl": null,
+          "variants": [
+            {
+              "id": "official-discovery-9c4a2e4922cb-full",
+              "name": "全身",
+              "date": null,
+              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/bbf0e777aa2048aea09df3cea8e8f250/liver-full-body_Kaede_Higuchi_costume5.png"
+            },
+            {
+              "id": "official-discovery-9c4a2e4922cb-face",
+              "name": "顔アップ",
+              "date": null,
+              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/28aa212ee69a41b8bf9a492f34ac04f2/liver-face_Kaede_Higuchi_costume5.png"
+            }
+          ],
+          "sources": [
+            {
+              "label": "にじさんじ公式プロフィール",
+              "url": "https://www.nijisanji.jp/talents/l/kaede-higuchi",
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
+            }
+          ],
+          "verification": "candidate",
+          "sourcePath": "official-profile-page"
         }
       ],
       "music": [],
@@ -1470,72 +1470,8 @@
       "changes": [],
       "visuals": [
         {
-          "id": "official-candidate-2d-0",
-          "title": "公式掲載衣装候補 1",
-          "category": "2D",
-          "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
-          "date": null,
-          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/cfcae824f6d74003993ae3bc1e5be1ba/liver-full-body_Kakeru_Yumeoi_costume3.png",
-          "revealUrl": null,
-          "variants": [
-            {
-              "id": "official-candidate-2d-0-full",
-              "name": "全身",
-              "date": null,
-              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/cfcae824f6d74003993ae3bc1e5be1ba/liver-full-body_Kakeru_Yumeoi_costume3.png"
-            },
-            {
-              "id": "official-candidate-2d-0-face",
-              "name": "顔アップ",
-              "date": null,
-              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/af2f2fcb00f647b5959525a3bc572a06/liver-face_Kakeru_Yumeoi_costume3.png"
-            }
-          ],
-          "sources": [
-            {
-              "label": "にじさんじ公式プロフィール",
-              "url": "https://www.nijisanji.jp/talents/l/kakeru-yumeoi",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
-            }
-          ],
-          "verification": "candidate",
-          "sourcePath": "images.variation.0"
-        },
-        {
-          "id": "official-candidate-2d-1",
-          "title": "公式掲載衣装候補 2",
-          "category": "2D",
-          "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
-          "date": null,
-          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/26de4c3cb2cc4baca3d94d40d7b5e013/liver-full-body_Kakeru_Yumeoi_costume4.png",
-          "revealUrl": null,
-          "variants": [
-            {
-              "id": "official-candidate-2d-1-full",
-              "name": "全身",
-              "date": null,
-              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/26de4c3cb2cc4baca3d94d40d7b5e013/liver-full-body_Kakeru_Yumeoi_costume4.png"
-            },
-            {
-              "id": "official-candidate-2d-1-face",
-              "name": "顔アップ",
-              "date": null,
-              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/7aebabcdf3eb46ad8ab4c767cb4822cf/liver-face_Kakeru_Yumeoi_costume4.png"
-            }
-          ],
-          "sources": [
-            {
-              "label": "にじさんじ公式プロフィール",
-              "url": "https://www.nijisanji.jp/talents/l/kakeru-yumeoi",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
-            }
-          ],
-          "verification": "candidate",
-          "sourcePath": "images.variation.1"
-        },
-        {
-          "id": "official-candidate-2d-2",
-          "title": "公式掲載衣装候補 3",
+          "id": "official-discovery-2588c08b2d62",
+          "title": "公式掲載衣装候補（追加収集）",
           "category": "2D",
           "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
           "date": null,
@@ -1543,13 +1479,13 @@
           "revealUrl": null,
           "variants": [
             {
-              "id": "official-candidate-2d-2-full",
+              "id": "official-discovery-2588c08b2d62-full",
               "name": "全身",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/35b72cd8777347baa249c988f1ec386f/liver-full-body_Kakeru_Yumeoi_costume2.png"
             },
             {
-              "id": "official-candidate-2d-2-face",
+              "id": "official-discovery-2588c08b2d62-face",
               "name": "顔アップ",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/ab500c99e11346dabc5b1639901f0d77/liver-face_Kakeru_Yumeoi_costume2.png"
@@ -1559,11 +1495,75 @@
             {
               "label": "にじさんじ公式プロフィール",
               "url": "https://www.nijisanji.jp/talents/l/kakeru-yumeoi",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
             }
           ],
           "verification": "candidate",
-          "sourcePath": "images.variation.2"
+          "sourcePath": "official-profile-page"
+        },
+        {
+          "id": "official-discovery-da21ad8d7e87",
+          "title": "公式掲載衣装候補（追加収集）",
+          "category": "2D",
+          "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/cfcae824f6d74003993ae3bc1e5be1ba/liver-full-body_Kakeru_Yumeoi_costume3.png",
+          "revealUrl": null,
+          "variants": [
+            {
+              "id": "official-discovery-da21ad8d7e87-full",
+              "name": "全身",
+              "date": null,
+              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/cfcae824f6d74003993ae3bc1e5be1ba/liver-full-body_Kakeru_Yumeoi_costume3.png"
+            },
+            {
+              "id": "official-discovery-da21ad8d7e87-face",
+              "name": "顔アップ",
+              "date": null,
+              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/af2f2fcb00f647b5959525a3bc572a06/liver-face_Kakeru_Yumeoi_costume3.png"
+            }
+          ],
+          "sources": [
+            {
+              "label": "にじさんじ公式プロフィール",
+              "url": "https://www.nijisanji.jp/talents/l/kakeru-yumeoi",
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
+            }
+          ],
+          "verification": "candidate",
+          "sourcePath": "official-profile-page"
+        },
+        {
+          "id": "official-discovery-249771c35efd",
+          "title": "公式掲載衣装候補（追加収集）",
+          "category": "2D",
+          "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/26de4c3cb2cc4baca3d94d40d7b5e013/liver-full-body_Kakeru_Yumeoi_costume4.png",
+          "revealUrl": null,
+          "variants": [
+            {
+              "id": "official-discovery-249771c35efd-full",
+              "name": "全身",
+              "date": null,
+              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/26de4c3cb2cc4baca3d94d40d7b5e013/liver-full-body_Kakeru_Yumeoi_costume4.png"
+            },
+            {
+              "id": "official-discovery-249771c35efd-face",
+              "name": "顔アップ",
+              "date": null,
+              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/7aebabcdf3eb46ad8ab4c767cb4822cf/liver-face_Kakeru_Yumeoi_costume4.png"
+            }
+          ],
+          "sources": [
+            {
+              "label": "にじさんじ公式プロフィール",
+              "url": "https://www.nijisanji.jp/talents/l/kakeru-yumeoi",
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
+            }
+          ],
+          "verification": "candidate",
+          "sourcePath": "official-profile-page"
         }
       ],
       "music": [],
@@ -1740,8 +1740,8 @@
       "changes": [],
       "visuals": [
         {
-          "id": "official-candidate-2d-0",
-          "title": "公式掲載衣装候補 1",
+          "id": "official-discovery-80ebed17dc06",
+          "title": "公式掲載衣装候補（追加収集）",
           "category": "2D",
           "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
           "date": null,
@@ -1749,13 +1749,13 @@
           "revealUrl": null,
           "variants": [
             {
-              "id": "official-candidate-2d-0-full",
+              "id": "official-discovery-80ebed17dc06-full",
               "name": "全身",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/a67f981fc59940518017230840eb5aa6/liver-full-body_Kazaki_Morinaka_costume2.png"
             },
             {
-              "id": "official-candidate-2d-0-face",
+              "id": "official-discovery-80ebed17dc06-face",
               "name": "顔アップ",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/86054d7061f84aa0b8665ac0138527ef/liver-face_Kazaki_Morinaka_costume2.png"
@@ -1765,15 +1765,15 @@
             {
               "label": "にじさんじ公式プロフィール",
               "url": "https://www.nijisanji.jp/talents/l/kazaki-morinaka",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
             }
           ],
           "verification": "candidate",
-          "sourcePath": "images.variation.0"
+          "sourcePath": "official-profile-page"
         },
         {
-          "id": "official-candidate-2d-1",
-          "title": "公式掲載衣装候補 2",
+          "id": "official-discovery-cbb993d76cd5",
+          "title": "公式掲載衣装候補（追加収集）",
           "category": "2D",
           "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
           "date": null,
@@ -1781,13 +1781,13 @@
           "revealUrl": null,
           "variants": [
             {
-              "id": "official-candidate-2d-1-full",
+              "id": "official-discovery-cbb993d76cd5-full",
               "name": "全身",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/f862cb8ebdd645faa8e71be91d467bf0/liver-full-body_Kazaki_Morinaka_costume3.png"
             },
             {
-              "id": "official-candidate-2d-1-face",
+              "id": "official-discovery-cbb993d76cd5-face",
               "name": "顔アップ",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/c53a417782cc4ee38ab74ff656a7446e/liver-face_Kazaki_Morinaka_costume3.png"
@@ -1797,11 +1797,11 @@
             {
               "label": "にじさんじ公式プロフィール",
               "url": "https://www.nijisanji.jp/talents/l/kazaki-morinaka",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
             }
           ],
           "verification": "candidate",
-          "sourcePath": "images.variation.1"
+          "sourcePath": "official-profile-page"
         }
       ],
       "music": [],
@@ -2060,104 +2060,8 @@
       "changes": [],
       "visuals": [
         {
-          "id": "official-candidate-3d-0",
-          "title": "公式掲載衣装候補 1",
-          "category": "3D",
-          "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
-          "date": null,
-          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/0bbfc35a170143feb980915b04a4e193/liver-full-body_Kokoro_Amamiya_costume5.png",
-          "revealUrl": null,
-          "variants": [
-            {
-              "id": "official-candidate-3d-0-full",
-              "name": "全身",
-              "date": null,
-              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/0bbfc35a170143feb980915b04a4e193/liver-full-body_Kokoro_Amamiya_costume5.png"
-            },
-            {
-              "id": "official-candidate-3d-0-face",
-              "name": "顔アップ",
-              "date": null,
-              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/c4c0344b86d742f8966d7f3d584d39ea/liver-face_Kokoro_Amamiya_costume5.png"
-            }
-          ],
-          "sources": [
-            {
-              "label": "にじさんじ公式プロフィール",
-              "url": "https://www.nijisanji.jp/talents/l/kokoro-amamiya",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
-            }
-          ],
-          "verification": "candidate",
-          "sourcePath": "images.threeDVariation.0"
-        },
-        {
-          "id": "official-candidate-2d-0",
-          "title": "公式掲載衣装候補 1",
-          "category": "2D",
-          "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
-          "date": null,
-          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/6d3e301bf5d346eea540624dc4cce023/liver-full-body_Kokoro_Amamiya_costume4.png",
-          "revealUrl": null,
-          "variants": [
-            {
-              "id": "official-candidate-2d-0-full",
-              "name": "全身",
-              "date": null,
-              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/6d3e301bf5d346eea540624dc4cce023/liver-full-body_Kokoro_Amamiya_costume4.png"
-            },
-            {
-              "id": "official-candidate-2d-0-face",
-              "name": "顔アップ",
-              "date": null,
-              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/d6c5b45325f54548b914dbc4c8a75a14/liver-face_Kokoro_Amamiya_costume4.png"
-            }
-          ],
-          "sources": [
-            {
-              "label": "にじさんじ公式プロフィール",
-              "url": "https://www.nijisanji.jp/talents/l/kokoro-amamiya",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
-            }
-          ],
-          "verification": "candidate",
-          "sourcePath": "images.variation.0"
-        },
-        {
-          "id": "official-candidate-2d-1",
-          "title": "公式掲載衣装候補 2",
-          "category": "2D",
-          "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
-          "date": null,
-          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/c312be2c015743c6b5e960d52e3bdaed/liver-full-body_Kokoro_Amamiya_costume3.png",
-          "revealUrl": null,
-          "variants": [
-            {
-              "id": "official-candidate-2d-1-full",
-              "name": "全身",
-              "date": null,
-              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/c312be2c015743c6b5e960d52e3bdaed/liver-full-body_Kokoro_Amamiya_costume3.png"
-            },
-            {
-              "id": "official-candidate-2d-1-face",
-              "name": "顔アップ",
-              "date": null,
-              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/f6e60404c2c940219647830fdd0af5c0/liver-face_Kokoro_Amamiya_costume3.png"
-            }
-          ],
-          "sources": [
-            {
-              "label": "にじさんじ公式プロフィール",
-              "url": "https://www.nijisanji.jp/talents/l/kokoro-amamiya",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
-            }
-          ],
-          "verification": "candidate",
-          "sourcePath": "images.variation.1"
-        },
-        {
-          "id": "official-candidate-2d-2",
-          "title": "公式掲載衣装候補 3",
+          "id": "official-discovery-f5283ed526a9",
+          "title": "公式掲載衣装候補（追加収集）",
           "category": "2D",
           "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
           "date": null,
@@ -2165,13 +2069,13 @@
           "revealUrl": null,
           "variants": [
             {
-              "id": "official-candidate-2d-2-full",
+              "id": "official-discovery-f5283ed526a9-full",
               "name": "全身",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/7cf5e881a0c44233a621f5fcdaaccc23/liver-full-body_Kokoro_Amamiya_costume2.png"
             },
             {
-              "id": "official-candidate-2d-2-face",
+              "id": "official-discovery-f5283ed526a9-face",
               "name": "顔アップ",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/37ea7d0282084d3e87adf2cb5fcc4af5/liver-face_Kokoro_Amamiya_costume2.png"
@@ -2181,11 +2085,107 @@
             {
               "label": "にじさんじ公式プロフィール",
               "url": "https://www.nijisanji.jp/talents/l/kokoro-amamiya",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
             }
           ],
           "verification": "candidate",
-          "sourcePath": "images.variation.2"
+          "sourcePath": "official-profile-page"
+        },
+        {
+          "id": "official-discovery-fef42a0233a6",
+          "title": "公式掲載衣装候補（追加収集）",
+          "category": "2D",
+          "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/c312be2c015743c6b5e960d52e3bdaed/liver-full-body_Kokoro_Amamiya_costume3.png",
+          "revealUrl": null,
+          "variants": [
+            {
+              "id": "official-discovery-fef42a0233a6-full",
+              "name": "全身",
+              "date": null,
+              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/c312be2c015743c6b5e960d52e3bdaed/liver-full-body_Kokoro_Amamiya_costume3.png"
+            },
+            {
+              "id": "official-discovery-fef42a0233a6-face",
+              "name": "顔アップ",
+              "date": null,
+              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/f6e60404c2c940219647830fdd0af5c0/liver-face_Kokoro_Amamiya_costume3.png"
+            }
+          ],
+          "sources": [
+            {
+              "label": "にじさんじ公式プロフィール",
+              "url": "https://www.nijisanji.jp/talents/l/kokoro-amamiya",
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
+            }
+          ],
+          "verification": "candidate",
+          "sourcePath": "official-profile-page"
+        },
+        {
+          "id": "official-discovery-c1931eb0d83b",
+          "title": "公式掲載衣装候補（追加収集）",
+          "category": "2D",
+          "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/6d3e301bf5d346eea540624dc4cce023/liver-full-body_Kokoro_Amamiya_costume4.png",
+          "revealUrl": null,
+          "variants": [
+            {
+              "id": "official-discovery-c1931eb0d83b-full",
+              "name": "全身",
+              "date": null,
+              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/6d3e301bf5d346eea540624dc4cce023/liver-full-body_Kokoro_Amamiya_costume4.png"
+            },
+            {
+              "id": "official-discovery-c1931eb0d83b-face",
+              "name": "顔アップ",
+              "date": null,
+              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/d6c5b45325f54548b914dbc4c8a75a14/liver-face_Kokoro_Amamiya_costume4.png"
+            }
+          ],
+          "sources": [
+            {
+              "label": "にじさんじ公式プロフィール",
+              "url": "https://www.nijisanji.jp/talents/l/kokoro-amamiya",
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
+            }
+          ],
+          "verification": "candidate",
+          "sourcePath": "official-profile-page"
+        },
+        {
+          "id": "official-discovery-e48be5b43713",
+          "title": "公式掲載衣装候補（追加収集）",
+          "category": "2D",
+          "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/0bbfc35a170143feb980915b04a4e193/liver-full-body_Kokoro_Amamiya_costume5.png",
+          "revealUrl": null,
+          "variants": [
+            {
+              "id": "official-discovery-e48be5b43713-full",
+              "name": "全身",
+              "date": null,
+              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/0bbfc35a170143feb980915b04a4e193/liver-full-body_Kokoro_Amamiya_costume5.png"
+            },
+            {
+              "id": "official-discovery-e48be5b43713-face",
+              "name": "顔アップ",
+              "date": null,
+              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/c4c0344b86d742f8966d7f3d584d39ea/liver-face_Kokoro_Amamiya_costume5.png"
+            }
+          ],
+          "sources": [
+            {
+              "label": "にじさんじ公式プロフィール",
+              "url": "https://www.nijisanji.jp/talents/l/kokoro-amamiya",
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
+            }
+          ],
+          "verification": "candidate",
+          "sourcePath": "official-profile-page"
         }
       ],
       "music": [],
@@ -2279,8 +2279,8 @@
       "changes": [],
       "visuals": [
         {
-          "id": "official-candidate-2d-0",
-          "title": "公式掲載衣装候補 1",
+          "id": "official-discovery-bdbf5c677277",
+          "title": "公式掲載衣装候補（追加収集）",
           "category": "2D",
           "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
           "date": null,
@@ -2288,13 +2288,13 @@
           "revealUrl": null,
           "variants": [
             {
-              "id": "official-candidate-2d-0-full",
+              "id": "official-discovery-bdbf5c677277-full",
               "name": "全身",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/4894c76a45d3474a965bd2b69579b77d/liver-full-body_Kuzuha_costume2.png"
             },
             {
-              "id": "official-candidate-2d-0-face",
+              "id": "official-discovery-bdbf5c677277-face",
               "name": "顔アップ",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/2575109bd13b4e31ab702a929f88f226/liver-face_Kuzuha_costume2.png"
@@ -2304,15 +2304,15 @@
             {
               "label": "にじさんじ公式プロフィール",
               "url": "https://www.nijisanji.jp/talents/l/kuzuha",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
             }
           ],
           "verification": "candidate",
-          "sourcePath": "images.variation.0"
+          "sourcePath": "official-profile-page"
         },
         {
-          "id": "official-candidate-2d-1",
-          "title": "公式掲載衣装候補 2",
+          "id": "official-discovery-120456795c05",
+          "title": "公式掲載衣装候補（追加収集）",
           "category": "2D",
           "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
           "date": null,
@@ -2320,13 +2320,13 @@
           "revealUrl": null,
           "variants": [
             {
-              "id": "official-candidate-2d-1-full",
+              "id": "official-discovery-120456795c05-full",
               "name": "全身",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/c4154c10623f40028ed5e83c65970283/liver-full-body_Kuzuha_costume3.png"
             },
             {
-              "id": "official-candidate-2d-1-face",
+              "id": "official-discovery-120456795c05-face",
               "name": "顔アップ",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/78d6a9bd027f4b959780bbd6c826c154/liver-face_Kuzuha_costume3.png"
@@ -2336,11 +2336,11 @@
             {
               "label": "にじさんじ公式プロフィール",
               "url": "https://www.nijisanji.jp/talents/l/kuzuha",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
             }
           ],
           "verification": "candidate",
-          "sourcePath": "images.variation.1"
+          "sourcePath": "official-profile-page"
         }
       ],
       "music": [],
@@ -2427,8 +2427,8 @@
       "changes": [],
       "visuals": [
         {
-          "id": "official-candidate-2d-0",
-          "title": "公式掲載衣装候補 1",
+          "id": "official-discovery-91b04e06cec5",
+          "title": "公式掲載衣装候補（追加収集）",
           "category": "2D",
           "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
           "date": null,
@@ -2436,13 +2436,13 @@
           "revealUrl": null,
           "variants": [
             {
-              "id": "official-candidate-2d-0-full",
+              "id": "official-discovery-91b04e06cec5-full",
               "name": "全身",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/e54857a164394896aa1b8d4ebb8860c4/liver-full-body_Lize_Helesta_costume2.png"
             },
             {
-              "id": "official-candidate-2d-0-face",
+              "id": "official-discovery-91b04e06cec5-face",
               "name": "顔アップ",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/8b2bf192da664eaf91201522131491e7/liver-face_Lize_Helesta_costume2.png"
@@ -2452,15 +2452,15 @@
             {
               "label": "にじさんじ公式プロフィール",
               "url": "https://www.nijisanji.jp/talents/l/lize-helesta",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
             }
           ],
           "verification": "candidate",
-          "sourcePath": "images.variation.0"
+          "sourcePath": "official-profile-page"
         },
         {
-          "id": "official-candidate-2d-1",
-          "title": "公式掲載衣装候補 2",
+          "id": "official-discovery-a986b7466d4e",
+          "title": "公式掲載衣装候補（追加収集）",
           "category": "2D",
           "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
           "date": null,
@@ -2468,13 +2468,13 @@
           "revealUrl": null,
           "variants": [
             {
-              "id": "official-candidate-2d-1-full",
+              "id": "official-discovery-a986b7466d4e-full",
               "name": "全身",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/af9570fa81ba445d90eaa39f4168b1ff/liver-full-body_Lize_Helesta_costume3.png"
             },
             {
-              "id": "official-candidate-2d-1-face",
+              "id": "official-discovery-a986b7466d4e-face",
               "name": "顔アップ",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/22ec9562a6c04b27b5058d25ecb9eca6/liver-face_Lize_Helesta_costume3.png"
@@ -2484,15 +2484,15 @@
             {
               "label": "にじさんじ公式プロフィール",
               "url": "https://www.nijisanji.jp/talents/l/lize-helesta",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
             }
           ],
           "verification": "candidate",
-          "sourcePath": "images.variation.1"
+          "sourcePath": "official-profile-page"
         },
         {
-          "id": "official-candidate-2d-2",
-          "title": "公式掲載衣装候補 3",
+          "id": "official-discovery-6c8a55afae7c",
+          "title": "公式掲載衣装候補（追加収集）",
           "category": "2D",
           "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
           "date": null,
@@ -2500,13 +2500,13 @@
           "revealUrl": null,
           "variants": [
             {
-              "id": "official-candidate-2d-2-full",
+              "id": "official-discovery-6c8a55afae7c-full",
               "name": "全身",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/2a499367d3d647edbe66000e9d415a49/liver-full-body_Lize_Helesta_costume4.png"
             },
             {
-              "id": "official-candidate-2d-2-face",
+              "id": "official-discovery-6c8a55afae7c-face",
               "name": "顔アップ",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/98a61fe9e0a84c0fa92260d51005e2d7/liver-face_Lize_Helesta_costume4.png"
@@ -2516,11 +2516,11 @@
             {
               "label": "にじさんじ公式プロフィール",
               "url": "https://www.nijisanji.jp/talents/l/lize-helesta",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
             }
           ],
           "verification": "candidate",
-          "sourcePath": "images.variation.2"
+          "sourcePath": "official-profile-page"
         }
       ],
       "music": [],
@@ -2607,8 +2607,8 @@
       "changes": [],
       "visuals": [
         {
-          "id": "official-candidate-2d-0",
-          "title": "公式掲載衣装候補 1",
+          "id": "official-discovery-60066f09f902",
+          "title": "公式掲載衣装候補（追加収集）",
           "category": "2D",
           "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
           "date": null,
@@ -2616,13 +2616,13 @@
           "revealUrl": null,
           "variants": [
             {
-              "id": "official-candidate-2d-0-full",
+              "id": "official-discovery-60066f09f902-full",
               "name": "全身",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/2699d5aeff9642fd857aa9ee5d63f1e9/liver-full-body_Minato_Fuwa_costume2.png"
             },
             {
-              "id": "official-candidate-2d-0-face",
+              "id": "official-discovery-60066f09f902-face",
               "name": "顔アップ",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/c13a2d60afc34084b53e2810b572d615/liver-face_Minato_Fuwa_costume2.png"
@@ -2632,15 +2632,15 @@
             {
               "label": "にじさんじ公式プロフィール",
               "url": "https://www.nijisanji.jp/talents/l/minato-fuwa",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
             }
           ],
           "verification": "candidate",
-          "sourcePath": "images.variation.0"
+          "sourcePath": "official-profile-page"
         },
         {
-          "id": "official-candidate-2d-1",
-          "title": "公式掲載衣装候補 2",
+          "id": "official-discovery-3d193a56ad8e",
+          "title": "公式掲載衣装候補（追加収集）",
           "category": "2D",
           "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
           "date": null,
@@ -2648,13 +2648,13 @@
           "revealUrl": null,
           "variants": [
             {
-              "id": "official-candidate-2d-1-full",
+              "id": "official-discovery-3d193a56ad8e-full",
               "name": "全身",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/f4892d5ae67e4a9b8bde70b27c9d39cb/liver-full-body_Minato_Fuwa_costume3.png"
             },
             {
-              "id": "official-candidate-2d-1-face",
+              "id": "official-discovery-3d193a56ad8e-face",
               "name": "顔アップ",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/71d87c2f379f43d586b33f5cca21f1a0/liver-face_Minato_Fuwa_costume3.png"
@@ -2664,15 +2664,15 @@
             {
               "label": "にじさんじ公式プロフィール",
               "url": "https://www.nijisanji.jp/talents/l/minato-fuwa",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
             }
           ],
           "verification": "candidate",
-          "sourcePath": "images.variation.1"
+          "sourcePath": "official-profile-page"
         },
         {
-          "id": "official-candidate-2d-2",
-          "title": "公式掲載衣装候補 3",
+          "id": "official-discovery-243d73ceaa28",
+          "title": "公式掲載衣装候補（追加収集）",
           "category": "2D",
           "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
           "date": null,
@@ -2680,13 +2680,13 @@
           "revealUrl": null,
           "variants": [
             {
-              "id": "official-candidate-2d-2-full",
+              "id": "official-discovery-243d73ceaa28-full",
               "name": "全身",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/61deb1ddae0a461688e94616c74f5e0a/liver-full-body_Minato_Fuwa_costume4.png"
             },
             {
-              "id": "official-candidate-2d-2-face",
+              "id": "official-discovery-243d73ceaa28-face",
               "name": "顔アップ",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/8f145255af804e6891f5e469a8968f05/liver-face_Minato_Fuwa_costume4.png"
@@ -2696,11 +2696,11 @@
             {
               "label": "にじさんじ公式プロフィール",
               "url": "https://www.nijisanji.jp/talents/l/minato-fuwa",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
             }
           ],
           "verification": "candidate",
-          "sourcePath": "images.variation.2"
+          "sourcePath": "official-profile-page"
         }
       ],
       "music": [],
@@ -2794,22 +2794,22 @@
       "changes": [],
       "visuals": [
         {
-          "id": "official-candidate-3d-0",
-          "title": "公式掲載衣装候補 1",
-          "category": "3D",
+          "id": "official-discovery-7c56c0769a82",
+          "title": "公式掲載衣装候補（追加収集）",
+          "category": "2D",
           "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
           "date": null,
           "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/e4a28bbdfd5e4989a4b2d8dcfc340d71/liver-full-body_Mito_Tsukino_costume2.png",
           "revealUrl": null,
           "variants": [
             {
-              "id": "official-candidate-3d-0-full",
+              "id": "official-discovery-7c56c0769a82-full",
               "name": "全身",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/e4a28bbdfd5e4989a4b2d8dcfc340d71/liver-full-body_Mito_Tsukino_costume2.png"
             },
             {
-              "id": "official-candidate-3d-0-face",
+              "id": "official-discovery-7c56c0769a82-face",
               "name": "顔アップ",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/72d2e7cd89d24a1ba913cf91bf0038ba/liver-face_Mito_Tsukino_costume2.png"
@@ -2819,11 +2819,11 @@
             {
               "label": "にじさんじ公式プロフィール",
               "url": "https://www.nijisanji.jp/talents/l/mito-tsukino",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
             }
           ],
           "verification": "candidate",
-          "sourcePath": "images.threeDVariation.0"
+          "sourcePath": "official-profile-page"
         }
       ],
       "music": [],
@@ -3076,8 +3076,8 @@
       "changes": [],
       "visuals": [
         {
-          "id": "official-candidate-2d-0",
-          "title": "公式掲載衣装候補 1",
+          "id": "official-discovery-edbba4cb4886",
+          "title": "公式掲載衣装候補（追加収集）",
           "category": "2D",
           "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
           "date": null,
@@ -3085,13 +3085,13 @@
           "revealUrl": null,
           "variants": [
             {
-              "id": "official-candidate-2d-0-full",
+              "id": "official-discovery-edbba4cb4886-full",
               "name": "全身",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/1813d037598844aeb62049e3635d5c4d/liver-full-body_Rin_Shizuka_costume2.png"
             },
             {
-              "id": "official-candidate-2d-0-face",
+              "id": "official-discovery-edbba4cb4886-face",
               "name": "顔アップ",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/880c6235e490438eb11e42bdaae5e6a5/liver-face_Rin_Shizuka_costume2.png"
@@ -3101,15 +3101,15 @@
             {
               "label": "にじさんじ公式プロフィール",
               "url": "https://www.nijisanji.jp/talents/l/rin-shizuka",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
             }
           ],
           "verification": "candidate",
-          "sourcePath": "images.variation.0"
+          "sourcePath": "official-profile-page"
         },
         {
-          "id": "official-candidate-2d-1",
-          "title": "公式掲載衣装候補 2",
+          "id": "official-discovery-dddaa2ca590b",
+          "title": "公式掲載衣装候補（追加収集）",
           "category": "2D",
           "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
           "date": null,
@@ -3117,13 +3117,13 @@
           "revealUrl": null,
           "variants": [
             {
-              "id": "official-candidate-2d-1-full",
+              "id": "official-discovery-dddaa2ca590b-full",
               "name": "全身",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/ec660a24e6de42f4abc561a689ff6153/liver-full-body_Rin_Shizuka_costume3.png"
             },
             {
-              "id": "official-candidate-2d-1-face",
+              "id": "official-discovery-dddaa2ca590b-face",
               "name": "顔アップ",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/a11bf2900bad4e83bf927de454700cd6/liver-face_Rin_Shizuka_costume3.png"
@@ -3133,15 +3133,15 @@
             {
               "label": "にじさんじ公式プロフィール",
               "url": "https://www.nijisanji.jp/talents/l/rin-shizuka",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
             }
           ],
           "verification": "candidate",
-          "sourcePath": "images.variation.1"
+          "sourcePath": "official-profile-page"
         },
         {
-          "id": "official-candidate-2d-2",
-          "title": "公式掲載衣装候補 3",
+          "id": "official-discovery-d36076588e1c",
+          "title": "公式掲載衣装候補（追加収集）",
           "category": "2D",
           "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
           "date": null,
@@ -3149,13 +3149,13 @@
           "revealUrl": null,
           "variants": [
             {
-              "id": "official-candidate-2d-2-full",
+              "id": "official-discovery-d36076588e1c-full",
               "name": "全身",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/f61e16b1785944188f392827c3eb1828/liver-full-body_Rin_Shizuka_costume4.png"
             },
             {
-              "id": "official-candidate-2d-2-face",
+              "id": "official-discovery-d36076588e1c-face",
               "name": "顔アップ",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/3a3be05d8f2e4304804d09776d98bd90/liver-face_Rin_Shizuka_costume4.png"
@@ -3165,11 +3165,11 @@
             {
               "label": "にじさんじ公式プロフィール",
               "url": "https://www.nijisanji.jp/talents/l/rin-shizuka",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
             }
           ],
           "verification": "candidate",
-          "sourcePath": "images.variation.2"
+          "sourcePath": "official-profile-page"
         }
       ],
       "music": [],
@@ -3256,8 +3256,8 @@
       "changes": [],
       "visuals": [
         {
-          "id": "official-candidate-2d-0",
-          "title": "公式掲載衣装候補 1",
+          "id": "official-discovery-9f59e03e85e2",
+          "title": "公式掲載衣装候補（追加収集）",
           "category": "2D",
           "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
           "date": null,
@@ -3265,13 +3265,13 @@
           "revealUrl": null,
           "variants": [
             {
-              "id": "official-candidate-2d-0-full",
+              "id": "official-discovery-9f59e03e85e2-full",
               "name": "全身",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/71d7b25ce21b417d9cfdff5fe387f00a/liver-full-body_Riri_Yuhi_costume2.png"
             },
             {
-              "id": "official-candidate-2d-0-face",
+              "id": "official-discovery-9f59e03e85e2-face",
               "name": "顔アップ",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/f4b89199b9ed4794b7fa349e0d498236/liver-face_Riri_Yuhi_costume2.png"
@@ -3281,15 +3281,15 @@
             {
               "label": "にじさんじ公式プロフィール",
               "url": "https://www.nijisanji.jp/talents/l/riri-yuhi",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
             }
           ],
           "verification": "candidate",
-          "sourcePath": "images.variation.0"
+          "sourcePath": "official-profile-page"
         },
         {
-          "id": "official-candidate-2d-1",
-          "title": "公式掲載衣装候補 2",
+          "id": "official-discovery-494d975028ec",
+          "title": "公式掲載衣装候補（追加収集）",
           "category": "2D",
           "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
           "date": null,
@@ -3297,13 +3297,13 @@
           "revealUrl": null,
           "variants": [
             {
-              "id": "official-candidate-2d-1-full",
+              "id": "official-discovery-494d975028ec-full",
               "name": "全身",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/5363715cf9a249b4b1c539116f7fda12/liver-full-body_Riri_Yuhi_costume3.png"
             },
             {
-              "id": "official-candidate-2d-1-face",
+              "id": "official-discovery-494d975028ec-face",
               "name": "顔アップ",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/dca9d3514e2441588ff73ad8577af870/liver-face_Riri_Yuhi_costume3.png"
@@ -3313,15 +3313,15 @@
             {
               "label": "にじさんじ公式プロフィール",
               "url": "https://www.nijisanji.jp/talents/l/riri-yuhi",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
             }
           ],
           "verification": "candidate",
-          "sourcePath": "images.variation.1"
+          "sourcePath": "official-profile-page"
         },
         {
-          "id": "official-candidate-2d-2",
-          "title": "公式掲載衣装候補 3",
+          "id": "official-discovery-a80b23176909",
+          "title": "公式掲載衣装候補（追加収集）",
           "category": "2D",
           "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
           "date": null,
@@ -3329,13 +3329,13 @@
           "revealUrl": null,
           "variants": [
             {
-              "id": "official-candidate-2d-2-full",
+              "id": "official-discovery-a80b23176909-full",
               "name": "全身",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/7ee32435eb744d30bcdae4eb3e53df99/liver-full-body_Riri_Yuhi_costume4.png"
             },
             {
-              "id": "official-candidate-2d-2-face",
+              "id": "official-discovery-a80b23176909-face",
               "name": "顔アップ",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/5305076bf52a4ac2892579e18b12779d/liver-face_Riri_Yuhi_costume4.png"
@@ -3345,11 +3345,11 @@
             {
               "label": "にじさんじ公式プロフィール",
               "url": "https://www.nijisanji.jp/talents/l/riri-yuhi",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
             }
           ],
           "verification": "candidate",
-          "sourcePath": "images.variation.2"
+          "sourcePath": "official-profile-page"
         }
       ],
       "music": [],
@@ -3436,40 +3436,8 @@
       "changes": [],
       "visuals": [
         {
-          "id": "official-candidate-3d-0",
-          "title": "公式掲載衣装候補 1",
-          "category": "3D",
-          "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
-          "date": null,
-          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/803c7f3e3ad841d3b451aeb9f98e3d7d/liver-full-body_Sara_Hoshikawa_costume3.png",
-          "revealUrl": null,
-          "variants": [
-            {
-              "id": "official-candidate-3d-0-full",
-              "name": "全身",
-              "date": null,
-              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/803c7f3e3ad841d3b451aeb9f98e3d7d/liver-full-body_Sara_Hoshikawa_costume3.png"
-            },
-            {
-              "id": "official-candidate-3d-0-face",
-              "name": "顔アップ",
-              "date": null,
-              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/efc1e71f2999412dbbc19331f58dfbc6/liver-face_Sara_Hoshikawa_costume3.png"
-            }
-          ],
-          "sources": [
-            {
-              "label": "にじさんじ公式プロフィール",
-              "url": "https://www.nijisanji.jp/talents/l/sara-hoshikawa",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
-            }
-          ],
-          "verification": "candidate",
-          "sourcePath": "images.threeDVariation.0"
-        },
-        {
-          "id": "official-candidate-2d-0",
-          "title": "公式掲載衣装候補 1",
+          "id": "official-discovery-88ce3c871183",
+          "title": "公式掲載衣装候補（追加収集）",
           "category": "2D",
           "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
           "date": null,
@@ -3477,13 +3445,13 @@
           "revealUrl": null,
           "variants": [
             {
-              "id": "official-candidate-2d-0-full",
+              "id": "official-discovery-88ce3c871183-full",
               "name": "全身",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/2b9b19ae17f341498e2b25632ca8f782/liver-full-body_Sara_Hoshikawa_costume2.png"
             },
             {
-              "id": "official-candidate-2d-0-face",
+              "id": "official-discovery-88ce3c871183-face",
               "name": "顔アップ",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/4b7480efba1e472c85b1ecccc20d17dd/liver-face_Sara_Hoshikawa_costume2.png"
@@ -3493,11 +3461,43 @@
             {
               "label": "にじさんじ公式プロフィール",
               "url": "https://www.nijisanji.jp/talents/l/sara-hoshikawa",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
             }
           ],
           "verification": "candidate",
-          "sourcePath": "images.variation.0"
+          "sourcePath": "official-profile-page"
+        },
+        {
+          "id": "official-discovery-d798f472a03d",
+          "title": "公式掲載衣装候補（追加収集）",
+          "category": "2D",
+          "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/803c7f3e3ad841d3b451aeb9f98e3d7d/liver-full-body_Sara_Hoshikawa_costume3.png",
+          "revealUrl": null,
+          "variants": [
+            {
+              "id": "official-discovery-d798f472a03d-full",
+              "name": "全身",
+              "date": null,
+              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/803c7f3e3ad841d3b451aeb9f98e3d7d/liver-full-body_Sara_Hoshikawa_costume3.png"
+            },
+            {
+              "id": "official-discovery-d798f472a03d-face",
+              "name": "顔アップ",
+              "date": null,
+              "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/efc1e71f2999412dbbc19331f58dfbc6/liver-face_Sara_Hoshikawa_costume3.png"
+            }
+          ],
+          "sources": [
+            {
+              "label": "にじさんじ公式プロフィール",
+              "url": "https://www.nijisanji.jp/talents/l/sara-hoshikawa",
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
+            }
+          ],
+          "verification": "candidate",
+          "sourcePath": "official-profile-page"
         }
       ],
       "music": [],
@@ -3584,22 +3584,22 @@
       "changes": [],
       "visuals": [
         {
-          "id": "official-candidate-3d-0",
-          "title": "公式掲載衣装候補 1",
-          "category": "3D",
+          "id": "official-discovery-bbf0d6644295",
+          "title": "公式掲載衣装候補（追加収集）",
+          "category": "2D",
           "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
           "date": null,
           "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/1f6ad32acba0491781db219910b187d6/liver-full-body_Sou_Hayase_costume2.png",
           "revealUrl": null,
           "variants": [
             {
-              "id": "official-candidate-3d-0-full",
+              "id": "official-discovery-bbf0d6644295-full",
               "name": "全身",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/1f6ad32acba0491781db219910b187d6/liver-full-body_Sou_Hayase_costume2.png"
             },
             {
-              "id": "official-candidate-3d-0-face",
+              "id": "official-discovery-bbf0d6644295-face",
               "name": "顔アップ",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/4558a73c21f7450b8e13167cab7caf9a/liver-face_Sou_Hayase_costume2.png"
@@ -3609,11 +3609,11 @@
             {
               "label": "にじさんじ公式プロフィール",
               "url": "https://www.nijisanji.jp/talents/l/sou-hayase",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
             }
           ],
           "verification": "candidate",
-          "sourcePath": "images.threeDVariation.0"
+          "sourcePath": "official-profile-page"
         }
       ],
       "music": [],
@@ -3700,8 +3700,8 @@
       "changes": [],
       "visuals": [
         {
-          "id": "official-candidate-2d-0",
-          "title": "公式掲載衣装候補 1",
+          "id": "official-discovery-3d9459c3e878",
+          "title": "公式掲載衣装候補（追加収集）",
           "category": "2D",
           "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
           "date": null,
@@ -3709,13 +3709,13 @@
           "revealUrl": null,
           "variants": [
             {
-              "id": "official-candidate-2d-0-full",
+              "id": "official-discovery-3d9459c3e878-full",
               "name": "全身",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/ab6854d864cc447e98a89104c978c461/liver-full-body_Toko_Inui_costume2.png"
             },
             {
-              "id": "official-candidate-2d-0-face",
+              "id": "official-discovery-3d9459c3e878-face",
               "name": "顔アップ",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/5321b3e88ac843248e8fee51a7e9bf95/liver-face_Toko_Inui_costume2.png"
@@ -3725,15 +3725,15 @@
             {
               "label": "にじさんじ公式プロフィール",
               "url": "https://www.nijisanji.jp/talents/l/toko-inui",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
             }
           ],
           "verification": "candidate",
-          "sourcePath": "images.variation.0"
+          "sourcePath": "official-profile-page"
         },
         {
-          "id": "official-candidate-2d-1",
-          "title": "公式掲載衣装候補 2",
+          "id": "official-discovery-2164635b74b8",
+          "title": "公式掲載衣装候補（追加収集）",
           "category": "2D",
           "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
           "date": null,
@@ -3741,13 +3741,13 @@
           "revealUrl": null,
           "variants": [
             {
-              "id": "official-candidate-2d-1-full",
+              "id": "official-discovery-2164635b74b8-full",
               "name": "全身",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/88eaa2f5bdd742e49e308c40bc8ea4d4/liver-full-body_Toko_Inui_costume3.png"
             },
             {
-              "id": "official-candidate-2d-1-face",
+              "id": "official-discovery-2164635b74b8-face",
               "name": "顔アップ",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/11eb4d8c6db64e8bbf3bd73b4dd019cf/liver-face_Toko_Inui_costume3.png"
@@ -3757,15 +3757,15 @@
             {
               "label": "にじさんじ公式プロフィール",
               "url": "https://www.nijisanji.jp/talents/l/toko-inui",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
             }
           ],
           "verification": "candidate",
-          "sourcePath": "images.variation.1"
+          "sourcePath": "official-profile-page"
         },
         {
-          "id": "official-candidate-2d-2",
-          "title": "公式掲載衣装候補 3",
+          "id": "official-discovery-a8b790ab2282",
+          "title": "公式掲載衣装候補（追加収集）",
           "category": "2D",
           "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
           "date": null,
@@ -3773,13 +3773,13 @@
           "revealUrl": null,
           "variants": [
             {
-              "id": "official-candidate-2d-2-full",
+              "id": "official-discovery-a8b790ab2282-full",
               "name": "全身",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/d518e3b27fcf46e596edead045cd34a7/liver-full-body_Toko_Inui_costume4.png"
             },
             {
-              "id": "official-candidate-2d-2-face",
+              "id": "official-discovery-a8b790ab2282-face",
               "name": "顔アップ",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/7e6550f7c17d4a908be07a5d781145f6/liver-face_Toko_Inui_costume4.png"
@@ -3789,11 +3789,11 @@
             {
               "label": "にじさんじ公式プロフィール",
               "url": "https://www.nijisanji.jp/talents/l/toko-inui",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
             }
           ],
           "verification": "candidate",
-          "sourcePath": "images.variation.2"
+          "sourcePath": "official-profile-page"
         }
       ],
       "music": [],
@@ -3880,8 +3880,37 @@
       "changes": [],
       "visuals": [
         {
-          "id": "official-candidate-2d-0",
-          "title": "公式掲載衣装候補 1",
+          "id": "initial-2d-kenmochi-school-uniform",
+          "title": "初期衣装（学生服）",
+          "category": "2D",
+          "kind": "初期衣装",
+          "date": "2018-03-14",
+          "imageUrl": "https://images.microcms-assets.io/assets/08e9ffa2c9d94cf88900071dfa1879e9/a5cd65d76816497490b50b35c7346471/liver-full-body_Toya_Kenmochi.png",
+          "revealUrl": null,
+          "variants": [
+            {
+              "id": "initial-2d-kenmochi-school-uniform-full",
+              "name": "全身",
+              "date": "2018-03-14",
+              "imageUrl": "https://images.microcms-assets.io/assets/08e9ffa2c9d94cf88900071dfa1879e9/a5cd65d76816497490b50b35c7346471/liver-full-body_Toya_Kenmochi.png"
+            }
+          ],
+          "sources": [
+            {
+              "label": "にじさんじ公式画像（公式CDN）",
+              "url": "https://images.microcms-assets.io/assets/08e9ffa2c9d94cf88900071dfa1879e9/a5cd65d76816497490b50b35c7346471/liver-full-body_Toya_Kenmochi.png"
+            },
+            {
+              "label": "衣装公開日と初期衣装の照合（非公式Wiki）",
+              "url": "https://wikiwiki.jp/nijisanji/%E8%A1%A3%E8%A3%85%E7%AD%89%E3%81%BE%E3%81%A8%E3%82%81/%E7%B5%B1%E5%90%88%E4%BB%A5%E5%89%8D"
+            }
+          ],
+          "verification": "manually-reviewed",
+          "note": "公式画像URLと非公式衣装一覧を照合。掲載許諾を意味しません。"
+        },
+        {
+          "id": "official-discovery-cae85fe941c8",
+          "title": "公式掲載衣装候補（追加収集）",
           "category": "2D",
           "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
           "date": null,
@@ -3889,13 +3918,13 @@
           "revealUrl": null,
           "variants": [
             {
-              "id": "official-candidate-2d-0-full",
+              "id": "official-discovery-cae85fe941c8-full",
               "name": "全身",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/456c7fab41eb4d589cdf3911621ff617/liver-full-body_Toya_Kenmochi_costume2.png"
             },
             {
-              "id": "official-candidate-2d-0-face",
+              "id": "official-discovery-cae85fe941c8-face",
               "name": "顔アップ",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/eacd824d55b747c0bd5328265e092afe/liver-face_Toya_Kenmochi_costume2.png"
@@ -3905,15 +3934,15 @@
             {
               "label": "にじさんじ公式プロフィール",
               "url": "https://www.nijisanji.jp/talents/l/toya-kenmochi",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
             }
           ],
           "verification": "candidate",
-          "sourcePath": "images.variation.0"
+          "sourcePath": "official-profile-page"
         },
         {
-          "id": "official-candidate-2d-1",
-          "title": "公式掲載衣装候補 2",
+          "id": "official-discovery-11eb889e2bb7",
+          "title": "公式掲載衣装候補（追加収集）",
           "category": "2D",
           "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
           "date": null,
@@ -3921,13 +3950,13 @@
           "revealUrl": null,
           "variants": [
             {
-              "id": "official-candidate-2d-1-full",
+              "id": "official-discovery-11eb889e2bb7-full",
               "name": "全身",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/dc09feb87caa4d94b27e08a62aece842/liver-full-body_Toya_Kenmochi_costume3.png"
             },
             {
-              "id": "official-candidate-2d-1-face",
+              "id": "official-discovery-11eb889e2bb7-face",
               "name": "顔アップ",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/e47e2a1990b8432c96117a635911b217/liver-face_Toya_Kenmochi_costume3.png"
@@ -3937,15 +3966,15 @@
             {
               "label": "にじさんじ公式プロフィール",
               "url": "https://www.nijisanji.jp/talents/l/toya-kenmochi",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
             }
           ],
           "verification": "candidate",
-          "sourcePath": "images.variation.1"
+          "sourcePath": "official-profile-page"
         },
         {
-          "id": "official-candidate-2d-2",
-          "title": "公式掲載衣装候補 3",
+          "id": "official-discovery-2090b6a1a91d",
+          "title": "公式掲載衣装候補（追加収集）",
           "category": "2D",
           "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
           "date": null,
@@ -3953,13 +3982,13 @@
           "revealUrl": null,
           "variants": [
             {
-              "id": "official-candidate-2d-2-full",
+              "id": "official-discovery-2090b6a1a91d-full",
               "name": "全身",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/28f7d54c25b54e0badc67aa37ea21a10/liver-full-body_Toya_Kenmochi_costume4.png"
             },
             {
-              "id": "official-candidate-2d-2-face",
+              "id": "official-discovery-2090b6a1a91d-face",
               "name": "顔アップ",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/3ee971c523fb47528bbb749ecd4fedef/liver-face_Toya_Kenmochi_costume4.png"
@@ -3969,11 +3998,11 @@
             {
               "label": "にじさんじ公式プロフィール",
               "url": "https://www.nijisanji.jp/talents/l/toya-kenmochi",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
             }
           ],
           "verification": "candidate",
-          "sourcePath": "images.variation.2"
+          "sourcePath": "official-profile-page"
         }
       ],
       "music": [],
@@ -4060,8 +4089,8 @@
       "changes": [],
       "visuals": [
         {
-          "id": "official-candidate-2d-0",
-          "title": "公式掲載衣装候補 1",
+          "id": "official-discovery-5012a2892f93",
+          "title": "公式掲載衣装候補（追加収集）",
           "category": "2D",
           "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
           "date": null,
@@ -4069,13 +4098,13 @@
           "revealUrl": null,
           "variants": [
             {
-              "id": "official-candidate-2d-0-full",
+              "id": "official-discovery-5012a2892f93-full",
               "name": "全身",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/c67dd6c0374b4df6bc7516eead332fde/liver-full-body_Youko_Akabane_costume2.png"
             },
             {
-              "id": "official-candidate-2d-0-face",
+              "id": "official-discovery-5012a2892f93-face",
               "name": "顔アップ",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/078fa703179447fb860cb996bead9f16/liver-face_Youko_Akabane_costume2.png"
@@ -4085,11 +4114,11 @@
             {
               "label": "にじさんじ公式プロフィール",
               "url": "https://www.nijisanji.jp/talents/l/youko-akabane",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
             }
           ],
           "verification": "candidate",
-          "sourcePath": "images.variation.0"
+          "sourcePath": "official-profile-page"
         }
       ],
       "music": [],
@@ -4176,8 +4205,8 @@
       "changes": [],
       "visuals": [
         {
-          "id": "official-candidate-2d-0",
-          "title": "公式掲載衣装候補 1",
+          "id": "official-discovery-398f536b7c76",
+          "title": "公式掲載衣装候補（追加収集）",
           "category": "2D",
           "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
           "date": null,
@@ -4185,13 +4214,13 @@
           "revealUrl": null,
           "variants": [
             {
-              "id": "official-candidate-2d-0-full",
+              "id": "official-discovery-398f536b7c76-full",
               "name": "全身",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/f15f0e48b3924e7d803529e511b05681/liver-full-body_Yuika_Shiina_costume2.png"
             },
             {
-              "id": "official-candidate-2d-0-face",
+              "id": "official-discovery-398f536b7c76-face",
               "name": "顔アップ",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/11259e8fe6c146099a3f0b7a3e2dd00d/liver-face_Yuika_Shiina_costume2.png"
@@ -4201,15 +4230,15 @@
             {
               "label": "にじさんじ公式プロフィール",
               "url": "https://www.nijisanji.jp/talents/l/yuika-shiina",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
             }
           ],
           "verification": "candidate",
-          "sourcePath": "images.variation.0"
+          "sourcePath": "official-profile-page"
         },
         {
-          "id": "official-candidate-2d-1",
-          "title": "公式掲載衣装候補 2",
+          "id": "official-discovery-89279f340c16",
+          "title": "公式掲載衣装候補（追加収集）",
           "category": "2D",
           "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
           "date": null,
@@ -4217,13 +4246,13 @@
           "revealUrl": null,
           "variants": [
             {
-              "id": "official-candidate-2d-1-full",
+              "id": "official-discovery-89279f340c16-full",
               "name": "全身",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/4bfe786f2f6a4fa3a4fded1d38a704ef/liver-full-body_Yuika_Shiina_costume3.png"
             },
             {
-              "id": "official-candidate-2d-1-face",
+              "id": "official-discovery-89279f340c16-face",
               "name": "顔アップ",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/df79978f55e345deb7c8e959f6ba20be/liver-face_Yuika_Shiina_costume3.png"
@@ -4233,15 +4262,15 @@
             {
               "label": "にじさんじ公式プロフィール",
               "url": "https://www.nijisanji.jp/talents/l/yuika-shiina",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
             }
           ],
           "verification": "candidate",
-          "sourcePath": "images.variation.1"
+          "sourcePath": "official-profile-page"
         },
         {
-          "id": "official-candidate-2d-2",
-          "title": "公式掲載衣装候補 3",
+          "id": "official-discovery-a8736456762b",
+          "title": "公式掲載衣装候補（追加収集）",
           "category": "2D",
           "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
           "date": null,
@@ -4249,13 +4278,13 @@
           "revealUrl": null,
           "variants": [
             {
-              "id": "official-candidate-2d-2-full",
+              "id": "official-discovery-a8736456762b-full",
               "name": "全身",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/dd599c63126b4ef892011f3d06f77ff5/liver-full-body_Yuika_Shiina_costume4.png"
             },
             {
-              "id": "official-candidate-2d-2-face",
+              "id": "official-discovery-a8736456762b-face",
               "name": "顔アップ",
               "date": null,
               "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/386d092391a14093b8f3a7d88d34ed8f/liver-face_Yuika_Shiina_costume4.png"
@@ -4265,11 +4294,11 @@
             {
               "label": "にじさんじ公式プロフィール",
               "url": "https://www.nijisanji.jp/talents/l/yuika-shiina",
-              "verifiedAt": "2026-11-14T15:15:11.965Z"
+              "verifiedAt": "2026-11-14T17:03:21.830Z"
             }
           ],
           "verification": "candidate",
-          "sourcePath": "images.variation.2"
+          "sourcePath": "official-profile-page"
         }
       ],
       "music": [],
