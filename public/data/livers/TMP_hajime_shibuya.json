@@ -71,7 +71,104 @@
     }
   ],
   "changes": [],
-  "visuals": [],
+  "visuals": [
+    {
+      "id": "official-candidate-2d-0",
+      "title": "公式掲載衣装候補 1",
+      "category": "2D",
+      "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
+      "date": null,
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/e67b63d8e08341a3bc89cab0932ef1ff/liver-full-body_Hajime_Shibuya_costume4.png",
+      "revealUrl": null,
+      "variants": [
+        {
+          "id": "official-candidate-2d-0-full",
+          "name": "全身",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/e67b63d8e08341a3bc89cab0932ef1ff/liver-full-body_Hajime_Shibuya_costume4.png"
+        },
+        {
+          "id": "official-candidate-2d-0-face",
+          "name": "顔アップ",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/fabf3d5251244361b87ea2312b500b09/liver-face_Hajime_Shibuya_costume4.png"
+        }
+      ],
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/hajime-shibuya",
+          "verifiedAt": "2026-11-14T15:15:11.965Z"
+        }
+      ],
+      "verification": "candidate",
+      "sourcePath": "images.variation.0"
+    },
+    {
+      "id": "official-candidate-2d-1",
+      "title": "公式掲載衣装候補 2",
+      "category": "2D",
+      "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
+      "date": null,
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/a8a4cfed424f490196c206b1a79ea5d7/liver-full-body_Hajime_Shibuya_costume3.png",
+      "revealUrl": null,
+      "variants": [
+        {
+          "id": "official-candidate-2d-1-full",
+          "name": "全身",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/a8a4cfed424f490196c206b1a79ea5d7/liver-full-body_Hajime_Shibuya_costume3.png"
+        },
+        {
+          "id": "official-candidate-2d-1-face",
+          "name": "顔アップ",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/6c7b702704944299a395c8a550fb635a/liver-face_Hajime_Shibuya_costume3.png"
+        }
+      ],
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/hajime-shibuya",
+          "verifiedAt": "2026-11-14T15:15:11.965Z"
+        }
+      ],
+      "verification": "candidate",
+      "sourcePath": "images.variation.1"
+    },
+    {
+      "id": "official-candidate-2d-2",
+      "title": "公式掲載衣装候補 3",
+      "category": "2D",
+      "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
+      "date": null,
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/f045b16b84064809baa048a0ae97ab07/liver-full-body_Hajime_Shibuya_costume2.png",
+      "revealUrl": null,
+      "variants": [
+        {
+          "id": "official-candidate-2d-2-full",
+          "name": "全身",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/f045b16b84064809baa048a0ae97ab07/liver-full-body_Hajime_Shibuya_costume2.png"
+        },
+        {
+          "id": "official-candidate-2d-2-face",
+          "name": "顔アップ",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/4cac44c2b78043149f1256114487300e/liver-face_Hajime_Shibuya_costume2.png"
+        }
+      ],
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/hajime-shibuya",
+          "verifiedAt": "2026-11-14T15:15:11.965Z"
+        }
+      ],
+      "verification": "candidate",
+      "sourcePath": "images.variation.2"
+    }
+  ],
   "music": [],
   "events": [],
   "youtube": {

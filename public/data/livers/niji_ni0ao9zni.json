@@ -181,7 +181,40 @@
       ]
     }
   ],
-  "visuals": [],
+  "visuals": [
+    {
+      "id": "official-candidate-3d-0",
+      "title": "公式掲載衣装候補 1",
+      "category": "3D",
+      "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
+      "date": null,
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/6f58578099704e3ea5281ba55e9092bd/liver-full-body_Nozomi_Ishigami_costume2.png",
+      "revealUrl": null,
+      "variants": [
+        {
+          "id": "official-candidate-3d-0-full",
+          "name": "全身",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/6f58578099704e3ea5281ba55e9092bd/liver-full-body_Nozomi_Ishigami_costume2.png"
+        },
+        {
+          "id": "official-candidate-3d-0-face",
+          "name": "顔アップ",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/eb9dbbce6f164feeb48b5908b849fae9/liver-face_Nozomi_Ishigami_costume2.png"
+        }
+      ],
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/nozomi-ishigami",
+          "verifiedAt": "2026-11-14T15:15:11.965Z"
+        }
+      ],
+      "verification": "candidate",
+      "sourcePath": "images.threeDVariation.0"
+    }
+  ],
   "music": [],
   "events": [],
   "youtube": {
