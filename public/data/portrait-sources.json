@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-11-14",
-  "description": "にじさんじ公式プロフィールの画像リンクに由来する代表画像。画像URLが利用不可の場合はUI側で未登録表示。画像の権利は各権利者に帰属します。",
+  "description": "公式タレント個別ページから画像配信元のURLを確認した代表画像。画像の現時点の表示可否と使用許諾は別途確認。個別JSONの情報やYouTubeは変更しない。",
   "portraits": [
     {
       "id": "TMP_ange_katrina",
@@ -175,6 +175,78 @@
       "name": "椎名唯華",
       "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/dd599c63126b4ef892011f3d06f77ff5/liver-full-body_Yuika_Shiina_costume4.png?fm=webp&w=800",
       "sourceUrl": "https://www.nijisanji.jp/talents/l/yuika-shiina"
+    },
+    {
+      "id": "niji_0k1fv9e8zs4g",
+      "name": "五十嵐梨花",
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/e81a579a50e94b998d3131ac92aeec25/liver-full-body_Rika_Igarashi.png?fm=webp&w=800",
+      "sourceUrl": "https://www.nijisanji.jp/talents/l/rika-igarashi",
+      "verifiedAt": "2026-11-14",
+      "imageSource": "official-profile"
+    },
+    {
+      "id": "niji_9of6xz5dzyfw",
+      "name": "叢雲カゲツ",
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/8888549abb4a455f8655e513da5b9159/%E5%8F%A2%E9%9B%B2%E3%82%AB%E3%82%B1%E3%82%99%E3%83%84%E3%81%95%E3%82%93HP%E3%83%9B%E3%82%9A%E3%83%BC%E3%82%B9%E3%82%99_250509.png?fm=webp&w=800",
+      "sourceUrl": "https://www.nijisanji.jp/talents/l/kagetsu-murakumo",
+      "verifiedAt": "2026-11-14",
+      "imageSource": "official-profile"
+    },
+    {
+      "id": "niji_f_gnq77vu8m",
+      "name": "佐伯イッテツ",
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/cd0f93a81b504512a36ccb400eebb37a/liver-full-body_Ittetsu_Saiki_costume2.png?fm=webp&w=800",
+      "sourceUrl": "https://www.nijisanji.jp/talents/l/ittetsu-saiki",
+      "verifiedAt": "2026-11-14",
+      "imageSource": "official-profile"
+    },
+    {
+      "id": "niji_gxancbkhyuwt",
+      "name": "鏑木ろこ",
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/2393c247e5f7427a9f038754ccc95ea6/liver-full-body_Roko_Kaburaki.png?fm=webp&w=800",
+      "sourceUrl": "https://www.nijisanji.jp/talents/l/roco-kaburaki",
+      "verifiedAt": "2026-11-14",
+      "imageSource": "official-profile"
+    },
+    {
+      "id": "niji_lieef5j5q",
+      "name": "星導ショウ",
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/3a6d2b3abccc4737bbef38eb7da2066c/liver-full-body_Sho_Hoshirube_costume2.png?fm=webp&w=800",
+      "sourceUrl": "https://www.nijisanji.jp/talents/l/sho-hoshirube",
+      "verifiedAt": "2026-11-14",
+      "imageSource": "official-profile"
+    },
+    {
+      "id": "niji_tjynw7pak7",
+      "name": "倉持めると",
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/eb9459fca6294dc598785dff3aa4c355/liver-full-body_Meruto_Kuramochi.png?fm=webp&w=800",
+      "sourceUrl": "https://www.nijisanji.jp/talents/l/meruto-kuramochi",
+      "verifiedAt": "2026-11-14",
+      "imageSource": "official-profile"
+    },
+    {
+      "id": "niji_xe7r9ndu-vm",
+      "name": "ソフィア・ヴァレンタイン",
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/4f61dda7f38f49d98ab2825bd4139db4/liver-full-body_Sophia_Valentine.png?fm=webp&w=800",
+      "sourceUrl": "https://www.nijisanji.jp/talents/l/sophia-valentine",
+      "verifiedAt": "2026-11-14",
+      "imageSource": "official-profile"
+    },
+    {
+      "id": "niji_zx-e3qpysbk",
+      "name": "栞葉るり",
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/05424e96d850455c8f0c5ef7d58e2632/liver-full-body_Ruri_Shioriha.png?fm=webp&w=800",
+      "sourceUrl": "https://www.nijisanji.jp/talents/l/ruri-shioriha",
+      "verifiedAt": "2026-11-14",
+      "imageSource": "official-profile"
+    },
+    {
+      "id": "niji_zz_7rbwsol",
+      "name": "小清水透",
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/857c59b820474f0e852d3b29ef59e174/liver-full-body_Toru_Koshimizu_costume4.png?fm=webp&w=800",
+      "sourceUrl": "https://www.nijisanji.jp/talents/l/toru-koshimizu",
+      "verifiedAt": "2026-11-14",
+      "imageSource": "official-profile"
     }
   ]
 }

@@ -35,7 +35,30 @@ if(fs.existsSync('public/data/identity-baseline.json')){
 }
 const sourceFiles=fs.readdirSync('public/data/livers').filter(f=>f.endsWith('.json')&&!f.startsWith('demo_'));
 if(sourceFiles.length!==data.livers.length)errors.push('個別JSONと一覧の件数不一致');
-for(const file of sourceFiles){const raw=JSON.parse(fs.readFileSync('public/data/livers/'+file,'utf8'));if(file!==raw.id+'.json')errors.push(`ファイル名/ID不一致: ${file}`);if(JSON.stringify(raw)!==JSON.stringify(data.livers.find(l=>l.id===raw.id)))errors.push(`一覧再生成が必要: ${file}`);}
+
+// build-index.mjs は公式画像データだけを一覧に補完する。
+// 補完された画像情報を照合したうえで、元の個別JSONとは残りの項目を厳密比較する。
+const portraitFile='public/data/portrait-sources.json';
+const portraitById=new Map();
+if(fs.existsSync(portraitFile)){
+  const portraitData=JSON.parse(fs.readFileSync(portraitFile,'utf8'));
+  for(const p of portraitData.portraits||[]){
+    if(portraitById.has(p.id))errors.push(`画像ID重複: ${p.id}`);
+    portraitById.set(p.id,p);
+  }
+}
+for(const file of sourceFiles){
+  const raw=JSON.parse(fs.readFileSync('public/data/livers/'+file,'utf8'));
+  if(file!==raw.id+'.json')errors.push(`ファイル名/ID不一致: ${file}`);
+  const expected={...raw};
+  const portrait=portraitById.get(raw.id);
+  if(portrait && !raw.portraitUrl){
+    if(portrait.name!==raw.name || portrait.sourceUrl!==raw.officialProfileUrl)errors.push(`画像の本人照合不一致: ${raw.id}`);
+    expected.portraitUrl=portrait.imageUrl;
+    expected.portraitSourceUrl=portrait.sourceUrl;
+  }
+  if(JSON.stringify(expected)!==JSON.stringify(data.livers.find(l=>l.id===raw.id)))errors.push(`一覧再生成が必要: ${file}`);
+}
 for (const liver of data.livers || []) for (const music of liver.music || []) for (const id of music.participantIds || []) {
   if (!seen.has(id)) warnings.push(`${music.id}: 不明な参加者ID ${id}`);
 }

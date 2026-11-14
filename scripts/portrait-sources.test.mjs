@@ -11,8 +11,8 @@ const livers = fs.readdirSync(liverDir)
   .map(name => JSON.parse(fs.readFileSync(path.join(liverDir, name), 'utf8')));
 const byId = new Map(livers.map(x => [x.id, x]));
 
-test('公式画像登録一覧は29人分ありIDが重複しない', () => {
-  assert.equal(portraits.length, 29);
+test('公式画像登録一覧は38人分ありIDが重複しない', () => {
+  assert.equal(portraits.length, 38);
   assert.equal(new Set(portraits.map(x => x.id)).size, portraits.length);
 });
 
