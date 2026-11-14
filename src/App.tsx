@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from 'react';
 import type { ReactNode } from 'react';
-import { ArrowLeft, ArrowRight, BookOpen, Cake, CalendarDays, ChevronDown, ChevronLeft, ChevronRight, ChevronUp, Clock3, ExternalLink, Heart, Home, Image as ImageIcon, Info, Layers3, List, Menu, Moon, Music2, Play, Search, Settings, Sun, Users, Youtube } from 'lucide-react';
+import { ArrowLeft, ArrowRight, BookOpen, Cake, CalendarDays, ChevronDown, ChevronLeft, ChevronRight, ChevronUp, ExternalLink, Heart, Home, Image as ImageIcon, Info, Layers3, List, Menu, Moon, Music2, Play, Search, Settings, Sun, Users, Youtube } from 'lucide-react';
 import type { Event, FieldValue, Liver, LiverIndex, Music, Video, Visual } from './types';
 
 type Page = 'home' | 'livers' | 'profile' | 'settings';
@@ -26,13 +26,6 @@ function ButtonLink({href,children}:{href?:string|null;children:ReactNode}) {
 function displayField(f:FieldValue, birthday=false) {return birthday?formatBirthday(f.value):str(f.value);}
 function formatTime(iso:string|null|undefined) {if (!iso) return '未取得'; const date=new Date(iso);return Number.isNaN(date.getTime())?'未取得':new Intl.DateTimeFormat('ja-JP',{year:'numeric',month:'numeric',day:'numeric',hour:'2-digit',minute:'2-digit'}).format(date);}
 function dateSort(a:string|null|undefined,b:string|null|undefined,ascending:boolean) {if(!a&&!b)return 0;if(!a) return 1;if(!b)return -1;return ascending?a.localeCompare(b):b.localeCompare(a);}
-function upcomingDays(dayMonth:string|null):number {
-  if(!dayMonth || !/^\d\d-\d\d$/.test(dayMonth)) return 1000;
-  const now=new Date(), year=now.getFullYear(); const m=Number(dayMonth.slice(0,2)),d=Number(dayMonth.slice(3));
-  let target = new Date(year,m-1,d); if(target.getMonth()!==m-1 || target.getDate()!==d) return 1000;
-  target.setHours(0,0,0,0);const today=new Date(year,now.getMonth(),now.getDate());if(target<today) target=new Date(year+1,m-1,d);
-  return Math.round((target.getTime()-today.getTime())/86400000);
-}
 function routeFor(page:Page, id?:string) {return page==='profile'&&id?`#/liver/${id}`:`#/${page}`;}
 function readRoute() {const match=location.hash.match(/^#\/liver\/([\w-]+)$/); return match?{page:'profile' as Page,id:match[1]}:{page:(['home','livers','settings'].includes(location.hash.slice(2))?location.hash.slice(2):'home') as Page,id:null};}
 
@@ -95,8 +88,6 @@ export default function App() {
   const reshuffle=()=>{const next=livers.map(l=>l.id);for(let i=next.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[next[i],next[j]]=[next[j],next[i]];}setRandomOrder(next);};
   const allMusic=useMemo(()=>Array.from(new Map(livers.flatMap(l=>l.music).map(m=>[m.id,m])).values()),[livers]);
   const liverMusic=liver?allMusic.filter(m=>m.participantIds.includes(liver.id)):[];
-  const birthdayLivers=useMemo(()=>[...livers].sort((a,b)=>upcomingDays(a.birthday.value)-upcomingDays(b.birthday.value)).filter(l=>upcomingDays(l.birthday.value)<366).slice(0,3),[livers]);
-  const recentChanges=useMemo(()=>livers.flatMap(l=>l.changes.map(c=>({...c,liver:l}))).sort((a,b)=>b.changedAt.localeCompare(a.changedAt)).slice(0,3),[livers]);
   const backDetail=()=>{if(visualDetail){setVisualDetail(null)}else if(musicDetail){setMusicDetail(null)}else if(eventDetail){setEventDetail(null)}else{go('livers');requestAnimationFrame(()=>window.scrollTo(0,listScroll))}};
   const demo=dataset?.demo ?? false;
   const renderField=(label:string,field:FieldValue)=>{
