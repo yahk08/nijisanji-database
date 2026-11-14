@@ -1,0 +1,89 @@
+{
+  "id": "TMP_kuzuha",
+  "status": "active",
+  "name": "葛葉",
+  "reading": "くずは",
+  "englishName": "Kuzuha",
+  "affiliation": "にじさんじ",
+  "group": null,
+  "branch": "JP",
+  "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kuzuha",
+  "portraitUrl": null,
+  "youtubeChannelUrl": "https://www.youtube.com/@Kuzuha",
+  "youtubeChannelId": null,
+  "xUrl": "https://x.com/Vamp_Kuzu",
+  "birthday": {
+    "value": "11-10",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール",
+        "url": "https://www.nijisanji.jp/talents/l/kuzuha",
+        "verifiedAt": "2026-11-14"
+      },
+      {
+        "label": "にじさんじオフィシャルストア",
+        "url": "https://shop.nijisanji.jp/1042",
+        "verifiedAt": "2026-11-14"
+      }
+    ],
+    "showSources": true
+  },
+  "debutDate": {
+    "value": "2018-07-30",
+    "sources": [
+      {
+        "label": "にじさんじオフィシャルストア",
+        "url": "https://shop.nijisanji.jp/1042",
+        "verifiedAt": "2026-11-14"
+      }
+    ],
+    "showSources": true
+  },
+  "height": {
+    "value": null
+  },
+  "fanMark": {
+    "value": null
+  },
+  "introduction": {
+    "value": "親の甘い蜜を吸い続けるニートのゲーマー吸血鬼。見た目にそぐわず我が儘で気まぐれな子供っぽい性格で、すぐ調子に乗る悪い癖がある。おまけにかなり現金でお金に目がない救いようのないヴァンパイア。",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール",
+        "url": "https://www.nijisanji.jp/talents/l/kuzuha",
+        "verifiedAt": "2026-11-14"
+      }
+    ],
+    "showSources": true
+  },
+  "fields": [
+    {
+      "section": "ファン・配信情報",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "ラグファミ",
+            "sources": [
+              {
+                "label": "にじさんじ公式プロフィール",
+                "url": "https://www.nijisanji.jp/talents/l/kuzuha",
+                "verifiedAt": "2026-11-14"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    }
+  ],
+  "changes": [],
+  "visuals": [],
+  "music": [],
+  "events": [],
+  "youtube": {
+    "fetchedAt": null,
+    "stateCheckedAt": null,
+    "videos": []
+  }
+}

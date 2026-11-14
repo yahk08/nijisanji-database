@@ -1,0 +1,699 @@
+{
+  "checkedAt": "2026-11-14",
+  "source": "https://shop.nijisanji.jp/search/artist?cgid=nijisanji",
+  "scope": "公式ストア掲載170名＋2026年8月27日の公式デビュー発表2名。個別プロフィール未照合を含み、現在の全員収録は未確認。NIJISANJI ENは対象外。",
+  "note": "この一覧の名前だけで個別プロフィールURLやデビュー日を確定していない。固定L IDは付与しない。",
+  "candidates": [
+    {
+      "name": "愛園愛美",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "赤城ウェン",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "赤羽葉子",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "明楽レイ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "飛鳥ひな",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "天ヶ瀬むゆ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "天宮こころ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "雨森小夜",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "アルス・アルマル",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "アンジュ・カトリーナ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "イ ロハ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "家長むぎ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "五十嵐梨花",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "石神のぞみ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "五木左京",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "伊波ライ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "戌亥とこ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "イブラヒム",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "宇佐美リト",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "宇志海いちご",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "卯月コウ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "海妹四葉",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "エクス・アルビオ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "エトナ クリムソン",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "えま★おうがすと",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "エリー・コニファー",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "える",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "オ ジユ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "男虎",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "オリバー・エバンス",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "魁星",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "甲斐田晴",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "加賀美ハヤト",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "語部紡",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "蝸堂みかる",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "叶",
+      "status": "verified"
+    },
+    {
+      "name": "鏑木ろこ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "神田笑一",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "ガオン",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "綺沙良",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "北小路ヒスイ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "北見遊征",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "雲母たまこ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "ギルザレンⅢ世",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "葛葉",
+      "status": "verified"
+    },
+    {
+      "name": "倉持めると",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "九里詠太",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "来栖夏芽",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "黒井しば",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "剣持刀也",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "弦月藤士郎",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "小々波いるか",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "小清水透",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "梢桃音",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "小柳ロウ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "佐伯イッテツ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "三枝明那",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "早乙女ベリー",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "榊ネス",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "酒寄颯馬",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "桜凛月",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "笹木咲",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "椎名唯華",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "シェリン・バーガンディ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "栞葉るり",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "司賀りこ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "四季凪アキラ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "獅子堂あかり",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "シスター・クレア",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "静凛",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "篠宮ゆの",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "渋谷ハジメ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "白砂あやね",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "白雪巴",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "城瀬いすみ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "ジョー・力一",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "周央サンゴ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "健屋花那",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "鈴木勝",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "鈴原るる",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "皇れお",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "セフィナ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "セラフ・ダズルガーデン",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "千凛あゆむ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "ソ ナギ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "ソフィア・ヴァレンタイン",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "空星きらめ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "鷹宮リオン",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "立伝都々",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "珠乃井ナナ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "塚原大地",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "月ノ美兎",
+      "status": "verified"
+    },
+    {
+      "name": "でびでび・でびる",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "デレム カド",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "東堂コハク",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "十河ののは",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "轟京子",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "ドーラ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "ナ セラ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "長尾景",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "ナギサ アルシニア",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "渚トラウト",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "七瀬すず菜",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "西園チグサ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "ニュイ・ソシエール",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "猫屋敷美紅",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "ハ ユン",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "葉加瀬冬雪",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "ハナ マキア",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "花籠つばさ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "花畑チャイカ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "早瀬走",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "葉山舞鈴",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "春崎エアル",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "樋口楓",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "一橋綾人",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "緋八マナ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "壱百満天原サロメ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "風楽奏斗",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "伏見ガク",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "フミ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "文野環",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "フレン・E・ルスタリオ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "不破湊",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "ぷりん・らら・もーど",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "ベルモンド・バンデラス",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "星川サラ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "星導ショウ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "本間ひまわり",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "ぽめろ・ぱんち",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "先斗寧",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "舞元啓介",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "魔界ノりりむ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "ましろ爻",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "町田ちま",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "魔使マオ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "御子神琴音",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "水面まどか",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "ミラン・ケストレル",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "ミン スゥーハ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "叢雲カゲツ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "モイラ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "物述有栖",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "森中花咲",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "夜牛詩乃",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "矢車りね",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "社築",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "山神カルタ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "ヤン ナリ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "夕陽リリ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "雪城眞尋",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "夢月ロア",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "夢追翔",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "夜見れな",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "ライ ガリレイ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "ライラ アルストロエメリア",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "ラトナ・プティ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "リゼ・ヘルエスタ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "リュ ハリ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "緑仙",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "竜胆尊",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "ルイス・キャミー",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "ルンルン",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "Rei7",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "レイン・パターソン",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "レオス・ヴィンセント",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "レヨン",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "レヴィ・エリファ",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "ローレン・イロアス",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "渡会雲雀",
+      "status": "needs-profile-verification"
+    },
+    {
+      "name": "神永タイガ",
+      "status": "needs-profile-verification",
+      "sourceUrl": "https://www.nijisanji.jp/news/09g_6vw10r"
+    },
+    {
+      "name": "山田龍一郎",
+      "status": "needs-profile-verification",
+      "sourceUrl": "https://www.nijisanji.jp/news/09g_6vw10r"
+    }
+  ],
+  "additionalSource": "https://www.nijisanji.jp/news/09g_6vw10r"
+}

@@ -1,60 +1,45 @@
-# にじさんじデータベース（初期UI版）
+# にじデータベース — 公式情報先行収録・試用版（2026-11-14）
 
-iPhone優先で設計した非公式・個人制作Webアプリの初期プロジェクトです。React + TypeScript + Viteを使用します。
+既存の React + TypeScript + Vite の `nijisanji-database` を上書きするための更新パッケージです。GitHub Pages の公開URLは変更しません。
 
-**注意：現段階の収録ライバー・動画・衣装・楽曲はすべて架空のデモデータです。実際の公式情報収集、YouTube API連携、30分ごとのライブ監視は未実装です。一般公開用の完成版ではありません。**
+## この版で使えること
+- ホームの5セクション（データ未収集部分は空状態を明示）
+- ライバー一覧、検索、2列カード／リスト、所属・デビュー年フィルタ、並び替え、ランダム再シャッフル
+- 公式出典の確認できた3人（月ノ美兎・叶・葛葉）の個別プロフィール・公式リンク
+- お気に入り登録と一覧上部の表示（この端末の保存領域に保存）
+- YouTube欄、ビジュアル・音楽・活動履歴3タブ（未収録データは空表示）
+- 公式ストア掲載名の照合候補172件（公式ストア170件＋公式デビュー発表2件、うち個別プロフィール未照合169件）
+- 設定画面の公開データ再読み込み
 
-## 起動
+**未完成の先行試用版です。** 現役ライバー全員の公式プロフィールURLの照合・YouTube自動取得・公式ニュース/イベント/音楽/衣装収集・本番公開判定はまだ未完了です。「公式ストア掲載」は現役所属の確定を意味しません。
 
-Node.js 22以降を推奨します。
+## データの根拠
+- 公式ストア一覧（掲載名170件、確認日：2026-11-14）：https://shop.nijisanji.jp/search/artist?cgid=nijisanji
+- 2026年8月27日デビュー発表（神永タイガ・山田龍一郎）：https://www.nijisanji.jp/news/09g_6vw10r
+- 月ノ美兎：https://www.nijisanji.jp/talents/l/mito-tsukino ／ https://shop.nijisanji.jp/1002
+- 叶：https://www.nijisanji.jp/talents/l/kanae ／ https://shop.nijisanji.jp/1019
+- 葛葉：https://www.nijisanji.jp/talents/l/kuzuha ／ https://shop.nijisanji.jp/1042
 
+ライバーID `TMP_*` は正式なデビュー日順の採番が完了する前の**暫定ID**です。全員の公式情報照合後に固定IDを決定します。公式画像は未収録です。
+
+## GitHub Desktopへの反映
+1. 念のため現在の `main` の状態を保存してから、ZIPを展開します。
+2. ZIP内の**ファイルとフォルダを、既存リポジトリのルートに上書きコピー**します。`src`、`public`、`scripts` などは既存と同じ階層に置いてください。
+3. 古い `public/data/livers/demo_001.json` ～ `demo_004.json` はGitHub Desktop上で削除してください。仮に残っても、新しい `build-index.mjs` はデモファイルを公開対象から除外します。
+4. GitHub Desktopで変更内容を確認し、Commit → Pushします。`.github/workflows/pages.yml` がビルド・検証・Pages公開を試行します。
+5. Actions の成否と GitHub Pages の表示を確認してください。失敗した場合は公開成功とみなさないでください。
+
+## 動作確認（PC）
 ```bash
 npm install
-npm run dev
-```
-
-ブラウザで Vite の表示するURL（通常 `http://localhost:5173/`）を開きます。
-
-## 検証・ビルド
-
-```bash
 npm run build:index
 npm run validate:data
 npm run build
 ```
 
-## データ
-
-- `public/data/livers/*.json` : ライバーごとのデータファイル（現在は架空の4件）
-- `public/data/generated/index.json` : 上記から生成される、画面が読み込む一覧JSON
-- `src/types.ts` : データ型定義
-- `scripts/build-index.mjs` : 個別JSONから一覧データを生成
-- `scripts/validate-data.mjs` : JSONの最低限の整合性確認
-
-アプリは初回起動時にJSONを取得し、ローカルキャッシュを表示したうえで公開JSONを再取得します。データが入手できない場合はエラーを表示します。
-
-## GitHub Pages
-
-`main` にプッシュすると `.github/workflows/pages.yml` が検証・ビルド・Pagesへのデプロイを試みます。リポジトリの **Settings → Pages → Build and deployment → Source = GitHub Actions** を設定してください。
-
-公開URLやGitHubリポジトリはまだ作成していません。
-
-## 実装済み
-
-- ホーム：検索、登録件数、近い誕生日、最近の更新（デモ）
-- 一覧：検索、JP/EN、デビュー年、デビュー順/名前順、カード/リスト
-- 個別ページ：基本情報、全文紹介、YouTube最新2件/5件、タブ4種
-- ビジュアル：2D/3D、古い順、差分選択・スワイプ、YouTubeリンク欄
-- 音楽：分類、公開日順切替、複数参加者、動画リンク欄
-- 活動履歴：カテゴリ・年・並び替え、関連情報へ移動
-- 設定：ライト/ダーク、更新情報欄、非公式表示
-
-## 今後の実装（初期公開までに必要）
-
-1. 公式情報から現役ライバー全員のデータを作成し、データ内容と引用・画像利用の可否を確認する
-2. 公式YouTubeチャンネルIDを収集し、YouTube Data APIで最新動画・配信予定を取得する仕組みを構築する
-3. YouTube新着12時間、ライブ状態30分を目標にGitHub Actionsを構成し、APIクォータとスケジュール遅延を検証する
-4. 正確な出典・項目別変更履歴管理、データ検証レポート、正常公開版の維持を強化する
-5. 公式画像の使用ガイドラインを確認し、利用可能な画像を登録する
-
-この段階でリポジトリ名、実データ、APIキーの登録作業は行っていません。
+## 次の実装課題
+- 現役ライバー一覧との全件照合（NIJISANJI ENを含む公式分類の確認）
+- ライバーごとの個別公式プロフィールURL、出典、デビュー日、YouTubeチャンネルの収集
+- GitHub Actions経由のYouTube API更新・安全なデータ公開
+- 公式情報のニュース、イベント、衣装、楽曲の逐次収集
+- iPhone実機 Safari／PWA での検証

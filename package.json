@@ -8,7 +8,8 @@
     "build": "tsc -b && vite build",
     "build:index": "node scripts/build-index.mjs",
     "preview": "vite preview --host 0.0.0.0",
-    "validate:data": "node scripts/validate-data.mjs"
+    "validate:data": "node scripts/validate-data.mjs",
+    "validate:roster": "node scripts/check-roster.mjs"
   },
   "dependencies": {
     "lucide-react": "^0.468.0",

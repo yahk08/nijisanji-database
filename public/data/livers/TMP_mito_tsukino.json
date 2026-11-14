@@ -1,0 +1,89 @@
+{
+  "id": "TMP_mito_tsukino",
+  "status": "active",
+  "name": "月ノ美兎",
+  "reading": "つきのみと",
+  "englishName": "Tsukino Mito",
+  "affiliation": "にじさんじ",
+  "group": null,
+  "branch": "JP",
+  "officialProfileUrl": "https://www.nijisanji.jp/talents/l/mito-tsukino",
+  "portraitUrl": null,
+  "youtubeChannelUrl": "https://www.youtube.com/@TsukinoMito",
+  "youtubeChannelId": null,
+  "xUrl": "https://twitter.com/MitoTsukino",
+  "birthday": {
+    "value": "09-24",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール",
+        "url": "https://www.nijisanji.jp/talents/l/mito-tsukino",
+        "verifiedAt": "2026-11-14"
+      },
+      {
+        "label": "にじさんじオフィシャルストア",
+        "url": "https://shop.nijisanji.jp/1002",
+        "verifiedAt": "2026-11-14"
+      }
+    ],
+    "showSources": true
+  },
+  "debutDate": {
+    "value": "2018-02-08",
+    "sources": [
+      {
+        "label": "にじさんじオフィシャルストア",
+        "url": "https://shop.nijisanji.jp/1002",
+        "verifiedAt": "2026-11-14"
+      }
+    ],
+    "showSources": true
+  },
+  "height": {
+    "value": null
+  },
+  "fanMark": {
+    "value": null
+  },
+  "introduction": {
+    "value": "高校2年生。性格はツンデレだが根は真面目な学級委員。本人は頑張っているが少し空回り気味で、よく発言した後で言いすぎたかもと落ち込んだりする。",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール",
+        "url": "https://www.nijisanji.jp/talents/l/mito-tsukino",
+        "verifiedAt": "2026-11-14"
+      }
+    ],
+    "showSources": true
+  },
+  "fields": [
+    {
+      "section": "ファン・配信情報",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "無し",
+            "sources": [
+              {
+                "label": "にじさんじ公式プロフィール",
+                "url": "https://www.nijisanji.jp/talents/l/mito-tsukino",
+                "verifiedAt": "2026-11-14"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    }
+  ],
+  "changes": [],
+  "visuals": [],
+  "music": [],
+  "events": [],
+  "youtube": {
+    "fetchedAt": null,
+    "stateCheckedAt": null,
+    "videos": []
+  }
+}
