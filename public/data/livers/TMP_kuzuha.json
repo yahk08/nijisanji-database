@@ -78,72 +78,7 @@
     }
   ],
   "changes": [],
-  "visuals": [
-    {
-      "id": "official-discovery-bdbf5c677277",
-      "title": "公式掲載衣装候補（追加収集）",
-      "category": "2D",
-      "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
-      "date": null,
-      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/4894c76a45d3474a965bd2b69579b77d/liver-full-body_Kuzuha_costume2.png",
-      "revealUrl": null,
-      "variants": [
-        {
-          "id": "official-discovery-bdbf5c677277-full",
-          "name": "全身",
-          "date": null,
-          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/4894c76a45d3474a965bd2b69579b77d/liver-full-body_Kuzuha_costume2.png"
-        },
-        {
-          "id": "official-discovery-bdbf5c677277-face",
-          "name": "顔アップ",
-          "date": null,
-          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/2575109bd13b4e31ab702a929f88f226/liver-face_Kuzuha_costume2.png"
-        }
-      ],
-      "sources": [
-        {
-          "label": "にじさんじ公式プロフィール",
-          "url": "https://www.nijisanji.jp/talents/l/kuzuha",
-          "verifiedAt": "2026-11-14T17:03:21.830Z"
-        }
-      ],
-      "verification": "candidate",
-      "sourcePath": "official-profile-page"
-    },
-    {
-      "id": "official-discovery-120456795c05",
-      "title": "公式掲載衣装候補（追加収集）",
-      "category": "2D",
-      "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
-      "date": null,
-      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/c4154c10623f40028ed5e83c65970283/liver-full-body_Kuzuha_costume3.png",
-      "revealUrl": null,
-      "variants": [
-        {
-          "id": "official-discovery-120456795c05-full",
-          "name": "全身",
-          "date": null,
-          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/c4154c10623f40028ed5e83c65970283/liver-full-body_Kuzuha_costume3.png"
-        },
-        {
-          "id": "official-discovery-120456795c05-face",
-          "name": "顔アップ",
-          "date": null,
-          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/78d6a9bd027f4b959780bbd6c826c154/liver-face_Kuzuha_costume3.png"
-        }
-      ],
-      "sources": [
-        {
-          "label": "にじさんじ公式プロフィール",
-          "url": "https://www.nijisanji.jp/talents/l/kuzuha",
-          "verifiedAt": "2026-11-14T17:03:21.830Z"
-        }
-      ],
-      "verification": "candidate",
-      "sourcePath": "official-profile-page"
-    }
-  ],
+  "visuals": [],
   "music": [],
   "events": [],
   "youtube": {
