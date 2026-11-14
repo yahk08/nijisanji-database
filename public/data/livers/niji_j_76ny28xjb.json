@@ -1,0 +1,274 @@
+{
+  "id": "niji_j_76ny28xjb",
+  "status": "active",
+  "name": "五木左京",
+  "reading": "いつきさきょう",
+  "englishName": "Itsuki Sakyo",
+  "affiliation": "にじさんじ",
+  "group": null,
+  "branch": "JP",
+  "officialProfileUrl": "https://www.nijisanji.jp/talents/l/sakyo-itsuki",
+  "portraitUrl": null,
+  "youtubeChannelUrl": "https://www.youtube.com/@ItsukiSakyo",
+  "youtubeChannelId": "UCiBBDZ-ndtBgE4xKbswlgXQ",
+  "xUrl": "https://x.com/Itsuki_Sakyo",
+  "birthday": {
+    "value": "01-25",
+    "verification": "official",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール",
+        "url": "https://www.nijisanji.jp/talents/l/sakyo-itsuki",
+        "kind": "official",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
+      }
+    ],
+    "showSources": true
+  },
+  "debutDate": {
+    "value": "2025-04-11",
+    "verification": "official",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール",
+        "url": "https://www.nijisanji.jp/talents/l/sakyo-itsuki",
+        "kind": "official",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
+      }
+    ],
+    "showSources": true,
+    "note": "公式サイトのデビュー日。初配信日とは異なる場合があります。"
+  },
+  "height": {
+    "value": "173cm",
+    "verification": "wiki-only",
+    "sources": [
+      {
+        "label": "にじさんじ非公式Wiki（一次資料未確認）",
+        "url": "https://wikiwiki.jp/nijisanji/%E4%BA%94%E6%9C%A8%E5%B7%A6%E4%BA%AC",
+        "kind": "wiki",
+        "verifiedAt": "2026-11-14T13:01:15.586Z"
+      }
+    ],
+    "showSources": true
+  },
+  "fanMark": {
+    "value": "💼📊",
+    "verification": "wiki-only",
+    "sources": [
+      {
+        "label": "にじさんじ非公式Wiki（一次資料未確認）",
+        "url": "https://wikiwiki.jp/nijisanji/%E4%BA%94%E6%9C%A8%E5%B7%A6%E4%BA%AC",
+        "kind": "wiki",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
+      }
+    ],
+    "showSources": true
+  },
+  "introduction": {
+    "value": null,
+    "verification": "unknown"
+  },
+  "fields": [
+    {
+      "section": "公式プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "うさ部員",
+            "verification": "official",
+            "sources": [
+              {
+                "label": "にじさんじ公式プロフィール",
+                "url": "https://www.nijisanji.jp/talents/l/sakyo-itsuki",
+                "kind": "official",
+                "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    }
+  ],
+  "changes": [
+    {
+      "id": "a0b39878929a6805f280",
+      "field": "reading",
+      "oldValue": null,
+      "newValue": "いつきさきょう",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/sakyo-itsuki",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "df78a7d614ae8a1d4c0b",
+      "field": "englishName",
+      "oldValue": null,
+      "newValue": "Itsuki Sakyo",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/sakyo-itsuki",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "1e8c22b70d3edb0e80c0",
+      "field": "youtubeChannelId",
+      "oldValue": null,
+      "newValue": "UCiBBDZ-ndtBgE4xKbswlgXQ",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/sakyo-itsuki",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "121158ff95a99ddae939",
+      "field": "youtubeChannelUrl",
+      "oldValue": null,
+      "newValue": "https://www.youtube.com/@ItsukiSakyo",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/sakyo-itsuki",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "53b269f62e5113c8c7a9",
+      "field": "xUrl",
+      "oldValue": null,
+      "newValue": "https://x.com/Itsuki_Sakyo",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/sakyo-itsuki",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "8e0e5f6bc01c4598325e",
+      "field": "debutDate",
+      "oldValue": null,
+      "newValue": "2025-04-11",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/sakyo-itsuki",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "f453b47574e3b4302e38",
+      "field": "birthday",
+      "oldValue": null,
+      "newValue": "01-25",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/sakyo-itsuki",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "589c1b1066b6bf8bb4c5",
+      "field": "height",
+      "oldValue": null,
+      "newValue": "173cm",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ非公式Wiki（一次資料未確認）",
+          "url": "https://wikiwiki.jp/nijisanji/%E4%BA%94%E6%9C%A8%E5%B7%A6%E4%BA%AC",
+          "kind": "wiki",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "3192c0fe132cad87cace",
+      "field": "fanMark",
+      "oldValue": null,
+      "newValue": "💼📊",
+      "changedAt": "2026-11-14T13:07:36.734Z",
+      "sources": [
+        {
+          "label": "にじさんじ非公式Wiki（一次資料未確認）",
+          "url": "https://wikiwiki.jp/nijisanji/%E4%BA%94%E6%9C%A8%E5%B7%A6%E4%BA%AC",
+          "kind": "wiki",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ]
+    }
+  ],
+  "visuals": [],
+  "music": [],
+  "events": [],
+  "youtube": {
+    "fetchedAt": null,
+    "stateCheckedAt": null,
+    "videos": []
+  },
+  "provenance": {
+    "officialId": "j_76ny28xjb",
+    "checkedAt": "2026-11-14T13:07:36.734Z",
+    "membership": {
+      "verification": "official",
+      "sources": [
+        {
+          "label": "にじさんじ公式タレント一覧",
+          "url": "https://www.nijisanji.jp/talents?filter=nijisanji",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ]
+    },
+    "links": {
+      "verification": "official-linked",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/sakyo-itsuki",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ],
+      "note": "公式プロフィール掲載先との照合。YouTube APIおよびX APIによるアカウント照会は未実行。"
+    },
+    "wiki": {
+      "url": "https://wikiwiki.jp/nijisanji/%E4%BA%94%E6%9C%A8%E5%B7%A6%E4%BA%AC",
+      "status": "read",
+      "checkedAt": "2026-11-14T13:07:36.734Z",
+      "youtubeChannelLinked": false,
+      "xAccountLinked": true
+    }
+  }
+}

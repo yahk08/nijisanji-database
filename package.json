@@ -5,11 +5,15 @@
   "type": "module",
   "scripts": {
     "dev": "vite --host 0.0.0.0",
-    "build": "tsc -b && vite build",
+    "build": "tsc -b && vite build && node scripts/build-sw.mjs",
     "build:index": "node scripts/build-index.mjs",
     "preview": "vite preview --host 0.0.0.0",
     "validate:data": "node scripts/validate-data.mjs",
-    "validate:roster": "node scripts/check-roster.mjs"
+    "validate:roster": "node scripts/check-roster.mjs",
+    "sync:youtube": "node scripts/sync-youtube.mjs --full",
+    "sync:youtube:state": "node scripts/sync-youtube.mjs",
+    "test": "node --test scripts/*.test.mjs",
+    "collect:profiles": "node scripts/collect-profiles.mjs"
   },
   "dependencies": {
     "lucide-react": "^0.468.0",

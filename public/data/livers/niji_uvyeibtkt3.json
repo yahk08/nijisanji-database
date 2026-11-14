@@ -1,0 +1,250 @@
+{
+  "id": "niji_uvyeibtkt3",
+  "status": "active",
+  "name": "壱百満天原サロメ",
+  "reading": "ひゃくまんてんばらさろめ",
+  "englishName": "Hyakumantenbara Salome",
+  "affiliation": "にじさんじ",
+  "group": null,
+  "branch": "JP",
+  "officialProfileUrl": "https://www.nijisanji.jp/talents/l/salome-hyakumantenbara",
+  "portraitUrl": null,
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg",
+  "youtubeChannelId": "UCgIfLpQvelloDi8I0Ycbwpg",
+  "xUrl": "https://twitter.com/1000000lome",
+  "birthday": {
+    "value": "秘密",
+    "verification": "official",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール",
+        "url": "https://www.nijisanji.jp/talents/l/salome-hyakumantenbara",
+        "kind": "official",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
+      }
+    ],
+    "showSources": true
+  },
+  "debutDate": {
+    "value": "2022-05-21",
+    "verification": "official",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール",
+        "url": "https://www.nijisanji.jp/talents/l/salome-hyakumantenbara",
+        "kind": "official",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
+      }
+    ],
+    "showSources": true,
+    "note": "公式サイトのデビュー日。初配信日とは異なる場合があります。"
+  },
+  "height": {
+    "value": null,
+    "verification": "unknown"
+  },
+  "fanMark": {
+    "value": "💯🦂",
+    "verification": "wiki-only",
+    "sources": [
+      {
+        "label": "にじさんじ非公式Wiki（一次資料未確認）",
+        "url": "https://wikiwiki.jp/nijisanji/%E5%A3%B1%E7%99%BE%E6%BA%80%E5%A4%A9%E5%8E%9F%E3%82%B5%E3%83%AD%E3%83%A1",
+        "kind": "wiki",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
+      }
+    ],
+    "showSources": true
+  },
+  "introduction": {
+    "value": null,
+    "verification": "unknown"
+  },
+  "fields": [
+    {
+      "section": "公式プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "サロメイト",
+            "verification": "official",
+            "sources": [
+              {
+                "label": "にじさんじ公式プロフィール",
+                "url": "https://www.nijisanji.jp/talents/l/salome-hyakumantenbara",
+                "kind": "official",
+                "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    }
+  ],
+  "changes": [
+    {
+      "id": "10b706b34e8b87620f27",
+      "field": "reading",
+      "oldValue": null,
+      "newValue": "ひゃくまんてんばらさろめ",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/salome-hyakumantenbara",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "e05d32a8830405f7da83",
+      "field": "englishName",
+      "oldValue": null,
+      "newValue": "Hyakumantenbara Salome",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/salome-hyakumantenbara",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "e320a716ffdec97f55b0",
+      "field": "youtubeChannelId",
+      "oldValue": null,
+      "newValue": "UCgIfLpQvelloDi8I0Ycbwpg",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/salome-hyakumantenbara",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "973f030e4d10a56679cc",
+      "field": "youtubeChannelUrl",
+      "oldValue": null,
+      "newValue": "https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/salome-hyakumantenbara",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "2634058fa9ea20b33bca",
+      "field": "xUrl",
+      "oldValue": null,
+      "newValue": "https://twitter.com/1000000lome",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/salome-hyakumantenbara",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "75f6d8c0b67a83099d72",
+      "field": "debutDate",
+      "oldValue": null,
+      "newValue": "2022-05-21",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/salome-hyakumantenbara",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "7124587066f425b6ca6a",
+      "field": "birthday",
+      "oldValue": null,
+      "newValue": "秘密",
+      "changedAt": "2026-11-14T13:07:36.734Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/salome-hyakumantenbara",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ]
+    },
+    {
+      "id": "f25873599fd82f014aa9",
+      "field": "fanMark",
+      "oldValue": null,
+      "newValue": "💯🦂",
+      "changedAt": "2026-11-14T13:07:36.734Z",
+      "sources": [
+        {
+          "label": "にじさんじ非公式Wiki（一次資料未確認）",
+          "url": "https://wikiwiki.jp/nijisanji/%E5%A3%B1%E7%99%BE%E6%BA%80%E5%A4%A9%E5%8E%9F%E3%82%B5%E3%83%AD%E3%83%A1",
+          "kind": "wiki",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ]
+    }
+  ],
+  "visuals": [],
+  "music": [],
+  "events": [],
+  "youtube": {
+    "fetchedAt": null,
+    "stateCheckedAt": null,
+    "videos": []
+  },
+  "provenance": {
+    "officialId": "uvyeibtkt3",
+    "checkedAt": "2026-11-14T13:07:36.734Z",
+    "membership": {
+      "verification": "official",
+      "sources": [
+        {
+          "label": "にじさんじ公式タレント一覧",
+          "url": "https://www.nijisanji.jp/talents?filter=nijisanji",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ]
+    },
+    "links": {
+      "verification": "official-linked",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/salome-hyakumantenbara",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ],
+      "note": "公式プロフィール掲載先との照合。YouTube APIおよびX APIによるアカウント照会は未実行。"
+    },
+    "wiki": {
+      "url": "https://wikiwiki.jp/nijisanji/%E5%A3%B1%E7%99%BE%E6%BA%80%E5%A4%A9%E5%8E%9F%E3%82%B5%E3%83%AD%E3%83%A1",
+      "status": "read",
+      "checkedAt": "2026-11-14T13:07:36.734Z",
+      "youtubeChannelLinked": true,
+      "xAccountLinked": true
+    }
+  }
+}

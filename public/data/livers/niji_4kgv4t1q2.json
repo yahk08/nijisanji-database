@@ -1,0 +1,274 @@
+{
+  "id": "niji_4kgv4t1q2",
+  "status": "active",
+  "name": "夢月ロア",
+  "reading": "ゆづきろあ",
+  "englishName": "Yuzuki Roa",
+  "affiliation": "にじさんじ",
+  "group": null,
+  "branch": "JP",
+  "officialProfileUrl": "https://www.nijisanji.jp/talents/l/roa-yuzuki",
+  "portraitUrl": null,
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw",
+  "youtubeChannelId": "UCCVwhI5trmaSxfcze_Ovzfw",
+  "xUrl": "https://twitter.com/yuzuki_roa",
+  "birthday": {
+    "value": "07-04",
+    "verification": "official",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール",
+        "url": "https://www.nijisanji.jp/talents/l/roa-yuzuki",
+        "kind": "official",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
+      }
+    ],
+    "showSources": true
+  },
+  "debutDate": {
+    "value": "2019-01-19",
+    "verification": "official",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール",
+        "url": "https://www.nijisanji.jp/talents/l/roa-yuzuki",
+        "kind": "official",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
+      }
+    ],
+    "showSources": true,
+    "note": "公式サイトのデビュー日。初配信日とは異なる場合があります。"
+  },
+  "height": {
+    "value": "141cm",
+    "verification": "wiki-only",
+    "sources": [
+      {
+        "label": "にじさんじ非公式Wiki（一次資料未確認）",
+        "url": "https://wikiwiki.jp/nijisanji/%E5%A4%A2%E6%9C%88%E3%83%AD%E3%82%A2",
+        "kind": "wiki",
+        "verifiedAt": "2026-11-14T13:01:15.586Z"
+      }
+    ],
+    "showSources": true
+  },
+  "fanMark": {
+    "value": "🌖",
+    "verification": "wiki-only",
+    "sources": [
+      {
+        "label": "にじさんじ非公式Wiki（一次資料未確認）",
+        "url": "https://wikiwiki.jp/nijisanji/%E5%A4%A2%E6%9C%88%E3%83%AD%E3%82%A2",
+        "kind": "wiki",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
+      }
+    ],
+    "showSources": true
+  },
+  "introduction": {
+    "value": null,
+    "verification": "unknown"
+  },
+  "fields": [
+    {
+      "section": "公式プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "リリン",
+            "verification": "official",
+            "sources": [
+              {
+                "label": "にじさんじ公式プロフィール",
+                "url": "https://www.nijisanji.jp/talents/l/roa-yuzuki",
+                "kind": "official",
+                "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    }
+  ],
+  "changes": [
+    {
+      "id": "fe57ee7030ee3bb6ef39",
+      "field": "reading",
+      "oldValue": null,
+      "newValue": "ゆづきろあ",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/roa-yuzuki",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "f55f65973ad68f8116af",
+      "field": "englishName",
+      "oldValue": null,
+      "newValue": "Yuzuki Roa",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/roa-yuzuki",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "352fc831b7abe40ce5fa",
+      "field": "youtubeChannelId",
+      "oldValue": null,
+      "newValue": "UCCVwhI5trmaSxfcze_Ovzfw",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/roa-yuzuki",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "4da591a37cc59d8d81cc",
+      "field": "youtubeChannelUrl",
+      "oldValue": null,
+      "newValue": "https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/roa-yuzuki",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "6807829fa1726eaaee8e",
+      "field": "xUrl",
+      "oldValue": null,
+      "newValue": "https://twitter.com/yuzuki_roa",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/roa-yuzuki",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "007695ad5fb62f6919f1",
+      "field": "debutDate",
+      "oldValue": null,
+      "newValue": "2019-01-19",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/roa-yuzuki",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "dfc94ad413d196762b06",
+      "field": "birthday",
+      "oldValue": null,
+      "newValue": "07-04",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/roa-yuzuki",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "53c4f3ba994f9d9c6397",
+      "field": "height",
+      "oldValue": null,
+      "newValue": "141cm",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ非公式Wiki（一次資料未確認）",
+          "url": "https://wikiwiki.jp/nijisanji/%E5%A4%A2%E6%9C%88%E3%83%AD%E3%82%A2",
+          "kind": "wiki",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "ce2db0d2c72a19f91cca",
+      "field": "fanMark",
+      "oldValue": null,
+      "newValue": "🌖",
+      "changedAt": "2026-11-14T13:07:36.734Z",
+      "sources": [
+        {
+          "label": "にじさんじ非公式Wiki（一次資料未確認）",
+          "url": "https://wikiwiki.jp/nijisanji/%E5%A4%A2%E6%9C%88%E3%83%AD%E3%82%A2",
+          "kind": "wiki",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ]
+    }
+  ],
+  "visuals": [],
+  "music": [],
+  "events": [],
+  "youtube": {
+    "fetchedAt": null,
+    "stateCheckedAt": null,
+    "videos": []
+  },
+  "provenance": {
+    "officialId": "4kgv4t1q2",
+    "checkedAt": "2026-11-14T13:07:36.734Z",
+    "membership": {
+      "verification": "official",
+      "sources": [
+        {
+          "label": "にじさんじ公式タレント一覧",
+          "url": "https://www.nijisanji.jp/talents?filter=nijisanji",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ]
+    },
+    "links": {
+      "verification": "official-linked",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/roa-yuzuki",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ],
+      "note": "公式プロフィール掲載先との照合。YouTube APIおよびX APIによるアカウント照会は未実行。"
+    },
+    "wiki": {
+      "url": "https://wikiwiki.jp/nijisanji/%E5%A4%A2%E6%9C%88%E3%83%AD%E3%82%A2",
+      "status": "read",
+      "checkedAt": "2026-11-14T13:07:36.734Z",
+      "youtubeChannelLinked": true,
+      "xAccountLinked": true
+    }
+  }
+}

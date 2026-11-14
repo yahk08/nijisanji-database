@@ -2,41 +2,54 @@
   "id": "TMP_gaku_fushimi",
   "status": "active",
   "name": "伏見ガク",
-  "reading": null,
-  "englishName": null,
+  "reading": "ふしみがく",
+  "englishName": "Fushimi Gaku",
   "affiliation": "にじさんじ",
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/gaku-fushimi",
   "portraitUrl": null,
-  "youtubeChannelUrl": null,
-  "youtubeChannelId": null,
-  "xUrl": null,
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w",
+  "youtubeChannelId": "UCXU7YYxy_iQd3ulXyO-zC2w",
+  "xUrl": "https://twitter.com/gaku_fushimi",
   "birthday": {
     "value": "10-05",
+    "verification": "official",
     "sources": [
       {
         "label": "にじさんじ公式プロフィール",
         "url": "https://www.nijisanji.jp/talents/l/gaku-fushimi",
-        "verifiedAt": "2026-11-14"
+        "kind": "official",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
       }
     ],
     "showSources": true
   },
   "debutDate": {
-    "value": null,
-    "sources": [],
-    "showSources": false
+    "value": "2018-03-15",
+    "verification": "official",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール",
+        "url": "https://www.nijisanji.jp/talents/l/gaku-fushimi",
+        "kind": "official",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
+      }
+    ],
+    "showSources": true,
+    "note": "公式サイトのデビュー日。初配信日とは異なる場合があります。"
   },
   "height": {
     "value": null,
     "sources": [],
-    "showSources": false
+    "showSources": false,
+    "verification": "unknown"
   },
   "fanMark": {
     "value": null,
     "sources": [],
-    "showSources": false
+    "showSources": false,
+    "verification": "unknown"
   },
   "introduction": {
     "value": "大学生。バンド活動やアルバイトをしている。",
@@ -47,7 +60,8 @@
         "verifiedAt": "2026-11-14"
       }
     ],
-    "showSources": true
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "fields": [
     {
@@ -68,9 +82,121 @@
           }
         }
       ]
+    },
+    {
+      "section": "公式プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "アクター",
+            "verification": "official",
+            "sources": [
+              {
+                "label": "にじさんじ公式プロフィール",
+                "url": "https://www.nijisanji.jp/talents/l/gaku-fushimi",
+                "kind": "official",
+                "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
     }
   ],
-  "changes": [],
+  "changes": [
+    {
+      "id": "c879cd538e3ef0696c1d",
+      "field": "reading",
+      "oldValue": null,
+      "newValue": "ふしみがく",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/gaku-fushimi",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "3e817af265b01f6019ce",
+      "field": "englishName",
+      "oldValue": null,
+      "newValue": "Fushimi Gaku",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/gaku-fushimi",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "93ab189a56f3e31ff639",
+      "field": "youtubeChannelId",
+      "oldValue": null,
+      "newValue": "UCXU7YYxy_iQd3ulXyO-zC2w",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/gaku-fushimi",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "12926612c608e5190960",
+      "field": "youtubeChannelUrl",
+      "oldValue": null,
+      "newValue": "https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/gaku-fushimi",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "d1ff51139441226816db",
+      "field": "xUrl",
+      "oldValue": null,
+      "newValue": "https://twitter.com/gaku_fushimi",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/gaku-fushimi",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "d67564e8939838bb9056",
+      "field": "debutDate",
+      "oldValue": null,
+      "newValue": "2018-03-15",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/gaku-fushimi",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    }
+  ],
   "visuals": [],
   "music": [],
   "events": [],
@@ -78,5 +204,39 @@
     "fetchedAt": null,
     "stateCheckedAt": null,
     "videos": []
+  },
+  "provenance": {
+    "officialId": "pgqqqgwf0",
+    "checkedAt": "2026-11-14T13:07:36.734Z",
+    "membership": {
+      "verification": "official",
+      "sources": [
+        {
+          "label": "にじさんじ公式タレント一覧",
+          "url": "https://www.nijisanji.jp/talents?filter=nijisanji",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ]
+    },
+    "links": {
+      "verification": "official-linked",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/gaku-fushimi",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ],
+      "note": "公式プロフィール掲載先との照合。YouTube APIおよびX APIによるアカウント照会は未実行。"
+    },
+    "wiki": {
+      "url": "https://wikiwiki.jp/nijisanji/%E4%BC%8F%E8%A6%8B%E3%82%AC%E3%82%AF",
+      "status": "read",
+      "checkedAt": "2026-11-14T13:07:36.734Z",
+      "youtubeChannelLinked": true,
+      "xAccountLinked": true
+    }
   }
 }

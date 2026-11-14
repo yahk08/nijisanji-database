@@ -2,41 +2,54 @@
   "id": "TMP_mugi_ienaga",
   "status": "active",
   "name": "家長むぎ",
-  "reading": null,
-  "englishName": null,
+  "reading": "いえながむぎ",
+  "englishName": "Ienaga Mugi",
   "affiliation": "にじさんじ",
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/mugi-ienaga",
   "portraitUrl": null,
-  "youtubeChannelUrl": null,
-  "youtubeChannelId": null,
-  "xUrl": null,
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ",
+  "youtubeChannelId": "UC_GCs6GARLxEHxy1w40d6VQ",
+  "xUrl": "https://twitter.com/ienaga_mugi23",
   "birthday": {
     "value": "11-07",
+    "verification": "official",
     "sources": [
       {
         "label": "にじさんじ公式プロフィール",
         "url": "https://www.nijisanji.jp/talents/l/mugi-ienaga",
-        "verifiedAt": "2026-11-14"
+        "kind": "official",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
       }
     ],
     "showSources": true
   },
   "debutDate": {
-    "value": null,
-    "sources": [],
-    "showSources": false
+    "value": "2018-03-15",
+    "verification": "official",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール",
+        "url": "https://www.nijisanji.jp/talents/l/mugi-ienaga",
+        "kind": "official",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
+      }
+    ],
+    "showSources": true,
+    "note": "公式サイトのデビュー日。初配信日とは異なる場合があります。"
   },
   "height": {
     "value": null,
     "sources": [],
-    "showSources": false
+    "showSources": false,
+    "verification": "unknown"
   },
   "fanMark": {
     "value": null,
     "sources": [],
-    "showSources": false
+    "showSources": false,
+    "verification": "unknown"
   },
   "introduction": {
     "value": "読書や美術館巡りが好きな大学生。",
@@ -47,7 +60,8 @@
         "verifiedAt": "2026-11-14"
       }
     ],
-    "showSources": true
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "fields": [
     {
@@ -68,9 +82,121 @@
           }
         }
       ]
+    },
+    {
+      "section": "公式プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "むぎのともだち",
+            "verification": "official",
+            "sources": [
+              {
+                "label": "にじさんじ公式プロフィール",
+                "url": "https://www.nijisanji.jp/talents/l/mugi-ienaga",
+                "kind": "official",
+                "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
     }
   ],
-  "changes": [],
+  "changes": [
+    {
+      "id": "bf63c28872d7acfffd2f",
+      "field": "reading",
+      "oldValue": null,
+      "newValue": "いえながむぎ",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/mugi-ienaga",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "7d44240447ac68a07b9f",
+      "field": "englishName",
+      "oldValue": null,
+      "newValue": "Ienaga Mugi",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/mugi-ienaga",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "e27549659cbc55059ac8",
+      "field": "youtubeChannelId",
+      "oldValue": null,
+      "newValue": "UC_GCs6GARLxEHxy1w40d6VQ",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/mugi-ienaga",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "b00ca1672a714d16fd09",
+      "field": "youtubeChannelUrl",
+      "oldValue": null,
+      "newValue": "https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/mugi-ienaga",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "226819f7a827bafa08bc",
+      "field": "xUrl",
+      "oldValue": null,
+      "newValue": "https://twitter.com/ienaga_mugi23",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/mugi-ienaga",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "86248cf35f3b70e5caa1",
+      "field": "debutDate",
+      "oldValue": null,
+      "newValue": "2018-03-15",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/mugi-ienaga",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    }
+  ],
   "visuals": [],
   "music": [],
   "events": [],
@@ -78,5 +204,37 @@
     "fetchedAt": null,
     "stateCheckedAt": null,
     "videos": []
+  },
+  "provenance": {
+    "officialId": "jvsvqgjyqbxr",
+    "checkedAt": "2026-11-14T13:07:36.734Z",
+    "membership": {
+      "verification": "official",
+      "sources": [
+        {
+          "label": "にじさんじ公式タレント一覧",
+          "url": "https://www.nijisanji.jp/talents?filter=nijisanji",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ]
+    },
+    "links": {
+      "verification": "official-linked",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/mugi-ienaga",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ],
+      "note": "公式プロフィール掲載先との照合。YouTube APIおよびX APIによるアカウント照会は未実行。"
+    },
+    "wiki": {
+      "url": "https://wikiwiki.jp/nijisanji/%E5%AE%B6%E9%95%B7%E3%82%80%E3%81%8E",
+      "status": "unavailable",
+      "error": "キャッシュ未収録（追加通信なし）"
+    }
   }
 }

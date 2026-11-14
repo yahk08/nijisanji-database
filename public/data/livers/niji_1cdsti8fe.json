@@ -1,0 +1,252 @@
+{
+  "id": "niji_1cdsti8fe",
+  "status": "active",
+  "name": "白砂あやね",
+  "reading": "しらさあやね",
+  "englishName": "Shirasa Ayane",
+  "affiliation": "にじさんじ",
+  "group": null,
+  "branch": "JP",
+  "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ayane-shirasa",
+  "portraitUrl": null,
+  "youtubeChannelUrl": "https://www.youtube.com/@ShirasaAyane",
+  "youtubeChannelId": "UCam_xf14FPFsRshFTj4wkHw",
+  "xUrl": "https://x.com/shirasa_ayane",
+  "birthday": {
+    "value": "04-09",
+    "verification": "official",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール",
+        "url": "https://www.nijisanji.jp/talents/l/ayane-shirasa",
+        "kind": "official",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
+      }
+    ],
+    "showSources": true
+  },
+  "debutDate": {
+    "value": "2026-01-29",
+    "verification": "official",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール",
+        "url": "https://www.nijisanji.jp/talents/l/ayane-shirasa",
+        "kind": "official",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
+      }
+    ],
+    "showSources": true,
+    "note": "公式サイトのデビュー日。初配信日とは異なる場合があります。"
+  },
+  "height": {
+    "value": "158cm",
+    "verification": "wiki-only",
+    "sources": [
+      {
+        "label": "にじさんじ非公式Wiki（一次資料未確認）",
+        "url": "https://wikiwiki.jp/nijisanji/%E7%99%BD%E7%A0%82%E3%81%82%E3%82%84%E3%81%AD",
+        "kind": "wiki",
+        "verifiedAt": "2026-11-14T13:01:15.586Z"
+      }
+    ],
+    "showSources": true
+  },
+  "fanMark": {
+    "value": "🏖️🫶",
+    "verification": "wiki-only",
+    "sources": [
+      {
+        "label": "にじさんじ非公式Wiki（一次資料未確認）",
+        "url": "https://wikiwiki.jp/nijisanji/%E7%99%BD%E7%A0%82%E3%81%82%E3%82%84%E3%81%AD",
+        "kind": "wiki",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
+      }
+    ],
+    "showSources": true
+  },
+  "introduction": {
+    "value": null,
+    "verification": "unknown"
+  },
+  "fields": [],
+  "changes": [
+    {
+      "id": "b8b436896f64d8200210",
+      "field": "reading",
+      "oldValue": null,
+      "newValue": "しらさあやね",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/ayane-shirasa",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "ec3138b33ab6b308cc94",
+      "field": "englishName",
+      "oldValue": null,
+      "newValue": "Shirasa Ayane",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/ayane-shirasa",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "1bb4973c73051d297f7b",
+      "field": "youtubeChannelId",
+      "oldValue": null,
+      "newValue": "UCam_xf14FPFsRshFTj4wkHw",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/ayane-shirasa",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "d44a1edc9822b44aebb1",
+      "field": "youtubeChannelUrl",
+      "oldValue": null,
+      "newValue": "https://www.youtube.com/@ShirasaAyane",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/ayane-shirasa",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "b08dce4dc5b886c33e09",
+      "field": "xUrl",
+      "oldValue": null,
+      "newValue": "https://x.com/shirasa_ayane",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/ayane-shirasa",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "b4c4426f57b82c22fa0d",
+      "field": "debutDate",
+      "oldValue": null,
+      "newValue": "2026-01-29",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/ayane-shirasa",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "b7e78842f96c5969b656",
+      "field": "birthday",
+      "oldValue": null,
+      "newValue": "04-09",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/ayane-shirasa",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "96595cf4a2a4a65f713e",
+      "field": "height",
+      "oldValue": null,
+      "newValue": "158cm",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ非公式Wiki（一次資料未確認）",
+          "url": "https://wikiwiki.jp/nijisanji/%E7%99%BD%E7%A0%82%E3%81%82%E3%82%84%E3%81%AD",
+          "kind": "wiki",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "ac81e039816bd8949549",
+      "field": "fanMark",
+      "oldValue": null,
+      "newValue": "🏖️🫶",
+      "changedAt": "2026-11-14T13:07:36.734Z",
+      "sources": [
+        {
+          "label": "にじさんじ非公式Wiki（一次資料未確認）",
+          "url": "https://wikiwiki.jp/nijisanji/%E7%99%BD%E7%A0%82%E3%81%82%E3%82%84%E3%81%AD",
+          "kind": "wiki",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ]
+    }
+  ],
+  "visuals": [],
+  "music": [],
+  "events": [],
+  "youtube": {
+    "fetchedAt": null,
+    "stateCheckedAt": null,
+    "videos": []
+  },
+  "provenance": {
+    "officialId": "1cdsti8fe",
+    "checkedAt": "2026-11-14T13:07:36.734Z",
+    "membership": {
+      "verification": "official",
+      "sources": [
+        {
+          "label": "にじさんじ公式タレント一覧",
+          "url": "https://www.nijisanji.jp/talents?filter=nijisanji",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ]
+    },
+    "links": {
+      "verification": "official-linked",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/ayane-shirasa",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ],
+      "note": "公式プロフィール掲載先との照合。YouTube APIおよびX APIによるアカウント照会は未実行。"
+    },
+    "wiki": {
+      "url": "https://wikiwiki.jp/nijisanji/%E7%99%BD%E7%A0%82%E3%81%82%E3%82%84%E3%81%AD",
+      "status": "read",
+      "checkedAt": "2026-11-14T13:07:36.734Z",
+      "youtubeChannelLinked": false,
+      "xAccountLinked": true
+    }
+  }
+}

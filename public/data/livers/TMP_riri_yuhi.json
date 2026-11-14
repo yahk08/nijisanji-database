@@ -2,41 +2,54 @@
   "id": "TMP_riri_yuhi",
   "status": "active",
   "name": "夕陽リリ",
-  "reading": null,
-  "englishName": null,
+  "reading": "ゆうひりり",
+  "englishName": "Yuhi Riri",
   "affiliation": "にじさんじ",
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/riri-yuhi",
   "portraitUrl": null,
-  "youtubeChannelUrl": null,
-  "youtubeChannelId": null,
-  "xUrl": null,
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ",
+  "youtubeChannelId": "UC48jH1ul-6HOrcSSfoR02fQ",
+  "xUrl": "https://twitter.com/yuuhi_riri",
   "birthday": {
     "value": "01-21",
+    "verification": "official",
     "sources": [
       {
         "label": "にじさんじ公式プロフィール",
         "url": "https://www.nijisanji.jp/talents/l/riri-yuhi",
-        "verifiedAt": "2026-11-14"
+        "kind": "official",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
       }
     ],
     "showSources": true
   },
   "debutDate": {
-    "value": null,
-    "sources": [],
-    "showSources": false
+    "value": "2018-03-15",
+    "verification": "official",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール",
+        "url": "https://www.nijisanji.jp/talents/l/riri-yuhi",
+        "kind": "official",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
+      }
+    ],
+    "showSources": true,
+    "note": "公式サイトのデビュー日。初配信日とは異なる場合があります。"
   },
   "height": {
     "value": null,
     "sources": [],
-    "showSources": false
+    "showSources": false,
+    "verification": "unknown"
   },
   "fanMark": {
     "value": null,
     "sources": [],
-    "showSources": false
+    "showSources": false,
+    "verification": "unknown"
   },
   "introduction": {
     "value": "いたずら好きな未来人の女の子。",
@@ -47,7 +60,8 @@
         "verifiedAt": "2026-11-14"
       }
     ],
-    "showSources": true
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "fields": [
     {
@@ -68,9 +82,121 @@
           }
         }
       ]
+    },
+    {
+      "section": "公式プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "無し",
+            "verification": "official",
+            "sources": [
+              {
+                "label": "にじさんじ公式プロフィール",
+                "url": "https://www.nijisanji.jp/talents/l/riri-yuhi",
+                "kind": "official",
+                "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
     }
   ],
-  "changes": [],
+  "changes": [
+    {
+      "id": "2e5d4b99e32a9826f792",
+      "field": "reading",
+      "oldValue": null,
+      "newValue": "ゆうひりり",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/riri-yuhi",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "7e9025a9492d9d4a9919",
+      "field": "englishName",
+      "oldValue": null,
+      "newValue": "Yuhi Riri",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/riri-yuhi",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "278368f46c2f0a316106",
+      "field": "youtubeChannelId",
+      "oldValue": null,
+      "newValue": "UC48jH1ul-6HOrcSSfoR02fQ",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/riri-yuhi",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "f4ab1c80fe9fcc50829b",
+      "field": "youtubeChannelUrl",
+      "oldValue": null,
+      "newValue": "https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/riri-yuhi",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "15fa6957156c5d27af83",
+      "field": "xUrl",
+      "oldValue": null,
+      "newValue": "https://twitter.com/yuuhi_riri",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/riri-yuhi",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "3b7e00811e43f92ccb40",
+      "field": "debutDate",
+      "oldValue": null,
+      "newValue": "2018-03-15",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/riri-yuhi",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    }
+  ],
   "visuals": [],
   "music": [],
   "events": [],
@@ -78,5 +204,37 @@
     "fetchedAt": null,
     "stateCheckedAt": null,
     "videos": []
+  },
+  "provenance": {
+    "officialId": "vf_5_4nk5au",
+    "checkedAt": "2026-11-14T13:07:36.734Z",
+    "membership": {
+      "verification": "official",
+      "sources": [
+        {
+          "label": "にじさんじ公式タレント一覧",
+          "url": "https://www.nijisanji.jp/talents?filter=nijisanji",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ]
+    },
+    "links": {
+      "verification": "official-linked",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/riri-yuhi",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ],
+      "note": "公式プロフィール掲載先との照合。YouTube APIおよびX APIによるアカウント照会は未実行。"
+    },
+    "wiki": {
+      "url": "https://wikiwiki.jp/nijisanji/%E5%A4%95%E9%99%BD%E3%83%AA%E3%83%AA",
+      "status": "unavailable",
+      "error": "キャッシュ未収録（追加通信なし）"
+    }
   }
 }

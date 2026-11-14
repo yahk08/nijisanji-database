@@ -1,0 +1,252 @@
+{
+  "id": "niji_jbhd99wl1md4",
+  "status": "active",
+  "name": "山田龍一郎",
+  "reading": "やまだりゅういちろう",
+  "englishName": "Yamada Ryuichiro",
+  "affiliation": "にじさんじ",
+  "group": null,
+  "branch": "JP",
+  "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ryuichiro-yamada",
+  "portraitUrl": null,
+  "youtubeChannelUrl": "https://www.youtube.com/@YamadaRyuichiro",
+  "youtubeChannelId": "UCzHiiP2r1zyTr8A1-6HtQtw",
+  "xUrl": "https://x.com/Ryuichiro_YMD",
+  "birthday": {
+    "value": "07-06",
+    "verification": "official",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール",
+        "url": "https://www.nijisanji.jp/talents/l/ryuichiro-yamada",
+        "kind": "official",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
+      }
+    ],
+    "showSources": true
+  },
+  "debutDate": {
+    "value": "2026-08-27",
+    "verification": "official",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール",
+        "url": "https://www.nijisanji.jp/talents/l/ryuichiro-yamada",
+        "kind": "official",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
+      }
+    ],
+    "showSources": true,
+    "note": "公式サイトのデビュー日。初配信日とは異なる場合があります。"
+  },
+  "height": {
+    "value": "180cm",
+    "verification": "wiki-only",
+    "sources": [
+      {
+        "label": "にじさんじ非公式Wiki（一次資料未確認）",
+        "url": "https://wikiwiki.jp/nijisanji/%E5%B1%B1%E7%94%B0%E9%BE%8D%E4%B8%80%E9%83%8E",
+        "kind": "wiki",
+        "verifiedAt": "2026-11-14T13:01:15.586Z"
+      }
+    ],
+    "showSources": true
+  },
+  "fanMark": {
+    "value": "⛰️🎹",
+    "verification": "wiki-only",
+    "sources": [
+      {
+        "label": "にじさんじ非公式Wiki（一次資料未確認）",
+        "url": "https://wikiwiki.jp/nijisanji/%E5%B1%B1%E7%94%B0%E9%BE%8D%E4%B8%80%E9%83%8E",
+        "kind": "wiki",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
+      }
+    ],
+    "showSources": true
+  },
+  "introduction": {
+    "value": null,
+    "verification": "unknown"
+  },
+  "fields": [],
+  "changes": [
+    {
+      "id": "037237f28fc038f495ca",
+      "field": "reading",
+      "oldValue": null,
+      "newValue": "やまだりゅういちろう",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/ryuichiro-yamada",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "edd8d8b016a6159df4f9",
+      "field": "englishName",
+      "oldValue": null,
+      "newValue": "Yamada Ryuichiro",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/ryuichiro-yamada",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "a21bc9e947a1898bbefb",
+      "field": "youtubeChannelId",
+      "oldValue": null,
+      "newValue": "UCzHiiP2r1zyTr8A1-6HtQtw",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/ryuichiro-yamada",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "47e77dfe411fc1159d04",
+      "field": "youtubeChannelUrl",
+      "oldValue": null,
+      "newValue": "https://www.youtube.com/@YamadaRyuichiro",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/ryuichiro-yamada",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "5d6fc4b29fcc6b4bf160",
+      "field": "xUrl",
+      "oldValue": null,
+      "newValue": "https://x.com/Ryuichiro_YMD",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/ryuichiro-yamada",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "39e76f4a8903111f78be",
+      "field": "debutDate",
+      "oldValue": null,
+      "newValue": "2026-08-27",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/ryuichiro-yamada",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "2a3dbbd046b7a6e6f554",
+      "field": "birthday",
+      "oldValue": null,
+      "newValue": "07-06",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/ryuichiro-yamada",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "a15621d0210375c1f49c",
+      "field": "height",
+      "oldValue": null,
+      "newValue": "180cm",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ非公式Wiki（一次資料未確認）",
+          "url": "https://wikiwiki.jp/nijisanji/%E5%B1%B1%E7%94%B0%E9%BE%8D%E4%B8%80%E9%83%8E",
+          "kind": "wiki",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "c35951330f2110c7859d",
+      "field": "fanMark",
+      "oldValue": null,
+      "newValue": "⛰️🎹",
+      "changedAt": "2026-11-14T13:07:36.734Z",
+      "sources": [
+        {
+          "label": "にじさんじ非公式Wiki（一次資料未確認）",
+          "url": "https://wikiwiki.jp/nijisanji/%E5%B1%B1%E7%94%B0%E9%BE%8D%E4%B8%80%E9%83%8E",
+          "kind": "wiki",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ]
+    }
+  ],
+  "visuals": [],
+  "music": [],
+  "events": [],
+  "youtube": {
+    "fetchedAt": null,
+    "stateCheckedAt": null,
+    "videos": []
+  },
+  "provenance": {
+    "officialId": "jbhd99wl1md4",
+    "checkedAt": "2026-11-14T13:07:36.734Z",
+    "membership": {
+      "verification": "official",
+      "sources": [
+        {
+          "label": "にじさんじ公式タレント一覧",
+          "url": "https://www.nijisanji.jp/talents?filter=nijisanji",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ]
+    },
+    "links": {
+      "verification": "official-linked",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/ryuichiro-yamada",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ],
+      "note": "公式プロフィール掲載先との照合。YouTube APIおよびX APIによるアカウント照会は未実行。"
+    },
+    "wiki": {
+      "url": "https://wikiwiki.jp/nijisanji/%E5%B1%B1%E7%94%B0%E9%BE%8D%E4%B8%80%E9%83%8E",
+      "status": "read",
+      "checkedAt": "2026-11-14T13:07:36.734Z",
+      "youtubeChannelLinked": false,
+      "xAccountLinked": true
+    }
+  }
+}

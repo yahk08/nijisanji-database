@@ -1,724 +1,1240 @@
 {
-  "checkedAt": "2026-11-14",
-  "source": "https://shop.nijisanji.jp/search/artist?cgid=nijisanji",
-  "scope": "公式ストア掲載170名＋2026年8月27日の公式デビュー発表2名。個別プロフィール未照合を含み、現在の全員収録は未確認。NIJISANJI ENは対象外。",
-  "note": "掲載名は公式ストアの照合候補。verified は個別の公式プロフィールページURLを個別に確認済み。未照合項目は現役所属・デビュー日・プロフィールURLを確定しない。",
+  "checkedAt": "2026-11-14T13:07:36.734Z",
+  "source": "https://www.nijisanji.jp/talents?filter=nijisanji",
+  "scope": "にじさんじ（指定filter。EN/VirtuaReal除外）",
+  "note": "指定の公式一覧と個別プロフィールで照合。Wiki補完項目は各JSONのverificationを参照。旧ストア候補も保持。",
   "candidates": [
     {
       "name": "愛園愛美",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_s3osbcy305",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/manami-aizono",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "赤城ウェン",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_jc21v1nzsc1",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/wen-akagi",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "赤羽葉子",
       "status": "verified",
-      "profileUrl": "https://www.nijisanji.jp/talents/l/youko-akabane"
+      "profileUrl": "https://www.nijisanji.jp/talents/l/youko-akabane",
+      "liverId": "TMP_youko_akabane",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/youko-akabane",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "明楽レイ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_02hirq8aa",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/akira-ray",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "飛鳥ひな",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_wjyu_5shm-g",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/hina-asuka",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "天ヶ瀬むゆ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_3q_85uwlmsw8",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/muyu-amagase",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "天宮こころ",
       "status": "verified",
-      "profileUrl": "https://www.nijisanji.jp/talents/l/kokoro-amamiya"
+      "profileUrl": "https://www.nijisanji.jp/talents/l/kokoro-amamiya",
+      "liverId": "TMP_kokoro_amamiya",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kokoro-amamiya",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "雨森小夜",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_ng874y8ckrj",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/sayo-amemori",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "アルス・アルマル",
       "status": "verified",
-      "profileUrl": "https://www.nijisanji.jp/talents/l/ars-almal"
+      "profileUrl": "https://www.nijisanji.jp/talents/l/ars-almal",
+      "liverId": "TMP_ars_almal",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ars-almal",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "アンジュ・カトリーナ",
       "status": "verified",
-      "profileUrl": "https://www.nijisanji.jp/talents/l/ange-katrina"
+      "profileUrl": "https://www.nijisanji.jp/talents/l/ange-katrina",
+      "liverId": "TMP_ange_katrina",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ange-katrina",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "イ ロハ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_mam1q0b_d1t",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/lee-roha",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "家長むぎ",
       "status": "verified",
-      "profileUrl": "https://www.nijisanji.jp/talents/l/mugi-ienaga"
+      "profileUrl": "https://www.nijisanji.jp/talents/l/mugi-ienaga",
+      "liverId": "TMP_mugi_ienaga",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/mugi-ienaga",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "五十嵐梨花",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_0k1fv9e8zs4g",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/rika-igarashi",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "石神のぞみ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_ni0ao9zni",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/nozomi-ishigami",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "五木左京",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_j_76ny28xjb",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/sakyo-itsuki",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "伊波ライ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_qr4dll2s8eng",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/rai-inami",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "戌亥とこ",
       "status": "verified",
-      "profileUrl": "https://www.nijisanji.jp/talents/l/toko-inui"
+      "profileUrl": "https://www.nijisanji.jp/talents/l/toko-inui",
+      "liverId": "TMP_toko_inui",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/toko-inui",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "イブラヒム",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_c9ekhf008tg",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ibrahim",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "宇佐美リト",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_xv-z-kvwx",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/rito-usami",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "宇志海いちご",
       "status": "verified",
-      "profileUrl": "https://www.nijisanji.jp/talents/l/ichigo-ushimi"
+      "profileUrl": "https://www.nijisanji.jp/talents/l/ichigo-ushimi",
+      "liverId": "TMP_ichigo_ushimi",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ichigo-ushimi",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "卯月コウ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_qcqq5r0w561",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kou-uzuki",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "海妹四葉",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_4pynx1or5pze",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/yotsuha-umise",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "エクス・アルビオ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_sbk2wurljyjp",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ex-albio",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "エトナ クリムソン",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_41ylgu4nz7iz",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/etna-crimson",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "えま★おうがすと",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_px1axfh-lx6",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/emma-august",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "エリー・コニファー",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_95qxlfkpe",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/eli-conifer",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "える",
       "status": "verified",
-      "profileUrl": "https://www.nijisanji.jp/talents/l/elu"
+      "profileUrl": "https://www.nijisanji.jp/talents/l/elu",
+      "liverId": "TMP_elu",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/elu",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "オ ジユ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_u7--gnaqe90",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/oh-jiyu",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "男虎",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_kz580-8rddgn",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/onotora",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "オリバー・エバンス",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_xdo7bpg66j",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/oliver-evans",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "魁星",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_bmh6dc3bc5io",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kaisei",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "甲斐田晴",
       "status": "verified",
-      "profileUrl": "https://www.nijisanji.jp/talents/l/haru-kaida"
+      "profileUrl": "https://www.nijisanji.jp/talents/l/haru-kaida",
+      "liverId": "TMP_haru_kaida",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/haru-kaida",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "加賀美ハヤト",
       "status": "verified",
-      "profileUrl": "https://www.nijisanji.jp/talents/l/hayato-kagami"
+      "profileUrl": "https://www.nijisanji.jp/talents/l/hayato-kagami",
+      "liverId": "TMP_hayato_kagami",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/hayato-kagami",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "語部紡",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_u8b1yl0okdlz",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/tsumugu-kataribe",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "蝸堂みかる",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_1k1ui5wnu4b",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/mikaru-kadou",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "叶",
-      "status": "verified"
+      "status": "verified",
+      "liverId": "TMP_kanae",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kanae",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "鏑木ろこ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_gxancbkhyuwt",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/roco-kaburaki",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "神田笑一",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_x-5g5ncpwksj",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/shoichi-kanda",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "ガオン",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_7c0af4ry218a",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/gaon",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "綺沙良",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_s82prqvh7bj",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kisara",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "北小路ヒスイ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_zxebrf0qngqc",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/hisui-kitakoji",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "北見遊征",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_1wk-t2f2yc",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/yusei-kitami",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "雲母たまこ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_l41nu24h5f",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/tamako-kirara",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "ギルザレンⅢ世",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_orizixlqdz4",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/gilzaren-iii",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "葛葉",
-      "status": "verified"
+      "status": "verified",
+      "liverId": "TMP_kuzuha",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kuzuha",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "倉持めると",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_tjynw7pak7",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/meruto-kuramochi",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "九里詠太",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_skfl9cnycb",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/eita-kuri",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "来栖夏芽",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_yyqqd2eo1mvf",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/natsume-kurusu",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "黒井しば",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_y6z8znyms2d7",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/shiba-kuroi",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "剣持刀也",
       "status": "verified",
-      "profileUrl": "https://www.nijisanji.jp/talents/l/toya-kenmochi"
+      "profileUrl": "https://www.nijisanji.jp/talents/l/toya-kenmochi",
+      "liverId": "TMP_toya_kenmochi",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/toya-kenmochi",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "弦月藤士郎",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_vrzbe02k3dl",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/tojiro-genzuki",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "小々波いるか",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_xh6u5mlpx",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/iruka-kokonami",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "小清水透",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_zz_7rbwsol",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/toru-koshimizu",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "梢桃音",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_tyi7av99me",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/mone-kozue",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "小柳ロウ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_01fq_kisd",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/rou-koyanagi",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "佐伯イッテツ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_f_gnq77vu8m",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ittetsu-saiki",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "三枝明那",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_21sys3w9foka",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/akina-saegusa",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "早乙女ベリー",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_tkiqaddce",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/berry-saotome",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "榊ネス",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_eqqh-ejo620",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ness-sakaki",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "酒寄颯馬",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_f3m6902048yw",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/soma-sakayori",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "桜凛月",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_xu6yc6um0jaq",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ritsuki-sakura",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "笹木咲",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_fmi2ay76ya3",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/saku-sasaki",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "椎名唯華",
       "status": "verified",
-      "profileUrl": "https://www.nijisanji.jp/talents/l/yuika-shiina"
+      "profileUrl": "https://www.nijisanji.jp/talents/l/yuika-shiina",
+      "liverId": "TMP_yuika_shiina",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/yuika-shiina",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "シェリン・バーガンディ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_av8uxpfmi",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/shellin-burgundy",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "栞葉るり",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_zx-e3qpysbk",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ruri-shioriha",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "司賀りこ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_8xt67h5vov",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/riko-shiga",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "四季凪アキラ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_eh3k6jd98ok5",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/akira-shikinagi",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "獅子堂あかり",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_nx0nhtbc6w2i",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/akari-shishido",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "シスター・クレア",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_sqlr2xuh3",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/sister-claire",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "静凛",
       "status": "verified",
-      "profileUrl": "https://www.nijisanji.jp/talents/l/rin-shizuka"
+      "profileUrl": "https://www.nijisanji.jp/talents/l/rin-shizuka",
+      "liverId": "TMP_rin_shizuka",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/rin-shizuka",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "篠宮ゆの",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_e_1i07-a6",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/yuno-shinomiya",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "渋谷ハジメ",
       "status": "verified",
-      "profileUrl": "https://www.nijisanji.jp/talents/l/hajime-shibuya"
+      "profileUrl": "https://www.nijisanji.jp/talents/l/hajime-shibuya",
+      "liverId": "TMP_hajime_shibuya",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/hajime-shibuya",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "白砂あやね",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_1cdsti8fe",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ayane-shirasa",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "白雪巴",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_ba0vptr1cb",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/tomoe-shirayuki",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "城瀬いすみ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_k1rfwt9vh",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/isumi-shirose",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "ジョー・力一",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_3kn45uiube",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/joe-rikiichi",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "周央サンゴ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_cursglxpoac",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/sango-suo",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "健屋花那",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_clhmbr_qujq0",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kana-sukoya",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "鈴木勝",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_b5npgpc-it2n",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/masaru-suzuki",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "鈴原るる",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_sykokgzgpyk",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/lulu-suzuhara",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "皇れお",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_ni1twjl76ms4",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/reo-sumeragi",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "セフィナ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_7ct2ahy1ja",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/seffyna",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "セラフ・ダズルガーデン",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_c4p3zk71_znr",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/seraph-dazzlegarden",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "千凛あゆむ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_1g8u74cfh8",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ayumu-senri",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "ソ ナギ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_6lie843e9m6y",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/so-nagi",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "ソフィア・ヴァレンタイン",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_xe7r9ndu-vm",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/sophia-valentine",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "空星きらめ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_t_52ark1wxc",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kirame-sorahoshi",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "鷹宮リオン",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_e01y66srp7d",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/rion-takamiya",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "立伝都々",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_zt_mthf2lifn",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/toto-tachitsute",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "珠乃井ナナ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_s0098uwq0e",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/nana-tamanoi",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "塚原大地",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_54ppvp3jf3p",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/daichi-tsukahara",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "月ノ美兎",
-      "status": "verified"
+      "status": "verified",
+      "liverId": "TMP_mito_tsukino",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/mito-tsukino",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "でびでび・でびる",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_s6z5xs_ce",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/debidebi-debiru",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "デレム カド",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_57lwxmz0atj",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/derem-kado",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "東堂コハク",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_cnxncpq4tsw",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kohaku-todo",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "十河ののは",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_hp2z53g1cs0c",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/nonoha-togawa",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "轟京子",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_2ehwuvca1hs",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kyoko-todoroki",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "ドーラ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_ifxbqhn36",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/dola",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "ナ セラ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_36jp7m8s3",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/na-sera",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "長尾景",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_fc0gqp8m-u",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kei-nagao",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "ナギサ アルシニア",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_77ns9sa90a3",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/nagisa-arcinia",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "渚トラウト",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_t90ymq2y8j7",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/trout-nagisa",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "七瀬すず菜",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_22dj46kyd0z4",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/suzuna-nanase",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "西園チグサ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_4eez5dwcno",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/chigusa-nishizono",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "ニュイ・ソシエール",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_xcdldllil5nt",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/nui-sociere",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "猫屋敷美紅",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_aglwi3fi_-d",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/miku-nekoyashiki",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "ハ ユン",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_xjrdo3l8q",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ha-yun",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "葉加瀬冬雪",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_ikv7iu4b3891",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/fuyuki-hakase",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "ハナ マキア",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_7r36ly_n2ity",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/hana-macchia",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "花籠つばさ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_x1im6zq9v8",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/tsubasa-hanakago",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "花畑チャイカ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_ck4t-23mex_o",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/chaika-hanabatake",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "早瀬走",
       "status": "verified",
-      "profileUrl": "https://www.nijisanji.jp/talents/l/sou-hayase"
+      "profileUrl": "https://www.nijisanji.jp/talents/l/sou-hayase",
+      "liverId": "TMP_sou_hayase",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/sou-hayase",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "葉山舞鈴",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_z7l0v4eu_l",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/marin-hayama",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "春崎エアル",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_cqinr375u4lv",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/air-harusaki",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "樋口楓",
       "status": "verified",
-      "profileUrl": "https://www.nijisanji.jp/talents/l/kaede-higuchi"
+      "profileUrl": "https://www.nijisanji.jp/talents/l/kaede-higuchi",
+      "liverId": "TMP_kaede_higuchi",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kaede-higuchi",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "一橋綾人",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_w5eu6_7sqvf9",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ayato-hitotsubashi",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "緋八マナ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_i3so0lfq05",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/mana-hibachi",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "壱百満天原サロメ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_uvyeibtkt3",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/salome-hyakumantenbara",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "風楽奏斗",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_qjgnmspnmu8",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kanato-fura",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "伏見ガク",
       "status": "verified",
-      "profileUrl": "https://www.nijisanji.jp/talents/l/gaku-fushimi"
+      "profileUrl": "https://www.nijisanji.jp/talents/l/gaku-fushimi",
+      "liverId": "TMP_gaku_fushimi",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/gaku-fushimi",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "フミ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_ea7kln75lom",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/fumi",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "文野環",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_k4d1zb9whr",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/tamaki-fumino",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "フレン・E・ルスタリオ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_9nngk8bf8",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/furen-e-lustario",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "不破湊",
       "status": "verified",
-      "profileUrl": "https://www.nijisanji.jp/talents/l/minato-fuwa"
+      "profileUrl": "https://www.nijisanji.jp/talents/l/minato-fuwa",
+      "liverId": "TMP_minato_fuwa",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/minato-fuwa",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "ぷりん・らら・もーど",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_r1w-2mesm5ea",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/purin-lala-mode",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "ベルモンド・バンデラス",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_v8o1t023zv5",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/belmond-banderas",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "星川サラ",
       "status": "verified",
-      "profileUrl": "https://www.nijisanji.jp/talents/l/sara-hoshikawa"
+      "profileUrl": "https://www.nijisanji.jp/talents/l/sara-hoshikawa",
+      "liverId": "TMP_sara_hoshikawa",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/sara-hoshikawa",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "星導ショウ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_lieef5j5q",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/sho-hoshirube",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "本間ひまわり",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_dpqvaz40-dc",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/himawari-honma",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "ぽめろ・ぱんち",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_046vmsxot1",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/pomelo-punch",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "先斗寧",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_jght-6_j1",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/nei-ponto",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "舞元啓介",
       "status": "verified",
-      "profileUrl": "https://www.nijisanji.jp/talents/l/keisuke-maimoto"
+      "profileUrl": "https://www.nijisanji.jp/talents/l/keisuke-maimoto",
+      "liverId": "TMP_keisuke_maimoto",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/keisuke-maimoto",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "魔界ノりりむ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_3gfol13a9yre",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/makaino-ririmu",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "ましろ爻",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_wwz5hv2pw5wi",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/meme-mashiro",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "町田ちま",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_run5rxlhy7",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/chima-machita",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "魔使マオ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_2fx8bv60ip_e",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/mao-matsukai",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "御子神琴音",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_e23zi9axalo",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kotone-mikogami",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "水面まどか",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_04gk1i_rc2",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/madoka-minamo",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "ミラン・ケストレル",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_z5un7llkr80",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/milan-kestrel",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "ミン スゥーハ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_6d9lepsxqm",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/min-suha",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "叢雲カゲツ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_9of6xz5dzyfw",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kagetsu-murakumo",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "モイラ",
       "status": "verified",
-      "profileUrl": "https://www.nijisanji.jp/talents/l/moira"
+      "profileUrl": "https://www.nijisanji.jp/talents/l/moira",
+      "liverId": "TMP_moira",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/moira",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "物述有栖",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_o4q_hlyz5mn",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/alice-mononobe",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "森中花咲",
       "status": "verified",
-      "profileUrl": "https://www.nijisanji.jp/talents/l/kazaki-morinaka"
+      "profileUrl": "https://www.nijisanji.jp/talents/l/kazaki-morinaka",
+      "liverId": "TMP_kazaki_morinaka",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kazaki-morinaka",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "夜牛詩乃",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_xzalni7jjyb",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/shino-yagyu",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "矢車りね",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_lulduocrt",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/rine-yaguruma",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "社築",
       "status": "verified",
-      "profileUrl": "https://www.nijisanji.jp/talents/l/kizuku-yashiro"
+      "profileUrl": "https://www.nijisanji.jp/talents/l/kizuku-yashiro",
+      "liverId": "TMP_kizuku_yashiro",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kizuku-yashiro",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "山神カルタ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_t-uui4v2m6fu",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/karuta-yamagami",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "ヤン ナリ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_6_i1c2y7p93r",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/yang-nari",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "夕陽リリ",
       "status": "verified",
-      "profileUrl": "https://www.nijisanji.jp/talents/l/riri-yuhi"
+      "profileUrl": "https://www.nijisanji.jp/talents/l/riri-yuhi",
+      "liverId": "TMP_riri_yuhi",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/riri-yuhi",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "雪城眞尋",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_8lu02jzlo-z",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/mahiro-yukishiro",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "夢月ロア",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_4kgv4t1q2",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/roa-yuzuki",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "夢追翔",
       "status": "verified",
-      "profileUrl": "https://www.nijisanji.jp/talents/l/kakeru-yumeoi"
+      "profileUrl": "https://www.nijisanji.jp/talents/l/kakeru-yumeoi",
+      "liverId": "TMP_kakeru_yumeoi",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kakeru-yumeoi",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "夜見れな",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_qq8dk_x28",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/rena-yorumi",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "ライ ガリレイ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_5rrs_8nslj0",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/rai-galilei",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "ライラ アルストロエメリア",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_3f2cdigou2s",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/layla-alstroemeria",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "ラトナ・プティ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_cp7qpqhfxga1",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ratna-petit",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "リゼ・ヘルエスタ",
       "status": "verified",
-      "profileUrl": "https://www.nijisanji.jp/talents/l/lize-helesta"
+      "profileUrl": "https://www.nijisanji.jp/talents/l/lize-helesta",
+      "liverId": "TMP_lize_helesta",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/lize-helesta",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "リュ ハリ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_ylv_8o1_34",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ryu-hari",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "緑仙",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_wqewq2mghnn",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ryushen",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "竜胆尊",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_uievaw0z_pt",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/mikoto-rindou",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "ルイス・キャミー",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_7_ambl6tt",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/luis-cammy",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "ルンルン",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_zjd0d1-ncu",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/lunlun",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "Rei7",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_b63ccj17ms2",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/reina",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "レイン・パターソン",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_dbmr8bakj",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/lain-paterson",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "レオス・ヴィンセント",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_4ieg-un_fi",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/leos-vincent",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "レヨン",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_xgf91_n-k0r",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/rayon",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "レヴィ・エリファ",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_pugwgnvpi7",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/levi-elipha",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "ローレン・イロアス",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_hva2c6igf75",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/lauren-iroas",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "渡会雲雀",
-      "status": "needs-profile-verification"
+      "status": "verified",
+      "liverId": "niji_nhawoxm9in6",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/hibari-watarai",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "神永タイガ",
-      "status": "needs-profile-verification",
-      "sourceUrl": "https://www.nijisanji.jp/news/09g_6vw10r"
+      "status": "verified",
+      "sourceUrl": "https://www.nijisanji.jp/news/09g_6vw10r",
+      "liverId": "niji_la6zix1yp6jd",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/taiga-kaminaga",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     },
     {
       "name": "山田龍一郎",
-      "status": "needs-profile-verification",
-      "sourceUrl": "https://www.nijisanji.jp/news/09g_6vw10r"
+      "status": "verified",
+      "sourceUrl": "https://www.nijisanji.jp/news/09g_6vw10r",
+      "liverId": "niji_jbhd99wl1md4",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ryuichiro-yamada",
+      "verifiedAt": "2026-11-14T13:07:36.734Z"
     }
   ],
   "additionalSource": "https://www.nijisanji.jp/news/09g_6vw10r"

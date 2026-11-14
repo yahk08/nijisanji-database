@@ -1,0 +1,6 @@
+{
+  "id":"./", "name":"にじデータベース", "short_name":"にじDB",
+  "lang":"ja", "start_url":"./#/home", "scope":"./", "display":"standalone",
+  "background_color":"#f9fbff", "theme_color":"#f9fbff",
+  "icons":[{"src":"icons/icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"}]
+}

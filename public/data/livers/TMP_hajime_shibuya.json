@@ -2,41 +2,68 @@
   "id": "TMP_hajime_shibuya",
   "status": "active",
   "name": "渋谷ハジメ",
-  "reading": null,
-  "englishName": null,
+  "reading": "しぶやはじめ",
+  "englishName": "Shibuya Hajime",
   "affiliation": "にじさんじ",
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/hajime-shibuya",
   "portraitUrl": null,
-  "youtubeChannelUrl": null,
-  "youtubeChannelId": null,
-  "xUrl": null,
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ",
+  "youtubeChannelId": "UCeK9HFcRZoTrvqcUCtccMoQ",
+  "xUrl": "https://twitter.com/sibuya_hajime",
   "birthday": {
     "value": "05-05",
+    "verification": "official",
     "sources": [
       {
         "label": "にじさんじ公式プロフィール",
         "url": "https://www.nijisanji.jp/talents/l/hajime-shibuya",
-        "verifiedAt": "2026-11-14"
+        "kind": "official",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
       }
     ],
     "showSources": true
   },
   "debutDate": {
-    "value": null,
-    "sources": [],
-    "showSources": false
+    "value": "2018-02-01",
+    "verification": "official",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール",
+        "url": "https://www.nijisanji.jp/talents/l/hajime-shibuya",
+        "kind": "official",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
+      }
+    ],
+    "showSources": true,
+    "note": "公式サイトのデビュー日。初配信日とは異なる場合があります。"
   },
   "height": {
-    "value": null,
-    "sources": [],
-    "showSources": false
+    "value": "180cm",
+    "verification": "wiki-only",
+    "sources": [
+      {
+        "label": "にじさんじ非公式Wiki（一次資料未確認）",
+        "url": "https://wikiwiki.jp/nijisanji/%E6%B8%8B%E8%B0%B7%E3%83%8F%E3%82%B8%E3%83%A1",
+        "kind": "wiki",
+        "verifiedAt": "2026-11-14T13:01:15.586Z"
+      }
+    ],
+    "showSources": true
   },
   "fanMark": {
-    "value": null,
-    "sources": [],
-    "showSources": false
+    "value": "🌱",
+    "verification": "wiki-only",
+    "sources": [
+      {
+        "label": "にじさんじ非公式Wiki（一次資料未確認）",
+        "url": "https://wikiwiki.jp/nijisanji/%E6%B8%8B%E8%B0%B7%E3%83%8F%E3%82%B8%E3%83%A1",
+        "kind": "wiki",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
+      }
+    ],
+    "showSources": true
   },
   "introduction": {
     "value": "ゲームやアニメが好きな大学生。",
@@ -47,7 +74,8 @@
         "verifiedAt": "2026-11-14"
       }
     ],
-    "showSources": true
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "fields": [
     {
@@ -68,9 +96,151 @@
           }
         }
       ]
+    },
+    {
+      "section": "公式プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "しぶミン",
+            "verification": "official",
+            "sources": [
+              {
+                "label": "にじさんじ公式プロフィール",
+                "url": "https://www.nijisanji.jp/talents/l/hajime-shibuya",
+                "kind": "official",
+                "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
     }
   ],
-  "changes": [],
+  "changes": [
+    {
+      "id": "bb05d15ae187a2bbe4c6",
+      "field": "reading",
+      "oldValue": null,
+      "newValue": "しぶやはじめ",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/hajime-shibuya",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "e674287ce097baefe025",
+      "field": "englishName",
+      "oldValue": null,
+      "newValue": "Shibuya Hajime",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/hajime-shibuya",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "8d47e7337335e321f1c7",
+      "field": "youtubeChannelId",
+      "oldValue": null,
+      "newValue": "UCeK9HFcRZoTrvqcUCtccMoQ",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/hajime-shibuya",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "b08e0ad89773890f6199",
+      "field": "youtubeChannelUrl",
+      "oldValue": null,
+      "newValue": "https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/hajime-shibuya",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "049aa6aa058420f4b69a",
+      "field": "xUrl",
+      "oldValue": null,
+      "newValue": "https://twitter.com/sibuya_hajime",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/hajime-shibuya",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "9ae2a39e8c8c2c257849",
+      "field": "debutDate",
+      "oldValue": null,
+      "newValue": "2018-02-01",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/hajime-shibuya",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "c9deec5026e418cdd32b",
+      "field": "height",
+      "oldValue": null,
+      "newValue": "180cm",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ非公式Wiki（一次資料未確認）",
+          "url": "https://wikiwiki.jp/nijisanji/%E6%B8%8B%E8%B0%B7%E3%83%8F%E3%82%B8%E3%83%A1",
+          "kind": "wiki",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "a1c6d7a888779b626600",
+      "field": "fanMark",
+      "oldValue": null,
+      "newValue": "🌱",
+      "changedAt": "2026-11-14T13:07:36.734Z",
+      "sources": [
+        {
+          "label": "にじさんじ非公式Wiki（一次資料未確認）",
+          "url": "https://wikiwiki.jp/nijisanji/%E6%B8%8B%E8%B0%B7%E3%83%8F%E3%82%B8%E3%83%A1",
+          "kind": "wiki",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ]
+    }
+  ],
   "visuals": [],
   "music": [],
   "events": [],
@@ -78,5 +248,39 @@
     "fetchedAt": null,
     "stateCheckedAt": null,
     "videos": []
+  },
+  "provenance": {
+    "officialId": "wmw0gpf1r",
+    "checkedAt": "2026-11-14T13:07:36.734Z",
+    "membership": {
+      "verification": "official",
+      "sources": [
+        {
+          "label": "にじさんじ公式タレント一覧",
+          "url": "https://www.nijisanji.jp/talents?filter=nijisanji",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ]
+    },
+    "links": {
+      "verification": "official-linked",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/hajime-shibuya",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ],
+      "note": "公式プロフィール掲載先との照合。YouTube APIおよびX APIによるアカウント照会は未実行。"
+    },
+    "wiki": {
+      "url": "https://wikiwiki.jp/nijisanji/%E6%B8%8B%E8%B0%B7%E3%83%8F%E3%82%B8%E3%83%A1",
+      "status": "read",
+      "checkedAt": "2026-11-14T13:07:36.734Z",
+      "youtubeChannelLinked": true,
+      "xAccountLinked": true
+    }
   }
 }

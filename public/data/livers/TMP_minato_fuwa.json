@@ -2,41 +2,68 @@
   "id": "TMP_minato_fuwa",
   "status": "active",
   "name": "不破湊",
-  "reading": null,
-  "englishName": null,
+  "reading": "ふわみなと",
+  "englishName": "Fuwa Minato",
   "affiliation": "にじさんじ",
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/minato-fuwa",
   "portraitUrl": null,
-  "youtubeChannelUrl": null,
-  "youtubeChannelId": null,
-  "xUrl": null,
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA",
+  "youtubeChannelId": "UC6wvdADTJ88OfIbJYIpAaDA",
+  "xUrl": "https://twitter.com/Fuwa_Minato",
   "birthday": {
     "value": "04-18",
+    "verification": "official",
     "sources": [
       {
         "label": "にじさんじ公式プロフィール",
         "url": "https://www.nijisanji.jp/talents/l/minato-fuwa",
-        "verifiedAt": "2026-11-14"
+        "kind": "official",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
       }
     ],
     "showSources": true
   },
   "debutDate": {
-    "value": null,
-    "sources": [],
-    "showSources": false
+    "value": "2019-11-28",
+    "verification": "official",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール",
+        "url": "https://www.nijisanji.jp/talents/l/minato-fuwa",
+        "kind": "official",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
+      }
+    ],
+    "showSources": true,
+    "note": "公式サイトのデビュー日。初配信日とは異なる場合があります。"
   },
   "height": {
-    "value": null,
-    "sources": [],
-    "showSources": false
+    "value": "173cm",
+    "verification": "wiki-only",
+    "sources": [
+      {
+        "label": "にじさんじ非公式Wiki（一次資料未確認）",
+        "url": "https://wikiwiki.jp/nijisanji/%E4%B8%8D%E7%A0%B4%E6%B9%8A",
+        "kind": "wiki",
+        "verifiedAt": "2026-11-14T13:01:15.586Z"
+      }
+    ],
+    "showSources": true
   },
   "fanMark": {
-    "value": null,
-    "sources": [],
-    "showSources": false
+    "value": "🥂✨",
+    "verification": "wiki-only",
+    "sources": [
+      {
+        "label": "にじさんじ非公式Wiki（一次資料未確認）",
+        "url": "https://wikiwiki.jp/nijisanji/%E4%B8%8D%E7%A0%B4%E6%B9%8A",
+        "kind": "wiki",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
+      }
+    ],
+    "showSources": true
   },
   "introduction": {
     "value": "歌とゲームが好きなバーチャルホスト。",
@@ -47,7 +74,8 @@
         "verifiedAt": "2026-11-14"
       }
     ],
-    "showSources": true
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "fields": [
     {
@@ -68,9 +96,151 @@
           }
         }
       ]
+    },
+    {
+      "section": "公式プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "不破狂",
+            "verification": "official",
+            "sources": [
+              {
+                "label": "にじさんじ公式プロフィール",
+                "url": "https://www.nijisanji.jp/talents/l/minato-fuwa",
+                "kind": "official",
+                "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
     }
   ],
-  "changes": [],
+  "changes": [
+    {
+      "id": "015c899c84454c7ab734",
+      "field": "reading",
+      "oldValue": null,
+      "newValue": "ふわみなと",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/minato-fuwa",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "917e3ba70b5b821f3de6",
+      "field": "englishName",
+      "oldValue": null,
+      "newValue": "Fuwa Minato",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/minato-fuwa",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "4b4961856421bc870c63",
+      "field": "youtubeChannelId",
+      "oldValue": null,
+      "newValue": "UC6wvdADTJ88OfIbJYIpAaDA",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/minato-fuwa",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "d62b51cbd11026b04a58",
+      "field": "youtubeChannelUrl",
+      "oldValue": null,
+      "newValue": "https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/minato-fuwa",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "114703ceb70f011fc79c",
+      "field": "xUrl",
+      "oldValue": null,
+      "newValue": "https://twitter.com/Fuwa_Minato",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/minato-fuwa",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "b7a3b160f35f9322730c",
+      "field": "debutDate",
+      "oldValue": null,
+      "newValue": "2019-11-28",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/minato-fuwa",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "928b26acf6116d1b1e0f",
+      "field": "height",
+      "oldValue": null,
+      "newValue": "173cm",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ非公式Wiki（一次資料未確認）",
+          "url": "https://wikiwiki.jp/nijisanji/%E4%B8%8D%E7%A0%B4%E6%B9%8A",
+          "kind": "wiki",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "704cc2d7610a6163b44e",
+      "field": "fanMark",
+      "oldValue": null,
+      "newValue": "🥂✨",
+      "changedAt": "2026-11-14T13:07:36.734Z",
+      "sources": [
+        {
+          "label": "にじさんじ非公式Wiki（一次資料未確認）",
+          "url": "https://wikiwiki.jp/nijisanji/%E4%B8%8D%E7%A0%B4%E6%B9%8A",
+          "kind": "wiki",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ]
+    }
+  ],
   "visuals": [],
   "music": [],
   "events": [],
@@ -78,5 +248,39 @@
     "fetchedAt": null,
     "stateCheckedAt": null,
     "videos": []
+  },
+  "provenance": {
+    "officialId": "lp4ni-jr9e",
+    "checkedAt": "2026-11-14T13:07:36.734Z",
+    "membership": {
+      "verification": "official",
+      "sources": [
+        {
+          "label": "にじさんじ公式タレント一覧",
+          "url": "https://www.nijisanji.jp/talents?filter=nijisanji",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ]
+    },
+    "links": {
+      "verification": "official-linked",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/minato-fuwa",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ],
+      "note": "公式プロフィール掲載先との照合。YouTube APIおよびX APIによるアカウント照会は未実行。"
+    },
+    "wiki": {
+      "url": "https://wikiwiki.jp/nijisanji/%E4%B8%8D%E7%A0%B4%E6%B9%8A",
+      "status": "read",
+      "checkedAt": "2026-11-14T13:07:36.734Z",
+      "youtubeChannelLinked": true,
+      "xAccountLinked": true
+    }
   }
 }

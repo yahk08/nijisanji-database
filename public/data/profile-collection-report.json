@@ -1,0 +1,2487 @@
+{
+  "checkedAt": "2026-11-14T13:07:36.734Z",
+  "scope": "にじさんじ（指定filter。EN/VirtuaReal除外）",
+  "listUrl": "https://www.nijisanji.jp/talents?filter=nijisanji",
+  "officialCount": 172,
+  "profiles": [
+    {
+      "id": "TMP_kuzuha",
+      "name": "葛葉",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/kuzuha",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E8%91%9B%E8%91%89",
+        "status": "read",
+        "checkedAt": "2026-11-14T13:07:36.734Z",
+        "youtubeChannelLinked": true,
+        "xAccountLinked": true
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "wiki-only",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_uvyeibtkt3",
+      "name": "壱百満天原サロメ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/salome-hyakumantenbara",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E5%A3%B1%E7%99%BE%E6%BA%80%E5%A4%A9%E5%8E%9F%E3%82%B5%E3%83%AD%E3%83%A1",
+        "status": "read",
+        "checkedAt": "2026-11-14T13:07:36.734Z",
+        "youtubeChannelLinked": true,
+        "xAccountLinked": true
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "wiki-only"
+    },
+    {
+      "id": "TMP_kanae",
+      "name": "叶",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/kanae",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E5%8F%B6",
+        "status": "read",
+        "checkedAt": "2026-11-14T13:07:36.734Z",
+        "youtubeChannelLinked": true,
+        "xAccountLinked": true
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "wiki-only",
+      "fanMark": "wiki-only"
+    },
+    {
+      "id": "TMP_mito_tsukino",
+      "name": "月ノ美兎",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/mito-tsukino",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E6%9C%88%E3%83%8E%E7%BE%8E%E5%85%8E",
+        "status": "read",
+        "checkedAt": "2026-11-14T13:07:36.734Z",
+        "youtubeChannelLinked": true,
+        "xAccountLinked": true
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "wiki-only",
+      "fanMark": "wiki-only"
+    },
+    {
+      "id": "TMP_toya_kenmochi",
+      "name": "剣持刀也",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/toya-kenmochi",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E5%89%A3%E6%8C%81%E5%88%80%E4%B9%9F",
+        "status": "read",
+        "checkedAt": "2026-11-14T13:07:36.734Z",
+        "youtubeChannelLinked": true,
+        "xAccountLinked": true
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "wiki-only",
+      "fanMark": "wiki-only"
+    },
+    {
+      "id": "TMP_sara_hoshikawa",
+      "name": "星川サラ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/sara-hoshikawa",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E6%98%9F%E5%B7%9D%E3%82%B5%E3%83%A9",
+        "status": "read",
+        "checkedAt": "2026-11-14T13:07:36.734Z",
+        "youtubeChannelLinked": true,
+        "xAccountLinked": true
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "wiki-only"
+    },
+    {
+      "id": "TMP_minato_fuwa",
+      "name": "不破湊",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/minato-fuwa",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E4%B8%8D%E7%A0%B4%E6%B9%8A",
+        "status": "read",
+        "checkedAt": "2026-11-14T13:07:36.734Z",
+        "youtubeChannelLinked": true,
+        "xAccountLinked": true
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "wiki-only",
+      "fanMark": "wiki-only"
+    },
+    {
+      "id": "niji_hva2c6igf75",
+      "name": "ローレン・イロアス",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/lauren-iroas",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%83%AD%E3%83%BC%E3%83%AC%E3%83%B3%E3%83%BB%E3%82%A4%E3%83%AD%E3%82%A2%E3%82%B9",
+        "status": "read",
+        "checkedAt": "2026-11-14T13:07:36.734Z",
+        "youtubeChannelLinked": true,
+        "xAccountLinked": true
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "wiki-only",
+      "fanMark": "wiki-only"
+    },
+    {
+      "id": "TMP_kaede_higuchi",
+      "name": "樋口楓",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/kaede-higuchi",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E6%A8%8B%E5%8F%A3%E6%A5%93",
+        "status": "read",
+        "checkedAt": "2026-11-14T13:07:36.734Z",
+        "youtubeChannelLinked": true,
+        "xAccountLinked": true
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "wiki-only"
+    },
+    {
+      "id": "TMP_ange_katrina",
+      "name": "アンジュ・カトリーナ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/ange-katrina",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%82%A2%E3%83%B3%E3%82%B8%E3%83%A5%E3%83%BB%E3%82%AB%E3%83%88%E3%83%AA%E3%83%BC%E3%83%8A",
+        "status": "read",
+        "checkedAt": "2026-11-14T13:07:36.734Z",
+        "youtubeChannelLinked": true,
+        "xAccountLinked": true
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "wiki-only"
+    },
+    {
+      "id": "TMP_toko_inui",
+      "name": "戌亥とこ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/toko-inui",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E6%88%8C%E4%BA%A5%E3%81%A8%E3%81%93",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "TMP_lize_helesta",
+      "name": "リゼ・ヘルエスタ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/lize-helesta",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%83%AA%E3%82%BC%E3%83%BB%E3%83%98%E3%83%AB%E3%82%A8%E3%82%B9%E3%82%BF",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_fmi2ay76ya3",
+      "name": "笹木咲",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/saku-sasaki",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E7%AC%B9%E6%9C%A8%E5%92%B2",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "TMP_hayato_kagami",
+      "name": "加賀美ハヤト",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/hayato-kagami",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E5%8A%A0%E8%B3%80%E7%BE%8E%E3%83%8F%E3%83%A4%E3%83%88",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_run5rxlhy7",
+      "name": "町田ちま",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/chima-machita",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E7%94%BA%E7%94%B0%E3%81%A1%E3%81%BE",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_zjd0d1-ncu",
+      "name": "ルンルン",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/lunlun",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%83%AB%E3%83%B3%E3%83%AB%E3%83%B3",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_c9ekhf008tg",
+      "name": "イブラヒム",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/ibrahim",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%82%A4%E3%83%96%E3%83%A9%E3%83%92%E3%83%A0",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "TMP_kizuku_yashiro",
+      "name": "社築",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/kizuku-yashiro",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E7%A4%BE%E7%AF%89",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "TMP_yuika_shiina",
+      "name": "椎名唯華",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/yuika-shiina",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E6%A4%8E%E5%90%8D%E5%94%AF%E8%8F%AF",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "TMP_ars_almal",
+      "name": "アルス・アルマル",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/ars-almal",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%82%A2%E3%83%AB%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%AB%E3%83%9E%E3%83%AB",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_9nngk8bf8",
+      "name": "フレン・E・ルスタリオ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/furen-e-lustario",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%83%95%E3%83%AC%E3%83%B3%E3%83%BBE%E3%83%BB%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%AA",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "TMP_kokoro_amamiya",
+      "name": "天宮こころ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/kokoro-amamiya",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E5%A4%A9%E5%AE%AE%E3%81%93%E3%81%93%E3%82%8D",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_wqewq2mghnn",
+      "name": "緑仙",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/ryushen",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E7%B7%91%E4%BB%99",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_dpqvaz40-dc",
+      "name": "本間ひまわり",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/himawari-honma",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E6%9C%AC%E9%96%93%E3%81%B2%E3%81%BE%E3%82%8F%E3%82%8A",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_sykokgzgpyk",
+      "name": "鈴原るる",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/lulu-suzuhara",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E9%88%B4%E5%8E%9F%E3%82%8B%E3%82%8B",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "TMP_haru_kaida",
+      "name": "甲斐田晴",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/haru-kaida",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E7%94%B2%E6%96%90%E7%94%B0%E6%99%B4",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "TMP_elu",
+      "name": "える",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/elu",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%81%88%E3%82%8B",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_21sys3w9foka",
+      "name": "三枝明那",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/akina-saegusa",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E4%B8%89%E6%9E%9D%E6%98%8E%E9%82%A3",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_xcdldllil5nt",
+      "name": "ニュイ・ソシエール",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/nui-sociere",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%83%8B%E3%83%A5%E3%82%A4%E3%83%BB%E3%82%BD%E3%82%B7%E3%82%A8%E3%83%BC%E3%83%AB",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_4eez5dwcno",
+      "name": "西園チグサ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/chigusa-nishizono",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E8%A5%BF%E5%9C%92%E3%83%81%E3%82%B0%E3%82%B5",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_cursglxpoac",
+      "name": "周央サンゴ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/sango-suo",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E5%91%A8%E5%A4%AE%E3%82%B5%E3%83%B3%E3%82%B4",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_3kn45uiube",
+      "name": "ジョー・力一",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/joe-rikiichi",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%BB%E5%8A%9B%E4%B8%80",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_nhawoxm9in6",
+      "name": "渡会雲雀",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/hibari-watarai",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E6%B8%A1%E4%BC%9A%E9%9B%B2%E9%9B%80",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_clhmbr_qujq0",
+      "name": "健屋花那",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/kana-sukoya",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E5%81%A5%E5%B1%8B%E8%8A%B1%E9%82%A3",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_s6z5xs_ce",
+      "name": "でびでび・でびる",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/debidebi-debiru",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%81%A7%E3%81%B3%E3%81%A7%E3%81%B3%E3%83%BB%E3%81%A7%E3%81%B3%E3%82%8B",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_z7l0v4eu_l",
+      "name": "葉山舞鈴",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/marin-hayama",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E8%91%89%E5%B1%B1%E8%88%9E%E9%88%B4",
+        "status": "read",
+        "checkedAt": "2026-11-14T13:07:36.734Z",
+        "youtubeChannelLinked": true,
+        "xAccountLinked": true
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_wwz5hv2pw5wi",
+      "name": "ましろ爻",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/meme-mashiro",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%81%BE%E3%81%97%E3%82%8D%E7%88%BB",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_cp7qpqhfxga1",
+      "name": "ラトナ・プティ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/ratna-petit",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%83%A9%E3%83%88%E3%83%8A%E3%83%BB%E3%83%97%E3%83%86%E3%82%A3",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_sqlr2xuh3",
+      "name": "シスター・クレア",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/sister-claire",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%AF%E3%83%AC%E3%82%A2",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_3gfol13a9yre",
+      "name": "魔界ノりりむ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/makaino-ririmu",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E9%AD%94%E7%95%8C%E3%83%8E%E3%82%8A%E3%82%8A%E3%82%80",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_qq8dk_x28",
+      "name": "夜見れな",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/rena-yorumi",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E5%A4%9C%E8%A6%8B%E3%82%8C%E3%81%AA",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_uievaw0z_pt",
+      "name": "竜胆尊",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/mikoto-rindou",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E7%AB%9C%E8%83%86%E5%B0%8A",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_sbk2wurljyjp",
+      "name": "エクス・アルビオ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/ex-albio",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%AB%E3%83%93%E3%82%AA",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_ck4t-23mex_o",
+      "name": "花畑チャイカ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/chaika-hanabatake",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E8%8A%B1%E7%95%91%E3%83%81%E3%83%A3%E3%82%A4%E3%82%AB",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_fc0gqp8m-u",
+      "name": "長尾景",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/kei-nagao",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E9%95%B7%E5%B0%BE%E6%99%AF",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_e01y66srp7d",
+      "name": "鷹宮リオン",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/rion-takamiya",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E9%B7%B9%E5%AE%AE%E3%83%AA%E3%82%AA%E3%83%B3",
+        "status": "read",
+        "checkedAt": "2026-11-14T13:07:36.734Z",
+        "youtubeChannelLinked": true,
+        "xAccountLinked": true
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "wiki-only",
+      "fanMark": "wiki-only"
+    },
+    {
+      "id": "niji_4ieg-un_fi",
+      "name": "レオス・ヴィンセント",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/leos-vincent",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%83%AC%E3%82%AA%E3%82%B9%E3%83%BB%E3%83%B4%E3%82%A3%E3%83%B3%E3%82%BB%E3%83%B3%E3%83%88",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_01fq_kisd",
+      "name": "小柳ロウ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/rou-koyanagi",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E5%B0%8F%E6%9F%B3%E3%83%AD%E3%82%A6",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_lieef5j5q",
+      "name": "星導ショウ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/sho-hoshirube",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E6%98%9F%E5%B0%8E%E3%82%B7%E3%83%A7%E3%82%A6",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_eh3k6jd98ok5",
+      "name": "四季凪アキラ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/akira-shikinagi",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E5%9B%9B%E5%AD%A3%E5%87%AA%E3%82%A2%E3%82%AD%E3%83%A9",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_v8o1t023zv5",
+      "name": "ベルモンド・バンデラス",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/belmond-banderas",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%83%99%E3%83%AB%E3%83%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%83%90%E3%83%B3%E3%83%87%E3%83%A9%E3%82%B9",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_zx-e3qpysbk",
+      "name": "栞葉るり",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/ruri-shioriha",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E6%A0%9E%E8%91%89%E3%82%8B%E3%82%8A",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_ikv7iu4b3891",
+      "name": "葉加瀬冬雪",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/fuyuki-hakase",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E8%91%89%E5%8A%A0%E7%80%AC%E5%86%AC%E9%9B%AA",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "TMP_keisuke_maimoto",
+      "name": "舞元啓介",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/keisuke-maimoto",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E8%88%9E%E5%85%83%E5%95%93%E4%BB%8B",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_dbmr8bakj",
+      "name": "レイン・パターソン",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/lain-paterson",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%BB%E3%83%91%E3%82%BF%E3%83%BC%E3%82%BD%E3%83%B3",
+        "status": "read",
+        "checkedAt": "2026-11-14T13:07:36.734Z",
+        "youtubeChannelLinked": true,
+        "xAccountLinked": true
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "wiki-only",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_qcqq5r0w561",
+      "name": "卯月コウ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/kou-uzuki",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E5%8D%AF%E6%9C%88%E3%82%B3%E3%82%A6",
+        "status": "read",
+        "checkedAt": "2026-11-14T13:07:36.734Z",
+        "youtubeChannelLinked": true,
+        "xAccountLinked": true
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_ba0vptr1cb",
+      "name": "白雪巴",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/tomoe-shirayuki",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E7%99%BD%E9%9B%AA%E5%B7%B4",
+        "status": "read",
+        "checkedAt": "2026-11-14T13:07:36.734Z",
+        "youtubeChannelLinked": true,
+        "xAccountLinked": true
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "wiki-only",
+      "fanMark": "wiki-only"
+    },
+    {
+      "id": "niji_qjgnmspnmu8",
+      "name": "風楽奏斗",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/kanato-fura",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E9%A2%A8%E6%A5%BD%E5%A5%8F%E6%96%97",
+        "status": "read",
+        "checkedAt": "2026-11-14T13:07:36.734Z",
+        "youtubeChannelLinked": true,
+        "xAccountLinked": true
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "wiki-only",
+      "fanMark": "wiki-only"
+    },
+    {
+      "id": "niji_ni0ao9zni",
+      "name": "石神のぞみ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/nozomi-ishigami",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E7%9F%B3%E7%A5%9E%E3%81%AE%E3%81%9E%E3%81%BF",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_k4d1zb9whr",
+      "name": "文野環",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/tamaki-fumino",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E6%96%87%E9%87%8E%E7%92%B0",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_c4p3zk71_znr",
+      "name": "セラフ・ダズルガーデン",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/seraph-dazzlegarden",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%82%BB%E3%83%A9%E3%83%95%E3%83%BB%E3%83%80%E3%82%BA%E3%83%AB%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_i3so0lfq05",
+      "name": "緋八マナ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/mana-hibachi",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E7%B7%8B%E5%85%AB%E3%83%9E%E3%83%8A",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "TMP_riri_yuhi",
+      "name": "夕陽リリ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/riri-yuhi",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E5%A4%95%E9%99%BD%E3%83%AA%E3%83%AA",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_qr4dll2s8eng",
+      "name": "伊波ライ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/rai-inami",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E4%BC%8A%E6%B3%A2%E3%83%A9%E3%82%A4",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_f_gnq77vu8m",
+      "name": "佐伯イッテツ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/ittetsu-saiki",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E4%BD%90%E4%BC%AF%E3%82%A4%E3%83%83%E3%83%86%E3%83%84",
+        "status": "read",
+        "checkedAt": "2026-11-14T13:07:36.734Z",
+        "youtubeChannelLinked": true,
+        "xAccountLinked": true
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "wiki-only",
+      "fanMark": "wiki-only"
+    },
+    {
+      "id": "niji_av8uxpfmi",
+      "name": "シェリン・バーガンディ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/shellin-burgundy",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%82%B7%E3%82%A7%E3%83%AA%E3%83%B3%E3%83%BB%E3%83%90%E3%83%BC%E3%82%AC%E3%83%B3%E3%83%87%E3%82%A3",
+        "status": "read",
+        "checkedAt": "2026-11-14T13:07:36.734Z",
+        "youtubeChannelLinked": true,
+        "xAccountLinked": true
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "wiki-only"
+    },
+    {
+      "id": "niji_vrzbe02k3dl",
+      "name": "弦月藤士郎",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/tojiro-genzuki",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E5%BC%A6%E6%9C%88%E8%97%A4%E5%A3%AB%E9%83%8E",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_xe7r9ndu-vm",
+      "name": "ソフィア・ヴァレンタイン",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/sophia-valentine",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%82%BD%E3%83%95%E3%82%A3%E3%82%A2%E3%83%BB%E3%83%B4%E3%82%A1%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "TMP_rin_shizuka",
+      "name": "静凛",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/rin-shizuka",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E9%9D%99%E5%87%9B",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_zz_7rbwsol",
+      "name": "小清水透",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/toru-koshimizu",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E5%B0%8F%E6%B8%85%E6%B0%B4%E9%80%8F",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_xv-z-kvwx",
+      "name": "宇佐美リト",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/rito-usami",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E5%AE%87%E4%BD%90%E7%BE%8E%E3%83%AA%E3%83%88",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_9of6xz5dzyfw",
+      "name": "叢雲カゲツ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/kagetsu-murakumo",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E5%8F%A2%E9%9B%B2%E3%82%AB%E3%82%B2%E3%83%84",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "TMP_kakeru_yumeoi",
+      "name": "夢追翔",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/kakeru-yumeoi",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E5%A4%A2%E8%BF%BD%E7%BF%94",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_pugwgnvpi7",
+      "name": "レヴィ・エリファ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/levi-elipha",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%83%AC%E3%83%B4%E3%82%A3%E3%83%BB%E3%82%A8%E3%83%AA%E3%83%95%E3%82%A1",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "TMP_gaku_fushimi",
+      "name": "伏見ガク",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/gaku-fushimi",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E4%BC%8F%E8%A6%8B%E3%82%AC%E3%82%AF",
+        "status": "read",
+        "checkedAt": "2026-11-14T13:07:36.734Z",
+        "youtubeChannelLinked": true,
+        "xAccountLinked": true
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_s0098uwq0e",
+      "name": "珠乃井ナナ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/nana-tamanoi",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E7%8F%A0%E4%B9%83%E4%BA%95%E3%83%8A%E3%83%8A",
+        "status": "read",
+        "checkedAt": "2026-11-14T13:07:36.734Z",
+        "youtubeChannelLinked": false,
+        "xAccountLinked": true
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "wiki-only"
+    },
+    {
+      "id": "niji_bmh6dc3bc5io",
+      "name": "魁星",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/kaisei",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E9%AD%81%E6%98%9F",
+        "status": "read",
+        "checkedAt": "2026-11-14T13:07:36.734Z",
+        "youtubeChannelLinked": true,
+        "xAccountLinked": true
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "wiki-only"
+    },
+    {
+      "id": "niji_jc21v1nzsc1",
+      "name": "赤城ウェン",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/wen-akagi",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E8%B5%A4%E5%9F%8E%E3%82%A6%E3%82%A7%E3%83%B3",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_0k1fv9e8zs4g",
+      "name": "五十嵐梨花",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/rika-igarashi",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E4%BA%94%E5%8D%81%E5%B5%90%E6%A2%A8%E8%8A%B1",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_ifxbqhn36",
+      "name": "ドーラ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/dola",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%83%89%E3%83%BC%E3%83%A9",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_eqqh-ejo620",
+      "name": "榊ネス",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/ness-sakaki",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E6%A6%8A%E3%83%8D%E3%82%B9",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_xdo7bpg66j",
+      "name": "オリバー・エバンス",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/oliver-evans",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%82%AA%E3%83%AA%E3%83%90%E3%83%BC%E3%83%BB%E3%82%A8%E3%83%90%E3%83%B3%E3%82%B9",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_nx0nhtbc6w2i",
+      "name": "獅子堂あかり",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/akari-shishido",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E7%8D%85%E5%AD%90%E5%A0%82%E3%81%82%E3%81%8B%E3%82%8A",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_4kgv4t1q2",
+      "name": "夢月ロア",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/roa-yuzuki",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E5%A4%A2%E6%9C%88%E3%83%AD%E3%82%A2",
+        "status": "read",
+        "checkedAt": "2026-11-14T13:07:36.734Z",
+        "youtubeChannelLinked": true,
+        "xAccountLinked": true
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "wiki-only",
+      "fanMark": "wiki-only"
+    },
+    {
+      "id": "niji_6_i1c2y7p93r",
+      "name": "ヤン ナリ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/yang-nari",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%83%A4%E3%83%B3%20%E3%83%8A%E3%83%AA",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "TMP_kazaki_morinaka",
+      "name": "森中花咲",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/kazaki-morinaka",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E6%A3%AE%E4%B8%AD%E8%8A%B1%E5%92%B2",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_tkiqaddce",
+      "name": "早乙女ベリー",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/berry-saotome",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E6%97%A9%E4%B9%99%E5%A5%B3%E3%83%99%E3%83%AA%E3%83%BC",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_b5npgpc-it2n",
+      "name": "鈴木勝",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/masaru-suzuki",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E9%88%B4%E6%9C%A8%E5%8B%9D",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_zxebrf0qngqc",
+      "name": "北小路ヒスイ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/hisui-kitakoji",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E5%8C%97%E5%B0%8F%E8%B7%AF%E3%83%92%E3%82%B9%E3%82%A4",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_t90ymq2y8j7",
+      "name": "渚トラウト",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/trout-nagisa",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E6%B8%9A%E3%83%88%E3%83%A9%E3%82%A6%E3%83%88",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_jght-6_j1",
+      "name": "先斗寧",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/nei-ponto",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E5%85%88%E6%96%97%E5%AF%A7",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_22dj46kyd0z4",
+      "name": "七瀬すず菜",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/suzuna-nanase",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E4%B8%83%E7%80%AC%E3%81%99%E3%81%9A%E8%8F%9C",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_2fx8bv60ip_e",
+      "name": "魔使マオ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/mao-matsukai",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E9%AD%94%E4%BD%BF%E3%83%9E%E3%82%AA",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_z5un7llkr80",
+      "name": "ミラン・ケストレル",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/milan-kestrel",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%83%9F%E3%83%A9%E3%83%B3%E3%83%BB%E3%82%B1%E3%82%B9%E3%83%88%E3%83%AC%E3%83%AB",
+        "status": "read",
+        "checkedAt": "2026-11-14T13:07:36.734Z",
+        "youtubeChannelLinked": false,
+        "xAccountLinked": true
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "wiki-only"
+    },
+    {
+      "id": "niji_tjynw7pak7",
+      "name": "倉持めると",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/meruto-kuramochi",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E5%80%89%E6%8C%81%E3%82%81%E3%82%8B%E3%81%A8",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "TMP_mugi_ienaga",
+      "name": "家長むぎ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/mugi-ienaga",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E5%AE%B6%E9%95%B7%E3%82%80%E3%81%8E",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_y6z8znyms2d7",
+      "name": "黒井しば",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/shiba-kuroi",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E9%BB%92%E4%BA%95%E3%81%97%E3%81%B0",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "TMP_sou_hayase",
+      "name": "早瀬走",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/sou-hayase",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E6%97%A9%E7%80%AC%E8%B5%B0",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_t-uui4v2m6fu",
+      "name": "山神カルタ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/karuta-yamagami",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E5%B1%B1%E7%A5%9E%E3%82%AB%E3%83%AB%E3%82%BF",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_1wk-t2f2yc",
+      "name": "北見遊征",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/yusei-kitami",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E5%8C%97%E8%A6%8B%E9%81%8A%E5%BE%81",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_f3m6902048yw",
+      "name": "酒寄颯馬",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/soma-sakayori",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E9%85%92%E5%AF%84%E9%A2%AF%E9%A6%AC",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_xu6yc6um0jaq",
+      "name": "桜凛月",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/ritsuki-sakura",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E6%A1%9C%E5%87%9B%E6%9C%88",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_ea7kln75lom",
+      "name": "フミ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/fumi",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%83%95%E3%83%9F",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_7r36ly_n2ity",
+      "name": "ハナ マキア",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/hana-macchia",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%83%8F%E3%83%8A%20%E3%83%9E%E3%82%AD%E3%82%A2",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_4pynx1or5pze",
+      "name": "海妹四葉",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/yotsuha-umise",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E6%B5%B7%E5%A6%B9%E5%9B%9B%E8%91%89",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_x-5g5ncpwksj",
+      "name": "神田笑一",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/shoichi-kanda",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E7%A5%9E%E7%94%B0%E7%AC%91%E4%B8%80",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_yyqqd2eo1mvf",
+      "name": "来栖夏芽",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/natsume-kurusu",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E6%9D%A5%E6%A0%96%E5%A4%8F%E8%8A%BD",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_o4q_hlyz5mn",
+      "name": "物述有栖",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/alice-mononobe",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E7%89%A9%E8%BF%B0%E6%9C%89%E6%A0%96",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_gxancbkhyuwt",
+      "name": "鏑木ろこ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/roco-kaburaki",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E9%8F%91%E6%9C%A8%E3%82%8D%E3%81%93",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_8xt67h5vov",
+      "name": "司賀りこ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/riko-shiga",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E5%8F%B8%E8%B3%80%E3%82%8A%E3%81%93",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_e23zi9axalo",
+      "name": "御子神琴音",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/kotone-mikogami",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E5%BE%A1%E5%AD%90%E7%A5%9E%E7%90%B4%E9%9F%B3",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_7_ambl6tt",
+      "name": "ルイス・キャミー",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/luis-cammy",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%83%AB%E3%82%A4%E3%82%B9%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%9F%E3%83%BC",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_95qxlfkpe",
+      "name": "エリー・コニファー",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/eli-conifer",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%82%A8%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%B3%E3%83%8B%E3%83%95%E3%82%A1%E3%83%BC",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_px1axfh-lx6",
+      "name": "えま★おうがすと",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/emma-august",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%81%88%E3%81%BE%E2%98%85%E3%81%8A%E3%81%86%E3%81%8C%E3%81%99%E3%81%A8",
+        "status": "read",
+        "checkedAt": "2026-11-14T13:07:36.734Z",
+        "youtubeChannelLinked": true,
+        "xAccountLinked": true
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "wiki-only"
+    },
+    {
+      "id": "niji_7ct2ahy1ja",
+      "name": "セフィナ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/seffyna",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%82%BB%E3%83%95%E3%82%A3%E3%83%8A",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_s82prqvh7bj",
+      "name": "綺沙良",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/kisara",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E7%B6%BA%E6%B2%99%E8%89%AF",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_l41nu24h5f",
+      "name": "雲母たまこ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/tamako-kirara",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E9%9B%B2%E6%AF%8D%E3%81%9F%E3%81%BE%E3%81%93",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "TMP_youko_akabane",
+      "name": "赤羽葉子",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/youko-akabane",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E8%B5%A4%E7%BE%BD%E8%91%89%E5%AD%90",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_ng874y8ckrj",
+      "name": "雨森小夜",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/sayo-amemori",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E9%9B%A8%E6%A3%AE%E5%B0%8F%E5%A4%9C",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_8lu02jzlo-z",
+      "name": "雪城眞尋",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/mahiro-yukishiro",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E9%9B%AA%E5%9F%8E%E7%9C%9E%E5%B0%8B",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_w5eu6_7sqvf9",
+      "name": "一橋綾人",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/ayato-hitotsubashi",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E4%B8%80%E6%A9%8B%E7%B6%BE%E4%BA%BA",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_la6zix1yp6jd",
+      "name": "神永タイガ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/taiga-kaminaga",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E7%A5%9E%E6%B0%B8%E3%82%BF%E3%82%A4%E3%82%AC",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_lulduocrt",
+      "name": "矢車りね",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/rine-yaguruma",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E7%9F%A2%E8%BB%8A%E3%82%8A%E3%81%AD",
+        "status": "read",
+        "checkedAt": "2026-11-14T13:07:36.734Z",
+        "youtubeChannelLinked": true,
+        "xAccountLinked": true
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "wiki-only",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_t_52ark1wxc",
+      "name": "空星きらめ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/kirame-sorahoshi",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E7%A9%BA%E6%98%9F%E3%81%8D%E3%82%89%E3%82%81",
+        "status": "read",
+        "checkedAt": "2026-11-14T13:07:36.734Z",
+        "youtubeChannelLinked": true,
+        "xAccountLinked": true
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "wiki-only"
+    },
+    {
+      "id": "niji_cnxncpq4tsw",
+      "name": "東堂コハク",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/kohaku-todo",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E6%9D%B1%E5%A0%82%E3%82%B3%E3%83%8F%E3%82%AF",
+        "status": "read",
+        "checkedAt": "2026-11-14T13:07:36.734Z",
+        "youtubeChannelLinked": true,
+        "xAccountLinked": true
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "wiki-only"
+    },
+    {
+      "id": "niji_cqinr375u4lv",
+      "name": "春崎エアル",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/air-harusaki",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E6%98%A5%E5%B4%8E%E3%82%A8%E3%82%A2%E3%83%AB",
+        "status": "read",
+        "checkedAt": "2026-11-14T13:07:36.734Z",
+        "youtubeChannelLinked": true,
+        "xAccountLinked": true
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "wiki-only",
+      "fanMark": "wiki-only"
+    },
+    {
+      "id": "niji_orizixlqdz4",
+      "name": "ギルザレンⅢ世",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/gilzaren-iii",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%82%AE%E3%83%AB%E3%82%B6%E3%83%AC%E3%83%B3%E2%85%A2%E4%B8%96",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_u8b1yl0okdlz",
+      "name": "語部紡",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/tsumugu-kataribe",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E8%AA%9E%E9%83%A8%E7%B4%A1",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "TMP_ichigo_ushimi",
+      "name": "宇志海いちご",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/ichigo-ushimi",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E5%AE%87%E5%BF%97%E6%B5%B7%E3%81%84%E3%81%A1%E3%81%94",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_6d9lepsxqm",
+      "name": "ミン スゥーハ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/min-suha",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%83%9F%E3%83%B3%20%E3%82%B9%E3%82%A5%E3%83%BC%E3%83%8F",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_zt_mthf2lifn",
+      "name": "立伝都々",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/toto-tachitsute",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E7%AB%8B%E4%BC%9D%E9%83%BD%E3%80%85",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_s3osbcy305",
+      "name": "愛園愛美",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/manami-aizono",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E6%84%9B%E5%9C%92%E6%84%9B%E7%BE%8E",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_b63ccj17ms2",
+      "name": "Rei7",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/reina",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/Rei7",
+        "status": "read",
+        "checkedAt": "2026-11-14T13:07:36.734Z",
+        "youtubeChannelLinked": false,
+        "xAccountLinked": true
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "wiki-only",
+      "fanMark": "wiki-only"
+    },
+    {
+      "id": "niji_jbhd99wl1md4",
+      "name": "山田龍一郎",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/ryuichiro-yamada",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E5%B1%B1%E7%94%B0%E9%BE%8D%E4%B8%80%E9%83%8E",
+        "status": "read",
+        "checkedAt": "2026-11-14T13:07:36.734Z",
+        "youtubeChannelLinked": false,
+        "xAccountLinked": true
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "wiki-only",
+      "fanMark": "wiki-only"
+    },
+    {
+      "id": "niji_j_76ny28xjb",
+      "name": "五木左京",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/sakyo-itsuki",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E4%BA%94%E6%9C%A8%E5%B7%A6%E4%BA%AC",
+        "status": "read",
+        "checkedAt": "2026-11-14T13:07:36.734Z",
+        "youtubeChannelLinked": false,
+        "xAccountLinked": true
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "wiki-only",
+      "fanMark": "wiki-only"
+    },
+    {
+      "id": "TMP_hajime_shibuya",
+      "name": "渋谷ハジメ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/hajime-shibuya",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E6%B8%8B%E8%B0%B7%E3%83%8F%E3%82%B8%E3%83%A1",
+        "status": "read",
+        "checkedAt": "2026-11-14T13:07:36.734Z",
+        "youtubeChannelLinked": true,
+        "xAccountLinked": true
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "wiki-only",
+      "fanMark": "wiki-only"
+    },
+    {
+      "id": "niji_tyi7av99me",
+      "name": "梢桃音",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/mone-kozue",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E6%A2%A2%E6%A1%83%E9%9F%B3",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_aglwi3fi_-d",
+      "name": "猫屋敷美紅",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/miku-nekoyashiki",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E7%8C%AB%E5%B1%8B%E6%95%B7%E7%BE%8E%E7%B4%85",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "TMP_moira",
+      "name": "モイラ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/moira",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%83%A2%E3%82%A4%E3%83%A9",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_2ehwuvca1hs",
+      "name": "轟京子",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/kyoko-todoroki",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E8%BD%9F%E4%BA%AC%E5%AD%90",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_k1rfwt9vh",
+      "name": "城瀬いすみ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/isumi-shirose",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E5%9F%8E%E7%80%AC%E3%81%84%E3%81%99%E3%81%BF",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_04gk1i_rc2",
+      "name": "水面まどか",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/madoka-minamo",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E6%B0%B4%E9%9D%A2%E3%81%BE%E3%81%A9%E3%81%8B",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_1cdsti8fe",
+      "name": "白砂あやね",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/ayane-shirasa",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E7%99%BD%E7%A0%82%E3%81%82%E3%82%84%E3%81%AD",
+        "status": "read",
+        "checkedAt": "2026-11-14T13:07:36.734Z",
+        "youtubeChannelLinked": false,
+        "xAccountLinked": true
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "wiki-only",
+      "fanMark": "wiki-only"
+    },
+    {
+      "id": "niji_ni1twjl76ms4",
+      "name": "皇れお",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/reo-sumeragi",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E7%9A%87%E3%82%8C%E3%81%8A",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_3q_85uwlmsw8",
+      "name": "天ヶ瀬むゆ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/muyu-amagase",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E5%A4%A9%E3%83%B6%E7%80%AC%E3%82%80%E3%82%86",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_1k1ui5wnu4b",
+      "name": "蝸堂みかる",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/mikaru-kadou",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E8%9D%B8%E5%A0%82%E3%81%BF%E3%81%8B%E3%82%8B",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_xjrdo3l8q",
+      "name": "ハ ユン",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/ha-yun",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%83%8F%20%E3%83%A6%E3%83%B3",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_x1im6zq9v8",
+      "name": "花籠つばさ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/tsubasa-hanakago",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E8%8A%B1%E7%B1%A0%E3%81%A4%E3%81%B0%E3%81%95",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_kz580-8rddgn",
+      "name": "男虎",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/onotora",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E7%94%B7%E8%99%8E",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_1g8u74cfh8",
+      "name": "千凛あゆむ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/ayumu-senri",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E5%8D%83%E5%87%9B%E3%81%82%E3%82%86%E3%82%80",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_54ppvp3jf3p",
+      "name": "塚原大地",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/daichi-tsukahara",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E5%A1%9A%E5%8E%9F%E5%A4%A7%E5%9C%B0",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_hp2z53g1cs0c",
+      "name": "十河ののは",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/nonoha-togawa",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E5%8D%81%E6%B2%B3%E3%81%AE%E3%81%AE%E3%81%AF",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_e_1i07-a6",
+      "name": "篠宮ゆの",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/yuno-shinomiya",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E7%AF%A0%E5%AE%AE%E3%82%86%E3%81%AE",
+        "status": "read",
+        "checkedAt": "2026-11-14T13:07:36.734Z",
+        "youtubeChannelLinked": false,
+        "xAccountLinked": true
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "wiki-only",
+      "fanMark": "wiki-only"
+    },
+    {
+      "id": "niji_mam1q0b_d1t",
+      "name": "イ ロハ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/lee-roha",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%82%A4%20%E3%83%AD%E3%83%8F",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_wjyu_5shm-g",
+      "name": "飛鳥ひな",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/hina-asuka",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E9%A3%9B%E9%B3%A5%E3%81%B2%E3%81%AA",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_xgf91_n-k0r",
+      "name": "レヨン",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/rayon",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%83%AC%E3%83%A8%E3%83%B3",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_xzalni7jjyb",
+      "name": "夜牛詩乃",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/shino-yagyu",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E5%A4%9C%E7%89%9B%E8%A9%A9%E4%B9%83",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_r1w-2mesm5ea",
+      "name": "ぷりん・らら・もーど",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/purin-lala-mode",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%81%B7%E3%82%8A%E3%82%93%E3%83%BB%E3%82%89%E3%82%89%E3%83%BB%E3%82%82%E3%83%BC%E3%81%A9",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_xh6u5mlpx",
+      "name": "小々波いるか",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/iruka-kokonami",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E5%B0%8F%E3%80%85%E6%B3%A2%E3%81%84%E3%82%8B%E3%81%8B",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_046vmsxot1",
+      "name": "ぽめろ・ぱんち",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/pomelo-punch",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%81%BD%E3%82%81%E3%82%8D%E3%83%BB%E3%81%B1%E3%82%93%E3%81%A1",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_6lie843e9m6y",
+      "name": "ソ ナギ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/so-nagi",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%82%BD%20%E3%83%8A%E3%82%AE",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_36jp7m8s3",
+      "name": "ナ セラ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/na-sera",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%83%8A%20%E3%82%BB%E3%83%A9",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_3f2cdigou2s",
+      "name": "ライラ アルストロエメリア",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/layla-alstroemeria",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%83%A9%E3%82%A4%E3%83%A9%20%E3%82%A2%E3%83%AB%E3%82%B9%E3%83%88%E3%83%AD%E3%82%A8%E3%83%A1%E3%83%AA%E3%82%A2",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_skfl9cnycb",
+      "name": "九里詠太",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/eita-kuri",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E4%B9%9D%E9%87%8C%E8%A9%A0%E5%A4%AA",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_u7--gnaqe90",
+      "name": "オ ジユ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/oh-jiyu",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%82%AA%20%E3%82%B8%E3%83%A6",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_41ylgu4nz7iz",
+      "name": "エトナ クリムソン",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/etna-crimson",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%82%A8%E3%83%88%E3%83%8A%20%E3%82%AF%E3%83%AA%E3%83%A0%E3%82%BD%E3%83%B3",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_7c0af4ry218a",
+      "name": "ガオン",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/gaon",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%82%AC%E3%82%AA%E3%83%B3",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_02hirq8aa",
+      "name": "明楽レイ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/akira-ray",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E6%98%8E%E6%A5%BD%E3%83%AC%E3%82%A4",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_5rrs_8nslj0",
+      "name": "ライ ガリレイ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/rai-galilei",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%83%A9%E3%82%A4%20%E3%82%AC%E3%83%AA%E3%83%AC%E3%82%A4",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_57lwxmz0atj",
+      "name": "デレム カド",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/derem-kado",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%83%87%E3%83%AC%E3%83%A0%20%E3%82%AB%E3%83%89",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_ylv_8o1_34",
+      "name": "リュ ハリ",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/ryu-hari",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%83%AA%E3%83%A5%20%E3%83%8F%E3%83%AA",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    },
+    {
+      "id": "niji_77ns9sa90a3",
+      "name": "ナギサ アルシニア",
+      "officialUrl": "https://www.nijisanji.jp/talents/l/nagisa-arcinia",
+      "wiki": {
+        "url": "https://wikiwiki.jp/nijisanji/%E3%83%8A%E3%82%AE%E3%82%B5%20%E3%82%A2%E3%83%AB%E3%82%B7%E3%83%8B%E3%82%A2",
+        "status": "unavailable",
+        "error": "キャッシュ未収録（追加通信なし）"
+      },
+      "birthday": "official",
+      "debutDate": "official",
+      "height": "unknown",
+      "fanMark": "unknown"
+    }
+  ],
+  "failures": [],
+  "notInOfficialList": [],
+  "collectionLimit": "Wiki取得でHTTP 429を確認したため追加取得を停止。未取得138件はキャッシュのみで再処理し、追加通信していない。"
+}

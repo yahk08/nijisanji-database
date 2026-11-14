@@ -9,41 +9,61 @@
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/mito-tsukino",
   "portraitUrl": null,
-  "youtubeChannelUrl": "https://www.youtube.com/@TsukinoMito",
-  "youtubeChannelId": null,
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A",
+  "youtubeChannelId": "UCD-miitqNY3nyukJ4Fnf4_A",
   "xUrl": "https://twitter.com/MitoTsukino",
   "birthday": {
     "value": "09-24",
+    "verification": "official",
     "sources": [
       {
         "label": "にじさんじ公式プロフィール",
         "url": "https://www.nijisanji.jp/talents/l/mito-tsukino",
-        "verifiedAt": "2026-11-14"
-      },
-      {
-        "label": "にじさんじオフィシャルストア",
-        "url": "https://shop.nijisanji.jp/1002",
-        "verifiedAt": "2026-11-14"
+        "kind": "official",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
       }
     ],
     "showSources": true
   },
   "debutDate": {
-    "value": "2018-02-08",
+    "value": "2018-02-01",
+    "verification": "official",
     "sources": [
       {
-        "label": "にじさんじオフィシャルストア",
-        "url": "https://shop.nijisanji.jp/1002",
-        "verifiedAt": "2026-11-14"
+        "label": "にじさんじ公式プロフィール",
+        "url": "https://www.nijisanji.jp/talents/l/mito-tsukino",
+        "kind": "official",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
+      }
+    ],
+    "showSources": true,
+    "note": "公式サイトのデビュー日。初配信日とは異なる場合があります。"
+  },
+  "height": {
+    "value": "151cm",
+    "verification": "wiki-only",
+    "sources": [
+      {
+        "label": "にじさんじ非公式Wiki（一次資料未確認）",
+        "url": "https://wikiwiki.jp/nijisanji/%E6%9C%88%E3%83%8E%E7%BE%8E%E5%85%8E",
+        "kind": "wiki",
+        "verifiedAt": "2026-11-14T13:01:15.586Z"
       }
     ],
     "showSources": true
   },
-  "height": {
-    "value": null
-  },
   "fanMark": {
-    "value": null
+    "value": "🐰",
+    "verification": "wiki-only",
+    "sources": [
+      {
+        "label": "にじさんじ非公式Wiki（一次資料未確認）",
+        "url": "https://wikiwiki.jp/nijisanji/%E6%9C%88%E3%83%8E%E7%BE%8E%E5%85%8E",
+        "kind": "wiki",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
+      }
+    ],
+    "showSources": true
   },
   "introduction": {
     "value": "高校2年生。性格はツンデレだが根は真面目な学級委員。本人は頑張っているが少し空回り気味で、よく発言した後で言いすぎたかもと落ち込んだりする。",
@@ -54,7 +74,8 @@
         "verifiedAt": "2026-11-14"
       }
     ],
-    "showSources": true
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "fields": [
     {
@@ -75,9 +96,106 @@
           }
         }
       ]
+    },
+    {
+      "section": "公式プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "無し",
+            "verification": "official",
+            "sources": [
+              {
+                "label": "にじさんじ公式プロフィール",
+                "url": "https://www.nijisanji.jp/talents/l/mito-tsukino",
+                "kind": "official",
+                "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
     }
   ],
-  "changes": [],
+  "changes": [
+    {
+      "id": "062146b3af400d563252",
+      "field": "youtubeChannelId",
+      "oldValue": null,
+      "newValue": "UCD-miitqNY3nyukJ4Fnf4_A",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/mito-tsukino",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "8b6b14fdfcd1fa7b97e6",
+      "field": "youtubeChannelUrl",
+      "oldValue": "https://www.youtube.com/@TsukinoMito",
+      "newValue": "https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/mito-tsukino",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "0cefeac23a56aba0731a",
+      "field": "debutDate",
+      "oldValue": "2018-02-08",
+      "newValue": "2018-02-01",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/mito-tsukino",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "2485f589efd6154c6e5c",
+      "field": "height",
+      "oldValue": null,
+      "newValue": "151cm",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ非公式Wiki（一次資料未確認）",
+          "url": "https://wikiwiki.jp/nijisanji/%E6%9C%88%E3%83%8E%E7%BE%8E%E5%85%8E",
+          "kind": "wiki",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "6a1db112fa4e48796121",
+      "field": "fanMark",
+      "oldValue": null,
+      "newValue": "🐰",
+      "changedAt": "2026-11-14T13:07:36.734Z",
+      "sources": [
+        {
+          "label": "にじさんじ非公式Wiki（一次資料未確認）",
+          "url": "https://wikiwiki.jp/nijisanji/%E6%9C%88%E3%83%8E%E7%BE%8E%E5%85%8E",
+          "kind": "wiki",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ]
+    }
+  ],
   "visuals": [],
   "music": [],
   "events": [],
@@ -85,5 +203,39 @@
     "fetchedAt": null,
     "stateCheckedAt": null,
     "videos": []
+  },
+  "provenance": {
+    "officialId": "9fxuid253qag",
+    "checkedAt": "2026-11-14T13:07:36.734Z",
+    "membership": {
+      "verification": "official",
+      "sources": [
+        {
+          "label": "にじさんじ公式タレント一覧",
+          "url": "https://www.nijisanji.jp/talents?filter=nijisanji",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ]
+    },
+    "links": {
+      "verification": "official-linked",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/mito-tsukino",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ],
+      "note": "公式プロフィール掲載先との照合。YouTube APIおよびX APIによるアカウント照会は未実行。"
+    },
+    "wiki": {
+      "url": "https://wikiwiki.jp/nijisanji/%E6%9C%88%E3%83%8E%E7%BE%8E%E5%85%8E",
+      "status": "read",
+      "checkedAt": "2026-11-14T13:07:36.734Z",
+      "youtubeChannelLinked": true,
+      "xAccountLinked": true
+    }
   }
 }

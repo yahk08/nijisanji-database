@@ -9,41 +9,61 @@
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kanae",
   "portraitUrl": null,
-  "youtubeChannelUrl": "https://www.youtube.com/@Kanae",
-  "youtubeChannelId": null,
-  "xUrl": "https://x.com/Kanae_2434",
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA",
+  "youtubeChannelId": "UCspv01oxUFf_MTSipURRhkA",
+  "xUrl": "https://twitter.com/kanae_2434",
   "birthday": {
     "value": "07-07",
+    "verification": "official",
     "sources": [
       {
         "label": "にじさんじ公式プロフィール",
         "url": "https://www.nijisanji.jp/talents/l/kanae",
-        "verifiedAt": "2026-11-14"
-      },
-      {
-        "label": "にじさんじオフィシャルストア",
-        "url": "https://shop.nijisanji.jp/1019",
-        "verifiedAt": "2026-11-14"
+        "kind": "official",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
       }
     ],
     "showSources": true
   },
   "debutDate": {
     "value": "2018-05-02",
+    "verification": "official",
     "sources": [
       {
-        "label": "にじさんじオフィシャルストア",
-        "url": "https://shop.nijisanji.jp/1019",
-        "verifiedAt": "2026-11-14"
+        "label": "にじさんじ公式プロフィール",
+        "url": "https://www.nijisanji.jp/talents/l/kanae",
+        "kind": "official",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
+      }
+    ],
+    "showSources": true,
+    "note": "公式サイトのデビュー日。初配信日とは異なる場合があります。"
+  },
+  "height": {
+    "value": "175cm",
+    "verification": "wiki-only",
+    "sources": [
+      {
+        "label": "にじさんじ非公式Wiki（一次資料未確認）",
+        "url": "https://wikiwiki.jp/nijisanji/%E5%8F%B6",
+        "kind": "wiki",
+        "verifiedAt": "2026-11-14T13:01:15.586Z"
       }
     ],
     "showSources": true
   },
-  "height": {
-    "value": null
-  },
   "fanMark": {
-    "value": null
+    "value": "🔫",
+    "verification": "wiki-only",
+    "sources": [
+      {
+        "label": "にじさんじ非公式Wiki（一次資料未確認）",
+        "url": "https://wikiwiki.jp/nijisanji/%E5%8F%B6",
+        "kind": "wiki",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
+      }
+    ],
+    "showSources": true
   },
   "introduction": {
     "value": "突然天使の如く舞い降りてきた超癒し系男子。そして猫のクッションを両手で抱っこしている。話し方もふわふわしている。学生のように見えるが普段何をしているかは不明。甘いボイスで、聞いているこちらの心が洗い流されるようなトークを繰り広げる。",
@@ -54,7 +74,8 @@
         "verifiedAt": "2026-11-14"
       }
     ],
-    "showSources": true
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "fields": [
     {
@@ -75,9 +96,106 @@
           }
         }
       ]
+    },
+    {
+      "section": "公式プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "叶え隊",
+            "verification": "official",
+            "sources": [
+              {
+                "label": "にじさんじ公式プロフィール",
+                "url": "https://www.nijisanji.jp/talents/l/kanae",
+                "kind": "official",
+                "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
     }
   ],
-  "changes": [],
+  "changes": [
+    {
+      "id": "4de5fc82f08d7b97aad1",
+      "field": "youtubeChannelId",
+      "oldValue": null,
+      "newValue": "UCspv01oxUFf_MTSipURRhkA",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/kanae",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "74e5c4fdc883b0359a04",
+      "field": "youtubeChannelUrl",
+      "oldValue": "https://www.youtube.com/@Kanae",
+      "newValue": "https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/kanae",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "ce06e116d4c5bfca7962",
+      "field": "xUrl",
+      "oldValue": "https://x.com/Kanae_2434",
+      "newValue": "https://twitter.com/kanae_2434",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/kanae",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "f59bc0ad451f2d5b7fd4",
+      "field": "height",
+      "oldValue": null,
+      "newValue": "175cm",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ非公式Wiki（一次資料未確認）",
+          "url": "https://wikiwiki.jp/nijisanji/%E5%8F%B6",
+          "kind": "wiki",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "411a2d772ac8d92564f8",
+      "field": "fanMark",
+      "oldValue": null,
+      "newValue": "🔫",
+      "changedAt": "2026-11-14T13:07:36.734Z",
+      "sources": [
+        {
+          "label": "にじさんじ非公式Wiki（一次資料未確認）",
+          "url": "https://wikiwiki.jp/nijisanji/%E5%8F%B6",
+          "kind": "wiki",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ]
+    }
+  ],
   "visuals": [],
   "music": [],
   "events": [],
@@ -85,5 +203,39 @@
     "fetchedAt": null,
     "stateCheckedAt": null,
     "videos": []
+  },
+  "provenance": {
+    "officialId": "p7j9hcij86",
+    "checkedAt": "2026-11-14T13:07:36.734Z",
+    "membership": {
+      "verification": "official",
+      "sources": [
+        {
+          "label": "にじさんじ公式タレント一覧",
+          "url": "https://www.nijisanji.jp/talents?filter=nijisanji",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ]
+    },
+    "links": {
+      "verification": "official-linked",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/kanae",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ],
+      "note": "公式プロフィール掲載先との照合。YouTube APIおよびX APIによるアカウント照会は未実行。"
+    },
+    "wiki": {
+      "url": "https://wikiwiki.jp/nijisanji/%E5%8F%B6",
+      "status": "read",
+      "checkedAt": "2026-11-14T13:07:36.734Z",
+      "youtubeChannelLinked": true,
+      "xAccountLinked": true
+    }
   }
 }

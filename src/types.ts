@@ -1,5 +1,5 @@
-export type Source = { label: string; url: string; verifiedAt?: string };
-export type FieldValue = { value: string | null; sources?: Source[]; showSources?: boolean };
+export type Source = { label: string; url: string; verifiedAt?: string; kind?: string };
+export type FieldValue = { value: string | null; sources?: Source[]; showSources?: boolean; verification?: string; note?: string };
 export type Visual = {
   id: string; title: string; category: '2D' | '3D'; kind: string; date: string | null;
   imageUrl?: string | null; revealUrl?: string | null;
@@ -14,6 +14,7 @@ export type Video = {
   id: string; title: string; status: 'live' | 'upcoming' | 'archive' | 'video' | 'short';
   publishedAt: string | null; scheduledStartAt?: string | null; url?: string | null;
   thumbnailUrl?: string | null;
+  checkedAt?: string;
 };
 export type Liver = {
   id: string; status: 'active' | 'graduated'; name: string; reading: string | null; englishName: string | null;
@@ -25,5 +26,6 @@ export type Liver = {
   changes: { id: string; field: string; oldValue: string | null; newValue: string | null; changedAt: string }[];
   visuals: Visual[]; music: Music[]; events: Event[];
   youtube: { fetchedAt: string | null; stateCheckedAt: string | null; videos: Video[] };
+  provenance?: { checkedAt: string; links: { verification: string; note: string }; wiki: { url: string; status: string; youtubeChannelLinked?: boolean; xAccountLinked?: boolean } };
 };
 export type LiverIndex = { generatedAt: string | null; demo: boolean; livers: Liver[] };

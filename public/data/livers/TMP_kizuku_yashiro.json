@@ -2,47 +2,54 @@
   "id": "TMP_kizuku_yashiro",
   "status": "active",
   "name": "社築",
-  "reading": null,
-  "englishName": null,
+  "reading": "やしろきずく",
+  "englishName": "Yashiro Kizuku",
   "affiliation": "にじさんじ",
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kizuku-yashiro",
   "portraitUrl": null,
-  "youtubeChannelUrl": null,
-  "youtubeChannelId": null,
-  "xUrl": null,
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA",
+  "youtubeChannelId": "UCKMYISTJAQ8xTplUPHiABlA",
+  "xUrl": "https://twitter.com/846kizuq",
   "birthday": {
     "value": "11-23",
+    "verification": "official",
     "sources": [
       {
         "label": "にじさんじ公式プロフィール",
         "url": "https://www.nijisanji.jp/talents/l/kizuku-yashiro",
-        "verifiedAt": "2026-11-14"
+        "kind": "official",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
       }
     ],
     "showSources": true
   },
   "debutDate": {
-    "value": "2018-06-05",
+    "value": "2018-06-03",
+    "verification": "official",
     "sources": [
       {
-        "label": "にじさんじ公式ストア",
-        "url": "https://shop.nijisanji.jp/1030",
-        "verifiedAt": "2026-11-14"
+        "label": "にじさんじ公式プロフィール",
+        "url": "https://www.nijisanji.jp/talents/l/kizuku-yashiro",
+        "kind": "official",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
       }
     ],
-    "showSources": true
+    "showSources": true,
+    "note": "公式サイトのデビュー日。初配信日とは異なる場合があります。"
   },
   "height": {
     "value": null,
     "sources": [],
-    "showSources": false
+    "showSources": false,
+    "verification": "unknown"
   },
   "fanMark": {
     "value": null,
     "sources": [],
-    "showSources": false
+    "showSources": false,
+    "verification": "unknown"
   },
   "introduction": {
     "value": "IT企業に勤めるプログラマー。",
@@ -53,7 +60,8 @@
         "verifiedAt": "2026-11-14"
       }
     ],
-    "showSources": true
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "fields": [
     {
@@ -74,9 +82,121 @@
           }
         }
       ]
+    },
+    {
+      "section": "公式プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "飲み友",
+            "verification": "official",
+            "sources": [
+              {
+                "label": "にじさんじ公式プロフィール",
+                "url": "https://www.nijisanji.jp/talents/l/kizuku-yashiro",
+                "kind": "official",
+                "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
     }
   ],
-  "changes": [],
+  "changes": [
+    {
+      "id": "c83c035101e9818e4f7f",
+      "field": "reading",
+      "oldValue": null,
+      "newValue": "やしろきずく",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/kizuku-yashiro",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "922afa0d119d6dc62faf",
+      "field": "englishName",
+      "oldValue": null,
+      "newValue": "Yashiro Kizuku",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/kizuku-yashiro",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "60e7d2efb956da1458a2",
+      "field": "youtubeChannelId",
+      "oldValue": null,
+      "newValue": "UCKMYISTJAQ8xTplUPHiABlA",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/kizuku-yashiro",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "0a8c1818d6349d758786",
+      "field": "youtubeChannelUrl",
+      "oldValue": null,
+      "newValue": "https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/kizuku-yashiro",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "ac2f9b7c169c57b4c921",
+      "field": "xUrl",
+      "oldValue": null,
+      "newValue": "https://twitter.com/846kizuq",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/kizuku-yashiro",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "89f0c645ff3c9bb99d1e",
+      "field": "debutDate",
+      "oldValue": "2018-06-05",
+      "newValue": "2018-06-03",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/kizuku-yashiro",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    }
+  ],
   "visuals": [],
   "music": [],
   "events": [],
@@ -84,5 +204,37 @@
     "fetchedAt": null,
     "stateCheckedAt": null,
     "videos": []
+  },
+  "provenance": {
+    "officialId": "frw8hsw4ur1",
+    "checkedAt": "2026-11-14T13:07:36.734Z",
+    "membership": {
+      "verification": "official",
+      "sources": [
+        {
+          "label": "にじさんじ公式タレント一覧",
+          "url": "https://www.nijisanji.jp/talents?filter=nijisanji",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ]
+    },
+    "links": {
+      "verification": "official-linked",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/kizuku-yashiro",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ],
+      "note": "公式プロフィール掲載先との照合。YouTube APIおよびX APIによるアカウント照会は未実行。"
+    },
+    "wiki": {
+      "url": "https://wikiwiki.jp/nijisanji/%E7%A4%BE%E7%AF%89",
+      "status": "unavailable",
+      "error": "キャッシュ未収録（追加通信なし）"
+    }
   }
 }

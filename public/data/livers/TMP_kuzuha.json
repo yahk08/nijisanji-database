@@ -9,41 +9,52 @@
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kuzuha",
   "portraitUrl": null,
-  "youtubeChannelUrl": "https://www.youtube.com/@Kuzuha",
-  "youtubeChannelId": null,
-  "xUrl": "https://x.com/Vamp_Kuzu",
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g",
+  "youtubeChannelId": "UCSFCh5NL4qXrAy9u-u2lX3g",
+  "xUrl": "https://twitter.com/vamp_kuzu",
   "birthday": {
     "value": "11-10",
+    "verification": "official",
     "sources": [
       {
         "label": "にじさんじ公式プロフィール",
         "url": "https://www.nijisanji.jp/talents/l/kuzuha",
-        "verifiedAt": "2026-11-14"
-      },
-      {
-        "label": "にじさんじオフィシャルストア",
-        "url": "https://shop.nijisanji.jp/1042",
-        "verifiedAt": "2026-11-14"
+        "kind": "official",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
       }
     ],
     "showSources": true
   },
   "debutDate": {
     "value": "2018-07-30",
+    "verification": "official",
     "sources": [
       {
-        "label": "にじさんじオフィシャルストア",
-        "url": "https://shop.nijisanji.jp/1042",
-        "verifiedAt": "2026-11-14"
+        "label": "にじさんじ公式プロフィール",
+        "url": "https://www.nijisanji.jp/talents/l/kuzuha",
+        "kind": "official",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
+      }
+    ],
+    "showSources": true,
+    "note": "公式サイトのデビュー日。初配信日とは異なる場合があります。"
+  },
+  "height": {
+    "value": "178cm",
+    "verification": "wiki-only",
+    "sources": [
+      {
+        "label": "にじさんじ非公式Wiki（一次資料未確認）",
+        "url": "https://wikiwiki.jp/nijisanji/%E8%91%9B%E8%91%89",
+        "kind": "wiki",
+        "verifiedAt": "2026-11-14T13:01:15.586Z"
       }
     ],
     "showSources": true
   },
-  "height": {
-    "value": null
-  },
   "fanMark": {
-    "value": null
+    "value": null,
+    "verification": "unknown"
   },
   "introduction": {
     "value": "親の甘い蜜を吸い続けるニートのゲーマー吸血鬼。見た目にそぐわず我が儘で気まぐれな子供っぽい性格で、すぐ調子に乗る悪い癖がある。おまけにかなり現金でお金に目がない救いようのないヴァンパイア。",
@@ -54,7 +65,8 @@
         "verifiedAt": "2026-11-14"
       }
     ],
-    "showSources": true
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "fields": [
     {
@@ -75,9 +87,91 @@
           }
         }
       ]
+    },
+    {
+      "section": "公式プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "ラグファミ",
+            "verification": "official",
+            "sources": [
+              {
+                "label": "にじさんじ公式プロフィール",
+                "url": "https://www.nijisanji.jp/talents/l/kuzuha",
+                "kind": "official",
+                "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
     }
   ],
-  "changes": [],
+  "changes": [
+    {
+      "id": "60baf3958c139f5f2e7c",
+      "field": "youtubeChannelId",
+      "oldValue": null,
+      "newValue": "UCSFCh5NL4qXrAy9u-u2lX3g",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/kuzuha",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "8ab9969033b0d2d9d500",
+      "field": "youtubeChannelUrl",
+      "oldValue": "https://www.youtube.com/@Kuzuha",
+      "newValue": "https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/kuzuha",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "15fbbf98fb528739e8a0",
+      "field": "xUrl",
+      "oldValue": "https://x.com/Vamp_Kuzu",
+      "newValue": "https://twitter.com/vamp_kuzu",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/kuzuha",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "ee720a5c6cdd1f71a21e",
+      "field": "height",
+      "oldValue": null,
+      "newValue": "178cm",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ非公式Wiki（一次資料未確認）",
+          "url": "https://wikiwiki.jp/nijisanji/%E8%91%9B%E8%91%89",
+          "kind": "wiki",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    }
+  ],
   "visuals": [],
   "music": [],
   "events": [],
@@ -85,5 +179,39 @@
     "fetchedAt": null,
     "stateCheckedAt": null,
     "videos": []
+  },
+  "provenance": {
+    "officialId": "2bk3ipe1dh2",
+    "checkedAt": "2026-11-14T13:07:36.734Z",
+    "membership": {
+      "verification": "official",
+      "sources": [
+        {
+          "label": "にじさんじ公式タレント一覧",
+          "url": "https://www.nijisanji.jp/talents?filter=nijisanji",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ]
+    },
+    "links": {
+      "verification": "official-linked",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/kuzuha",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ],
+      "note": "公式プロフィール掲載先との照合。YouTube APIおよびX APIによるアカウント照会は未実行。"
+    },
+    "wiki": {
+      "url": "https://wikiwiki.jp/nijisanji/%E8%91%9B%E8%91%89",
+      "status": "read",
+      "checkedAt": "2026-11-14T13:07:36.734Z",
+      "youtubeChannelLinked": true,
+      "xAccountLinked": true
+    }
   }
 }

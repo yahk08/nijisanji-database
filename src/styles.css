@@ -5,3 +5,8 @@
 .candidate-row{display:flex;flex-direction:column;justify-content:center;gap:4px;padding:11px;background:var(--surface);border:1px solid var(--line);border-radius:10px;font-size:12px;min-width:0}
 .candidate-row small{color:var(--muted);font-size:10px}
 @media(max-width:380px){.candidate-grid{grid-template-columns:1fr}}
+/* iPhone: notch, home indicator, keyboard zoom and touch targets. */
+.topbar{padding-top:env(safe-area-inset-top)}
+.source-sheet{max-height:85dvh;overflow-y:auto;padding-bottom:calc(24px + env(safe-area-inset-bottom))}
+.profile-identity{min-width:0;overflow-wrap:anywhere}
+@media(max-width:650px){input,select{font-size:16px!important}.icon-button,.social-row a{min-width:44px;min-height:44px}.content{padding-bottom:calc(110px + env(safe-area-inset-bottom))}.outline-button{min-height:44px;overflow-wrap:anywhere}}

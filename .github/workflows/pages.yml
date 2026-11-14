@@ -1,8 +1,17 @@
-name: Validate and deploy Pages
+name: Validate, update YouTube and deploy Pages
 on:
   push:
     branches: [main]
   workflow_dispatch:
+    inputs:
+      youtube_mode:
+        description: 'YouTube: full=new videos / state=known streams / skip=no API'
+        type: choice
+        options: [full, state, skip]
+        default: full
+  schedule:
+    - cron: '17 */12 * * *'
+    - cron: '7,37 * * * *'
 permissions:
   contents: read
   pages: write
@@ -18,10 +27,40 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - run: npm install --no-audit --no-fund
+          cache: npm
+      - run: npm ci --no-audit --no-fund
+      - uses: actions/cache/restore@v4
+        with:
+          path: .youtube-state
+          key: youtube-state-v1-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: youtube-state-v1-
+      - name: Restore last API data
+        run: |
+          node --input-type=module -e "import fs from 'node:fs'; if(fs.existsSync('.youtube-state/state.json')) { const s=JSON.parse(fs.readFileSync('.youtube-state/state.json','utf8')); if(s.data) fs.writeFileSync('public/data/youtube.json',JSON.stringify(s.data,null,2)); }"
       - run: npm run build:index
       - run: npm run validate:data
       - run: npm run validate:roster
+      - run: npm test
+      - name: Update YouTube (Secrets are never bundled)
+        id: youtube
+        if: github.event_name != 'push' && inputs.youtube_mode != 'skip'
+        continue-on-error: true
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          YOUTUBE_DAILY_UNITS: ${{ secrets.YOUTUBE_DAILY_UNITS }}
+          YOUTUBE_DAILY_SEARCH_CALLS: ${{ secrets.YOUTUBE_DAILY_SEARCH_CALLS }}
+          YOUTUBE_SEARCH_CHANNELS_PER_RUN: ${{ secrets.YOUTUBE_SEARCH_CHANNELS_PER_RUN }}
+          FULL_UPDATE: ${{ github.event.schedule == '17 */12 * * *' || inputs.youtube_mode == 'full' }}
+        run: |
+          if [ "$FULL_UPDATE" = "true" ]; then npm run sync:youtube; else npm run sync:youtube:state; fi
+      - uses: actions/cache/save@v4
+        if: always()
+        with:
+          path: .youtube-state
+          key: youtube-state-v1-${{ github.run_id }}-${{ github.run_attempt }}
+      - name: Report API failure
+        if: steps.youtube.outcome == 'failure'
+        run: echo 'YouTube update failed. Cached data and timestamps retained. Check API key and quota.' >> "$GITHUB_STEP_SUMMARY"
       - run: npm run build
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3

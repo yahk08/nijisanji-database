@@ -1,0 +1,151 @@
+{
+  "repository": "yahk08/nijisanji-database",
+  "commit": "437faaad5cc28c5e84e844f9c3448178df76eb78",
+  "livers": [
+    {
+      "id": "TMP_ange_katrina",
+      "name": "アンジュ・カトリーナ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ange-katrina"
+    },
+    {
+      "id": "TMP_ars_almal",
+      "name": "アルス・アルマル",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ars-almal"
+    },
+    {
+      "id": "TMP_elu",
+      "name": "える",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/elu"
+    },
+    {
+      "id": "TMP_gaku_fushimi",
+      "name": "伏見ガク",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/gaku-fushimi"
+    },
+    {
+      "id": "TMP_hajime_shibuya",
+      "name": "渋谷ハジメ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/hajime-shibuya"
+    },
+    {
+      "id": "TMP_haru_kaida",
+      "name": "甲斐田晴",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/haru-kaida"
+    },
+    {
+      "id": "TMP_hayato_kagami",
+      "name": "加賀美ハヤト",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/hayato-kagami"
+    },
+    {
+      "id": "TMP_ichigo_ushimi",
+      "name": "宇志海いちご",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ichigo-ushimi"
+    },
+    {
+      "id": "TMP_kaede_higuchi",
+      "name": "樋口楓",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kaede-higuchi"
+    },
+    {
+      "id": "TMP_kakeru_yumeoi",
+      "name": "夢追翔",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kakeru-yumeoi"
+    },
+    {
+      "id": "TMP_kanae",
+      "name": "叶",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kanae"
+    },
+    {
+      "id": "TMP_kazaki_morinaka",
+      "name": "森中花咲",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kazaki-morinaka"
+    },
+    {
+      "id": "TMP_keisuke_maimoto",
+      "name": "舞元啓介",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/keisuke-maimoto"
+    },
+    {
+      "id": "TMP_kizuku_yashiro",
+      "name": "社築",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kizuku-yashiro"
+    },
+    {
+      "id": "TMP_kokoro_amamiya",
+      "name": "天宮こころ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kokoro-amamiya"
+    },
+    {
+      "id": "TMP_kuzuha",
+      "name": "葛葉",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kuzuha"
+    },
+    {
+      "id": "TMP_lize_helesta",
+      "name": "リゼ・ヘルエスタ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/lize-helesta"
+    },
+    {
+      "id": "TMP_minato_fuwa",
+      "name": "不破湊",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/minato-fuwa"
+    },
+    {
+      "id": "TMP_mito_tsukino",
+      "name": "月ノ美兎",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/mito-tsukino"
+    },
+    {
+      "id": "TMP_moira",
+      "name": "モイラ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/moira"
+    },
+    {
+      "id": "TMP_mugi_ienaga",
+      "name": "家長むぎ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/mugi-ienaga"
+    },
+    {
+      "id": "TMP_rin_shizuka",
+      "name": "静凛",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/rin-shizuka"
+    },
+    {
+      "id": "TMP_riri_yuhi",
+      "name": "夕陽リリ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/riri-yuhi"
+    },
+    {
+      "id": "TMP_sara_hoshikawa",
+      "name": "星川サラ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/sara-hoshikawa"
+    },
+    {
+      "id": "TMP_sou_hayase",
+      "name": "早瀬走",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/sou-hayase"
+    },
+    {
+      "id": "TMP_toko_inui",
+      "name": "戌亥とこ",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/toko-inui"
+    },
+    {
+      "id": "TMP_toya_kenmochi",
+      "name": "剣持刀也",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/toya-kenmochi"
+    },
+    {
+      "id": "TMP_youko_akabane",
+      "name": "赤羽葉子",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/youko-akabane"
+    },
+    {
+      "id": "TMP_yuika_shiina",
+      "name": "椎名唯華",
+      "officialProfileUrl": "https://www.nijisanji.jp/talents/l/yuika-shiina"
+    }
+  ]
+}
