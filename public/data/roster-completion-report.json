@@ -1,0 +1,185 @@
+{
+  "checkedAt": "2026-11-15T04:38:58.959Z",
+  "mode": "apply",
+  "jpCount": 172,
+  "enCount": 28,
+  "existingCount": 172,
+  "alreadyMatched": 172,
+  "proposedAdditions": [
+    {
+      "id": "niji_tdwklqupy",
+      "name": "ヴォックス・アクマ",
+      "branch": "EN",
+      "url": "https://www.nijisanji.jp/talents/l/vox-akuma"
+    },
+    {
+      "id": "niji_rq2rn1t99sx",
+      "name": "ルカ・カネシロ",
+      "branch": "EN",
+      "url": "https://www.nijisanji.jp/talents/l/luca-kaneshiro"
+    },
+    {
+      "id": "niji_d6hc4r8i_r",
+      "name": "闇ノシュウ",
+      "branch": "EN",
+      "url": "https://www.nijisanji.jp/talents/l/shu-yamino"
+    },
+    {
+      "id": "niji_shswd0seam",
+      "name": "アルバーン・ノックス",
+      "branch": "EN",
+      "url": "https://www.nijisanji.jp/talents/l/alban-knox"
+    },
+    {
+      "id": "niji_5whqpl4g0",
+      "name": "狂蘭 メロコ",
+      "branch": "EN",
+      "url": "https://www.nijisanji.jp/talents/l/meloco-kyoran"
+    },
+    {
+      "id": "niji_ei2ujpb1h9",
+      "name": "浮奇・ヴィオレタ",
+      "branch": "EN",
+      "url": "https://www.nijisanji.jp/talents/l/uki-violeta"
+    },
+    {
+      "id": "niji_ha1b-c9mq8c0",
+      "name": "エナー・アールウェット",
+      "branch": "EN",
+      "url": "https://www.nijisanji.jp/talents/l/enna-alouette"
+    },
+    {
+      "id": "niji_82m7sygbc",
+      "name": "レン ゾット",
+      "branch": "EN",
+      "url": "https://www.nijisanji.jp/talents/l/ren-zotto"
+    },
+    {
+      "id": "niji_fahao4k5j",
+      "name": "サニー・ブリスコー",
+      "branch": "EN",
+      "url": "https://www.nijisanji.jp/talents/l/sonny-brisko"
+    },
+    {
+      "id": "niji_925d100jpfw",
+      "name": "エリーラ ペンドラ",
+      "branch": "EN",
+      "url": "https://www.nijisanji.jp/talents/l/elira-pendora"
+    },
+    {
+      "id": "niji_3uqk79y-zu7r",
+      "name": "ペトラ グリン",
+      "branch": "EN",
+      "url": "https://www.nijisanji.jp/talents/l/petra-gurin"
+    },
+    {
+      "id": "niji_xiwq3ppbqy",
+      "name": "ミリー・パフェ",
+      "branch": "EN",
+      "url": "https://www.nijisanji.jp/talents/l/millie-parfait"
+    },
+    {
+      "id": "niji_tdbzd8xltant",
+      "name": "マリア マリオネット",
+      "branch": "EN",
+      "url": "https://www.nijisanji.jp/talents/l/maria-marionette"
+    },
+    {
+      "id": "niji_tbcto5u15e5m",
+      "name": "フィナーナ 竜宮",
+      "branch": "EN",
+      "url": "https://www.nijisanji.jp/talents/l/finana-ryugu"
+    },
+    {
+      "id": "niji_qd9i9snhx",
+      "name": "スカーレ ヨナグニ",
+      "branch": "EN",
+      "url": "https://www.nijisanji.jp/talents/l/scarle-yonaguni"
+    },
+    {
+      "id": "niji_5jwowjbi0oz0",
+      "name": "ベンタクロウ ブリンガー",
+      "branch": "EN",
+      "url": "https://www.nijisanji.jp/talents/l/vantacrow-bringer"
+    },
+    {
+      "id": "niji_e5rwy4qas1q",
+      "name": "アイア アマレ",
+      "branch": "EN",
+      "url": "https://www.nijisanji.jp/talents/l/aia-amare"
+    },
+    {
+      "id": "niji_8wtt6ayf9",
+      "name": "ドッピオ ドロップサイト",
+      "branch": "EN",
+      "url": "https://www.nijisanji.jp/talents/l/doppio-dropscythe"
+    },
+    {
+      "id": "niji_2p82mscn0cow",
+      "name": "ユウ Q ウィルソン",
+      "branch": "EN",
+      "url": "https://www.nijisanji.jp/talents/l/yu-q-wilson"
+    },
+    {
+      "id": "niji_l2l5vj5f4il",
+      "name": "ケイリクス・デボネア",
+      "branch": "EN",
+      "url": "https://www.nijisanji.jp/talents/l/kaelix-debonair"
+    },
+    {
+      "id": "niji_5jswijlz7",
+      "name": "ヴェール ヴァーミリオン",
+      "branch": "EN",
+      "url": "https://www.nijisanji.jp/talents/l/ver-vermillion"
+    },
+    {
+      "id": "niji_ukwma--6r",
+      "name": "ヴェザリウス バンデージ",
+      "branch": "EN",
+      "url": "https://www.nijisanji.jp/talents/l/vezalius-bandage"
+    },
+    {
+      "id": "niji_ekzs8qhrq",
+      "name": "フリオドール",
+      "branch": "EN",
+      "url": "https://www.nijisanji.jp/talents/l/freodore"
+    },
+    {
+      "id": "niji_ftshek-t9w",
+      "name": "ジール・ギンジョウカ",
+      "branch": "EN",
+      "url": "https://www.nijisanji.jp/talents/l/zeal-ginjoka"
+    },
+    {
+      "id": "niji_q7na52e3h",
+      "name": "セイブル",
+      "branch": "EN",
+      "url": "https://www.nijisanji.jp/talents/l/seible"
+    },
+    {
+      "id": "niji_23il_3cze",
+      "name": "クロード クローマーク",
+      "branch": "EN",
+      "url": "https://www.nijisanji.jp/talents/l/claude-clawmark"
+    },
+    {
+      "id": "niji_mt6y_fdp2w6",
+      "name": "クララ チャームウッド",
+      "branch": "EN",
+      "url": "https://www.nijisanji.jp/talents/l/klara-charmwood"
+    },
+    {
+      "id": "niji_ns0gbctt9k",
+      "name": "凉舞 バレンウォート",
+      "branch": "EN",
+      "url": "https://www.nijisanji.jp/talents/l/ryoma-barrenwort"
+    }
+  ],
+  "errors": [],
+  "notes": [
+    "JPは旧ID・旧KR統合先を含む公式区分。旧所属の出自を新しく推測・書換しません。",
+    "現役の個別プロフィールURLとIDが検証できた対象のみ作成。卒業・改名に関わるデータは自動変更しません。",
+    "公式サイトや通信に問題がある場合、既存JSONとroster-candidatesは変更しません。"
+  ],
+  "applied": 28
+}
