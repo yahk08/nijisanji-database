@@ -12,6 +12,9 @@ on:
   schedule:
     - cron: '17 */12 * * *'
     - cron: '7,37 * * * *'
+  workflow_run:
+    workflows: ["Collect official NIJISANJI news"]
+    types: [completed]
 permissions:
   contents: read
   pages: write
@@ -21,6 +24,7 @@ concurrency:
   cancel-in-progress: false
 jobs:
   build:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4

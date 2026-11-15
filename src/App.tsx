@@ -31,6 +31,8 @@ function readRoute() {const match=location.hash.match(/^#\/liver\/([\w-]+)$/); r
 
 export default function App() {
   const [dataset,setDataset]=useState<LiverIndex|null>(null);
+  const [officialNews,setOfficialNews]=useState<{checkedAt:string|null;news:{id:string;title:string;url:string;publishedAt:string|null;category:'news'|'event'}[]}|null>(null);
+  useEffect(()=>{fetch(`${ASSET_BASE}data/official-news.json`,{cache:'no-cache'}).then(r=>r.ok?r.json():Promise.reject()).then(d=>{if(d.schemaVersion===1&&Array.isArray(d.news))setOfficialNews(d);}).catch(()=>{});},[]);
   const [loadError,setLoadError]=useState('');
   const [youtubeData,setYoutubeData]=useState<Record<string,Liver['youtube']>>({});
   const [youtubeError,setYoutubeError]=useState('');
@@ -144,8 +146,8 @@ export default function App() {
         <section className="section"><div className="section-heading"><h1>にじデータベース</h1></div><p className="muted">公式一覧・個別プロフィール照合済み {livers.length}人（にじさんじ）。項目ごとに出典と確認度を表示します。</p>
           <form className="hero-search" onSubmit={e=>{e.preventDefault();go('livers')}}><Search size={20}/><input aria-label="ライバー検索" placeholder="ライバー名・グループ名で検索" value={search} onChange={e=>setSearch(e.target.value)}/><button type="submit" aria-label="検索する"><ArrowRight size={19}/></button></form>
         </section>
-        <section className="section"><div className="section-heading"><h2>公式ニュース・お知らせ</h2></div><div className="empty-small">ニュースは現在未収集です。確認できていない記事は表示しません。</div></section>
-        <section className="section"><div className="section-heading"><h2>イベント・ライブ</h2></div><div className="empty-small">公式イベントは現在未収集です。開催予定を推測して表示しません。</div></section>
+        <section className="section"><div className="section-heading"><h2>公式ニュース・お知らせ</h2></div>{officialNews?.news?.some(n=>n.category==='news')?<><p className="small-hint">公式ニュースから取得した情報です。</p><div className="news-feed">{officialNews.news.filter(n=>n.category==='news').slice(0,8).map(n=><a className="news-feed-row" key={n.id} href={n.url} target="_blank" rel="noopener noreferrer"><small>掲載：{formatDate(n.publishedAt)}</small><strong>{n.title}</strong><ExternalLink size={15}/></a>)}</div></>:<div className="empty-small">まだ情報が取得されていません。</div>}</section>
+        <section className="section"><div className="section-heading"><h2>イベント・ライブ</h2></div>{officialNews?.news?.some(n=>n.category==='event')?<><p className="small-hint">イベント関連の公式告知。日付は開催日ではなく掲載日です。</p><div className="news-feed">{officialNews.news.filter(n=>n.category==='event').slice(0,8).map(n=><a className="news-feed-row" key={n.id} href={n.url} target="_blank" rel="noopener noreferrer"><small>掲載：{formatDate(n.publishedAt)}</small><strong>{n.title}</strong><ExternalLink size={15}/></a>)}</div></>:<div className="empty-small">まだ情報が取得されていません。</div>}</section>
         <section className="section"><div className="section-heading"><h2>最近デビューしたライバー</h2><button className="text-link" onClick={()=>go('livers')}>もっと見る <ChevronRight size={16}/></button></div>
           {livers.length?<div className="birthday-row">{livers.filter(l=>!!l.debutDate.value).sort((a,b)=>dateSort(a.debutDate.value,b.debutDate.value,false)).slice(0,5).map(l=><button key={l.id} className="birthday-card" onClick={()=>go('profile',l.id)}><div className="avatar"><Users size={23}/></div><strong>{l.name}</strong><span>{formatDate(l.debutDate.value)}</span></button>)}</div>:<div className="empty-small">確認済みのデビュー日データはありません。</div>}
         </section>
