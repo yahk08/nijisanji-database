@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kou-uzuki",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/a9a37e0a481f4ccf95d7d190f0ba7bf0/liver-full-body_Kou_Uzuki.png.webp",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A",
   "youtubeChannelId": "UC3lNFeJiTq6L3UWoz4g1e-A",
   "xUrl": "https://twitter.com/udukikohh",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "有名企業のCEOを父に持つ育ちの良いお坊ちゃん。\nイギリスと日本のハーフで近寄りがたく思われることを気にしている。\n無愛想でツンとした印象だが、心を開くと年相応の男子中学生。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/kou-uzuki",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [
     {
@@ -66,6 +74,25 @@
                 "url": "https://www.nijisanji.jp/talents/l/kou-uzuki",
                 "kind": "official",
                 "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "卯月軍団",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/kou-uzuki"
               }
             ],
             "showSources": true
@@ -222,5 +249,6 @@
       "youtubeChannelLinked": true,
       "xAccountLinked": true
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/kou-uzuki"
 }

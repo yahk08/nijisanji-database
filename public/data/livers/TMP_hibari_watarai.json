@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/hibari-watarai",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/33099dcba7fb4b5e8a73364eb89cc242/liver-full-body_Hibari_Watarai.png.webp",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA",
   "youtubeChannelId": "UC4l9gz3q65lTBFfFtW5LLeA",
   "xUrl": "https://twitter.com/watarai_hibari",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "怪盗一家の跡取り。 人の心を掴む正義の「快盗」に憧れている。 金銭目的の盗みはしないので、カフェのアルバイトで生計を立てている。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/hibari-watarai",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [
     {
@@ -66,6 +74,25 @@
                 "url": "https://www.nijisanji.jp/talents/l/hibari-watarai",
                 "kind": "official",
                 "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "ひばりすた",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/hibari-watarai"
               }
             ],
             "showSources": true
@@ -285,5 +312,6 @@
       "status": "unavailable",
       "error": "キャッシュ未収録（追加通信なし）"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/hibari-watarai"
 }

@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/saku-sasaki",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/14949cf0ee014fc3be6f28e3d4a82377/liver-full-body_Saku_Sasaki.png",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA",
   "youtubeChannelId": "UCoztvTULBYd3WmStqYeoHcA",
   "xUrl": "https://twitter.com/saku_sasaki",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "ゲームと水族館が大好きなのんびりした性格の関西女子。 好きな生き物はメンダコ(面蛸、英名: Japanese pancake devilfish は軟体動物門頭足綱八腕類メンダコ科に属するタコの一種) あとパンダ(白黒の生物)も好き。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/saku-sasaki",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [
     {
@@ -66,6 +74,25 @@
                 "url": "https://www.nijisanji.jp/talents/l/saku-sasaki",
                 "kind": "official",
                 "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "笹キッズ",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/saku-sasaki"
               }
             ],
             "showSources": true
@@ -220,5 +247,6 @@
       "status": "unavailable",
       "error": "キャッシュ未収録（追加通信なし）"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/saku-sasaki"
 }

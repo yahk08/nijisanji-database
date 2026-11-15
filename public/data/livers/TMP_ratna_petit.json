@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ratna-petit",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/276602ab8bda4bc6ab8b68cb61ce2e2e/liver-full-body_Ratna_Petit.png",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw",
   "youtubeChannelId": "UCIG9rDtgR45VCZmYnd-4DUw",
   "xUrl": "https://twitter.com/ratna_petit",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "冒険の途中でひょんなことから異世界からこちらの世界に飛んできてしまった元冒険家のレッサーパンダ。 マイペースな性格で元の世界に戻ることを忘れ、こちらの世界のゲームなどに没頭している。なぜか一応言葉は通じている。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/ratna-petit",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [
     {
@@ -66,6 +74,25 @@
                 "url": "https://www.nijisanji.jp/talents/l/ratna-petit",
                 "kind": "official",
                 "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "ぷりすなー",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/ratna-petit"
               }
             ],
             "showSources": true
@@ -220,5 +247,6 @@
       "status": "unavailable",
       "error": "キャッシュ未収録（追加通信なし）"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/ratna-petit"
 }

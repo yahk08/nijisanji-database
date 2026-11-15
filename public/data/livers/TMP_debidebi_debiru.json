@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/debidebi-debiru",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/2f4135a1e1954525956b09aa3633ecaa/liver-full-body_Debidebi_Debiru.png.webp",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w",
   "youtubeChannelId": "UCjlmCrq4TP1I4xguOtJ-31w",
   "xUrl": "https://twitter.com/debidebiru_sama",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "異世界の悪魔。この世界の人間たちに存在を知ってもらい、力を強くするために活動を始めた。 目標は全人類を堕落させること。ホラー映画や漫画など、悪魔の勉強は欠かさない。 悪魔社会も結構厳しいらしい。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/debidebi-debiru",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [
     {
@@ -66,6 +74,25 @@
                 "url": "https://www.nijisanji.jp/talents/l/debidebi-debiru",
                 "kind": "official",
                 "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "けいやくしゃ",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/debidebi-debiru"
               }
             ],
             "showSources": true
@@ -220,5 +247,6 @@
       "status": "unavailable",
       "error": "キャッシュ未収録（追加通信なし）"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/debidebi-debiru"
 }

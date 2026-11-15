@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kaede-higuchi",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/325a9fbd45e64b3b860519952e73efa8/liver-full-body_Kaede_Higuchi.png.webp",
   "youtubeChannelUrl": "https://www.youtube.com/@HiguchiKaede",
   "youtubeChannelId": null,
   "xUrl": null,
@@ -68,6 +68,25 @@
           }
         }
       ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "楓組",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/kaede-higuchi"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
     }
   ],
   "changes": [],
@@ -78,5 +97,6 @@
     "fetchedAt": null,
     "stateCheckedAt": null,
     "videos": []
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/kaede-higuchi"
 }

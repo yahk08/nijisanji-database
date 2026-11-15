@@ -8,15 +8,21 @@
   "group": null,
   "branch": "EN",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/alban-knox",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/ccdb07ce60ea499cb90da7707cbc3919/liver-full-body_Alban_Knox.png.webp",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCQ1zGxHrfEmmW4CPpBx9-qw",
   "youtubeChannelId": "UCQ1zGxHrfEmmW4CPpBx9-qw",
   "xUrl": "https://twitter.com/alban_knox",
   "birthday": {
-    "value": null,
-    "sources": [],
-    "showSources": false,
-    "verification": "unknown"
+    "value": "05-26",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/alban-knox",
+        "kind": "official"
+      }
+    ],
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "debutDate": {
     "value": "2022-02-27",
@@ -44,12 +50,38 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "sources": [],
-    "showSources": false,
-    "verification": "unknown"
+    "value": "未来からやってきた自由気ままな怪盗 いたずら好きだが、訪れた場所には一切の痕跡を残さないため決して捕らえられることはない",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/alban-knox",
+        "kind": "official"
+      }
+    ],
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
-  "fields": [],
+  "fields": [
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "Takaradachi",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/alban-knox"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    }
+  ],
   "changes": [],
   "visuals": [],
   "music": [],
@@ -69,5 +101,6 @@
       "url": "https://wikiwiki.jp/nijisanji/%E3%82%A2%E3%83%AB%E3%83%90%E3%83%BC%E3%83%B3%E3%83%BB%E3%83%8E%E3%83%83%E3%82%AF%E3%82%B9",
       "status": "unavailable"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/alban-knox"
 }

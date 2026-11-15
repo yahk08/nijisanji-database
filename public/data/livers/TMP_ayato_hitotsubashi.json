@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ayato-hitotsubashi",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/077fe19817b2422a8576679c9daadf02/liver-ful-body_Ayato_Hitotsubashi.png",
   "youtubeChannelUrl": "https://www.youtube.com/@HitotsubashiAyato",
   "youtubeChannelId": "UCcyiT8QT7fo7LrxXe1oxOoA",
   "xUrl": "https://x.com/Aya10_1tsubashi",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "多くの患者を抱えるスーパーエリート精神科医。 様々な悩みを抱える患者との対話に日々努めている。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/ayato-hitotsubashi",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [],
   "changes": [
@@ -198,5 +206,6 @@
       "status": "unavailable",
       "error": "キャッシュ未収録（追加通信なし）"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/ayato-hitotsubashi"
 }

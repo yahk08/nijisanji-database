@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/rion-takamiya",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/8469a568bd1145008ac64f61770872e8/liver-full-body_Rion_Takamiya.png.webp",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw",
   "youtubeChannelId": "UCV5ZZlLjk5MKGg3L0n0vbzw",
   "xUrl": "https://twitter.com/takamiyarion",
@@ -66,8 +66,16 @@
     "showSources": true
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "有数の金持ちが集う魔法学校、私立帝華高校の2年生、17歳。 政治家の娘で高飛車なツンデレタイプだが、学校では風紀委員に所属しており気さくな優等生を演じている。 土日は社会見学の為メイド喫茶でバイト中。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/rion-takamiya",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [
     {
@@ -84,6 +92,25 @@
                 "url": "https://www.nijisanji.jp/talents/l/rion-takamiya",
                 "kind": "official",
                 "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "ファンボ・ファンガ",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/rion-takamiya"
               }
             ],
             "showSources": true
@@ -270,5 +297,6 @@
       "youtubeChannelLinked": true,
       "xAccountLinked": true
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/rion-takamiya"
 }

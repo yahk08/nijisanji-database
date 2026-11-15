@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/tojiro-genzuki",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/600a56cbf10c4f82af2e95fc121cdc05/liver-full-body_Tojiro_Genzuki.png",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg",
   "youtubeChannelId": "UCGw7lrT-rVZCWHfdG9Frcgg",
   "xUrl": "https://twitter.com/1O46V",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "皇国に仕える官吏。「神」の管理や、「神」との連絡役を任されている。 変わり者が多い「神」を相手に抜け目のない仕事をしており、周囲からの評価は高い。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/tojiro-genzuki",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [
     {
@@ -66,6 +74,25 @@
                 "url": "https://www.nijisanji.jp/talents/l/tojiro-genzuki",
                 "kind": "official",
                 "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "弦住民",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/tojiro-genzuki"
               }
             ],
             "showSources": true
@@ -317,5 +344,6 @@
       "status": "unavailable",
       "error": "キャッシュ未収録（追加通信なし）"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/tojiro-genzuki"
 }

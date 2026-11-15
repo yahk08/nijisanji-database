@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/daichi-tsukahara",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/8dd83e8c942c47bc869b87f3bb527932/liver-full-body_Daichi_Tsukahara.png",
   "youtubeChannelUrl": "https://www.youtube.com/@TsukaharaDaichi_Y4T4",
   "youtubeChannelId": "UC9HYkiQZ1_b3J_F8gc12eaA",
   "xUrl": "https://x.com/BIG_Tsukahara",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "BIGな男になりたいと突如にじさんじの門を叩き割ってきた青年。 何者かになるためにゲームと歌とポンコツの3刀流で、多くの人に愛される超一流のストリーマーを目指す。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/daichi-tsukahara",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [],
   "changes": [
@@ -198,5 +206,6 @@
       "status": "unavailable",
       "error": "キャッシュ未収録（追加通信なし）"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/daichi-tsukahara"
 }

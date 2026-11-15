@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/muyu-amagase",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/abe11794397a44b684c93923f9bb26cd/liver-full-body_Muyu_Amagase.png.webp",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCAQDFeCTVdx90GtwohwjHzQ",
   "youtubeChannelId": "UCAQDFeCTVdx90GtwohwjHzQ",
   "xUrl": "https://twitter.com/Muyu_Amagase",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "夢を食べる半人半妖。\n寝ている人の悪い夢を、良い夢に変えることができる。\n普段は周囲にバレないよう気をつけているが、自身も様々な夢を見たいと配信活動を始める。しかし未だ本人の寝つきは悪い。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/muyu-amagase",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [
     {
@@ -66,6 +74,25 @@
                 "url": "https://www.nijisanji.jp/talents/l/muyu-amagase",
                 "kind": "official",
                 "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "ふぁむゆ",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/muyu-amagase"
               }
             ],
             "showSources": true
@@ -253,5 +280,6 @@
       "status": "unavailable",
       "error": "キャッシュ未収録（追加通信なし）"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/muyu-amagase"
 }

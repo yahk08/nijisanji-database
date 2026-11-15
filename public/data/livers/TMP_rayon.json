@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/rayon",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/37bf4c532fc2489c963be8b3dc59b098/liver-full-body_Rayon.png",
   "youtubeChannelUrl": "https://www.youtube.com/@Rayon_Y4T4",
   "youtubeChannelId": "UCsxs_R8xnsQN4t-F_3qQ8PQ",
   "xUrl": "https://x.com/Rayon_2434",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "天性のゲームセンスでネットに名を轟かせていた天才高校生ゲーマー。 勝つだけではなく、ゲームで人の心を動かしたいと思い、にじさんじにやってきた。 エイム：バリカタ、甘さ：多め、顔：薄め",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/rayon",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [],
   "changes": [
@@ -198,5 +206,6 @@
       "status": "unavailable",
       "error": "キャッシュ未収録（追加通信なし）"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/rayon"
 }

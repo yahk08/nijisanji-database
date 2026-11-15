@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/eli-conifer",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/6a62811051b84e5a9dbaaf835d5faf64/liver-full-body_Eli_Conifer.png.webp",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ",
   "youtubeChannelId": "UCpNH2Zk2gw3JBjWAKSyZcQQ",
   "xUrl": "https://twitter.com/Eli_Conifer",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "“花の妖精”。手入れの行き届いた屋敷の庭で生まれた。\n今はその屋敷で、住み込みのメイドとして働いている。\n屋敷に暮らす家族のことが大好き。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/eli-conifer",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [
     {
@@ -66,6 +74,25 @@
                 "url": "https://www.nijisanji.jp/talents/l/eli-conifer",
                 "kind": "official",
                 "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "エリ草",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/eli-conifer"
               }
             ],
             "showSources": true
@@ -317,5 +344,6 @@
       "status": "unavailable",
       "error": "キャッシュ未収録（追加通信なし）"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/eli-conifer"
 }

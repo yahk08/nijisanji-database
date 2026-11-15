@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kanae",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/c22012c1710143cbabcf3e2d2bb9a7d1/liver-full-body_Kanae.png",
   "youtubeChannelUrl": "https://www.youtube.com/@Kanae",
   "youtubeChannelId": null,
   "xUrl": "https://x.com/Kanae_2434",
@@ -75,6 +75,25 @@
           }
         }
       ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "叶え隊",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/kanae"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
     }
   ],
   "changes": [],
@@ -85,5 +104,6 @@
     "fetchedAt": null,
     "stateCheckedAt": null,
     "videos": []
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/kanae"
 }

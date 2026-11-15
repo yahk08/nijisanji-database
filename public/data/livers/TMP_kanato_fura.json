@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kanato-fura",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/6adc5e85c48d4c0aa6baf367ee9be9e1/liver-full-body_Kanato_Fura.png.webp",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCC7rRD6P7RQcx0hKv9RQP4w",
   "youtubeChannelId": "UCC7rRD6P7RQcx0hKv9RQP4w",
   "xUrl": "https://twitter.com/KNTFR2434",
@@ -66,8 +66,16 @@
     "showSources": true
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "マフィア一家の息子。 根が優しく、家業に疑問を持つ一方、首領としての才覚は超一流。 現在の職業は青年実業家で、カフェやレストランを経営している。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/kanato-fura",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [
     {
@@ -84,6 +92,25 @@
                 "url": "https://www.nijisanji.jp/talents/l/kanato-fura",
                 "kind": "official",
                 "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "Diner",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/kanato-fura"
               }
             ],
             "showSources": true
@@ -367,5 +394,6 @@
       "youtubeChannelLinked": true,
       "xAccountLinked": true
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/kanato-fura"
 }

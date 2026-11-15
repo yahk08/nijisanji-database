@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/reina",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/6dd0dc39588549d889025712a53360b7/liver-full-body_Rei7.png",
   "youtubeChannelUrl": "https://www.youtube.com/@Rei7_Y4T4",
   "youtubeChannelId": "UC_4QF0dL-9XI9VajsNkMtmQ",
   "xUrl": "https://x.com/Rei7_2434",
@@ -66,8 +66,16 @@
     "showSources": true
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "オタクにも優しいゲーマーギャル。 好きなことになるとブレーキが効かなくなってしまうことも… 自認陰キャ、他認陽キャ。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/reina",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [],
   "changes": [
@@ -248,5 +256,6 @@
       "youtubeChannelLinked": false,
       "xAccountLinked": true
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/reina"
 }

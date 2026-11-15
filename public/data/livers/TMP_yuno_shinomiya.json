@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/yuno-shinomiya",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/02025776e57c4829af3f444946661ae4/liver-full-body_Yuno_Shinomiya.png",
   "youtubeChannelUrl": "https://www.youtube.com/@ShinomiyaYuno",
   "youtubeChannelId": "UCo96eJdTpPOrxHFztYajbtg",
   "xUrl": "https://x.com/Yuno_Shino38",
@@ -66,8 +66,16 @@
     "showSources": true
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "ほしの学園3年生の17歳。 「すぷれあ」の副リーダー。 落ち着いた雰囲気で優しそうだが…？",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/yuno-shinomiya",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [],
   "changes": [
@@ -248,5 +256,6 @@
       "youtubeChannelLinked": false,
       "xAccountLinked": true
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/yuno-shinomiya"
 }

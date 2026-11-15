@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/gaon",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/e97fd321513f4cc09fc474086ec49f64/liver-full-body_Gaon.png",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw",
   "youtubeChannelId": "UCpRXCTyNNa-MnjhK6gisnRw",
   "xUrl": "https://twitter.com/Gaon2434",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "現代のストレスにより、飮酒や歌に没頭している28歳の会社員。 文字通り、酒と歌が大好き。 話題になるためにツインテールの姿で配信している。 しばらく仕事を休んでいた期間、お小遣いを稼ぐために参加した臨床試験の副作用のため、身体の年齢が若返り、可愛くなった自分の姿に満足している。ウタボットウ",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/gaon",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [
     {
@@ -82,6 +90,25 @@
                 "url": "https://www.nijisanji.jp/talents/l/gaon",
                 "kind": "official",
                 "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "Gaide",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/gaon"
               }
             ],
             "showSources": true
@@ -236,5 +263,6 @@
       "status": "unavailable",
       "error": "キャッシュ未収録（追加通信なし）"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/gaon"
 }

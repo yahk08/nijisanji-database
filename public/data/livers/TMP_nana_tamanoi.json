@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/nana-tamanoi",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/f7d3327711a448a1beeada896f5edaad/liver-full-body_Nana_Tamanoi.png",
   "youtubeChannelUrl": "https://www.youtube.com/@TamanoiNana",
   "youtubeChannelId": "UCkhViRjLUKgIcVpar9JiNrw",
   "xUrl": "https://x.com/7_tamanoi",
@@ -57,8 +57,16 @@
     "showSources": true
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "ランフー大サーカス随一のパフォーマー。 来てくれたお客様を笑顔にするべく、歌と（ちょっと苦手な）踊りを日々鍛錬！ サーカスのライオンとは、日々食事を奪い合う仲。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/nana-tamanoi",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [
     {
@@ -75,6 +83,25 @@
                 "url": "https://www.nijisanji.jp/talents/l/nana-tamanoi",
                 "kind": "official",
                 "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "ななかま",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/nana-tamanoi"
               }
             ],
             "showSources": true
@@ -246,5 +273,6 @@
       "youtubeChannelLinked": false,
       "xAccountLinked": true
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/nana-tamanoi"
 }

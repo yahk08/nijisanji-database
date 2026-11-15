@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/akira-shikinagi",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/bff1ed4d4d8c490583c1a7d82497958a/liver-full-body_Akira_Shikinagi.png.webp",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg",
   "youtubeChannelId": "UCcDDxnoQcezyTUzHg5uHaKg",
   "xUrl": "https://twitter.com/Shikinagi_2434",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "代々続く諜報員一家に生まれた腕利きの元・諜報員。 今は組織を抜けて小さな事務所を開いている。 蜂の巣の駆除から刺客の排除まで請け負う。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/akira-shikinagi",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [
     {
@@ -66,6 +74,25 @@
                 "url": "https://www.nijisanji.jp/talents/l/akira-shikinagi",
                 "kind": "official",
                 "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "凪友",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/akira-shikinagi"
               }
             ],
             "showSources": true
@@ -317,5 +344,6 @@
       "status": "unavailable",
       "error": "キャッシュ未収録（追加通信なし）"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/akira-shikinagi"
 }

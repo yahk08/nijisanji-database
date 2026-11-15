@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kotone-mikogami",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/2f1430b248b547ae80ac98c9e79dda6a/liver-full-body_Kotone_Mikogami.png",
   "youtubeChannelUrl": "https://www.youtube.com/@MikogamiKotone_Y4T4",
   "youtubeChannelId": "UCwjlRIySBvZ-kLV5bfjya4A",
   "xUrl": "https://x.com/Mikogami_Kotone",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "5大財閥のうちの一つ、 御子神財閥会長の一人娘。 一流の令嬢になるためににじさんじにやってきた。 まだパパは「琴音」がゲーマーであることを知らない。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/kotone-mikogami",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [],
   "changes": [
@@ -198,5 +206,6 @@
       "status": "unavailable",
       "error": "キャッシュ未収録（追加通信なし）"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/kotone-mikogami"
 }

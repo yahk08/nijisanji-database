@@ -8,15 +8,21 @@
   "group": null,
   "branch": "EN",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kaelix-debonair",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/3c71873ff6c6420ab94215ed727d589d/liver-full-body_Kaelix_Debonair.png",
   "youtubeChannelUrl": "https://www.youtube.com/@KaelixDebonair",
   "youtubeChannelId": "UCEFOogmvTTcCaO8Qe0I8-tg",
   "xUrl": "https://x.com/KaelixDebonair",
   "birthday": {
-    "value": null,
-    "sources": [],
-    "showSources": false,
-    "verification": "unknown"
+    "value": "11-05",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/kaelix-debonair",
+        "kind": "official"
+      }
+    ],
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "debutDate": {
     "value": "2025-03-13",
@@ -44,12 +50,38 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "sources": [],
-    "showSources": false,
-    "verification": "unknown"
+    "value": "仕事はサボりがちだがやる時はやる、自然な魅力を持つ呑気なバウンサー。",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/kaelix-debonair",
+        "kind": "official"
+      }
+    ],
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
-  "fields": [],
+  "fields": [
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "Debonheir",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/kaelix-debonair"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    }
+  ],
   "changes": [],
   "visuals": [],
   "music": [],
@@ -69,5 +101,6 @@
       "url": "https://wikiwiki.jp/nijisanji/%E3%82%B1%E3%82%A4%E3%83%AA%E3%82%AF%E3%82%B9%E3%83%BB%E3%83%87%E3%83%9C%E3%83%8D%E3%82%A2",
       "status": "unavailable"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/kaelix-debonair"
 }

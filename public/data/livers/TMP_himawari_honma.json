@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/himawari-honma",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/27cd419ab524479793ff01a1e0b6ea68/liver-full-body_Himawari_Honma.png",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w",
   "youtubeChannelId": "UC0g1AE0DOjBYnLhkgoRWN1w",
   "xUrl": "https://twitter.com/honmahimawari",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "ゲームと猫が大好きな高校2年生。最近友達が欲しくて配信をはじめた。 普段は明るくて少し天然だが、ゲームをすると…!? なぜかいつも頭にひまわりを付けていて、嫌な事があるとひまわりで花占いを始める。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/himawari-honma",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [
     {
@@ -66,6 +74,25 @@
                 "url": "https://www.nijisanji.jp/talents/l/himawari-honma",
                 "kind": "official",
                 "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "ひまぐま",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/himawari-honma"
               }
             ],
             "showSources": true
@@ -220,5 +247,6 @@
       "status": "unavailable",
       "error": "キャッシュ未収録（追加通信なし）"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/himawari-honma"
 }

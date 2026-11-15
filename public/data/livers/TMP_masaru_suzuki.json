@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/masaru-suzuki",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/4604a15137594ec6a8acd85b8429202e/liver-full-body_Masaru_Suzuki.png.webp",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw",
   "youtubeChannelId": "UCryOPk2GZ1meIDt53tL30Tw",
   "xUrl": "https://twitter.com/darkness_eater",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "バーチャル世界を生きる、永遠に13歳の少年（中学二年生）。 普通を嫌い、配信をきっかけに格好良いを極めようとするも空回りしがち。 ある日突然身長が伸び、声変わりが来ないかなと思っている。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/masaru-suzuki",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [
     {
@@ -66,6 +74,25 @@
                 "url": "https://www.nijisanji.jp/talents/l/masaru-suzuki",
                 "kind": "official",
                 "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "盟友",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/masaru-suzuki"
               }
             ],
             "showSources": true
@@ -285,5 +312,6 @@
       "status": "unavailable",
       "error": "キャッシュ未収録（追加通信なし）"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/masaru-suzuki"
 }

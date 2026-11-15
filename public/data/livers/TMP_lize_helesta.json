@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/lize-helesta",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/3a5c1ac881fd4ae2875089edecfa407c/liver-full-body_Lize_Helesta.png",
   "youtubeChannelUrl": "https://www.youtube.com/@LizeHelesta",
   "youtubeChannelId": null,
   "xUrl": null,
@@ -68,6 +68,25 @@
           }
         }
       ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "ヘルエスタ王国民",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/lize-helesta"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
     }
   ],
   "changes": [],
@@ -78,5 +97,6 @@
     "fetchedAt": null,
     "stateCheckedAt": null,
     "videos": []
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/lize-helesta"
 }

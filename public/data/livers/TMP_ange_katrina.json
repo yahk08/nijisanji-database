@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ange-katrina",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/9621c6474a884751a176ee3e706fdd73/liver-full-body_Ange_Katrina.png",
   "youtubeChannelUrl": null,
   "youtubeChannelId": null,
   "xUrl": null,
@@ -68,6 +68,25 @@
           }
         }
       ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "賢者キッズ（非公式：FCL）",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/ange-katrina"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
     }
   ],
   "changes": [],
@@ -78,5 +97,6 @@
     "fetchedAt": null,
     "stateCheckedAt": null,
     "videos": []
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/ange-katrina"
 }

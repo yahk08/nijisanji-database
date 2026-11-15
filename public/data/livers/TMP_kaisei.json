@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kaisei",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/cd6c2a5803374944bddcd034e9dd61ab/liver-full-body_Kaisei.png",
   "youtubeChannelUrl": "https://www.youtube.com/@Kaisei_nijisanji",
   "youtubeChannelId": "UC8SJPcLpIM3x8RdBJFfiluw",
   "xUrl": "https://x.com/Kaisei_2434",
@@ -57,8 +57,16 @@
     "showSources": true
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "暗い小道でひっそりと「鍵屋」を営む青年。 \n開くことから閉じることまで、彼に対応できないことはない。\n常に飄々としており、その本意は計り知れない。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/kaisei",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [
     {
@@ -75,6 +83,25 @@
                 "url": "https://www.nijisanji.jp/talents/l/kaisei",
                 "kind": "official",
                 "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "錠連",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/kaisei"
               }
             ],
             "showSources": true
@@ -246,5 +273,6 @@
       "youtubeChannelLinked": true,
       "xAccountLinked": true
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/kaisei"
 }

@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/roa-yuzuki",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/e8f38561f9894510a57dabba2229dfef/liver-full-body_Roa_Yuzuki.png.webp",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw",
   "youtubeChannelId": "UCCVwhI5trmaSxfcze_Ovzfw",
   "xUrl": "https://twitter.com/yuzuki_roa",
@@ -66,8 +66,16 @@
     "showSources": true
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "人間にイタズラをするために魔界からやってきた13歳の悪魔。 本人は一人前の悪魔のつもりだが、性格の良さゆえ結果的に人助けをしてしまい、いつも空回りしている。 配信を通してイタズラをしてやろうと企んでいる。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/roa-yuzuki",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [
     {
@@ -84,6 +92,25 @@
                 "url": "https://www.nijisanji.jp/talents/l/roa-yuzuki",
                 "kind": "official",
                 "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "リリン",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/roa-yuzuki"
               }
             ],
             "showSources": true
@@ -270,5 +297,6 @@
       "youtubeChannelLinked": true,
       "xAccountLinked": true
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/roa-yuzuki"
 }

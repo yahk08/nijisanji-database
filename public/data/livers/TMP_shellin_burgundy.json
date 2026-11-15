@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/shellin-burgundy",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/f8c9d6e54cab4843bc59081d80c62305/liver-full-body_Shellin_Burgundy.png.webp",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA",
   "youtubeChannelId": "UCHBhnG2G-qN0JrrWmMO2FTA",
   "xUrl": "https://twitter.com/ShellinBurgundy",
@@ -57,8 +57,16 @@
     "showSources": true
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "世の中の「謎」を追い求める青年。しがない探偵稼業を営む。 優秀だが何故か客には恵まれない。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/shellin-burgundy",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [
     {
@@ -75,6 +83,25 @@
                 "url": "https://www.nijisanji.jp/talents/l/shellin-burgundy",
                 "kind": "official",
                 "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "被疑者",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/shellin-burgundy"
               }
             ],
             "showSources": true
@@ -246,5 +273,6 @@
       "youtubeChannelLinked": true,
       "xAccountLinked": true
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/shellin-burgundy"
 }

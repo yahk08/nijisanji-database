@@ -8,15 +8,21 @@
   "group": null,
   "branch": "EN",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ver-vermillion",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/a891cf99c7234bfe9b29386501d5c460/liver-full-body_Ver_Vermillion.png",
   "youtubeChannelUrl": "https://www.youtube.com/@VerVermillion",
   "youtubeChannelId": "UCO8WcDsF5znr-qsXlzZNpqg",
   "xUrl": "https://twitter.com/Ver_Vermillion",
   "birthday": {
-    "value": null,
-    "sources": [],
-    "showSources": false,
-    "verification": "unknown"
+    "value": "08-25",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/ver-vermillion",
+        "kind": "official"
+      }
+    ],
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "debutDate": {
     "value": "2022-12-06",
@@ -44,12 +50,38 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "sources": [],
-    "showSources": false,
-    "verification": "unknown"
+    "value": "無限学科 XSOLEIL 3年生。 カリスマ性と謎に包まれた生徒会長。 人の魂を覗き、その者の未来を読み取ることができる。",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/ver-vermillion",
+        "kind": "official"
+      }
+    ],
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
-  "fields": [],
+  "fields": [
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "Villions",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/ver-vermillion"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    }
+  ],
   "changes": [],
   "visuals": [],
   "music": [],
@@ -69,5 +101,6 @@
       "url": "https://wikiwiki.jp/nijisanji/%E3%83%B4%E3%82%A7%E3%83%BC%E3%83%AB%20%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%9F%E3%83%AA%E3%82%AA%E3%83%B3",
       "status": "unavailable"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/ver-vermillion"
 }

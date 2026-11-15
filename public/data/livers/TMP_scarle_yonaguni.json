@@ -8,15 +8,21 @@
   "group": null,
   "branch": "EN",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/scarle-yonaguni",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/4fa8014ed1bb4a47bb0aee2c28b46c16/liver-full-body_Scarle_Yonaguni.png.webp",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCFgXWZOUZA2oYHNr6qDmsTQ",
   "youtubeChannelId": "UCFgXWZOUZA2oYHNr6qDmsTQ",
   "xUrl": "https://twitter.com/ScarleYonaguni",
   "birthday": {
-    "value": null,
-    "sources": [],
-    "showSources": false,
-    "verification": "unknown"
+    "value": "02-19",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/scarle-yonaguni",
+        "kind": "official"
+      }
+    ],
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "debutDate": {
     "value": "2022-07-25",
@@ -44,12 +50,38 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "sources": [],
-    "showSources": false,
-    "verification": "unknown"
+    "value": "異能学科 ILUNA 3年生。 エレガントで大人な魅惑の女性。 その妖艶な美しさは、彼女の緋色の杖のように輝いている。",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/scarle-yonaguni",
+        "kind": "official"
+      }
+    ],
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
-  "fields": [],
+  "fields": [
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "Scarlings",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/scarle-yonaguni"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    }
+  ],
   "changes": [],
   "visuals": [],
   "music": [],
@@ -69,5 +101,6 @@
       "url": "https://wikiwiki.jp/nijisanji/%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%AC%20%E3%83%A8%E3%83%8A%E3%82%B0%E3%83%8B",
       "status": "unavailable"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/scarle-yonaguni"
 }

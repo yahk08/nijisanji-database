@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ayumu-senri",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/dbdcebc7c9494c4fb30d7f74b67bb08b/liver-full-body_Ayumu_Senri.png",
   "youtubeChannelUrl": "https://www.youtube.com/@SenriAyumu_Y4T4",
   "youtubeChannelId": "UC5Qv2tPOI38OcnqOdUKkn7Q",
   "xUrl": "https://x.com/Senri_Ayumu",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "マイペースで心ここに在らず…に見えるが、ゲームへの情熱とやる気は人一倍。太ももの絆創膏は、ケガではなくファッション。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/ayumu-senri",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [],
   "changes": [
@@ -198,5 +206,6 @@
       "status": "unavailable",
       "error": "キャッシュ未収録（追加通信なし）"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/ayumu-senri"
 }

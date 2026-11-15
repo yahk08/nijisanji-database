@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/emma-august",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/5a066be52161409b9a14f1b3a760af18/liver-full-body_Emma_August.png",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ",
   "youtubeChannelId": "UCl1oLKcAq93p-pwKfDGhiYQ",
   "xUrl": "https://twitter.com/emma_august_",
@@ -57,8 +57,16 @@
     "showSources": true
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "魔界から逃げ延びた女の子。王族出身でいわゆる「魔王」の器だが……。\n食うに困って、ライバー活動を始めた。いつか魔王に返り咲く日を夢見ている。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/emma-august",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [
     {
@@ -75,6 +83,25 @@
                 "url": "https://www.nijisanji.jp/talents/l/emma-august",
                 "kind": "official",
                 "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "下僕",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/emma-august"
               }
             ],
             "showSources": true
@@ -343,5 +370,6 @@
       "youtubeChannelLinked": true,
       "xAccountLinked": true
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/emma-august"
 }

@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/tamako-kirara",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/6e5dd850700445bb865709c79b2f427d/liver-full-body_Tamako_Kirara.png",
   "youtubeChannelUrl": "https://www.youtube.com/@KiraraTamako",
   "youtubeChannelId": "UCw-kTlPnZYSHhlGMFJ17Znw",
   "xUrl": "https://x.com/kirara_tamako",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "将来は立派なシェフになりたい最年少の看板娘。 オムライスが好き。 いまはまだお手伝いだけど、いつかみんなみたいに立派に働きたいな！",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/tamako-kirara",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [],
   "changes": [
@@ -198,5 +206,6 @@
       "status": "unavailable",
       "error": "キャッシュ未収録（追加通信なし）"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/tamako-kirara"
 }

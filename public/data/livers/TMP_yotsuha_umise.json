@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/yotsuha-umise",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/0b24d9310a1447ffab41c4edd01106b4/liver-full-body_Yotsuha_Umise.png.webp",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCtHY-tP0dyykhTRMmnfPs_g",
   "youtubeChannelId": "UCtHY-tP0dyykhTRMmnfPs_g",
   "xUrl": "https://twitter.com/Yotsuha_Umise",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "「チャレンジしてから考える」タイプの、七転び八起き貧乏学生。\n新しく楽しい挑戦を求めた結果、配信活動を始めることにした。\n頼られようと本人は振舞っているつもりが、なぜかいつも心配されてしまう。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/yotsuha-umise",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [
     {
@@ -66,6 +74,25 @@
                 "url": "https://www.nijisanji.jp/talents/l/yotsuha-umise",
                 "kind": "official",
                 "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "シロツメイト",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/yotsuha-umise"
               }
             ],
             "showSources": true
@@ -285,5 +312,6 @@
       "status": "unavailable",
       "error": "キャッシュ未収録（追加通信なし）"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/yotsuha-umise"
 }

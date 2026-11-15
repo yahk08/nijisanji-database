@@ -1,0 +1,82 @@
+{
+  "id": "TMP_lize_helesta",
+  "status": "active",
+  "name": "リゼ・ヘルエスタ",
+  "reading": null,
+  "englishName": null,
+  "affiliation": "にじさんじ",
+  "group": null,
+  "branch": "JP",
+  "officialProfileUrl": "https://www.nijisanji.jp/talents/l/lize-helesta",
+  "portraitUrl": null,
+  "youtubeChannelUrl": "https://www.youtube.com/@LizeHelesta",
+  "youtubeChannelId": null,
+  "xUrl": null,
+  "birthday": {
+    "value": "05-25",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール",
+        "url": "https://www.nijisanji.jp/talents/l/lize-helesta",
+        "verifiedAt": "2026-11-14"
+      }
+    ],
+    "showSources": true
+  },
+  "debutDate": {
+    "value": null,
+    "sources": [],
+    "showSources": false
+  },
+  "height": {
+    "value": null,
+    "sources": [],
+    "showSources": false
+  },
+  "fanMark": {
+    "value": null,
+    "sources": [],
+    "showSources": false
+  },
+  "introduction": {
+    "value": "ヘルエスタ王国の第二皇女。",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール",
+        "url": "https://www.nijisanji.jp/talents/l/lize-helesta",
+        "verifiedAt": "2026-11-14"
+      }
+    ],
+    "showSources": true
+  },
+  "fields": [
+    {
+      "section": "ファン・配信情報",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "ヘルエスタ王国民",
+            "sources": [
+              {
+                "label": "にじさんじ公式プロフィール",
+                "url": "https://www.nijisanji.jp/talents/l/lize-helesta",
+                "verifiedAt": "2026-11-14"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    }
+  ],
+  "changes": [],
+  "visuals": [],
+  "music": [],
+  "events": [],
+  "youtube": {
+    "fetchedAt": null,
+    "stateCheckedAt": null,
+    "videos": []
+  }
+}

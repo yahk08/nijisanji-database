@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/tomoe-shirayuki",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/4468273a1577495a9d3830856a5ff50e/liver-full-body_Tomoe_Shirayuki.png",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw",
   "youtubeChannelId": "UCuvk5PilcvDECU7dDZhQiEw",
   "xUrl": "https://twitter.com/Tomoe_Shirayuki",
@@ -66,8 +66,16 @@
     "showSources": true
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "物腰柔らかなお姉さんだが、モットーは弱肉強食。未亡人のような色気をまとうが、実際はまだ未婚で、今はお相手探しの真っ最中。 配信では、意外な一面を見せることも……？",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/tomoe-shirayuki",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [
     {
@@ -84,6 +92,25 @@
                 "url": "https://www.nijisanji.jp/talents/l/tomoe-shirayuki",
                 "kind": "official",
                 "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "小犬・駄犬イヌ",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/tomoe-shirayuki"
               }
             ],
             "showSources": true
@@ -399,5 +426,6 @@
       "youtubeChannelLinked": true,
       "xAccountLinked": true
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/tomoe-shirayuki"
 }

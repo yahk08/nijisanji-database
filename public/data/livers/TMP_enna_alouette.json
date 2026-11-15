@@ -8,15 +8,21 @@
   "group": null,
   "branch": "EN",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/enna-alouette",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/89e4ef3046a849e397596084477d4a75/liver-full-body_Enna_Alouette.png.webp",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow",
   "youtubeChannelId": "UCR6qhsLpn62WVxCBK1dkLow",
   "xUrl": "https://twitter.com/EnnaAlouette",
   "birthday": {
-    "value": null,
-    "sources": [],
-    "showSources": false,
-    "verification": "unknown"
+    "value": "02-20",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/enna-alouette",
+        "kind": "official"
+      }
+    ],
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "debutDate": {
     "value": "2021-10-09",
@@ -44,12 +50,38 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "sources": [],
-    "showSources": false,
-    "verification": "unknown"
+    "value": "天に羽ばたく青い鳥 生を享ける者に愛のさえずりを口ずさむ",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/enna-alouette",
+        "kind": "official"
+      }
+    ],
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
-  "fields": [],
+  "fields": [
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "Aloupeeps",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/enna-alouette"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    }
+  ],
   "changes": [],
   "visuals": [],
   "music": [],
@@ -69,5 +101,6 @@
       "url": "https://wikiwiki.jp/nijisanji/%E3%82%A8%E3%83%8A%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%BC%E3%83%AB%E3%82%A6%E3%82%A7%E3%83%83%E3%83%88",
       "status": "unavailable"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/enna-alouette"
 }

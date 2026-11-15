@@ -1,5 +1,5 @@
 export type Source = { label: string; url: string; verifiedAt?: string; kind?: string };
-export type FieldValue = { value: string | null; sources?: Source[]; showSources?: boolean; verification?: string; note?: string };
+export type FieldValue = { value: string | null; visibility?: 'secret' | 'private' | 'everyday' | 'unknown'; sources?: Source[]; showSources?: boolean; verification?: string; note?: string };
 export type Visual = {
   id: string; title: string; category: '2D' | '3D'; kind: string; date: string | null;
   imageUrl?: string | null; revealUrl?: string | null;

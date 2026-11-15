@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/tsubasa-hanakago",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/e9c6eba2e0c64db7b1af0cfb1dcd0361/liver-full-body_Tsubasa_Hanakago.png",
   "youtubeChannelUrl": "https://www.youtube.com/@HanakagoTsubasa",
   "youtubeChannelId": "UCcswLVd6KGBf5mIdzeO83bA",
   "xUrl": "https://x.com/Hanakago_2434rr",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "大阪から転校してきた ほしの学園3年生の18歳。 「すぷれあ」のお兄ちゃん的存在で みんなに頼られる存在。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/tsubasa-hanakago",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [],
   "changes": [
@@ -198,5 +206,6 @@
       "status": "unavailable",
       "error": "キャッシュ未収録（追加通信なし）"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/tsubasa-hanakago"
 }

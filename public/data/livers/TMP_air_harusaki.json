@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/air-harusaki",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/efe1364d92d74d03b3492bb9f376884d/liver-full-body_Air_Harusaki.png.webp",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg",
   "youtubeChannelId": "UCtAvQ5U0aXyKwm2i4GqFgJg",
   "xUrl": "https://twitter.com/harusakiair2434",
@@ -66,8 +66,16 @@
     "showSources": true
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "26歳で異国の王子。穏やかな性格で人と接するのが得意。 好きな話になるとつい長話になってしまう。 大人っぽいが自他ともに認める甘党である。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/air-harusaki",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [
     {
@@ -84,6 +92,25 @@
                 "url": "https://www.nijisanji.jp/talents/l/air-harusaki",
                 "kind": "official",
                 "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "春の民",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/air-harusaki"
               }
             ],
             "showSources": true
@@ -270,5 +297,6 @@
       "youtubeChannelLinked": true,
       "xAccountLinked": true
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/air-harusaki"
 }

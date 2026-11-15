@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kagetsu-murakumo",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/4f683b14c606428781d676d9ec730713/liver-full-body_Kagetsu_Murakumo.png",
   "youtubeChannelUrl": "https://www.youtube.com/@MurakumoKagetsu",
   "youtubeChannelId": "UChdY64fJb14Nfnbs8EGdQig",
   "xUrl": "https://twitter.com/Kagetsu_2434",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "人里離れた村の忍者集団のエース。 水上を走り、懐から梯子を出し、壁を抜けると噂される。 クナイや手裏剣に留まらず、あらゆる武器の扱いに長ける。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/kagetsu-murakumo",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [
     {
@@ -66,6 +74,25 @@
                 "url": "https://www.nijisanji.jp/talents/l/kagetsu-murakumo",
                 "kind": "official",
                 "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "叢人",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/kagetsu-murakumo"
               }
             ],
             "showSources": true
@@ -349,5 +376,6 @@
       "status": "unavailable",
       "error": "キャッシュ未収録（追加通信なし）"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/kagetsu-murakumo"
 }

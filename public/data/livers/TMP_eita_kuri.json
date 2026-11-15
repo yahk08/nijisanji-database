@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/eita-kuri",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/231bcb5b65894984966006c2b8120105/liver-full-body_EIta_Kuri.png",
   "youtubeChannelUrl": "https://www.youtube.com/@KuriEita_Y4T4",
   "youtubeChannelId": "UCzcuYIyP-1YcXC96t9J5yWQ",
   "xUrl": "https://x.com/Eita_2434",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "ゲームだけで無く、作曲や料理なども好きなクリエイター気質の青年。 一度ハマると夢中になってしまい、現在は豚の角煮の研究に5年ほど費やしている。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/eita-kuri",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [],
   "changes": [
@@ -198,5 +206,6 @@
       "status": "unavailable",
       "error": "キャッシュ未収録（追加通信なし）"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/eita-kuri"
 }

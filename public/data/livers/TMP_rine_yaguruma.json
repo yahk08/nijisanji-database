@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/rine-yaguruma",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/90d07ee115c648e4a472b34626810dc7/liver-full-body_Rine_Yaguruma.png",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og",
   "youtubeChannelId": "UCvzVB-EYuHFXHZrObB8a_Og",
   "xUrl": "https://twitter.com/rine_yaguruma",
@@ -57,8 +57,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "11歳の少女。 進学校に合格するために日々努力しているが、少し抜けているところもあり、真面目にみえるよう時々メガネをかけている。 家で大事に育てられてきた矢車菊の花がお気に入り。いつかその花言葉が似合うような素敵な女性になりたいと思っているが…",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/rine-yaguruma",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [
     {
@@ -75,6 +83,25 @@
                 "url": "https://www.nijisanji.jp/talents/l/rine-yaguruma",
                 "kind": "official",
                 "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "無し",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/rine-yaguruma"
               }
             ],
             "showSources": true
@@ -246,5 +273,6 @@
       "youtubeChannelLinked": true,
       "xAccountLinked": true
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/rine-yaguruma"
 }

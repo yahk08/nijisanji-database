@@ -1,0 +1,89 @@
+{
+  "id": "TMP_kanae",
+  "status": "active",
+  "name": "叶",
+  "reading": "かなえ",
+  "englishName": "Kanae",
+  "affiliation": "にじさんじ",
+  "group": null,
+  "branch": "JP",
+  "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kanae",
+  "portraitUrl": null,
+  "youtubeChannelUrl": "https://www.youtube.com/@Kanae",
+  "youtubeChannelId": null,
+  "xUrl": "https://x.com/Kanae_2434",
+  "birthday": {
+    "value": "07-07",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール",
+        "url": "https://www.nijisanji.jp/talents/l/kanae",
+        "verifiedAt": "2026-11-14"
+      },
+      {
+        "label": "にじさんじオフィシャルストア",
+        "url": "https://shop.nijisanji.jp/1019",
+        "verifiedAt": "2026-11-14"
+      }
+    ],
+    "showSources": true
+  },
+  "debutDate": {
+    "value": "2018-05-02",
+    "sources": [
+      {
+        "label": "にじさんじオフィシャルストア",
+        "url": "https://shop.nijisanji.jp/1019",
+        "verifiedAt": "2026-11-14"
+      }
+    ],
+    "showSources": true
+  },
+  "height": {
+    "value": null
+  },
+  "fanMark": {
+    "value": null
+  },
+  "introduction": {
+    "value": "突然天使の如く舞い降りてきた超癒し系男子。そして猫のクッションを両手で抱っこしている。話し方もふわふわしている。学生のように見えるが普段何をしているかは不明。甘いボイスで、聞いているこちらの心が洗い流されるようなトークを繰り広げる。",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール",
+        "url": "https://www.nijisanji.jp/talents/l/kanae",
+        "verifiedAt": "2026-11-14"
+      }
+    ],
+    "showSources": true
+  },
+  "fields": [
+    {
+      "section": "ファン・配信情報",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "叶え隊",
+            "sources": [
+              {
+                "label": "にじさんじ公式プロフィール",
+                "url": "https://www.nijisanji.jp/talents/l/kanae",
+                "verifiedAt": "2026-11-14"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    }
+  ],
+  "changes": [],
+  "visuals": [],
+  "music": [],
+  "events": [],
+  "youtube": {
+    "fetchedAt": null,
+    "stateCheckedAt": null,
+    "videos": []
+  }
+}

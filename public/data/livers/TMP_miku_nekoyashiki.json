@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/miku-nekoyashiki",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/a62f45f160b24d4782231e455929be54/liver-full-body_Miku_Nekoyashiki.png",
   "youtubeChannelUrl": "https://www.youtube.com/@NekoyashikiMiku",
   "youtubeChannelId": "UCaAu0DXNSPXCZPg6iHVwRVw",
   "xUrl": "https://x.com/Nekoyashiki_39",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "人間のことが大好きな猫又。 新しい事に興味津々！自分の趣味には無我夢中！ 最近のMyトレンドは猫を被る事。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/miku-nekoyashiki",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [],
   "changes": [
@@ -198,5 +206,6 @@
       "status": "unavailable",
       "error": "キャッシュ未収録（追加通信なし）"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/miku-nekoyashiki"
 }

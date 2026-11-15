@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kohaku-todo",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/b2fff37985fc46dca20e533cebcf59d0/liver-full-body_Kohaku_Todo.png.webp",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A",
   "youtubeChannelId": "UCebT4Aq-3XWb5je1S1FvR_A",
   "xUrl": "https://twitter.com/kohaku_todo",
@@ -57,8 +57,16 @@
     "showSources": true
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "学院高等部に通う3年生。 いわゆるお嬢様だが、そう感じさせない振る舞いが彼女の魅力。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/kohaku-todo",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [
     {
@@ -75,6 +83,25 @@
                 "url": "https://www.nijisanji.jp/talents/l/kohaku-todo",
                 "kind": "official",
                 "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "コハク党",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/kohaku-todo"
               }
             ],
             "showSources": true
@@ -279,5 +306,6 @@
       "youtubeChannelLinked": true,
       "xAccountLinked": true
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/kohaku-todo"
 }

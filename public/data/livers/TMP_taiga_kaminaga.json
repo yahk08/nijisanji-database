@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/taiga-kaminaga",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/6910b292e5c34c7489ab578027881887/liver-full-body_Taiga_Kaminaga.png",
   "youtubeChannelUrl": "https://www.youtube.com/@KaminagaTaiga",
   "youtubeChannelId": "UCxTIuegV_Vqx11ctdeezPRQ",
   "xUrl": "https://x.com/Taiga_kaminaga",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "世界各国で演奏会を開く有名なヴァイオリニストの一人息子。 なんでも与えられてきた人生イージーモード。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/taiga-kaminaga",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [],
   "changes": [
@@ -198,5 +206,6 @@
       "status": "unavailable",
       "error": "キャッシュ未収録（追加通信なし）"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/taiga-kaminaga"
 }

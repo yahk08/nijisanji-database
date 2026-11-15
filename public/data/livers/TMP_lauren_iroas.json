@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/lauren-iroas",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/7c57cbf1c8dd4ad6a80e11a6deb8ad41/liver-full-body_Lauren_Iroas.png",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow",
   "youtubeChannelId": "UCgmFrRcyH7d1zR9sIVQhFow",
   "xUrl": "https://twitter.com/Lauren_iroas",
@@ -66,8 +66,16 @@
     "showSources": true
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "都市警備部隊に所属する青年。往々にして陰謀渦巻く街は、彼をあまり寝かせてくれない。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/lauren-iroas",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [
     {
@@ -84,6 +92,25 @@
                 "url": "https://www.nijisanji.jp/talents/l/lauren-iroas",
                 "kind": "official",
                 "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "WANTED",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/lauren-iroas"
               }
             ],
             "showSources": true
@@ -367,5 +394,6 @@
       "youtubeChannelLinked": true,
       "xAccountLinked": true
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/lauren-iroas"
 }

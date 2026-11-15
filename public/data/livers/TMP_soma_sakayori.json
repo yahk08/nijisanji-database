@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/soma-sakayori",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/897165f7cb234403b3af389482b30c88/liver-full-body_Soma_Sakayori.png",
   "youtubeChannelUrl": "https://www.youtube.com/@SakayoriSoma",
   "youtubeChannelId": "UCkQ8i_cz0prqdo9jj__L93Q",
   "xUrl": "https://x.com/sakayori_soma",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "田舎出身のソムリエ見習い。 面倒ごとが苦手で、毎日休みになってほしいが、Specialeのみんなと頑張る日々。 今日もちょっとだるいけど……",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/soma-sakayori",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [],
   "changes": [
@@ -198,5 +206,6 @@
       "status": "unavailable",
       "error": "キャッシュ未収録（追加通信なし）"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/soma-sakayori"
 }

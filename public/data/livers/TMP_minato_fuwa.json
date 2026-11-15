@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/minato-fuwa",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/b59a2e2167734779b18b3dffcbb51c3c/liver-full-body_Minato_Fuwa.png.webp",
   "youtubeChannelUrl": null,
   "youtubeChannelId": null,
   "xUrl": null,
@@ -68,6 +68,25 @@
           }
         }
       ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "不破狂",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/minato-fuwa"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
     }
   ],
   "changes": [],
@@ -78,5 +97,6 @@
     "fetchedAt": null,
     "stateCheckedAt": null,
     "videos": []
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/minato-fuwa"
 }

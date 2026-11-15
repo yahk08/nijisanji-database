@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ha-yun",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/5e05bac1c3f545c0b34304edd9abd455/liver-full-body_Ha_Yun.png",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCrhhJPNsOqzNIkUfTABoSpg",
   "youtubeChannelId": "UCrhhJPNsOqzNIkUfTABoSpg",
   "xUrl": "https://twitter.com/HaYun2434",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "ゲームが大好きなゲーマーだが、あまりにもゲームに夢中になりすぎて学校に通わず、毎年留年を繰り返していた。そのため、年齢は成人しているものの、身分はまだ高校生である。いつも一人でゲームをしていたため、さまざまな人と出会ってみたいと思い、配信活動を始めた。時には自分のゲームの腕前に絶対の自信を見せることもあるが、意外と思いどおりにいかないことも少なくない。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/ha-yun",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [
     {
@@ -82,6 +90,25 @@
                 "url": "https://www.nijisanji.jp/talents/l/ha-yun",
                 "kind": "official",
                 "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "ムニャ",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/ha-yun"
               }
             ],
             "showSources": true
@@ -236,5 +263,6 @@
       "status": "unavailable",
       "error": "キャッシュ未収録（追加通信なし）"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/ha-yun"
 }

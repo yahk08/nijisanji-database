@@ -1,0 +1,321 @@
+{
+  "id": "TMP_leos_vincent",
+  "status": "active",
+  "name": "レオス・ヴィンセント",
+  "reading": "れおす ゔぃんせんと",
+  "englishName": "Leos Vincent",
+  "affiliation": "にじさんじ",
+  "group": null,
+  "branch": "JP",
+  "officialProfileUrl": "https://www.nijisanji.jp/talents/l/leos-vincent",
+  "portraitUrl": null,
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow",
+  "youtubeChannelId": "UC-6rZgmxZSIbq786j3RD5ow",
+  "xUrl": "https://twitter.com/Leos_Vincent",
+  "birthday": {
+    "value": "03-08",
+    "verification": "official",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール",
+        "url": "https://www.nijisanji.jp/talents/l/leos-vincent",
+        "kind": "official",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
+      }
+    ],
+    "showSources": true
+  },
+  "debutDate": {
+    "value": "2021-07-22",
+    "verification": "official",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール",
+        "url": "https://www.nijisanji.jp/talents/l/leos-vincent",
+        "kind": "official",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
+      }
+    ],
+    "showSources": true,
+    "note": "公式サイトのデビュー日。初配信日とは異なる場合があります。"
+  },
+  "height": {
+    "value": null,
+    "verification": "unknown"
+  },
+  "fanMark": {
+    "value": null,
+    "verification": "unknown"
+  },
+  "introduction": {
+    "value": null,
+    "verification": "unknown"
+  },
+  "fields": [
+    {
+      "section": "公式プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "被験者/まめねこファンクラブ",
+            "verification": "official",
+            "sources": [
+              {
+                "label": "にじさんじ公式プロフィール",
+                "url": "https://www.nijisanji.jp/talents/l/leos-vincent",
+                "kind": "official",
+                "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    }
+  ],
+  "changes": [
+    {
+      "id": "dffc554ab6bb08467197",
+      "field": "reading",
+      "oldValue": null,
+      "newValue": "れおす ゔぃんせんと",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/leos-vincent",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "c51408440e4d555069b3",
+      "field": "englishName",
+      "oldValue": null,
+      "newValue": "Leos Vincent",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/leos-vincent",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "08f520d7b1c22c4895c8",
+      "field": "youtubeChannelId",
+      "oldValue": null,
+      "newValue": "UC-6rZgmxZSIbq786j3RD5ow",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/leos-vincent",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "bfbcb2270f03c5594b7f",
+      "field": "youtubeChannelUrl",
+      "oldValue": null,
+      "newValue": "https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/leos-vincent",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "effac5f57e6bbee11a65",
+      "field": "xUrl",
+      "oldValue": null,
+      "newValue": "https://twitter.com/Leos_Vincent",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/leos-vincent",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "0e31c43cf2ea04d9c38d",
+      "field": "debutDate",
+      "oldValue": null,
+      "newValue": "2021-07-22",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/leos-vincent",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "0655aea6c66e17abd67e",
+      "field": "birthday",
+      "oldValue": null,
+      "newValue": "03-08",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/leos-vincent",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    }
+  ],
+  "visuals": [
+    {
+      "id": "official-candidate-2d-0",
+      "title": "公式掲載衣装候補 1",
+      "category": "2D",
+      "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
+      "date": null,
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/7b50359b223a4759979295d28e1b244c/liver-full-body_Leos_Vincent_costume2.png",
+      "revealUrl": null,
+      "variants": [
+        {
+          "id": "official-candidate-2d-0-full",
+          "name": "全身",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/7b50359b223a4759979295d28e1b244c/liver-full-body_Leos_Vincent_costume2.png"
+        },
+        {
+          "id": "official-candidate-2d-0-face",
+          "name": "顔アップ",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/16104717a3804a44b0fbf869639caedf/liver-face_Leos_Vincent_costume2.png"
+        }
+      ],
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/leos-vincent",
+          "verifiedAt": "2026-11-14T15:15:11.965Z"
+        }
+      ],
+      "verification": "candidate",
+      "sourcePath": "images.variation.0"
+    },
+    {
+      "id": "official-candidate-2d-1",
+      "title": "公式掲載衣装候補 2",
+      "category": "2D",
+      "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
+      "date": null,
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/e8fba8b38c7c498ca75a0c79070ce8b0/liver-full-body_Leos_Vincent_costume3.png",
+      "revealUrl": null,
+      "variants": [
+        {
+          "id": "official-candidate-2d-1-full",
+          "name": "全身",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/e8fba8b38c7c498ca75a0c79070ce8b0/liver-full-body_Leos_Vincent_costume3.png"
+        },
+        {
+          "id": "official-candidate-2d-1-face",
+          "name": "顔アップ",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/cfb4cd1fc32d44db8310c35cfbfd7c6c/liver-face_Leos_Vincent_costume3.png"
+        }
+      ],
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/leos-vincent",
+          "verifiedAt": "2026-11-14T15:15:11.965Z"
+        }
+      ],
+      "verification": "candidate",
+      "sourcePath": "images.variation.1"
+    },
+    {
+      "id": "official-candidate-2d-2",
+      "title": "公式掲載衣装候補 3",
+      "category": "2D",
+      "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
+      "date": null,
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/89d3d47572014727925ae7fbacf06267/liver-full-body_Leos_Vincent_costume4.png",
+      "revealUrl": null,
+      "variants": [
+        {
+          "id": "official-candidate-2d-2-full",
+          "name": "全身",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/89d3d47572014727925ae7fbacf06267/liver-full-body_Leos_Vincent_costume4.png"
+        },
+        {
+          "id": "official-candidate-2d-2-face",
+          "name": "顔アップ",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/57b9880c58b44361b3f42c4dbada7790/liver-face_Leos_Vincent_costume4.png"
+        }
+      ],
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/leos-vincent",
+          "verifiedAt": "2026-11-14T15:15:11.965Z"
+        }
+      ],
+      "verification": "candidate",
+      "sourcePath": "images.variation.2"
+    }
+  ],
+  "music": [],
+  "events": [],
+  "youtube": {
+    "fetchedAt": null,
+    "stateCheckedAt": null,
+    "videos": []
+  },
+  "provenance": {
+    "officialId": "4ieg-un_fi",
+    "checkedAt": "2026-11-14T13:07:36.734Z",
+    "membership": {
+      "verification": "official",
+      "sources": [
+        {
+          "label": "にじさんじ公式タレント一覧",
+          "url": "https://www.nijisanji.jp/talents?filter=nijisanji",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ]
+    },
+    "links": {
+      "verification": "official-linked",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/leos-vincent",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ],
+      "note": "公式プロフィール掲載先との照合。YouTube APIおよびX APIによるアカウント照会は未実行。"
+    },
+    "wiki": {
+      "url": "https://wikiwiki.jp/nijisanji/%E3%83%AC%E3%82%AA%E3%82%B9%E3%83%BB%E3%83%B4%E3%82%A3%E3%83%B3%E3%82%BB%E3%83%B3%E3%83%88",
+      "status": "unavailable",
+      "error": "キャッシュ未収録（追加通信なし）"
+    }
+  }
+}

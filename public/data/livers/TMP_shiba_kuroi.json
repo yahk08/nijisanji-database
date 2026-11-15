@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/shiba-kuroi",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/3fbc6812c536425598740306ee8fd001/liver-full-body_Shiba_Kuroi.png.webp",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg",
   "youtubeChannelId": "UCmeyo5pRj_6PXG-CsGUuWWg",
   "xUrl": "https://twitter.com/blackshiba_chan",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "世にも珍しい喋れる犬。 公園に建てたマイハウス（犬小屋）でいろんな動物さんたちと暮らしている。 やたら人間くさい仕草をするのは、しばの中に飼い主の魂がいたからだった。 今は霊体である飼い主と一緒に生活している。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/shiba-kuroi",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [
     {
@@ -66,6 +74,25 @@
                 "url": "https://www.nijisanji.jp/talents/l/shiba-kuroi",
                 "kind": "official",
                 "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "世話係",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/shiba-kuroi"
               }
             ],
             "showSources": true
@@ -220,5 +247,6 @@
       "status": "unavailable",
       "error": "キャッシュ未収録（追加通信なし）"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/shiba-kuroi"
 }

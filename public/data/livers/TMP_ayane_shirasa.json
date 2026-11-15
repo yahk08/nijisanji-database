@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ayane-shirasa",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/a722cc16753b409e82d02161995c1dd4/liver-full-body_Ayane_Shirasa.png",
   "youtubeChannelUrl": "https://www.youtube.com/@ShirasaAyane",
   "youtubeChannelId": "UCam_xf14FPFsRshFTj4wkHw",
   "xUrl": "https://x.com/shirasa_ayane",
@@ -66,8 +66,16 @@
     "showSources": true
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "いつも真面目で、授業も部活も完璧にこなす優等生。 しかし実は、いつもノートの端には物語のワンシーンやキャラクターのスケッチが描かれている。 いつか自分の声や描いた物語で、たくさんの人を楽しませたいと思っている。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/ayane-shirasa",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [],
   "changes": [
@@ -248,5 +256,6 @@
       "youtubeChannelLinked": false,
       "xAccountLinked": true
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/ayane-shirasa"
 }

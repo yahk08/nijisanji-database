@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/isumi-shirose",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/0fa5cc449cb147f591adfd69686f0c22/liver-full-body_Isumi_Shirose.png",
   "youtubeChannelUrl": "https://www.youtube.com/@ShiroseIsumi",
   "youtubeChannelId": "UCHVSA2OScyef9W7OwPGgJ9w",
   "xUrl": "https://x.com/Shiro_Isumyan",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "ほしの学園1年生の15歳。 「すぷれあ」の最年少で、 かわいいものや甘いものが大好き。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/isumi-shirose",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [],
   "changes": [
@@ -198,5 +206,6 @@
       "status": "unavailable",
       "error": "キャッシュ未収録（追加通信なし）"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/isumi-shirose"
 }

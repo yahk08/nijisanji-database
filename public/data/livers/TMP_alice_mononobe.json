@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/alice-mononobe",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/2ccb380ae3874f3b82c6c3ca09297bee/liver-full-body_Alice_Mononobe.png.webp",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA",
   "youtubeChannelId": "UCt0clH12Xk1-Ej5PXKGfdPA",
   "xUrl": "https://twitter.com/alicemononobe",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "16歳の高校1年生。転校を繰り返すが、別に帰国子女と言うわけでもない。 母がイギリス人、父が日本人のハーフだが、日本生まれ日本育ちの生粋の日本人。 目立ちたがり屋でこの容姿を生かして、わざと外国人っぽく振舞っている。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/alice-mononobe",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [
     {
@@ -66,6 +74,25 @@
                 "url": "https://www.nijisanji.jp/talents/l/alice-mononobe",
                 "kind": "official",
                 "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "うさぎさん🐰",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/alice-mononobe"
               }
             ],
             "showSources": true
@@ -317,5 +344,6 @@
       "status": "unavailable",
       "error": "キャッシュ未収録（追加通信なし）"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/alice-mononobe"
 }

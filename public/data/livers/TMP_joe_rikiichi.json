@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/joe-rikiichi",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/17db343033114d50aa360d0efac4ae22/liver-full-body_Joe_Rikiichi.png",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ",
   "youtubeChannelId": "UChUJbHiTVeGrSkTdBzVfNCQ",
   "xUrl": "https://twitter.com/joerikiichi",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "正体不明のピエロ。 ティーンエイジの終わりに突如天啓を受けて以来、フリーランスの道化師として活動中。 トリッキーな容姿や言動とは裏腹に寂しがり屋で、常に人とのふれあいを求めている。 が、ピエロゆえに孤独である。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/joe-rikiichi",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [
     {
@@ -66,6 +74,25 @@
                 "url": "https://www.nijisanji.jp/talents/l/joe-rikiichi",
                 "kind": "official",
                 "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "ジョー児",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/joe-rikiichi"
               }
             ],
             "showSources": true
@@ -220,5 +247,6 @@
       "status": "unavailable",
       "error": "キャッシュ未収録（追加通信なし）"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/joe-rikiichi"
 }

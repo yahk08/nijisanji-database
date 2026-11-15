@@ -1,0 +1,257 @@
+{
+  "id": "TMP_sho_hoshirube",
+  "status": "active",
+  "name": "星導ショウ",
+  "reading": "ほしるべしょう",
+  "englishName": "Hoshirube Sho",
+  "affiliation": "にじさんじ",
+  "group": null,
+  "branch": "JP",
+  "officialProfileUrl": "https://www.nijisanji.jp/talents/l/sho-hoshirube",
+  "portraitUrl": null,
+  "youtubeChannelUrl": "https://www.youtube.com/@HoshirubeSho",
+  "youtubeChannelId": "UCgZ0pH7j6c9z-pkOG3PYw1Q",
+  "xUrl": "https://twitter.com/Show_SylveSTAR",
+  "birthday": {
+    "value": "09-10",
+    "verification": "official",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール",
+        "url": "https://www.nijisanji.jp/talents/l/sho-hoshirube",
+        "kind": "official",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
+      }
+    ],
+    "showSources": true
+  },
+  "debutDate": {
+    "value": "2023-04-26",
+    "verification": "official",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール",
+        "url": "https://www.nijisanji.jp/talents/l/sho-hoshirube",
+        "kind": "official",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
+      }
+    ],
+    "showSources": true,
+    "note": "公式サイトのデビュー日。初配信日とは異なる場合があります。"
+  },
+  "height": {
+    "value": null,
+    "verification": "unknown"
+  },
+  "fanMark": {
+    "value": null,
+    "verification": "unknown"
+  },
+  "introduction": {
+    "value": null,
+    "verification": "unknown"
+  },
+  "fields": [
+    {
+      "section": "公式プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "インショウ派",
+            "verification": "official",
+            "sources": [
+              {
+                "label": "にじさんじ公式プロフィール",
+                "url": "https://www.nijisanji.jp/talents/l/sho-hoshirube",
+                "kind": "official",
+                "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    }
+  ],
+  "changes": [
+    {
+      "id": "ad451ce3d0a8b87f6224",
+      "field": "reading",
+      "oldValue": null,
+      "newValue": "ほしるべしょう",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/sho-hoshirube",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "f3fdb66a98372aca7312",
+      "field": "englishName",
+      "oldValue": null,
+      "newValue": "Hoshirube Sho",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/sho-hoshirube",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "f1f91e51e2d12f4d561c",
+      "field": "youtubeChannelId",
+      "oldValue": null,
+      "newValue": "UCgZ0pH7j6c9z-pkOG3PYw1Q",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/sho-hoshirube",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "bb4eb531b9ebc6a22856",
+      "field": "youtubeChannelUrl",
+      "oldValue": null,
+      "newValue": "https://www.youtube.com/@HoshirubeSho",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/sho-hoshirube",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "6270c98010605f0088be",
+      "field": "xUrl",
+      "oldValue": null,
+      "newValue": "https://twitter.com/Show_SylveSTAR",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/sho-hoshirube",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "7bcc7ad8066712b0917a",
+      "field": "debutDate",
+      "oldValue": null,
+      "newValue": "2023-04-26",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/sho-hoshirube",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "5ca8a526c143d533530d",
+      "field": "birthday",
+      "oldValue": null,
+      "newValue": "09-10",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/sho-hoshirube",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    }
+  ],
+  "visuals": [
+    {
+      "id": "official-candidate-2d-0",
+      "title": "公式掲載衣装候補 1",
+      "category": "2D",
+      "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
+      "date": null,
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/3a6d2b3abccc4737bbef38eb7da2066c/liver-full-body_Sho_Hoshirube_costume2.png",
+      "revealUrl": null,
+      "variants": [
+        {
+          "id": "official-candidate-2d-0-full",
+          "name": "全身",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/3a6d2b3abccc4737bbef38eb7da2066c/liver-full-body_Sho_Hoshirube_costume2.png"
+        },
+        {
+          "id": "official-candidate-2d-0-face",
+          "name": "顔アップ",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/c315e49bcadd4f1abef2f980f82a8327/liver-face_Sho_Hoshirube_costume2.png"
+        }
+      ],
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/sho-hoshirube",
+          "verifiedAt": "2026-11-14T15:15:11.965Z"
+        }
+      ],
+      "verification": "candidate",
+      "sourcePath": "images.variation.0"
+    }
+  ],
+  "music": [],
+  "events": [],
+  "youtube": {
+    "fetchedAt": null,
+    "stateCheckedAt": null,
+    "videos": []
+  },
+  "provenance": {
+    "officialId": "lieef5j5q",
+    "checkedAt": "2026-11-14T13:07:36.734Z",
+    "membership": {
+      "verification": "official",
+      "sources": [
+        {
+          "label": "にじさんじ公式タレント一覧",
+          "url": "https://www.nijisanji.jp/talents?filter=nijisanji",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ]
+    },
+    "links": {
+      "verification": "official-linked",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/sho-hoshirube",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ],
+      "note": "公式プロフィール掲載先との照合。YouTube APIおよびX APIによるアカウント照会は未実行。"
+    },
+    "wiki": {
+      "url": "https://wikiwiki.jp/nijisanji/%E6%98%9F%E5%B0%8E%E3%82%B7%E3%83%A7%E3%82%A6",
+      "status": "unavailable",
+      "error": "キャッシュ未収録（追加通信なし）"
+    }
+  }
+}

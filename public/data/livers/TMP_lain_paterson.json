@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/lain-paterson",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/cbd46c80a0014e5ab4d049cb13041899/liver-full-body_Lain_Paterson.png.webp",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCRm6lqtdxs_Qo6HeL-SRQ-w",
   "youtubeChannelId": "UCRm6lqtdxs_Qo6HeL-SRQ-w",
   "xUrl": "https://twitter.com/Lain_Paterson",
@@ -57,8 +57,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "腕利きのボディーガード。かつて命を救われたことから、サメを溺愛している。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/lain-paterson",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [
     {
@@ -75,6 +83,25 @@
                 "url": "https://www.nijisanji.jp/talents/l/lain-paterson",
                 "kind": "official",
                 "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "依頼者",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/lain-paterson"
               }
             ],
             "showSources": true
@@ -375,5 +402,6 @@
       "youtubeChannelLinked": true,
       "xAccountLinked": true
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/lain-paterson"
 }

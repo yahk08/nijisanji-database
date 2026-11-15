@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/belmond-banderas",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/1dc93c01d77f4193a33b4bf658dff95c/liver-full-body_Belmond_Banderas.png.webp",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A",
   "youtubeChannelId": "UCbc8fwhdUNlqi-J99ISYu4A",
   "xUrl": "https://twitter.com/belmond_b_2434",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "フランクな性格だが時折意地悪になる。 本人曰く、生き物が夢を見るようになった頃から既に存在していたと言う。 現在は夢を見る者なら誰でも来られる店のマスターをしており、気まぐれで様々な種族の客を招いている。 戸籍がない為、現実の世界で身分証明が出来ないのが悩み。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/belmond-banderas",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [
     {
@@ -66,6 +74,25 @@
                 "url": "https://www.nijisanji.jp/talents/l/belmond-banderas",
                 "kind": "official",
                 "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "睡民",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/belmond-banderas"
               }
             ],
             "showSources": true
@@ -220,5 +247,6 @@
       "status": "unavailable",
       "error": "キャッシュ未収録（追加通信なし）"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/belmond-banderas"
 }

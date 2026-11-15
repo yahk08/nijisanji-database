@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/shino-yagyu",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/b621edaeaa824532a27c20ae06498003/liver-full-body_Shino_Yagyu.png",
   "youtubeChannelUrl": "https://www.youtube.com/@YagyuShino",
   "youtubeChannelId": "UCBjcx01rZwPDuUPzWLTsZVA",
   "xUrl": "https://x.com/YagyuShino",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "牛鬼の家系に生まれた食欲旺盛な女の子。 マイペースで、家のお使いの内容を忘れてしまうこともしばしば。 いつか′′きゃりあうーまん′′になりたいと思っている。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/shino-yagyu",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [],
   "changes": [
@@ -198,5 +206,6 @@
       "status": "unavailable",
       "error": "キャッシュ未収録（追加通信なし）"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/shino-yagyu"
 }

@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/marin-hayama",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/29177bbfa1df4db592e157db5be55c1f/liver-full-body_Marin_Hayama.png",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ",
   "youtubeChannelId": "UCfipDDn7wY-C-SoUChgxCQQ",
   "xUrl": "https://twitter.com/Hayama_Marin",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "自然が大好きな心やさしい女の子。 大好きな町をもっと有名にするべく、配信を始めた。 ちょっぴり人見知りで、恥ずかしがり屋さんだが、独創的すぎる言動でいつもみんなを混沌へ導いている。 苦手なものは、ゲームの水中ステージ全般。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/marin-hayama",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [
     {
@@ -66,6 +74,25 @@
                 "url": "https://www.nijisanji.jp/talents/l/marin-hayama",
                 "kind": "official",
                 "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "超町民",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/marin-hayama"
               }
             ],
             "showSources": true
@@ -319,5 +346,6 @@
       "youtubeChannelLinked": true,
       "xAccountLinked": true
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/marin-hayama"
 }

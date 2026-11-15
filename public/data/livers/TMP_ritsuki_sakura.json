@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ritsuki-sakura",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/7bcf3db4b99c40fcae9c793a99c53968/liver-full-body_Ritsuki_Sakura.png.webp",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ",
   "youtubeChannelId": "UCfQVs_KuXeNAlGa3fb8rlnQ",
   "xUrl": "https://twitter.com/sakura_ritsuki",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "桜第一惑星から自分探しのためにやってきた桜の妖精のプリンセス(樹齢19年)。ちょっぴりおっちょこちょいだけど、元気が取り柄の女の子。 地球のサンプル探しに夢中になりすぎて、すぐ迷子になる。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/ritsuki-sakura",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [
     {
@@ -66,6 +74,25 @@
                 "url": "https://www.nijisanji.jp/talents/l/ritsuki-sakura",
                 "kind": "official",
                 "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "桜ンボ",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/ritsuki-sakura"
               }
             ],
             "showSources": true
@@ -220,5 +247,6 @@
       "status": "unavailable",
       "error": "キャッシュ未収録（追加通信なし）"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/ritsuki-sakura"
 }

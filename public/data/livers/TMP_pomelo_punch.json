@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/pomelo-punch",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/b5c65c0dd6c640128331eb6cbf69417d/liver-full-body_Pomelo_Punch.png",
   "youtubeChannelUrl": "https://www.youtube.com/@PomeloPunch",
   "youtubeChannelId": "UCa1HO5wU6csVDePt9EPYqmA",
   "xUrl": "https://x.com/Punch_Pomelo",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "とある理由で人間界にやってきた、元・魔法少女。 オトモのみみるんによると「The マイペース！でも、人生って自分のペースが大事じゃん☆」とのこと。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/pomelo-punch",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [],
   "changes": [
@@ -198,5 +206,6 @@
       "status": "unavailable",
       "error": "キャッシュ未収録（追加通信なし）"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/pomelo-punch"
 }

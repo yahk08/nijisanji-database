@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kirame-sorahoshi",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/ebe1e4c448004a82959c47cc6b88b850/liver-full-body_Kirame_Sorahoshi.png.webp",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ",
   "youtubeChannelId": "UC_82HBGtvwN1hcGeOGHzUBQ",
   "xUrl": "https://twitter.com/kirame_2434",
@@ -57,8 +57,16 @@
     "showSources": true
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "大舞台での活躍を夢見る高校生。自分の力で夢を叶えようと、この世界に飛び込んだ。 今は関わる人みんなを笑顔にすることが目標。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/kirame-sorahoshi",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [
     {
@@ -75,6 +83,25 @@
                 "url": "https://www.nijisanji.jp/talents/l/kirame-sorahoshi",
                 "kind": "official",
                 "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "きらめいと",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/kirame-sorahoshi"
               }
             ],
             "showSources": true
@@ -279,5 +306,6 @@
       "youtubeChannelLinked": true,
       "xAccountLinked": true
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/kirame-sorahoshi"
 }

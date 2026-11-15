@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/sakyo-itsuki",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/04a75a05e6ac461a89a559c07c43b385/liver-full-body_Sakyo_Itsuki.png",
   "youtubeChannelUrl": "https://www.youtube.com/@ItsukiSakyo",
   "youtubeChannelId": "UCiBBDZ-ndtBgE4xKbswlgXQ",
   "xUrl": "https://x.com/Itsuki_Sakyo",
@@ -66,8 +66,16 @@
     "showSources": true
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "株式会社HAPPY LOVE IT（通称はぴらび）で年間トップの営業成績を誇るスーパーエリートセールスマン。\n寡黙そうな見た目と反して、自社の商品に対する愛情は人一倍。\n皆さんも「うさぶー」と幸せになりませんか？",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/sakyo-itsuki",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [
     {
@@ -84,6 +92,25 @@
                 "url": "https://www.nijisanji.jp/talents/l/sakyo-itsuki",
                 "kind": "official",
                 "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "うさ部員",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/sakyo-itsuki"
               }
             ],
             "showSources": true
@@ -270,5 +297,6 @@
       "youtubeChannelLinked": false,
       "xAccountLinked": true
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/sakyo-itsuki"
 }

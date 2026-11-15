@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ryu-hari",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/baf5fd361a754c49be41d32240a7c263/liver-full-body_Hari_Ryu.png",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UClS6k3w1sPwlVFqK3-yID5A",
   "youtubeChannelId": "UClS6k3w1sPwlVFqK3-yID5A",
   "xUrl": "https://twitter.com/HariRyu2434",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "闇のご主人様、RYUだよー！ 趣味は悪夢収集 ★！猫とゲーム大好き",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/ryu-hari",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [
     {
@@ -82,6 +90,25 @@
                 "url": "https://www.nijisanji.jp/talents/l/ryu-hari",
                 "kind": "official",
                 "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "Rimong",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/ryu-hari"
               }
             ],
             "showSources": true
@@ -236,5 +263,6 @@
       "status": "unavailable",
       "error": "キャッシュ未収録（追加通信なし）"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/ryu-hari"
 }

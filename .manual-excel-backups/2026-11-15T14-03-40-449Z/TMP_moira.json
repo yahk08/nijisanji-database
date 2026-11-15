@@ -1,0 +1,82 @@
+{
+  "id": "TMP_moira",
+  "status": "active",
+  "name": "モイラ",
+  "reading": null,
+  "englishName": null,
+  "affiliation": "にじさんじ",
+  "group": null,
+  "branch": "JP",
+  "officialProfileUrl": "https://www.nijisanji.jp/talents/l/moira",
+  "portraitUrl": null,
+  "youtubeChannelUrl": null,
+  "youtubeChannelId": null,
+  "xUrl": null,
+  "birthday": {
+    "value": "02-10",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール",
+        "url": "https://www.nijisanji.jp/talents/l/moira",
+        "verifiedAt": "2026-11-14"
+      }
+    ],
+    "showSources": true
+  },
+  "debutDate": {
+    "value": null,
+    "sources": [],
+    "showSources": false
+  },
+  "height": {
+    "value": null,
+    "sources": [],
+    "showSources": false
+  },
+  "fanMark": {
+    "value": null,
+    "sources": [],
+    "showSources": false
+  },
+  "introduction": {
+    "value": "運命を司ると語る女神。",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール",
+        "url": "https://www.nijisanji.jp/talents/l/moira",
+        "verifiedAt": "2026-11-14"
+      }
+    ],
+    "showSources": true
+  },
+  "fields": [
+    {
+      "section": "ファン・配信情報",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "こいぬ",
+            "sources": [
+              {
+                "label": "にじさんじ公式プロフィール",
+                "url": "https://www.nijisanji.jp/talents/l/moira",
+                "verifiedAt": "2026-11-14"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    }
+  ],
+  "changes": [],
+  "visuals": [],
+  "music": [],
+  "events": [],
+  "youtube": {
+    "fetchedAt": null,
+    "stateCheckedAt": null,
+    "videos": []
+  }
+}

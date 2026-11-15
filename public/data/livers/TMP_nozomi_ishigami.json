@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/nozomi-ishigami",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/6491735c29be4acfaa3cabf77a043f3e/liver-full-body_Nozomi_Ishigami.png",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg",
   "youtubeChannelId": "UCtLfA_qUqCJtjXJM2ZR_keg",
   "xUrl": "https://twitter.com/I_Nozomi_",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "悪魔と⼈間のハーフ​\nという設定でSNS上で活動している。​\n本当はただの⼈間だが、魔力が宿っていると信じている。​\n左腕の包帯は悪魔の⼒を封じている。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/nozomi-ishigami",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [
     {
@@ -66,6 +74,25 @@
                 "url": "https://www.nijisanji.jp/talents/l/nozomi-ishigami",
                 "kind": "official",
                 "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "神者",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/nozomi-ishigami"
               }
             ],
             "showSources": true
@@ -253,5 +280,6 @@
       "status": "unavailable",
       "error": "キャッシュ未収録（追加通信なし）"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/nozomi-ishigami"
 }

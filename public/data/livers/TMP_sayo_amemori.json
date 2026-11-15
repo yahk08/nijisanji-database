@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/sayo-amemori",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/d168128463b3424b87e75106aaf16c0e/liver-full-body_Sayo_Amemori.png.webp",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A",
   "youtubeChannelId": "UCRWOdwLRsenx2jLaiCAIU4A",
   "xUrl": "https://twitter.com/sayo_amemori",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "図書委員を務める高校生。\n物静かそうな見た目とは裏腹に、意外とお喋り好き。\n放送部に参加しており、その際は顔が見えないことをいいことに普段とは全く違うテンションで話すことも多い。\n緊張するとセーラー服のスカーフを触る癖がある。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/sayo-amemori",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [
     {
@@ -66,6 +74,25 @@
                 "url": "https://www.nijisanji.jp/talents/l/sayo-amemori",
                 "kind": "official",
                 "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "無し",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/sayo-amemori"
               }
             ],
             "showSources": true
@@ -220,5 +247,6 @@
       "status": "unavailable",
       "error": "キャッシュ未収録（追加通信なし）"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/sayo-amemori"
 }

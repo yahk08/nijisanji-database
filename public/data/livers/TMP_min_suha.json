@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/min-suha",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/1240da962bed4dc39c83fbd5986c9cc1/liver-full-body_Suha_Min.png.webp",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A",
   "youtubeChannelId": "UCUtKkGKef8BYMs3h-3zQm9A",
   "xUrl": "https://twitter.com/SuhaMin2434",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "韓国から来た、穏やかで優しい青年。 いつからか、水属性と呼ばれている。 楽しいことなら何でも挑戦する。 いつか夢を叶えるために、日々頑張っている。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/min-suha",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [
     {
@@ -82,6 +90,25 @@
                 "url": "https://www.nijisanji.jp/talents/l/min-suha",
                 "kind": "official",
                 "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "Suhaqua",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/min-suha"
               }
             ],
             "showSources": true
@@ -269,5 +296,6 @@
       "status": "unavailable",
       "error": "キャッシュ未収録（追加通信なし）"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/min-suha"
 }

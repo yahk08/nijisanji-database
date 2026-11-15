@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/dola",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/220b6d7c8b2349f1a7d6264f2a701df5/liver-full-body_Dola.png",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ",
   "youtubeChannelId": "UC53UDnhAAYwvNO7j_2Ju1cQ",
   "xUrl": "https://twitter.com/___dola",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "年齢359歳のファイアードレイクが人間に変身した姿。 自身が守っている財宝の中に紛れ込んでいたスマホを発見し、配信をはじめた。 人間の文化に魅了され、今ではすっかり俗世に染まって威厳はどこへやら… 人間が作るおいしい食べ物や歌、アニメ、ゲームに興味津々！",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/dola",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [
     {
@@ -66,6 +74,25 @@
                 "url": "https://www.nijisanji.jp/talents/l/dola",
                 "kind": "official",
                 "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "竜友（ドラとも）",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/dola"
               }
             ],
             "showSources": true
@@ -220,5 +247,6 @@
       "status": "unavailable",
       "error": "キャッシュ未収録（追加通信なし）"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/dola"
 }

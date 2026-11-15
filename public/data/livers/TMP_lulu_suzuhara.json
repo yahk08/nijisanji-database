@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/lulu-suzuhara",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/f92d0987550341eb87d1950488851729/liver-full-body_Lulu_Suzuhara.png",
   "youtubeChannelUrl": "https://www.youtube.com/@LuluSuzuhara",
   "youtubeChannelId": "UC_a1ZYZ8ZTXpjg9xUY9sj8w",
   "xUrl": "https://x.com/lulu_suzuhara",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "女子大に通う大学２年生。由緒正しい家系の出身で、いわゆる「箱入り娘」。世間知らずなところを直そうと、配信を始めた。流行に乗り遅れまいと、色々なことに挑戦する好奇心旺盛な性格。歌うことが好きで、配信ではたくさんの人に声を届けたいと思っている。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/lulu-suzuhara",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [],
   "changes": [
@@ -198,5 +206,6 @@
       "status": "unavailable",
       "error": "キャッシュ未収録（追加通信なし）"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/lulu-suzuhara"
 }

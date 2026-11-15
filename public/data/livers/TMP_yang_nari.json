@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/yang-nari",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/5a927078741b4c9b83a581227987f95f/liver-full-body_Yang_Nari.png.webp",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCCHH0nWYXFZmtDS_4tvMxHQ",
   "youtubeChannelId": "UCCHH0nWYXFZmtDS_4tvMxHQ",
   "xUrl": "https://twitter.com/NariYang2434",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "不思議な異世界の少女。 頑張って地球の現代人のフリをしているけれど、みんなはそのことを知らないふりをしてくれているのかもしれない…",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/yang-nari",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [
     {
@@ -82,6 +90,25 @@
                 "url": "https://www.nijisanji.jp/talents/l/yang-nari",
                 "kind": "official",
                 "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "オトナリ",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/yang-nari"
               }
             ],
             "showSources": true
@@ -236,5 +263,6 @@
       "status": "unavailable",
       "error": "キャッシュ未収録（追加通信なし）"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/yang-nari"
 }

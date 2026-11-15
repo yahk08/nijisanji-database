@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ryuichiro-yamada",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/7c7b331d9a1d40e0ae6e0f7926e21ae3/liver-full-body_Ryuichiro_Yamada.png",
   "youtubeChannelUrl": "https://www.youtube.com/@YamadaRyuichiro",
   "youtubeChannelId": "UCzHiiP2r1zyTr8A1-6HtQtw",
   "xUrl": "https://x.com/Ryuichiro_YMD",
@@ -66,8 +66,16 @@
     "showSources": true
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "作曲家特待生として常に優秀な成績を残し、周囲への気配りも忘れないことから貴公子と呼ばれている。 楽曲提供からピアノ演奏までマルチにこなしながら、日々の生活費を稼いでいる。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/ryuichiro-yamada",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [],
   "changes": [
@@ -248,5 +256,6 @@
       "youtubeChannelLinked": false,
       "xAccountLinked": true
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/ryuichiro-yamada"
 }

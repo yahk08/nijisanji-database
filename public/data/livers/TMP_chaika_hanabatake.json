@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/chaika-hanabatake",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/0716d1972c5245c3b2b4d931b1dcf479/liver-full-body_Chaika_Hanabatake.png.webp",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg",
   "youtubeChannelId": "UCsFn_ueskBkMCEyzCEqAOvg",
   "xUrl": "https://twitter.com/zulmihp1nlmot5y",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "元名「チャイカ・ブライン」かなり濃いめのエルフ。 元は異世界のとある国、とある町で酒場を運営していた主人(ママ)。 10年前に現代に飛ばされとある喫茶店のオーナーをしている。勘が鋭く、つおい。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/chaika-hanabatake",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [
     {
@@ -66,6 +74,25 @@
                 "url": "https://www.nijisanji.jp/talents/l/chaika-hanabatake",
                 "kind": "official",
                 "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "時間の無駄",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/chaika-hanabatake"
               }
             ],
             "showSources": true
@@ -317,5 +344,6 @@
       "status": "unavailable",
       "error": "キャッシュ未収録（追加通信なし）"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/chaika-hanabatake"
 }

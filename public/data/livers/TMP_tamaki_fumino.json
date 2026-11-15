@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/tamaki-fumino",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/12cccc417efd458d85f23bce2a747d93/liver-full-body_Tamaki_Fumino.png.webp",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg",
   "youtubeChannelId": "UCBiqkFJljoxAj10SoP2w2Cg",
   "xUrl": "https://twitter.com/nekokan_chu",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "日中は寝てばかりいるが、自分の縄張りを守るため一日数回散歩する。 縄張りにくる者には一度襲いかかる。 縄張りを奪う気がないとわかると、優しくなり道案内をする。 そして猫缶を要求してくる。道端でスマホを拾ったらしい。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/tamaki-fumino",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [
     {
@@ -66,6 +74,25 @@
                 "url": "https://www.nijisanji.jp/talents/l/tamaki-fumino",
                 "kind": "official",
                 "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "乗客",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/tamaki-fumino"
               }
             ],
             "showSources": true
@@ -220,5 +247,6 @@
       "status": "unavailable",
       "error": "キャッシュ未収録（追加通信なし）"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/tamaki-fumino"
 }

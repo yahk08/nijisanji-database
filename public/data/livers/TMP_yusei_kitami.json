@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/yusei-kitami",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/a5588877738d4b4c8fbddced49fb4b54/liver-full-body_Yusei_Kitami.png",
   "youtubeChannelUrl": "https://www.youtube.com/@KitamiYusei",
   "youtubeChannelId": "UCcx3crxPFi006DUhb_YU-tw",
   "xUrl": "https://x.com/Kitami_Coolguy",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "日々悪しきものと戦っている新米呪術師。 いつか呪術の力で世界をクールにすることが夢だが、 今はまだ師匠の使いっ走りである。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/yusei-kitami",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [],
   "changes": [
@@ -198,5 +206,6 @@
       "status": "unavailable",
       "error": "キャッシュ未収録（追加通信なし）"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/yusei-kitami"
 }

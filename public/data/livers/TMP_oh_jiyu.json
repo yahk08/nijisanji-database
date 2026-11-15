@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/oh-jiyu",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/824ed2dbb85d4546bad8bd05d521ea3e/liver-full-body_Jiyu_Oh.png.webp",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UCnzZmBOSrQf2wDBbnsDajVw",
   "youtubeChannelId": "UCnzZmBOSrQf2wDBbnsDajVw",
   "xUrl": "https://twitter.com/JiyuOh2434",
@@ -48,8 +48,16 @@
     "verification": "unknown"
   },
   "introduction": {
-    "value": null,
-    "verification": "unknown"
+    "value": "私立バーチャル大学に通っている3年生。生徒会に所属しており、学校の広報のためにライブ活動を始めた。幼い頃から体が弱く、家で大切に育ったため、普段は礼儀正しいが、ゲームをすると性格が少し変わる。1年間休学し、理由は他の国（日本）に行ってみたいからです。",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/oh-jiyu",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   },
   "fields": [
     {
@@ -82,6 +90,25 @@
                 "url": "https://www.nijisanji.jp/talents/l/oh-jiyu",
                 "kind": "official",
                 "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    },
+    {
+      "section": "追加プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "子猫鳥",
+            "verification": "legacy-unreviewed",
+            "sources": [
+              {
+                "label": "手動入力Excel",
+                "url": "https://www.nijisanji.jp/talents/l/oh-jiyu"
               }
             ],
             "showSources": true
@@ -236,5 +263,6 @@
       "status": "unavailable",
       "error": "キャッシュ未収録（追加通信なし）"
     }
-  }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/oh-jiyu"
 }
