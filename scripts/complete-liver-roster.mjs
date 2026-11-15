@@ -53,8 +53,8 @@ const mkSource=(url)=>({label:'にじさんじ公式プロフィール',url,kind
 export function skeleton(d,group,url,day=dateNow){
   if(!d||typeof d.id!=='string'&&!Number.isInteger(d.id))throw Error('公式プロフィールID不正');
   if(!normalize(d.name))throw Error('公式プロフィール名前なし');
-  const id='niji_'+String(d.id);
-  if(!/^niji_[A-Za-z0-9_-]+$/.test(id))throw Error('公式IDの形式不正');
+  const id='TMP_'+new URL(url).pathname.split('/').pop().replaceAll('-','_');
+  if(!/^TMP_[A-Za-z0-9_-]+$/.test(id))throw Error('公式IDの形式不正');
   const date=(v)=>{if(!v)return null;const d=new Date(v);return Number.isNaN(d.getTime())?null:new Date(d.getTime()+9*3600000).toISOString().slice(0,10)};
   const debut=date(d.profile?.debutAt);
   const src={label:'にじさんじ公式プロフィール',url,kind:'official',verifiedAt:day};

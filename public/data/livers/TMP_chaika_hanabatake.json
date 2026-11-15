@@ -1,0 +1,321 @@
+{
+  "id": "TMP_chaika_hanabatake",
+  "status": "active",
+  "name": "花畑チャイカ",
+  "reading": "はなばたけちゃいか",
+  "englishName": "Hanabatake Chaika",
+  "affiliation": "にじさんじ",
+  "group": null,
+  "branch": "JP",
+  "officialProfileUrl": "https://www.nijisanji.jp/talents/l/chaika-hanabatake",
+  "portraitUrl": null,
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg",
+  "youtubeChannelId": "UCsFn_ueskBkMCEyzCEqAOvg",
+  "xUrl": "https://twitter.com/zulmihp1nlmot5y",
+  "birthday": {
+    "value": "06-27",
+    "verification": "official",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール",
+        "url": "https://www.nijisanji.jp/talents/l/chaika-hanabatake",
+        "kind": "official",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
+      }
+    ],
+    "showSources": true
+  },
+  "debutDate": {
+    "value": "2018-06-03",
+    "verification": "official",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール",
+        "url": "https://www.nijisanji.jp/talents/l/chaika-hanabatake",
+        "kind": "official",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
+      }
+    ],
+    "showSources": true,
+    "note": "公式サイトのデビュー日。初配信日とは異なる場合があります。"
+  },
+  "height": {
+    "value": null,
+    "verification": "unknown"
+  },
+  "fanMark": {
+    "value": null,
+    "verification": "unknown"
+  },
+  "introduction": {
+    "value": null,
+    "verification": "unknown"
+  },
+  "fields": [
+    {
+      "section": "公式プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "時間の無駄",
+            "verification": "official",
+            "sources": [
+              {
+                "label": "にじさんじ公式プロフィール",
+                "url": "https://www.nijisanji.jp/talents/l/chaika-hanabatake",
+                "kind": "official",
+                "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    }
+  ],
+  "changes": [
+    {
+      "id": "753f6bebb491df5e6654",
+      "field": "reading",
+      "oldValue": null,
+      "newValue": "はなばたけちゃいか",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/chaika-hanabatake",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "78ced420bce1643a34f2",
+      "field": "englishName",
+      "oldValue": null,
+      "newValue": "Hanabatake Chaika",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/chaika-hanabatake",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "600daf7a0c49470d40d0",
+      "field": "youtubeChannelId",
+      "oldValue": null,
+      "newValue": "UCsFn_ueskBkMCEyzCEqAOvg",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/chaika-hanabatake",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "bafac331a4eb480e5608",
+      "field": "youtubeChannelUrl",
+      "oldValue": null,
+      "newValue": "https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/chaika-hanabatake",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "0a7b07dc83b007327530",
+      "field": "xUrl",
+      "oldValue": null,
+      "newValue": "https://twitter.com/zulmihp1nlmot5y",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/chaika-hanabatake",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "6805d54451d3f3d3f99a",
+      "field": "debutDate",
+      "oldValue": null,
+      "newValue": "2018-06-03",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/chaika-hanabatake",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "f01b05fa0c2bb85c9593",
+      "field": "birthday",
+      "oldValue": null,
+      "newValue": "06-27",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/chaika-hanabatake",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    }
+  ],
+  "visuals": [
+    {
+      "id": "official-candidate-2d-0",
+      "title": "公式掲載衣装候補 1",
+      "category": "2D",
+      "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
+      "date": null,
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/cf2a74414b384d70958ea1544ad4b573/liver-full-body_Chaika_Hanabatake_costume2.png",
+      "revealUrl": null,
+      "variants": [
+        {
+          "id": "official-candidate-2d-0-full",
+          "name": "全身",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/cf2a74414b384d70958ea1544ad4b573/liver-full-body_Chaika_Hanabatake_costume2.png"
+        },
+        {
+          "id": "official-candidate-2d-0-face",
+          "name": "顔アップ",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/61f25fa9af7e45c8b40262f3e646c086/liver-face_Chaika_Hanabatake_costume2.png"
+        }
+      ],
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/chaika-hanabatake",
+          "verifiedAt": "2026-11-14T15:15:11.965Z"
+        }
+      ],
+      "verification": "candidate",
+      "sourcePath": "images.variation.0"
+    },
+    {
+      "id": "official-candidate-2d-1",
+      "title": "公式掲載衣装候補 2",
+      "category": "2D",
+      "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
+      "date": null,
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/d3f101dd29084c29a80bfc008d28a4ca/liver-full-body_Chaika_Hanabatake_costume3.png",
+      "revealUrl": null,
+      "variants": [
+        {
+          "id": "official-candidate-2d-1-full",
+          "name": "全身",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/d3f101dd29084c29a80bfc008d28a4ca/liver-full-body_Chaika_Hanabatake_costume3.png"
+        },
+        {
+          "id": "official-candidate-2d-1-face",
+          "name": "顔アップ",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/680effc8396843cf868a6a6fe319b586/liver-face_Chaika_Hanabatake_costume3.png"
+        }
+      ],
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/chaika-hanabatake",
+          "verifiedAt": "2026-11-14T15:15:11.965Z"
+        }
+      ],
+      "verification": "candidate",
+      "sourcePath": "images.variation.1"
+    },
+    {
+      "id": "official-candidate-2d-2",
+      "title": "公式掲載衣装候補 3",
+      "category": "2D",
+      "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
+      "date": null,
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/f5115793f60b4aed8c780f2d676506ba/liver-full-body_Chaika_Hanabatake_costume4.png",
+      "revealUrl": null,
+      "variants": [
+        {
+          "id": "official-candidate-2d-2-full",
+          "name": "全身",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/f5115793f60b4aed8c780f2d676506ba/liver-full-body_Chaika_Hanabatake_costume4.png"
+        },
+        {
+          "id": "official-candidate-2d-2-face",
+          "name": "顔アップ",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/8b443eb5e42f463397c2cb6fae9d7da2/liver-face_Chaika_Hanabatake_costume4.png"
+        }
+      ],
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/chaika-hanabatake",
+          "verifiedAt": "2026-11-14T15:15:11.965Z"
+        }
+      ],
+      "verification": "candidate",
+      "sourcePath": "images.variation.2"
+    }
+  ],
+  "music": [],
+  "events": [],
+  "youtube": {
+    "fetchedAt": null,
+    "stateCheckedAt": null,
+    "videos": []
+  },
+  "provenance": {
+    "officialId": "ck4t-23mex_o",
+    "checkedAt": "2026-11-14T13:07:36.734Z",
+    "membership": {
+      "verification": "official",
+      "sources": [
+        {
+          "label": "にじさんじ公式タレント一覧",
+          "url": "https://www.nijisanji.jp/talents?filter=nijisanji",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ]
+    },
+    "links": {
+      "verification": "official-linked",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/chaika-hanabatake",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ],
+      "note": "公式プロフィール掲載先との照合。YouTube APIおよびX APIによるアカウント照会は未実行。"
+    },
+    "wiki": {
+      "url": "https://wikiwiki.jp/nijisanji/%E8%8A%B1%E7%95%91%E3%83%81%E3%83%A3%E3%82%A4%E3%82%AB",
+      "status": "unavailable",
+      "error": "キャッシュ未収録（追加通信なし）"
+    }
+  }
+}

@@ -36,7 +36,7 @@ for(const [i,r] of roster.entries()){
     if(d.slug!==r.slug||d.hidden||d.unit)throw Error('個人プロフィール照合不一致');
     const matches=existing.filter(x=>x.officialProfileUrl===url||x.name===d.name);
     if(matches.length>1)throw Error('既存ID複数一致');
-    const l=matches[0]||{id:'niji_'+d.id,status:'active',name:d.name,reading:null,englishName:null,affiliation:'にじさんじ',group:null,branch:'JP',officialProfileUrl:url,portraitUrl:null,youtubeChannelUrl:null,youtubeChannelId:null,xUrl:null,birthday:empty(),debutDate:empty(),height:empty(),fanMark:empty(),introduction:empty(),fields:[],changes:[],visuals:[],music:[],events:[],youtube:{fetchedAt:null,stateCheckedAt:null,videos:[]}};
+    const l=matches[0]||{id:'TMP_'+r.slug.replaceAll('-','_'),status:'active',name:d.name,reading:null,englishName:null,affiliation:'にじさんじ',group:null,branch:'JP',officialProfileUrl:url,portraitUrl:null,youtubeChannelUrl:null,youtubeChannelId:null,xUrl:null,birthday:empty(),debutDate:empty(),height:empty(),fanMark:empty(),introduction:empty(),fields:[],changes:[],visuals:[],music:[],events:[],youtube:{fetchedAt:null,stateCheckedAt:null,videos:[]}};
     const change=(key,newValue)=>{
       const oldValue=l[key];
       const before=oldValue&&typeof oldValue==='object'&&'value'in oldValue?oldValue.value:oldValue;

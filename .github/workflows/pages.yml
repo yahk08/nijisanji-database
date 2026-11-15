@@ -41,6 +41,8 @@ jobs:
       - name: Restore last API data
         run: |
           node --input-type=module -e "import fs from 'node:fs'; if(fs.existsSync('.youtube-state/state.json')) { const s=JSON.parse(fs.readFileSync('.youtube-state/state.json','utf8')); if(s.data) fs.writeFileSync('public/data/youtube.json',JSON.stringify(s.data,null,2)); }"
+      - name: Translate old YouTube ID cache
+        run: node scripts/normalize-youtube-ids.mjs
       - run: npm run build:index
       - run: npm run validate:data
       - run: npm run validate:roster

@@ -96,6 +96,14 @@ export default function App() {
     return()=>{live=false};
   },[]);
   const livers=useMemo(()=>dataset?.livers.filter(l=>l.status==='active').map(l=>({...l,youtube:youtubeData[l.id]||l.youtube}))||[],[dataset,youtubeData]);
+  // One-time upgrade of on-device identifiers when TMP IDs replace old niji IDs.
+  useEffect(()=>{
+    const aliases=dataset?.idAliases;
+    if(!aliases||!Object.keys(aliases).length)return;
+    setFavoriteIds(prev=>{const next=[...new Set(prev.map(id=>aliases[id]||id))];return JSON.stringify(next)===JSON.stringify(prev)?prev:next;});
+    setVisualCategories(prev=>{let changed=false;const next:typeof prev={};for(const [key,value] of Object.entries(prev)){const sep=key.indexOf(':');const id=sep<0?key:key.slice(0,sep);const rest=sep<0?'':key.slice(sep);const newKey=(aliases[id]||id)+rest;if(newKey!==key)changed=true;next[newKey]=value;}return changed?next:prev;});
+    if(route.id&&aliases[route.id])location.replace(routeFor('profile',aliases[route.id]));
+  },[dataset,route.id]);
   const liver=livers.find(l=>l.id===route.id);
   const branches=Array.from(new Set(livers.map(l=>l.branch))).sort();
   const years=Array.from(new Set(livers.map(l=>l.debutDate.value?.slice(0,4)).filter((v):v is string=>!!v))).sort();

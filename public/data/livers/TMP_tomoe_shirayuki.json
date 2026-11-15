@@ -1,0 +1,403 @@
+{
+  "id": "TMP_tomoe_shirayuki",
+  "status": "active",
+  "name": "白雪巴",
+  "reading": "しらゆきともえ",
+  "englishName": "Shirayuki Tomoe",
+  "affiliation": "にじさんじ",
+  "group": null,
+  "branch": "JP",
+  "officialProfileUrl": "https://www.nijisanji.jp/talents/l/tomoe-shirayuki",
+  "portraitUrl": null,
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw",
+  "youtubeChannelId": "UCuvk5PilcvDECU7dDZhQiEw",
+  "xUrl": "https://twitter.com/Tomoe_Shirayuki",
+  "birthday": {
+    "value": "02-08",
+    "verification": "official",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール",
+        "url": "https://www.nijisanji.jp/talents/l/tomoe-shirayuki",
+        "kind": "official",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
+      }
+    ],
+    "showSources": true
+  },
+  "debutDate": {
+    "value": "2019-11-28",
+    "verification": "official",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール",
+        "url": "https://www.nijisanji.jp/talents/l/tomoe-shirayuki",
+        "kind": "official",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
+      }
+    ],
+    "showSources": true,
+    "note": "公式サイトのデビュー日。初配信日とは異なる場合があります。"
+  },
+  "height": {
+    "value": "174cm",
+    "verification": "wiki-only",
+    "sources": [
+      {
+        "label": "にじさんじ非公式Wiki（一次資料未確認）",
+        "url": "https://wikiwiki.jp/nijisanji/%E7%99%BD%E9%9B%AA%E5%B7%B4",
+        "kind": "wiki",
+        "verifiedAt": "2026-11-14T13:01:15.586Z"
+      }
+    ],
+    "showSources": true
+  },
+  "fanMark": {
+    "value": "👠⛓",
+    "verification": "wiki-only",
+    "sources": [
+      {
+        "label": "にじさんじ非公式Wiki（一次資料未確認）",
+        "url": "https://wikiwiki.jp/nijisanji/%E7%99%BD%E9%9B%AA%E5%B7%B4",
+        "kind": "wiki",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
+      }
+    ],
+    "showSources": true
+  },
+  "introduction": {
+    "value": null,
+    "verification": "unknown"
+  },
+  "fields": [
+    {
+      "section": "公式プロフィール",
+      "items": [
+        {
+          "label": "ファンネーム",
+          "data": {
+            "value": "小人・駄犬",
+            "verification": "official",
+            "sources": [
+              {
+                "label": "にじさんじ公式プロフィール",
+                "url": "https://www.nijisanji.jp/talents/l/tomoe-shirayuki",
+                "kind": "official",
+                "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    }
+  ],
+  "changes": [
+    {
+      "id": "d3a16851fe92b625e482",
+      "field": "reading",
+      "oldValue": null,
+      "newValue": "しらゆきともえ",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/tomoe-shirayuki",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "48de62066b4dbe5be844",
+      "field": "englishName",
+      "oldValue": null,
+      "newValue": "Shirayuki Tomoe",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/tomoe-shirayuki",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "e7f4858c85551169c9ec",
+      "field": "youtubeChannelId",
+      "oldValue": null,
+      "newValue": "UCuvk5PilcvDECU7dDZhQiEw",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/tomoe-shirayuki",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "04132f9f69f82dd5cf29",
+      "field": "youtubeChannelUrl",
+      "oldValue": null,
+      "newValue": "https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/tomoe-shirayuki",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "193a40631dffa01b6925",
+      "field": "xUrl",
+      "oldValue": null,
+      "newValue": "https://twitter.com/Tomoe_Shirayuki",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/tomoe-shirayuki",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "6d8c2db1138459928768",
+      "field": "debutDate",
+      "oldValue": null,
+      "newValue": "2019-11-28",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/tomoe-shirayuki",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "a36cc6f91602c1ea11a4",
+      "field": "birthday",
+      "oldValue": null,
+      "newValue": "02-08",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/tomoe-shirayuki",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "33c66390e49b33fb580f",
+      "field": "height",
+      "oldValue": null,
+      "newValue": "174cm",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ非公式Wiki（一次資料未確認）",
+          "url": "https://wikiwiki.jp/nijisanji/%E7%99%BD%E9%9B%AA%E5%B7%B4",
+          "kind": "wiki",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "85f8fdf704b593d7dd8f",
+      "field": "fanMark",
+      "oldValue": null,
+      "newValue": "👠⛓",
+      "changedAt": "2026-11-14T13:07:36.734Z",
+      "sources": [
+        {
+          "label": "にじさんじ非公式Wiki（一次資料未確認）",
+          "url": "https://wikiwiki.jp/nijisanji/%E7%99%BD%E9%9B%AA%E5%B7%B4",
+          "kind": "wiki",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ]
+    }
+  ],
+  "visuals": [
+    {
+      "id": "official-candidate-3d-0",
+      "title": "公式掲載衣装候補 1",
+      "category": "3D",
+      "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
+      "date": null,
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/6ad17148aaee4e8c83d766c5760dcad9/liver-full-body_Tomoe_Shirayuki_costume5.png",
+      "revealUrl": null,
+      "variants": [
+        {
+          "id": "official-candidate-3d-0-full",
+          "name": "全身",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/6ad17148aaee4e8c83d766c5760dcad9/liver-full-body_Tomoe_Shirayuki_costume5.png"
+        },
+        {
+          "id": "official-candidate-3d-0-face",
+          "name": "顔アップ",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/b72dc3cd14b147c487e9eb16b90dbcc9/liver-face_Tomoe_Shirayuki_costume5.png"
+        }
+      ],
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/tomoe-shirayuki",
+          "verifiedAt": "2026-11-14T15:15:11.965Z"
+        }
+      ],
+      "verification": "candidate",
+      "sourcePath": "images.threeDVariation.0"
+    },
+    {
+      "id": "official-candidate-2d-0",
+      "title": "公式掲載衣装候補 1",
+      "category": "2D",
+      "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
+      "date": null,
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/984c9b0c513b45babebac08659094057/liver-full-body_Tomoe_Shirayuki_costume2.png",
+      "revealUrl": null,
+      "variants": [
+        {
+          "id": "official-candidate-2d-0-full",
+          "name": "全身",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/984c9b0c513b45babebac08659094057/liver-full-body_Tomoe_Shirayuki_costume2.png"
+        },
+        {
+          "id": "official-candidate-2d-0-face",
+          "name": "顔アップ",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/96a9a7623ae048918cbd9b96dfbe0ab9/liver-face_Tomoe_Shirayuki_costume2.png"
+        }
+      ],
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/tomoe-shirayuki",
+          "verifiedAt": "2026-11-14T15:15:11.965Z"
+        }
+      ],
+      "verification": "candidate",
+      "sourcePath": "images.variation.0"
+    },
+    {
+      "id": "official-candidate-2d-1",
+      "title": "公式掲載衣装候補 2",
+      "category": "2D",
+      "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
+      "date": null,
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/f7be9eca1b6746828bf6eafd55b380fa/liver-full-body_Tomoe_Shirayuki_costume3.png",
+      "revealUrl": null,
+      "variants": [
+        {
+          "id": "official-candidate-2d-1-full",
+          "name": "全身",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/f7be9eca1b6746828bf6eafd55b380fa/liver-full-body_Tomoe_Shirayuki_costume3.png"
+        },
+        {
+          "id": "official-candidate-2d-1-face",
+          "name": "顔アップ",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/6d10c4accfc84e54ab9f6fd8a180cfab/liver-face_Tomoe_Shirayuki_costume3.png"
+        }
+      ],
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/tomoe-shirayuki",
+          "verifiedAt": "2026-11-14T15:15:11.965Z"
+        }
+      ],
+      "verification": "candidate",
+      "sourcePath": "images.variation.1"
+    },
+    {
+      "id": "official-candidate-2d-2",
+      "title": "公式掲載衣装候補 3",
+      "category": "2D",
+      "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
+      "date": null,
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/c28ae3059b70402f90cf84e71282ae4f/liver-full-body_Tomoe_Shirayuki_costume4.png",
+      "revealUrl": null,
+      "variants": [
+        {
+          "id": "official-candidate-2d-2-full",
+          "name": "全身",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/c28ae3059b70402f90cf84e71282ae4f/liver-full-body_Tomoe_Shirayuki_costume4.png"
+        },
+        {
+          "id": "official-candidate-2d-2-face",
+          "name": "顔アップ",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/b90beb0358ba4102981a6a891a14c4e8/liver-face_Tomoe_Shirayuki_costume4.png"
+        }
+      ],
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/tomoe-shirayuki",
+          "verifiedAt": "2026-11-14T15:15:11.965Z"
+        }
+      ],
+      "verification": "candidate",
+      "sourcePath": "images.variation.2"
+    }
+  ],
+  "music": [],
+  "events": [],
+  "youtube": {
+    "fetchedAt": null,
+    "stateCheckedAt": null,
+    "videos": []
+  },
+  "provenance": {
+    "officialId": "ba0vptr1cb",
+    "checkedAt": "2026-11-14T13:07:36.734Z",
+    "membership": {
+      "verification": "official",
+      "sources": [
+        {
+          "label": "にじさんじ公式タレント一覧",
+          "url": "https://www.nijisanji.jp/talents?filter=nijisanji",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ]
+    },
+    "links": {
+      "verification": "official-linked",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/tomoe-shirayuki",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ],
+      "note": "公式プロフィール掲載先との照合。YouTube APIおよびX APIによるアカウント照会は未実行。"
+    },
+    "wiki": {
+      "url": "https://wikiwiki.jp/nijisanji/%E7%99%BD%E9%9B%AA%E5%B7%B4",
+      "status": "read",
+      "checkedAt": "2026-11-14T13:07:36.734Z",
+      "youtubeChannelLinked": true,
+      "xAccountLinked": true
+    }
+  }
+}

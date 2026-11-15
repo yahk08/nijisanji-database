@@ -77,7 +77,9 @@ if (fs.existsSync(rosterPath)) {
   fs.writeFileSync(rosterPath, JSON.stringify(roster, null, 2) + '\n');
 }
 
-const index = { generatedAt: new Date().toISOString(), demo: false, livers };
+const aliasesFile='public/data/liver-id-aliases.json';
+const idAliases=fs.existsSync(aliasesFile)?JSON.parse(fs.readFileSync(aliasesFile,'utf8')).aliases:{};
+const index = { generatedAt: new Date().toISOString(), demo: false, idAliases, livers };
 fs.mkdirSync('public/data/generated', { recursive: true });
 fs.writeFileSync('public/data/generated/index.json', JSON.stringify(index, null, 2) + '\n');
 console.log(`一覧を生成: ${livers.length}件 / demo=false / 公式代表画像補完: ${appliedPortraits}件 / 候補一覧を同期: ${synchronized}件`);

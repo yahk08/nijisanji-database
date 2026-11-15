@@ -28,4 +28,4 @@ export type Liver = {
   youtube: { fetchedAt: string | null; stateCheckedAt: string | null; videos: Video[] };
   provenance?: { checkedAt: string; links: { verification: string; note: string }; wiki: { url: string; status: string; youtubeChannelLinked?: boolean; xAccountLinked?: boolean } };
 };
-export type LiverIndex = { generatedAt: string | null; demo: boolean; livers: Liver[] };
+export type LiverIndex = { generatedAt: string | null; demo: boolean; idAliases?: Record<string,string>; livers: Liver[] };

@@ -1,0 +1,369 @@
+{
+  "id": "TMP_hana_macchia",
+  "status": "active",
+  "name": "ハナ マキア",
+  "reading": "はな まきあ",
+  "englishName": "Hana Macchia",
+  "affiliation": "にじさんじ",
+  "group": null,
+  "branch": "JP",
+  "officialProfileUrl": "https://www.nijisanji.jp/talents/l/hana-macchia",
+  "portraitUrl": null,
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UCpJtk0myFr5WnyfsmnInP-w",
+  "youtubeChannelId": "UCpJtk0myFr5WnyfsmnInP-w",
+  "xUrl": "https://twitter.com/Hana_Macchia",
+  "birthday": {
+    "value": "03-11",
+    "verification": "official",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール",
+        "url": "https://www.nijisanji.jp/talents/l/hana-macchia",
+        "kind": "official",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
+      }
+    ],
+    "showSources": true
+  },
+  "debutDate": {
+    "value": "2019-09-13",
+    "verification": "official",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール",
+        "url": "https://www.nijisanji.jp/talents/l/hana-macchia",
+        "kind": "official",
+        "verifiedAt": "2026-11-14T13:07:36.734Z"
+      }
+    ],
+    "showSources": true,
+    "note": "公式サイトのデビュー日。初配信日とは異なる場合があります。"
+  },
+  "height": {
+    "value": null,
+    "verification": "unknown"
+  },
+  "fanMark": {
+    "value": null,
+    "verification": "unknown"
+  },
+  "introduction": {
+    "value": null,
+    "verification": "unknown"
+  },
+  "fields": [
+    {
+      "section": "公式プロフィール",
+      "items": [
+        {
+          "label": "Ulang Tahun",
+          "data": {
+            "value": "11 March",
+            "verification": "official",
+            "sources": [
+              {
+                "label": "にじさんじ公式プロフィール",
+                "url": "https://www.nijisanji.jp/talents/l/hana-macchia",
+                "kind": "official",
+                "verifiedAt": "2026-11-14T13:01:15.586Z"
+              }
+            ],
+            "showSources": true
+          }
+        },
+        {
+          "label": "Nama Fans",
+          "data": {
+            "value": "Nijisenja",
+            "verification": "official",
+            "sources": [
+              {
+                "label": "にじさんじ公式プロフィール",
+                "url": "https://www.nijisanji.jp/talents/l/hana-macchia",
+                "kind": "official",
+                "verifiedAt": "2026-11-14T13:07:36.734Z"
+              }
+            ],
+            "showSources": true
+          }
+        }
+      ]
+    }
+  ],
+  "changes": [
+    {
+      "id": "81782a69daa2dcca906a",
+      "field": "reading",
+      "oldValue": null,
+      "newValue": "はな まきあ",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/hana-macchia",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "81f3578112ac5936fb2e",
+      "field": "englishName",
+      "oldValue": null,
+      "newValue": "Hana Macchia",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/hana-macchia",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "d23d08587d87eec3e5d2",
+      "field": "youtubeChannelId",
+      "oldValue": null,
+      "newValue": "UCpJtk0myFr5WnyfsmnInP-w",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/hana-macchia",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "f1a55a665dff52a7d465",
+      "field": "youtubeChannelUrl",
+      "oldValue": null,
+      "newValue": "https://www.youtube.com/channel/UCpJtk0myFr5WnyfsmnInP-w",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/hana-macchia",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "1392a9bd3e8acd998210",
+      "field": "xUrl",
+      "oldValue": null,
+      "newValue": "https://twitter.com/Hana_Macchia",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/hana-macchia",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "e41550b2780674a4cec8",
+      "field": "debutDate",
+      "oldValue": null,
+      "newValue": "2019-09-13",
+      "changedAt": "2026-11-14T13:01:15.586Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/hana-macchia",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:01:15.586Z"
+        }
+      ]
+    },
+    {
+      "id": "d86d7dfc89949a4c1609",
+      "field": "birthday",
+      "oldValue": null,
+      "newValue": "03-11",
+      "changedAt": "2026-11-14T13:07:36.734Z",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/hana-macchia",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ]
+    }
+  ],
+  "visuals": [
+    {
+      "id": "official-candidate-3d-0",
+      "title": "公式掲載衣装候補 1",
+      "category": "3D",
+      "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
+      "date": null,
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/a243505628f34a438f9d55b15a2c6cfa/liver-full-body_Hana_Macchia_costume5.png",
+      "revealUrl": null,
+      "variants": [
+        {
+          "id": "official-candidate-3d-0-full",
+          "name": "全身",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/a243505628f34a438f9d55b15a2c6cfa/liver-full-body_Hana_Macchia_costume5.png"
+        },
+        {
+          "id": "official-candidate-3d-0-face",
+          "name": "顔アップ",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/fcffae2b0ff74c32a6ff980a8fcbc368/liver-face_Hana_Macchia_costume5.png"
+        }
+      ],
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/hana-macchia",
+          "verifiedAt": "2026-11-14T15:15:11.965Z"
+        }
+      ],
+      "verification": "candidate",
+      "sourcePath": "images.threeDVariation.0"
+    },
+    {
+      "id": "official-candidate-2d-0",
+      "title": "公式掲載衣装候補 1",
+      "category": "2D",
+      "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
+      "date": null,
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/689d1f4049ee477c9fbef37d769e2522/liver-full-body_Hana_Macchia_costume2.png",
+      "revealUrl": null,
+      "variants": [
+        {
+          "id": "official-candidate-2d-0-full",
+          "name": "全身",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/689d1f4049ee477c9fbef37d769e2522/liver-full-body_Hana_Macchia_costume2.png"
+        },
+        {
+          "id": "official-candidate-2d-0-face",
+          "name": "顔アップ",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/1698284afeb94701ad484287723b92e3/liver-face_Hana_Macchia_costume2.png"
+        }
+      ],
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/hana-macchia",
+          "verifiedAt": "2026-11-14T15:15:11.965Z"
+        }
+      ],
+      "verification": "candidate",
+      "sourcePath": "images.variation.0"
+    },
+    {
+      "id": "official-candidate-2d-1",
+      "title": "公式掲載衣装候補 2",
+      "category": "2D",
+      "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
+      "date": null,
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/b3a69961e4204d7db90cd15c2fbc2896/liver-full-body_Hana_Macchia_costume3.png",
+      "revealUrl": null,
+      "variants": [
+        {
+          "id": "official-candidate-2d-1-full",
+          "name": "全身",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/b3a69961e4204d7db90cd15c2fbc2896/liver-full-body_Hana_Macchia_costume3.png"
+        },
+        {
+          "id": "official-candidate-2d-1-face",
+          "name": "顔アップ",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/042a64786eee4a68a02bce7270104c31/liver-face_Hana_Macchia_costume3.png"
+        }
+      ],
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/hana-macchia",
+          "verifiedAt": "2026-11-14T15:15:11.965Z"
+        }
+      ],
+      "verification": "candidate",
+      "sourcePath": "images.variation.1"
+    },
+    {
+      "id": "official-candidate-2d-2",
+      "title": "公式掲載衣装候補 3",
+      "category": "2D",
+      "kind": "衣装候補（初期衣装・新衣装・公開日未確認）",
+      "date": null,
+      "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/8e2d22ad567148b49f37f7414b1fdcfb/liver-full-body_Hana_Macchia_costume4.png",
+      "revealUrl": null,
+      "variants": [
+        {
+          "id": "official-candidate-2d-2-full",
+          "name": "全身",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/8e2d22ad567148b49f37f7414b1fdcfb/liver-full-body_Hana_Macchia_costume4.png"
+        },
+        {
+          "id": "official-candidate-2d-2-face",
+          "name": "顔アップ",
+          "date": null,
+          "imageUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/7945c4e76ae74c51840de82d69661603/liver-face_Hana_Macchia_costume4.png"
+        }
+      ],
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/hana-macchia",
+          "verifiedAt": "2026-11-14T15:15:11.965Z"
+        }
+      ],
+      "verification": "candidate",
+      "sourcePath": "images.variation.2"
+    }
+  ],
+  "music": [],
+  "events": [],
+  "youtube": {
+    "fetchedAt": null,
+    "stateCheckedAt": null,
+    "videos": []
+  },
+  "provenance": {
+    "officialId": "7r36ly_n2ity",
+    "checkedAt": "2026-11-14T13:07:36.734Z",
+    "membership": {
+      "verification": "official",
+      "sources": [
+        {
+          "label": "にじさんじ公式タレント一覧",
+          "url": "https://www.nijisanji.jp/talents?filter=nijisanji",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ]
+    },
+    "links": {
+      "verification": "official-linked",
+      "sources": [
+        {
+          "label": "にじさんじ公式プロフィール",
+          "url": "https://www.nijisanji.jp/talents/l/hana-macchia",
+          "kind": "official",
+          "verifiedAt": "2026-11-14T13:07:36.734Z"
+        }
+      ],
+      "note": "公式プロフィール掲載先との照合。YouTube APIおよびX APIによるアカウント照会は未実行。"
+    },
+    "wiki": {
+      "url": "https://wikiwiki.jp/nijisanji/%E3%83%8F%E3%83%8A%20%E3%83%9E%E3%82%AD%E3%82%A2",
+      "status": "unavailable",
+      "error": "キャッシュ未収録（追加通信なし）"
+    }
+  }
+}

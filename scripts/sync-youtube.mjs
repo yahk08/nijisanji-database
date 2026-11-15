@@ -5,6 +5,13 @@ const read=(file,fallback)=>{try{return JSON.parse(fs.readFileSync(file,'utf8'))
 const now=new Date().toISOString();
 const state=read(stateFile,{schemaVersion:1,cursor:0,usage:{}});
 const data=state.data||read(file,{schemaVersion:1,updatedAt:null,livers:{}});
+// Preserve API history stored under identifiers from before the TMP migration.
+const aliases=read('public/data/liver-id-aliases.json',{aliases:{}}).aliases||{};
+for(const [oldId,newId] of Object.entries(aliases)){
+  if(!data.livers?.[oldId])continue;
+  if(!data.livers[newId]||data.livers[oldId].videos?.length>data.livers[newId].videos?.length)data.livers[newId]=data.livers[oldId];
+  delete data.livers[oldId];
+}
 const key=process.env.YOUTUBE_API_KEY;
 if(!key){
   for(const entry of Object.values(data.livers))entry.videos=entry.videos.filter(v=>isFresh(v));
