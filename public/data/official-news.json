@@ -1,1 +1,97 @@
-{"schemaVersion":1,"checkedAt":null,"source":"https://www.nijisanji.jp/news","news":[]}
+{
+  "schemaVersion": 1,
+  "checkedAt": "2026-11-15T04:07:54.544Z",
+  "source": "https://www.nijisanji.jp/news",
+  "news": [
+    {
+      "id": "e71862acdd9c0d02",
+      "title": "にじさんじから「にじさんじデコラモード PART3」グッズが登場！2026年11月13日(金)18時から販売開始！",
+      "url": "https://www.anycolor.co.jp/news/cf0kx4qk5g",
+      "publishedAt": "2026-11-12",
+      "category": "news",
+      "firstSeenAt": "2026-11-15T04:07:54.544Z",
+      "lastSeenAt": "2026-11-15T04:07:54.544Z"
+    },
+    {
+      "id": "b8a3e4e57dc77d73",
+      "title": "「にじさんじ バディボイス」「にじさんじ よしよし全肯定ボイス」、「ボイスビジュアルカード」2026年11月13日(金)12時より販売決定！",
+      "url": "https://www.anycolor.co.jp/news/2g5pg4397zm",
+      "publishedAt": "2026-11-10",
+      "category": "news",
+      "firstSeenAt": "2026-11-15T04:07:54.544Z",
+      "lastSeenAt": "2026-11-15T04:07:54.544Z"
+    },
+    {
+      "id": "c633fed5104d5839",
+      "title": "にじさんじから「Dolly Patchwork」グッズが登場！2026年11月10日(火)18時から販売開始！",
+      "url": "https://www.anycolor.co.jp/news/vhb0ztz921pw",
+      "publishedAt": "2026-11-09",
+      "category": "news",
+      "firstSeenAt": "2026-11-15T04:07:54.544Z",
+      "lastSeenAt": "2026-11-15T04:07:54.544Z"
+    },
+    {
+      "id": "f23e73fe351748ea",
+      "title": "お仕事手帖 企画・台本制作（公式番組）編 あえての「余白」でライバーらしさを映し出す",
+      "url": "https://www.anycolor.co.jp/news/822hcp9wjda",
+      "publishedAt": "2026-11-09",
+      "category": "news",
+      "firstSeenAt": "2026-11-15T04:07:54.544Z",
+      "lastSeenAt": "2026-11-15T04:07:54.544Z"
+    },
+    {
+      "id": "d5ac3333413719e1",
+      "title": "にじさんじから「PARALLEL CASE: 2434『CASE 02：ソフィア・ヴァレンタインの記録』」が2026年11月6日(金)20時より「調査可能」に。グッズも販売開始",
+      "url": "https://www.anycolor.co.jp/news/lr7-l12uys",
+      "publishedAt": "2026-11-06",
+      "category": "news",
+      "firstSeenAt": "2026-11-15T04:07:54.544Z",
+      "lastSeenAt": "2026-11-15T04:07:54.544Z"
+    },
+    {
+      "id": "0e9d807e7a0e2274",
+      "title": "【にじさんじ】不破湊 New Single『ECLIPSE』試聴動画(XFD)・楽曲詳細を公開！また全形態のパッケージ写真を公開！",
+      "url": "https://www.anycolor.co.jp/news/a9mfyxjdnz",
+      "publishedAt": "2026-11-06",
+      "category": "news",
+      "firstSeenAt": "2026-11-15T04:07:54.544Z",
+      "lastSeenAt": "2026-11-15T04:07:54.544Z"
+    },
+    {
+      "id": "24485f9184caf677",
+      "title": "当社所属ライバー「叢雲カゲツ」に対する権利侵害行為への対応について",
+      "url": "https://www.anycolor.co.jp/news/jt5cah_8lv",
+      "publishedAt": "2026-11-04",
+      "category": "news",
+      "firstSeenAt": "2026-11-15T04:07:54.544Z",
+      "lastSeenAt": "2026-11-15T04:07:54.544Z"
+    },
+    {
+      "id": "bed977076b4ac505",
+      "title": "ROF-MAOが2026年11月15日に3名体制で再始動決定。「ROF-MAOの背中を押そう！」キャンペーンに合わせて11月8日より特設広告がPickUpランキン 渋谷ちかみちに登場！",
+      "url": "https://www.anycolor.co.jp/news/kwak0dbzh",
+      "publishedAt": "2026-11-02",
+      "category": "news",
+      "firstSeenAt": "2026-11-15T04:07:54.544Z",
+      "lastSeenAt": "2026-11-15T04:07:54.544Z"
+    },
+    {
+      "id": "b0ac7a317addda46",
+      "title": "「攻撃的行為及び誹謗中傷行為対策チーム」活動報告（2026年10月）",
+      "url": "https://www.anycolor.co.jp/news/m6rts-wx8u",
+      "publishedAt": "2026-10-30",
+      "category": "news",
+      "firstSeenAt": "2026-11-15T04:07:54.544Z",
+      "lastSeenAt": "2026-11-15T04:07:54.544Z"
+    },
+    {
+      "id": "8b4dd222c8d0fcaf",
+      "title": "にじさんじから「SANBAKA Palais de Rose」グッズが登場！2026年10月30日(金)18時から販売開始！",
+      "url": "https://www.anycolor.co.jp/news/yzzghhspht",
+      "publishedAt": "2026-10-29",
+      "category": "news",
+      "firstSeenAt": "2026-11-15T04:07:54.544Z",
+      "lastSeenAt": "2026-11-15T04:07:54.544Z"
+    }
+  ]
+}
