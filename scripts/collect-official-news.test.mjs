@@ -1,0 +1,4 @@
+import test from 'node:test';import assert from 'node:assert/strict';import {extract,merge} from './collect-official-news.mjs';
+test('extract NEXT_DATA and date',()=>{const html='<script id="__NEXT_DATA__">'+JSON.stringify({props:{items:[{slug:'test123',title:'にじさんじ公式ニュースのお知らせ',publishedAt:'2026-11-15T01:00:00Z'}]}})+'</script>';assert.deepEqual(extract(html).map(x=>x.publishedAt),['2026-11-15']);});
+test('reject external URL',()=>assert.equal(extract('<a href="https://example.org/news/fake">偽物のニュースです</a>').length,0));
+test('merge retains old and marks event announcement',()=>{const x=merge({news:[{id:'old',url:'https://www.nijisanji.jp/news/old123',title:'前のニュース',firstSeenAt:'2026-11-01'}]},[{url:'https://www.nijisanji.jp/news/new123',title:'ライブ開催決定',publishedAt:'2026-11-15'}],'2026-11-15T03:00:00Z');assert.equal(x.news.length,2);assert.equal(x.news[0].category,'event');assert.equal(x.news[1].id,'old');});
