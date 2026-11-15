@@ -1,8 +1,17 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-15T04:07:54.544Z",
+  "checkedAt": "2026-11-15T20:15:04.271Z",
   "source": "https://www.nijisanji.jp/news",
   "news": [
+    {
+      "id": "afc20dd9339a4e76",
+      "title": "ROF-MAOが2026年11月15日(日)に200kmマラソンの完走をもって活動再開！キービジュアルやロゴを一新し、新曲リリースや新グッズ発売など情報解禁！",
+      "url": "https://www.anycolor.co.jp/news/18nu9inae",
+      "publishedAt": "2026-11-15",
+      "category": "news",
+      "firstSeenAt": "2026-11-15T20:15:04.271Z",
+      "lastSeenAt": "2026-11-15T20:15:04.271Z"
+    },
     {
       "id": "e71862acdd9c0d02",
       "title": "にじさんじから「にじさんじデコラモード PART3」グッズが登場！2026年11月13日(金)18時から販売開始！",
@@ -10,7 +19,7 @@
       "publishedAt": "2026-11-12",
       "category": "news",
       "firstSeenAt": "2026-11-15T04:07:54.544Z",
-      "lastSeenAt": "2026-11-15T04:07:54.544Z"
+      "lastSeenAt": "2026-11-15T20:15:04.271Z"
     },
     {
       "id": "b8a3e4e57dc77d73",
@@ -19,7 +28,7 @@
       "publishedAt": "2026-11-10",
       "category": "news",
       "firstSeenAt": "2026-11-15T04:07:54.544Z",
-      "lastSeenAt": "2026-11-15T04:07:54.544Z"
+      "lastSeenAt": "2026-11-15T20:15:04.271Z"
     },
     {
       "id": "c633fed5104d5839",
@@ -28,7 +37,7 @@
       "publishedAt": "2026-11-09",
       "category": "news",
       "firstSeenAt": "2026-11-15T04:07:54.544Z",
-      "lastSeenAt": "2026-11-15T04:07:54.544Z"
+      "lastSeenAt": "2026-11-15T20:15:04.271Z"
     },
     {
       "id": "f23e73fe351748ea",
@@ -37,7 +46,7 @@
       "publishedAt": "2026-11-09",
       "category": "news",
       "firstSeenAt": "2026-11-15T04:07:54.544Z",
-      "lastSeenAt": "2026-11-15T04:07:54.544Z"
+      "lastSeenAt": "2026-11-15T20:15:04.271Z"
     },
     {
       "id": "d5ac3333413719e1",
@@ -46,7 +55,7 @@
       "publishedAt": "2026-11-06",
       "category": "news",
       "firstSeenAt": "2026-11-15T04:07:54.544Z",
-      "lastSeenAt": "2026-11-15T04:07:54.544Z"
+      "lastSeenAt": "2026-11-15T20:15:04.271Z"
     },
     {
       "id": "0e9d807e7a0e2274",
@@ -55,7 +64,7 @@
       "publishedAt": "2026-11-06",
       "category": "news",
       "firstSeenAt": "2026-11-15T04:07:54.544Z",
-      "lastSeenAt": "2026-11-15T04:07:54.544Z"
+      "lastSeenAt": "2026-11-15T20:15:04.271Z"
     },
     {
       "id": "24485f9184caf677",
@@ -64,7 +73,7 @@
       "publishedAt": "2026-11-04",
       "category": "news",
       "firstSeenAt": "2026-11-15T04:07:54.544Z",
-      "lastSeenAt": "2026-11-15T04:07:54.544Z"
+      "lastSeenAt": "2026-11-15T20:15:04.271Z"
     },
     {
       "id": "bed977076b4ac505",
@@ -73,7 +82,7 @@
       "publishedAt": "2026-11-02",
       "category": "news",
       "firstSeenAt": "2026-11-15T04:07:54.544Z",
-      "lastSeenAt": "2026-11-15T04:07:54.544Z"
+      "lastSeenAt": "2026-11-15T20:15:04.271Z"
     },
     {
       "id": "b0ac7a317addda46",
@@ -82,7 +91,7 @@
       "publishedAt": "2026-10-30",
       "category": "news",
       "firstSeenAt": "2026-11-15T04:07:54.544Z",
-      "lastSeenAt": "2026-11-15T04:07:54.544Z"
+      "lastSeenAt": "2026-11-15T20:15:04.271Z"
     },
     {
       "id": "8b4dd222c8d0fcaf",
