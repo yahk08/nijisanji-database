@@ -1,8 +1,35 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-16T23:41:29.773Z",
+  "checkedAt": "2026-11-17T11:37:55.604Z",
   "source": "https://www.nijisanji.jp/news",
   "news": [
+    {
+      "id": "a57faa54fd80ee92",
+      "title": "にじさんじから「にじたうん もけもけますこっと に」が登場！2026年11月18日(水)19時から販売開始！",
+      "url": "https://www.anycolor.co.jp/news/afi34qhiae-u",
+      "publishedAt": "2026-11-17",
+      "category": "news",
+      "firstSeenAt": "2026-11-17T11:37:55.604Z",
+      "lastSeenAt": "2026-11-17T11:37:55.604Z"
+    },
+    {
+      "id": "94d479ab1c3ebf53",
+      "title": "にじさんじから「にじたうんぐっず に」が登場！2026年11月18日(水)19時から販売開始！",
+      "url": "https://www.anycolor.co.jp/news/952rqm63llg",
+      "publishedAt": "2026-11-17",
+      "category": "news",
+      "firstSeenAt": "2026-11-17T11:37:55.604Z",
+      "lastSeenAt": "2026-11-17T11:37:55.604Z"
+    },
+    {
+      "id": "01f550634d871fa7",
+      "title": "NIJISANJI ENから「WANNYANZ」グッズが登場！2026年11月19日(木)11時(JST)から販売開始！",
+      "url": "https://www.anycolor.co.jp/news/xu7d-14f6t",
+      "publishedAt": "2026-11-17",
+      "category": "news",
+      "firstSeenAt": "2026-11-17T11:37:55.604Z",
+      "lastSeenAt": "2026-11-17T11:37:55.604Z"
+    },
     {
       "id": "7755f053dbda64e6",
       "title": "にじさんじから「にじさんじフロッキーマスコットシリーズ#2」グッズが登場！2026年11月17日(火)18時から販売開始！",
@@ -10,7 +37,7 @@
       "publishedAt": "2026-11-16",
       "category": "news",
       "firstSeenAt": "2026-11-16T10:52:16.735Z",
-      "lastSeenAt": "2026-11-16T23:41:29.773Z"
+      "lastSeenAt": "2026-11-17T11:37:55.604Z"
     },
     {
       "id": "7b7cf2db25d81f85",
@@ -19,7 +46,7 @@
       "publishedAt": "2026-11-16",
       "category": "news",
       "firstSeenAt": "2026-11-16T10:52:16.735Z",
-      "lastSeenAt": "2026-11-16T23:41:29.773Z"
+      "lastSeenAt": "2026-11-17T11:37:55.604Z"
     },
     {
       "id": "afc20dd9339a4e76",
@@ -28,7 +55,7 @@
       "publishedAt": "2026-11-15",
       "category": "news",
       "firstSeenAt": "2026-11-15T20:15:04.271Z",
-      "lastSeenAt": "2026-11-16T23:41:29.773Z"
+      "lastSeenAt": "2026-11-17T11:37:55.604Z"
     },
     {
       "id": "e71862acdd9c0d02",
@@ -37,7 +64,7 @@
       "publishedAt": "2026-11-12",
       "category": "news",
       "firstSeenAt": "2026-11-15T04:07:54.544Z",
-      "lastSeenAt": "2026-11-16T23:41:29.773Z"
+      "lastSeenAt": "2026-11-17T11:37:55.604Z"
     },
     {
       "id": "b8a3e4e57dc77d73",
@@ -46,7 +73,7 @@
       "publishedAt": "2026-11-10",
       "category": "news",
       "firstSeenAt": "2026-11-15T04:07:54.544Z",
-      "lastSeenAt": "2026-11-16T23:41:29.773Z"
+      "lastSeenAt": "2026-11-17T11:37:55.604Z"
     },
     {
       "id": "c633fed5104d5839",
@@ -55,7 +82,7 @@
       "publishedAt": "2026-11-09",
       "category": "news",
       "firstSeenAt": "2026-11-15T04:07:54.544Z",
-      "lastSeenAt": "2026-11-16T23:41:29.773Z"
+      "lastSeenAt": "2026-11-17T11:37:55.604Z"
     },
     {
       "id": "f23e73fe351748ea",
@@ -64,7 +91,7 @@
       "publishedAt": "2026-11-09",
       "category": "news",
       "firstSeenAt": "2026-11-15T04:07:54.544Z",
-      "lastSeenAt": "2026-11-16T23:41:29.773Z"
+      "lastSeenAt": "2026-11-17T11:37:55.604Z"
     },
     {
       "id": "d5ac3333413719e1",
