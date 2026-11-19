@@ -1,8 +1,17 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-18T22:31:38.357Z",
+  "checkedAt": "2026-11-19T11:22:35.116Z",
   "source": "https://www.nijisanji.jp/news",
   "news": [
+    {
+      "id": "d88b3f0951278e07",
+      "title": "「みたらし団 3rd Anniversary」グッズを2026年11月20日(金)18時から販売開始！",
+      "url": "https://www.anycolor.co.jp/news/63di5-z1wsw",
+      "publishedAt": "2026-11-19",
+      "category": "news",
+      "firstSeenAt": "2026-11-19T11:22:35.116Z",
+      "lastSeenAt": "2026-11-19T11:22:35.116Z"
+    },
     {
       "id": "be8666e9ae5f9652",
       "title": "にじさんじから「Unit Selection Calendar 2027」グッズが登場！2026年11月19日(木)17時から販売開始！",
@@ -10,7 +19,7 @@
       "publishedAt": "2026-11-18",
       "category": "news",
       "firstSeenAt": "2026-11-18T11:24:50.060Z",
-      "lastSeenAt": "2026-11-18T22:31:38.357Z"
+      "lastSeenAt": "2026-11-19T11:22:35.116Z"
     },
     {
       "id": "a57faa54fd80ee92",
@@ -19,7 +28,7 @@
       "publishedAt": "2026-11-17",
       "category": "news",
       "firstSeenAt": "2026-11-17T11:37:55.604Z",
-      "lastSeenAt": "2026-11-18T22:31:38.357Z"
+      "lastSeenAt": "2026-11-19T11:22:35.116Z"
     },
     {
       "id": "94d479ab1c3ebf53",
@@ -28,7 +37,7 @@
       "publishedAt": "2026-11-17",
       "category": "news",
       "firstSeenAt": "2026-11-17T11:37:55.604Z",
-      "lastSeenAt": "2026-11-18T22:31:38.357Z"
+      "lastSeenAt": "2026-11-19T11:22:35.116Z"
     },
     {
       "id": "01f550634d871fa7",
@@ -37,7 +46,7 @@
       "publishedAt": "2026-11-17",
       "category": "news",
       "firstSeenAt": "2026-11-17T11:37:55.604Z",
-      "lastSeenAt": "2026-11-18T22:31:38.357Z"
+      "lastSeenAt": "2026-11-19T11:22:35.116Z"
     },
     {
       "id": "7755f053dbda64e6",
@@ -46,7 +55,7 @@
       "publishedAt": "2026-11-16",
       "category": "news",
       "firstSeenAt": "2026-11-16T10:52:16.735Z",
-      "lastSeenAt": "2026-11-18T22:31:38.357Z"
+      "lastSeenAt": "2026-11-19T11:22:35.116Z"
     },
     {
       "id": "7b7cf2db25d81f85",
@@ -55,7 +64,7 @@
       "publishedAt": "2026-11-16",
       "category": "news",
       "firstSeenAt": "2026-11-16T10:52:16.735Z",
-      "lastSeenAt": "2026-11-18T22:31:38.357Z"
+      "lastSeenAt": "2026-11-19T11:22:35.116Z"
     },
     {
       "id": "afc20dd9339a4e76",
@@ -64,7 +73,7 @@
       "publishedAt": "2026-11-15",
       "category": "news",
       "firstSeenAt": "2026-11-15T20:15:04.271Z",
-      "lastSeenAt": "2026-11-18T22:31:38.357Z"
+      "lastSeenAt": "2026-11-19T11:22:35.116Z"
     },
     {
       "id": "e71862acdd9c0d02",
@@ -73,7 +82,7 @@
       "publishedAt": "2026-11-12",
       "category": "news",
       "firstSeenAt": "2026-11-15T04:07:54.544Z",
-      "lastSeenAt": "2026-11-18T22:31:38.357Z"
+      "lastSeenAt": "2026-11-19T11:22:35.116Z"
     },
     {
       "id": "b8a3e4e57dc77d73",
@@ -82,7 +91,7 @@
       "publishedAt": "2026-11-10",
       "category": "news",
       "firstSeenAt": "2026-11-15T04:07:54.544Z",
-      "lastSeenAt": "2026-11-18T22:31:38.357Z"
+      "lastSeenAt": "2026-11-19T11:22:35.116Z"
     },
     {
       "id": "c633fed5104d5839",
