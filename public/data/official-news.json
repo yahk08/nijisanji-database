@@ -1,8 +1,17 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-19T22:37:41.674Z",
+  "checkedAt": "2026-11-20T11:11:42.318Z",
   "source": "https://www.nijisanji.jp/news",
   "news": [
+    {
+      "id": "1efabc1a2a4d93da",
+      "title": "にじさんじ「甘やかし同居ボイス」2026年11月26日(木)18時より発売決定！",
+      "url": "https://www.anycolor.co.jp/news/49p7ov77l",
+      "publishedAt": "2026-11-20",
+      "category": "news",
+      "firstSeenAt": "2026-11-20T11:11:42.318Z",
+      "lastSeenAt": "2026-11-20T11:11:42.318Z"
+    },
     {
       "id": "d88b3f0951278e07",
       "title": "「みたらし団 3rd Anniversary」グッズを2026年11月20日(金)18時から販売開始！",
@@ -10,7 +19,7 @@
       "publishedAt": "2026-11-19",
       "category": "news",
       "firstSeenAt": "2026-11-19T11:22:35.116Z",
-      "lastSeenAt": "2026-11-19T22:37:41.674Z"
+      "lastSeenAt": "2026-11-20T11:11:42.318Z"
     },
     {
       "id": "be8666e9ae5f9652",
@@ -19,7 +28,7 @@
       "publishedAt": "2026-11-18",
       "category": "news",
       "firstSeenAt": "2026-11-18T11:24:50.060Z",
-      "lastSeenAt": "2026-11-19T22:37:41.674Z"
+      "lastSeenAt": "2026-11-20T11:11:42.318Z"
     },
     {
       "id": "a57faa54fd80ee92",
@@ -28,7 +37,7 @@
       "publishedAt": "2026-11-17",
       "category": "news",
       "firstSeenAt": "2026-11-17T11:37:55.604Z",
-      "lastSeenAt": "2026-11-19T22:37:41.674Z"
+      "lastSeenAt": "2026-11-20T11:11:42.318Z"
     },
     {
       "id": "94d479ab1c3ebf53",
@@ -37,7 +46,7 @@
       "publishedAt": "2026-11-17",
       "category": "news",
       "firstSeenAt": "2026-11-17T11:37:55.604Z",
-      "lastSeenAt": "2026-11-19T22:37:41.674Z"
+      "lastSeenAt": "2026-11-20T11:11:42.318Z"
     },
     {
       "id": "01f550634d871fa7",
@@ -46,7 +55,7 @@
       "publishedAt": "2026-11-17",
       "category": "news",
       "firstSeenAt": "2026-11-17T11:37:55.604Z",
-      "lastSeenAt": "2026-11-19T22:37:41.674Z"
+      "lastSeenAt": "2026-11-20T11:11:42.318Z"
     },
     {
       "id": "7755f053dbda64e6",
@@ -55,7 +64,7 @@
       "publishedAt": "2026-11-16",
       "category": "news",
       "firstSeenAt": "2026-11-16T10:52:16.735Z",
-      "lastSeenAt": "2026-11-19T22:37:41.674Z"
+      "lastSeenAt": "2026-11-20T11:11:42.318Z"
     },
     {
       "id": "7b7cf2db25d81f85",
@@ -64,7 +73,7 @@
       "publishedAt": "2026-11-16",
       "category": "news",
       "firstSeenAt": "2026-11-16T10:52:16.735Z",
-      "lastSeenAt": "2026-11-19T22:37:41.674Z"
+      "lastSeenAt": "2026-11-20T11:11:42.318Z"
     },
     {
       "id": "afc20dd9339a4e76",
@@ -73,7 +82,7 @@
       "publishedAt": "2026-11-15",
       "category": "news",
       "firstSeenAt": "2026-11-15T20:15:04.271Z",
-      "lastSeenAt": "2026-11-19T22:37:41.674Z"
+      "lastSeenAt": "2026-11-20T11:11:42.318Z"
     },
     {
       "id": "e71862acdd9c0d02",
@@ -82,7 +91,7 @@
       "publishedAt": "2026-11-12",
       "category": "news",
       "firstSeenAt": "2026-11-15T04:07:54.544Z",
-      "lastSeenAt": "2026-11-19T22:37:41.674Z"
+      "lastSeenAt": "2026-11-20T11:11:42.318Z"
     },
     {
       "id": "b8a3e4e57dc77d73",
