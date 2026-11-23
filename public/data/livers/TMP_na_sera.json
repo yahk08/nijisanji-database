@@ -26,14 +26,12 @@
     "showSources": true
   },
   "debutDate": {
-    "value": "2021-09-01",
-    "verification": "official",
+    "value": "2021-08-25",
+    "verification": "legacy-unreviewed",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/na-sera",
-        "kind": "official",
-        "verifiedAt": "2026-11-14T13:07:36.734Z"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/na-sera"
       }
     ],
     "showSources": true,
@@ -297,5 +295,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/na-sera"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/na-sera",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F40bc06403098465284d410b6ee21d3e2%2Fliver-face_Na_Sera%2520%281%29.png&signature=SKHPs4bK2hYw%2Bjp%2Bv05vHwEv0jLfN0m8Pxzowuzk8fA5fOVslTu5l%2FBU5bdH3quhwUy99E%2Fg3H%2FxbzWkpfMD5U2PJ6afjyzvhrQNSW80r9z4CK95p%2BLbtVvUQr0N4pUq2ExLRvKB%2BJOWbDr1oAYXPgal6tE9QBE2RXFwS9GZ03YtDKHnV%2Bs1SyyrP8xIyFmcN93y0LcoAC0LFVI4LtAOMN0zIAsA9AhUO4DAOOlrZEFvRvRZSk4Mcfe2SCDiHRzA1XRDnzefuLinEr1PsFJ5LAAf1PRpREB2krzCeAWhI6XgSRYNw9CaUfevaoCW6c%2F%2BcHLCg2Y8VBJ8IHscn3g9lQ%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/na-sera",
+  "profileBranch": "KR",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg",
+    "twitch": "https://www.twitch.tv/nasera2434",
+    "x": "https://twitter.com/NaSera2434",
+    "store": "https://shop.nijisanji.jp/3012",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E3%83%8A%E3%83%BB%E3%82%BB%E3%83%A9"
+  }
 }

@@ -248,5 +248,14 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/mahiro-yukishiro"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/mahiro-yukishiro",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fef95a4f652d644889603b8ddd29f2f0b%2Fliver-face_Mahiro_Yukishiro.png&signature=ZVYEHgq5txgk4evibX2Nz5OSUWTSA9lvDjCSy%2FZvy%2B8zBPUagAHFeBHM4Sg1DBAVHIH%2BwEzoQj2Zd4Ie5fWeoD%2Bb8PhM3rlZcnnw1oJEsDz1Lm8PbpUxPMvLw%2FRTMdT3bTZGyvKMmWA7HsLYfdHa%2Fk3QPzIySRkFOqMRs3hAJlar%2Fj39W00dCvIJ%2BcFdYiOSrQHY9oIV96NENMl1R%2BqsMVPBbGOqBjr6aL3AIVjfaH7CzpgYdNppPb47zDSKSQUbvVUcetzyidgHaz2lzNCqXJ9g%2FXbdN3cyrbY9vqpCOjH6Y0nVjtzqPqBs%2BJeUJPMq9v5OaPSI6BxCv7EzoGCITA%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/mahiro-yukishiro",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w",
+    "x": "https://twitter.com/mahiroyukishiro",
+    "store": "https://shop.nijisanji.jp/1077",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E9%9B%AA%E5%9F%8E%E7%9C%9E%E5%B0%8B"
+  }
 }

@@ -248,5 +248,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/ness-sakaki"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/ness-sakaki",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F3c3a4035d9a2410481bd59b3d6a99bb9%2Fliver-face_Ness_Sakaki.png&signature=V5noNW2QzrIiQtCrQEp0cxDIuBobOqHeU0jsJWl3V95OZa1SXRn%2FvPWyQ5cRpOVsG88%2F%2Bo8EQfgEreVrdwBgzEzqEKgk%2BMHU3rce2SoZvgY%2FjwlxreLzfHsh56TjQN3Q1RqCZMDfbGQgH3G66H1Z9IMTtGqvFzAZ%2BIt3%2BT3A2MiXekrv2b4SLyY0moadBStC%2F79ss4Bzfo2crOtAoUHketH8POzcXYkpf8rGsiIYMUvLwVYwkoj%2BryURFnsEzxosAIDXpd5GhGxsuYwJv0%2F95Q%2FBz1i1yda4C7hac9W%2BJRM46TxMImdSu0jp5e%2BJXJvtTy9QTEowLvDVAL%2FaFXGLqg%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/ness-sakaki",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@SakakiNess",
+    "x": "https://x.com/Ness_Sakaki",
+    "store": "https://shop.nijisanji.jp/1157",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=SakakiNess",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E6%A6%8A%E3%83%8D%E3%82%B9"
+  }
 }

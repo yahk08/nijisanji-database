@@ -102,5 +102,15 @@
       "status": "unavailable"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/claude-clawmark"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/claude-clawmark",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F186b030401d64ace9e76ff9583ff2915%2Fliver-face_Claude_Clawmark.png&signature=gWgnkdmZHeeIzpt4nyc0LiXwc2PBjgnr3H7Do0zx2OBn6BR1gGdHF1vHRaAkN2vuIh3MqzopwyAxXAj2iO7WAEdPA9FwLdcPpz9EVHE7nNYNEKBFjessKO6D%2BBXYEfxZt9EWc4sAQo%2FIuJcXEgj4L%2B1n71LARXA5N%2B%2Ft1yhR3CachYJ2HCtVO1vdS5MGz4hd8CdXtKd8BH9dExCQJslTRn%2FMzoEizFTOoLk6RWAJyLrIzrlf%2Bmdb0lLqjM0d0N%2FUz8WOB%2BuLX4i73B9l%2BNTLhvAJbi8ZRTaIhU9GsK9B0LFVrtxnu23lIVHyTF9cJmWwQOoYdiZv28%2BMxMwfwVou2Q%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/claude-clawmark",
+  "profileBranch": "EN",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@ClaudeClawmark",
+    "x": "https://x.com/ClaudeClawmark",
+    "store": "https://shop.nijisanji.jp/4039",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=ClaudeClawmark",
+    "wiki": "https://wikiwiki.jp/nijisanji/Claude%20Clawmark"
+  }
 }

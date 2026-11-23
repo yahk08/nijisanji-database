@@ -257,5 +257,14 @@
       "xAccountLinked": true
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/ryuichiro-yamada"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/ryuichiro-yamada",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fb3db89d2864644cdbcf2174d845932c7%2Fliver-face_Ryuichiro_Yamada.png&signature=mCCiXQ0dyEocmL20cr1zZVv7RophM4ufapnjusXqql6DTUq7ODUG3T2nyoWoe0zrVsy1vunyL%2F7wiu0qSN0FPczSoGgdQ1UIpWabNVb%2BmG9OguqEImINeBAtbFjTWoU3k0yzqWF1NdaqQ9WD%2F0ATXtg7a5Yx%2BQhWSsD3W1qbnn%2Fv63lxSMda1p57lk0P%2FT054a6tWmO47Ny9Fmd41rfFR8lvSUR%2BYfypXVeJo6ov2nQO3zmwlfQeBYVHpxJ4yOXKfqhLHDzD3YrLmZqEqZpz6%2ByQ9hKwqhg227phhkfT8TAok8ekwcYYy%2Flvj5qRXaqUUXs3t35gXh%2BsUJ0MBvn%2B6w%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/ryuichiro-yamada",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@YamadaRyuichiro",
+    "x": "https://x.com/Ryuichiro_YMD",
+    "store": "https://shop.nijisanji.jp/1191",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E5%B1%B1%E7%94%B0%E9%BE%8D%E4%B8%80%E9%83%8E"
+  }
 }

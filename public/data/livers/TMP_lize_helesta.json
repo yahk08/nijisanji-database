@@ -9,9 +9,9 @@
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/lize-helesta",
   "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/3a5c1ac881fd4ae2875089edecfa407c/liver-full-body_Lize_Helesta.png",
-  "youtubeChannelUrl": "https://www.youtube.com/@LizeHelesta",
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w",
   "youtubeChannelId": null,
-  "xUrl": null,
+  "xUrl": "https://twitter.com/Lize_Helesta",
   "birthday": {
     "value": "05-25",
     "sources": [
@@ -24,9 +24,15 @@
     "showSources": true
   },
   "debutDate": {
-    "value": null,
-    "sources": [],
-    "showSources": false
+    "value": "2019-03-22",
+    "sources": [
+      {
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/lize-helesta"
+      }
+    ],
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "height": {
     "value": null,
@@ -39,15 +45,15 @@
     "showSources": false
   },
   "introduction": {
-    "value": "ヘルエスタ王国の第二皇女。",
+    "value": "ヘルエスタ王国の第二皇女。 文武両道学園主席、真面目で誰にでも優しくかなりの人望がある。 王位継承の資格者として日々鍛錬や人とのコミュニケーションを大事にしている。",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/lize-helesta",
-        "verifiedAt": "2026-11-14"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/lize-helesta"
       }
     ],
-    "showSources": true
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "fields": [
     {
@@ -98,5 +104,15 @@
     "stateCheckedAt": null,
     "videos": []
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/lize-helesta"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/lize-helesta",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F47f33a1d55ff4c40aa815eaff1be3aab%2Fliver-face_Lize_Helesta.png&signature=SPf66khmRGkIHHyoD5NCBefjIHGmSGYtzoI%2BUbgkMaDE2giqmwpeBMJpY3nq6ZbO76EgS%2FZK%2BkLUWQXOBgAPNrYtFNYSAsvVocIl%2FsBwdCaWG3Qbt7Y0Oz4sdP7PsS5MkN2ebI4XSLdMQ6xPuo0%2FQmOWEAdtlqhziuazx3pi52ZDnxaJ2EWjnouPWTMoe44vEs0sJv%2BKkBGed49PFDCXkwefWNcVPehcuyck%2BWNmT1zqqcE%2FqFroyg%2FohWVRkv3obxVG8lNuXVJwCQm7LCA6wjEOrDHTknEyRiRPmMkjhJ1GC9cZ1drtMI%2BbBWJwYtzovw8kzyXoXr4cWXyb81JpKA%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/lize-helesta",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w",
+    "x": "https://twitter.com/Lize_Helesta",
+    "store": "https://shop.nijisanji.jp/1074",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=LizeHelesta",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E3%83%AA%E3%82%BC%E3%83%BB%E3%83%98%E3%83%AB%E3%82%A8%E3%82%B9%E3%82%BF"
+  }
 }

@@ -248,5 +248,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/rito-usami"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/rito-usami",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fb7b9c49fc81440efb0b3fbf29faad4ce%2Fliver-face_Rito_Usami.png&signature=RXRjI%2BSq0SsRXVztTiBLPZ7sbUVi0XSPHpYq18TqvTvAy1unDx2cZx4FAHPa6RPM3v%2BM3Faq5HUoX6gERIfmUNCse9NJIlRSQHL%2FY7craKl%2BodVwCAHc%2FDPU0L6degXIwxqD0rk427acdGPZE%2FLmOywcKyCDhnnJt3bA83fWbWlYLRkR91pVF6PEsbKaaGzSz%2B6armofNBMx3Xo2ug61jjf6mPRWBg8Ctn66hnmkvxkh8YYFGm7AgT%2F2xZQIayiWINvtqCKf%2FPgwGXXOaT7lskfu4C4d9zEJKfK3%2F0g9Dsw0C1N4Hjvyl6kmFGlLlu%2BTfrT4Bh3Z7xpONExZVvGXjg%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/rito-usami",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@UsamiRito",
+    "x": "https://twitter.com/usamirito_power",
+    "store": "https://shop.nijisanji.jp/1141",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=UsamiRito",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E5%AE%87%E4%BD%90%E7%BE%8E%E3%83%AA%E3%83%88"
+  }
 }

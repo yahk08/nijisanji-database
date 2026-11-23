@@ -207,5 +207,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/yusei-kitami"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/yusei-kitami",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Ffa69680e8c48481d9d290762430a381d%2Fliver-face_Yusei_Kitami.png&signature=IiRDNJB%2FO1z4mq%2FdzL1Cz9qmMHCxipUfHpi6rqjt3EmJaJVPGnpTNMsXFNWMaphJl7NPtyuouOpWYDJyHVOl5hdLypW310pvTr8vyF1MNK6VbRCkJwaoXc3WBgK8RYhV8chidMF67LkbIb9ZLN3Z8N9wi6VQ98U%2B0wMta32eQgS7JrWS4iCIN9%2BZeGMCh2kv0q%2BRO3YC0RttWiDrPRdn%2B9c%2BYyrpDPSvt37iVVi7x1FqAeG8sGhId%2B5si%2BF1XMelt9BP2byfkJJIfUAxMTTVkY%2FUUd%2Fj7eontraMUZm6Ri9QoNmq%2BhqeKdBoC0LMc1y620T0w2O2x%2FPnEFW0C4Z3PA%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/yusei-kitami",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@KitamiYusei",
+    "x": "https://x.com/Kitami_Coolguy",
+    "store": "https://shop.nijisanji.jp/1153",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=KitamiYusei",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E5%8C%97%E8%A6%8B%E9%81%8A%E5%BE%81"
+  }
 }

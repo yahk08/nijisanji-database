@@ -345,5 +345,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/alice-mononobe"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/alice-mononobe",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F8b1feefa2107498da11f9c6ec559b415%2Fliver-face_Alice_Mononobe.png.webp&signature=DU8asfH7CcwowpuTl5LEFYpERp%2ByTsGZLgNxpY8S%2BIfJGD1DkseXNPDre8oo40Pfn%2BwOmp%2FYjW%2FNg%2BOYvFJHBWQ7kcdJg7%2BdXc3mo37jT34WknfXQeIYLCzWqwY1xkEaPLlHb%2BH06fpgR5CuOQazm6mJ4Fjh9OewQc6Nf1SGhEL547PXWGigw08IzTR1sQybPu%2FaJzffFbsY6i5GLfASWyrNmJPAfa2GcfdAoUPE4m7kq4%2BM%2BDMk9ZCF%2Fq3HAXBKSI%2FueF7frjcKiEP96fs08FJSS9F%2FYcB0OLjby0%2F74rExcycbRbMOI%2FxEiE4bOGnG4RFaUGdMBRVND3xUgZKN3w%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/alice-mononobe",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA",
+    "x": "https://twitter.com/alicemononobe",
+    "fanclub": "https://www.nijisanji.jp/fanclubs/mononobe-alice",
+    "store": "https://shop.nijisanji.jp/1009",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E7%89%A9%E8%BF%B0%E6%9C%89%E6%A0%96"
+  }
 }

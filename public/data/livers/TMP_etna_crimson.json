@@ -264,5 +264,14 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/etna-crimson"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/etna-crimson",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F4e21d893925f4f92a2730c28c71b49dd%2Fliver-face_Etna_Crimson.png.webp&signature=nadYucJdWsUcrvHnidgdUDPLXQ9%2BE5XxQ2y1RJQAA52EUKB7NMQ6IYzLE606LFKQjLVCaAN0MbblvnPVMDDyFE7xowiVllL%2FZr5chyX7A0ssSWyV9hRY9Q6aVZLOhIIVbX0UzF9ZXlZxvr7pbd%2BfX8JET77wjnboNR7GhwuKRRj7mCiUjzauDXrhBBQJVLdDfQxgH0YEE7hUg6HrvEdbpt44u0e7nBCPaO4slIig4DOYUc4LAP3wN660DhiHK9YFEzRZDtr00GdnL1Oqr%2FKIVQrvPn7QWSpIIcB9pzy0Yw6sFZDXDtYjt7mgfBHCm4canUyj43CbPUOUc3y%2BTzculA%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/etna-crimson",
+  "profileBranch": "ID",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw",
+    "x": "https://twitter.com/Etna_Crimson",
+    "store": "https://shop.nijisanji.jp/2011",
+    "wiki": "https://wikiwiki.jp/nijisanji/Etna%20Crimson"
+  }
 }

@@ -9,9 +9,9 @@
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/yuika-shiina",
   "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/3fe3df1c3a4443d48b9ebb3e1b3d931f/liver-full-body_Yuika_Shiina.png.webp",
-  "youtubeChannelUrl": null,
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg",
   "youtubeChannelId": null,
-  "xUrl": null,
+  "xUrl": "https://twitter.com/yuika_siina",
   "birthday": {
     "value": "04-17",
     "sources": [
@@ -24,9 +24,15 @@
     "showSources": true
   },
   "debutDate": {
-    "value": null,
-    "sources": [],
-    "showSources": false
+    "value": "2018-07-30",
+    "sources": [
+      {
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/yuika-shiina"
+      }
+    ],
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "height": {
     "value": null,
@@ -39,15 +45,15 @@
     "showSources": false
   },
   "introduction": {
-    "value": "ゲーム好きで関西弁の高校生。",
+    "value": "ゲームが大好きな関西弁の高校2年生。実は霊能力者。 マイペースな性格で、周りのことは気にせずのほほんとしている。 そのせいか、よく色々な霊にとり憑かれ、体をのっとられたりする。",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/yuika-shiina",
-        "verifiedAt": "2026-11-14"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/yuika-shiina"
       }
     ],
-    "showSources": true
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "fields": [
     {
@@ -98,5 +104,16 @@
     "stateCheckedAt": null,
     "videos": []
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/yuika-shiina"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/yuika-shiina",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F23ba0b2e138d45f6bdb6b94025377dc2%2Fliver-face_Yuika_Shiina.png.webp&signature=re1JGNlqvwRaH6l6lerEJ%2FRgdEwlPbYJzaKGhaeF564ZCePJwfDrc6Yzv8BcjFasosw5tgdlm%2FOCq0fm12tsCUPGyyuiysKW8SWIAKsDWsSSdkmEb6UUpzgM5VNN9A6z5gj%2BMY52YVILliHg3BGhL7EnNJepPwXuJILt2yWM3GsYrB%2Fo4%2B24HsFQ8wefcCHs2cv5YMURMUBpNvVLfaIW0HeuUhmjYV7b1Ahxj5W7d7o3GS9O0zXVqw31oUXhA9bYSB0FR%2FSXpO7UsuRGcnXi3TJzBisSaEC6jZwAST%2FiSNgZrfvxOfzBKWQDGiz0wwexbEjCA0s11ASQGU1albgeqA%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/yuika-shiina",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg",
+    "x": "https://twitter.com/yuika_siina",
+    "fanclub": "https://www.nijisanji.jp/fanclubs/yuika-shiina",
+    "store": "https://shop.nijisanji.jp/1041",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=ShiinaYuika",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E6%A4%8E%E5%90%8D%E5%94%AF%E8%8F%AF"
+  }
 }

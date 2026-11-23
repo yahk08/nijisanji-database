@@ -207,5 +207,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/eita-kuri"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/eita-kuri",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fda61cb3994204a2f8d6e787fca22c134%2Fliver-face_Eita_Kuri.png&signature=n%2BLqA0%2BNUDWlm2T9uupFlj2BFvPj2YM0q8tzN%2BIJETilfL6IfPTXvgyXITGKOh46fIgFi6hIBP198vb4oTPILosdT2S0ydjS9Nnc1RFwcLC2ipSj6n3EdD55Nm9g3fTs%2FyJzr18xRplP37BF4Czt%2BiekhFuhiQFfhPL3z81I%2F3RHQ%2BlT%2FoMN4w4edPNDChXDFOtk0G4ttLcg9oU3fKscOvgnKMD38yMWPNVHQg4p84dv9P6szjiWGWvmPq9EG0%2BdRxOMagYEGleQ2sHFlednmy%2B370WXktx0Q%2BqX%2B1uIzNC4WCdyiTrgi6Wn7Kew3fUG0yJZZMJFl10qZUECOVvtzg%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/eita-kuri",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@KuriEita_Y4T4",
+    "twitch": "https://www.twitch.tv/eita_2434",
+    "x": "https://x.com/Eita_2434",
+    "store": "https://shop.nijisanji.jp/1181",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E4%B9%9D%E9%87%8C%E8%A9%A0%E5%A4%AA"
+  }
 }

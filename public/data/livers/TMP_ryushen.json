@@ -26,14 +26,12 @@
     "showSources": true
   },
   "debutDate": {
-    "value": "2018-06-03",
-    "verification": "official",
+    "value": "2018-06-05",
+    "verification": "legacy-unreviewed",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/ryushen",
-        "kind": "official",
-        "verifiedAt": "2026-11-14T13:07:36.734Z"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/ryushen"
       }
     ],
     "showSources": true,
@@ -248,5 +246,16 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/ryushen"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/ryushen",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Faa5e0be7f66c4c4e902a56f8bb2266b0%2Fliver-face_Ryushen.png&signature=eIz1kTtqseqAuANlITmXiHQtsl6B5CjLuM1XYzs46uD8pDofMQ2PS%2FGPoGc7rkQemvn2F1EK6XzbGwVxSLP1bzTWBYs5cL%2FoVZUZfn0uo7zSSQyVyw8ahpRuicnKTNvbKDdFsUDUmEhGadxlv9kZlE37P6kLCCDXEg0N3fmIWqUMI4SWnFunhMZdSrs0kFmIUUPxy12wmE3f2c%2BnScDtssA6Jg8pKWsRtDJcq2FpRunWc5c3uJoqXSU2RBA8TLQPZKQNNeb9DqlEHZ61%2BAHyTPvOI5YGlm7GQUNKGJ1L6e%2FIwrHs2EefMOQv6qEt1%2FL81h2BsQ947d3aWpsiVMFOhg%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/ryushen",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw",
+    "x": "https://twitter.com/midori_2434",
+    "fanclub": "https://www.nijisanji.jp/fanclubs/ryushen",
+    "store": "https://shop.nijisanji.jp/1031",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=Ryushen",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E7%B7%91%E4%BB%99"
+  }
 }

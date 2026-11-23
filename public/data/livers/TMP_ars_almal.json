@@ -9,9 +9,9 @@
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ars-almal",
   "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/a3a0ab5d72a04854966ad5bcc9b6fea0/liver-full-body_Ars_Almal.png",
-  "youtubeChannelUrl": null,
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w",
   "youtubeChannelId": null,
-  "xUrl": null,
+  "xUrl": "https://twitter.com/ars_almal",
   "birthday": {
     "value": "03-21",
     "sources": [
@@ -24,9 +24,15 @@
     "showSources": true
   },
   "debutDate": {
-    "value": null,
-    "sources": [],
-    "showSources": false
+    "value": "2019-07-24",
+    "sources": [
+      {
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/ars-almal"
+      }
+    ],
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "height": {
     "value": null,
@@ -39,15 +45,15 @@
     "showSources": false
   },
   "introduction": {
-    "value": "駆け出しの魔法使い。",
+    "value": "駆け出しの魔法使い。\n魔法使いの世界は色々と大変らしく、その息抜きとして配信活動を行っている。",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/ars-almal",
-        "verifiedAt": "2026-11-14"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/ars-almal"
       }
     ],
-    "showSources": true
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "fields": [
     {
@@ -98,5 +104,16 @@
     "stateCheckedAt": null,
     "videos": []
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/ars-almal"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/ars-almal",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F663f3aa8834241799f2449e8b393df17%2Fliver-face_Ars_Almal.png&signature=IgbFnbBFU0I%2BaxEkT7MHoAVEu4QiH6L%2F%2FjTMSzTOLYXdhEil6bqvmHhBHTCRAijP0WBhMVuopz5J87jsBfe0R5OXBFlwR0RNFMBpThFiWh3TCqpqgy5aRB72o04OCXzAG5T9Ke7FlcqTNiM9tCIlXWjsr32siVx2qwDfHRphV%2BDVenEU1vbgbZkF%2FfaJ%2BW9iOWVJeHYSAZl0fiNqUAxhl7%2BNmRnB4DkbVUB%2FWlp5ZT92Nu8V8E2InGlnp2T4YkZ3AaBRNC43AgeeBmoowCvfK3aqegQpu9fl3DZ8DlLsYnrLDqPOedRQakFeASwMjWYAw4OcIE%2FBWweX%2FyLDfRd%2F%2FQ%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/ars-almal",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w",
+    "x": "https://twitter.com/ars_almal",
+    "fanclub": "https://www.nijisanji.jp/fanclubs/ars-almal",
+    "store": "https://shop.nijisanji.jp/1082",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=ArsAlmal",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E3%82%A2%E3%83%AB%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%AB%E3%83%9E%E3%83%AB"
+  }
 }

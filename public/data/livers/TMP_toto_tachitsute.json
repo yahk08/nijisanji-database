@@ -248,5 +248,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/toto-tachitsute"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/toto-tachitsute",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fbf7e7bc838da450bbe4d875eba2e263e%2Fliver-face_Toto_Tachitsute.png&signature=Cop2%2FhY%2BdAL3U4CEbpckwcCpU%2B2R%2FNWnQQjKiXMCofZXJU5R9gpSpq5dxgtA%2BE2YvcMxb6UDgAiK1UiEqDadzjTxVT%2BE2A54Hm3gN06IIk6YvqvKVx5mAtJRQND12Y1KFhTvUjGEsiBghY3XYy9ksS3R4882rbL8G1FbPsNW7gML6YremKHERti0UpSz4xOavfg0b%2BzUfkeDG90%2FYSsFGw%2F3PhpVIZ3rOdHJpmyydN0NJ9mv9vac3Yy%2FRdZL%2F8HxxyaVj3XWD%2FOHSJOfuZhV8OWXDd%2FMjPxT1Ksg5SoVaa2CtY%2Flws3ghVXCw9TOIfRzDa2Sth77I5yQKYZ%2BCZIVOQ%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/toto-tachitsute",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@TachitsuteToto",
+    "x": "https://x.com/tctt10_10",
+    "store": "https://shop.nijisanji.jp/1150",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=TachitsuteToto",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E7%AB%8B%E4%BC%9D%E9%83%BD%E3%80%85"
+  }
 }

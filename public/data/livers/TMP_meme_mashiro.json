@@ -248,5 +248,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/meme-mashiro"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/meme-mashiro",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fdf5827d29d5a4bc38b0b8bb8bc79c1e2%2Fliver-face_Meme_Mashiro.png.webp&signature=XLuQry2IYNI8HOA0cIGlWVTsLZXef3vvZiyG3HJFjI73dsDxasJZE%2FMyX%2BRyiTh5wDSncP8Ej9dzXrpTaSHJDG8b8WwwlTM0yf7s32BOIt3egtbzKiNxiFXvKO5KhgyZ7vjIhhhAUrSNlms%2Bao7Jee3Gmg5UDCw2zoqjFU%2B1F5dDAoh2xCAguCX3a%2FmWo%2F0k6W5nOwA0HSBQm8oqVGgA2Cw%2Fe%2By9RXgVq9JNcXyEG%2FXzUqtg1KJ8abm%2FmwZKhmBGTezoSxnMZqGGh7DVJiCtr0X4yAnWvqJFYKFZsjDqIT8EDG0zHhORWTM%2BcwqqImAEfBPMF22flcMN5g4zwaubgg%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/meme-mashiro",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg",
+    "x": "https://twitter.com/mashiro2434",
+    "store": "https://shop.nijisanji.jp/1102",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=MashiroMeme",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E3%81%BE%E3%81%97%E3%82%8D"
+  }
 }

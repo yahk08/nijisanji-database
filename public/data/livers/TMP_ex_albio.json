@@ -26,14 +26,12 @@
     "showSources": true
   },
   "debutDate": {
-    "value": "2019-05-18",
-    "verification": "official",
+    "value": "2019-05-17",
+    "verification": "legacy-unreviewed",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/ex-albio",
-        "kind": "official",
-        "verifiedAt": "2026-11-14T13:07:36.734Z"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/ex-albio"
       }
     ],
     "showSources": true,
@@ -313,5 +311,14 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/ex-albio"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/ex-albio",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F623ba1c69fd64308a4eb32efaa4a80d2%2Fliver-face_Ex_Albio.png.webp&signature=QJXhnzmk1EeLFrmwanY4L2mkXFk0qA1ew99jZA2TNLLaftVZWLIeHEo%2BAN4l7ma3HQrCX8vDwFX9aNL1LmY7iJwuFeye7Tgn6oAOxxgc9W6jaD7yRiZ3aIENy51DLjDBkOtkRjhukTEugfqibCwuZySaTVarXBeAgWUSvrRgQ4ddiw2yV3LjxIYKA3Hj99hMrch5eRv%2FEO2jyBRRUZWGq0MXEedwVcauuNEt7TSJrNtr%2FHyVn0yeph2yvE77N1ljjiiUa%2B%2Fte9YjVh55FJDP1Ar%2B%2BkqivtIggemungJvhz1qqIIBA74l1N3X8ipxet%2B0hy4%2BfDKcwoE29e3kZrYNqg%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/ex-albio",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ",
+    "x": "https://twitter.com/ex_albio",
+    "store": "https://shop.nijisanji.jp/1080",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%AB%E3%83%93%E3%82%AA"
+  }
 }

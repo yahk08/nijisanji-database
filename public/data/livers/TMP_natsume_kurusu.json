@@ -377,5 +377,16 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/natsume-kurusu"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/natsume-kurusu",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fef419dca96cd46af9511ee6393562dfe%2Fliver-face_Natsume_Kurusu.png.webp&signature=Y8F8%2BPtMlm8kBdtOzgG6BHt%2F9K%2Fn%2FDNK8sf%2BTH8gEqE0X0ccZCMJgWH%2B%2Fu4udtypPvgOK6k6iOFJuqgejf0Ayw2X5Hl%2F%2FOl3WWovgBVDaPtnVx2w%2FSx%2FfbhkDrNsv7h0ZD7paaXVQ8z8sObhdWCBdMpvo3TyRNme2oarYs4jDXpZB4MUqg%2F2%2FMpvBePk5VKNv64oWOKZy61NrRwbNDQfKtlTxhiEUbcd4ohOtIxOeaTZeqg4ZYIKfXfYmbIMKJ3px8gKRkpJAgDGRVuzPwRH2OE4hAtAVViQ3pD%2FKFno5g6NKlD6hBAaL%2Bc9FTo6Y7FIM4xXHGmsCCQB5bSkr9Hi8g%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/natsume-kurusu",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA",
+    "x": "https://twitter.com/kurusu72me",
+    "fanclub": "https://www.nijisanji.jp/fanclubs/kurusu-natsume",
+    "store": "https://shop.nijisanji.jp/1107",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=KurusuNatsume",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E6%9D%A5%E6%A0%96%E5%A4%8F%E8%8A%BD"
+  }
 }

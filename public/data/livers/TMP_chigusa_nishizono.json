@@ -248,5 +248,14 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/chigusa-nishizono"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/chigusa-nishizono",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F63c5cc2c1c0546a6a8ea0617c182b849%2Fliver-face_Chigusa_Nishizono.png.webp&signature=F4Od8GF4OX05yEgy9RxY%2FDFQOGTBwi7JOfROUcEoEwan6Yy88rG8mlZdsTtegHH4xonM%2BuzMR8Hs4S5zWeTbVerPVdCKVpnzJrHfHThY4z%2BAKO6P4LckgVRQRFBznBwkQRqjnyegBPNllQho0jxyygIwXRN%2FKdmRRVqQQX4TaSbAq7maB2V%2FNMPB%2Br7kq3SPCQZ3WTfy81QidDTvWnkeoVH%2FgLAUgU7E31pRmDqp6czvSIWsiZ2kFWLzgskgI3TY8TrQ9gf00D%2BTelaQ%2FfP%2FNMzq3TB2V6RhKfIYoeWcf4L36qgXvf%2F4HDsIbRk1w3KjWLDC77WfccJoPtQ7drBb2Q%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/chigusa-nishizono",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ",
+    "x": "https://twitter.com/Chigusa_24zono",
+    "store": "https://shop.nijisanji.jp/1111",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E8%A5%BF%E5%9C%92%E3%83%81%E3%82%B0%E3%82%B5"
+  }
 }

@@ -331,5 +331,15 @@
       "xAccountLinked": true
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/ittetsu-saiki"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/ittetsu-saiki",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F36b63b547d2a4facad876cc40f0736a0%2Fliver-face_Ittetsu_Saiki.png&signature=XyElJxF%2FGzbhHYtNHa8Q7xWXjJKjA838mlrlc2cxaovrIMEFsaWRLRSgu0F0mldTtsHBRu3LBbOj9Vmh%2FKdDqgM96w6Pj9aym7vXUMMZIZ%2FX%2BnSd8w8Rvvs2EMR1uLr80Areolc3ACk6UuC1k%2BQjxg6nWFlCBY38Y2e9Yvnze010EgXbz3d7oex2IC%2B%2FSRolU6pSuE%2FqXinFWXPZYCb%2FaKQA9fR3hf498%2B5KmV0lrsaYMtI26B4N9rEFBzUb6THjGmh5qsAW0aVpUzGXKJRjr656AACBwV0PBFosvc7nHl42MwiA%2FxGPq4uYmk8Vu9fmVhkr25Z9%2Fd3KwIe8MmKIAQ%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/ittetsu-saiki",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@SaikiIttetsu",
+    "x": "https://twitter.com/Saiki_Supadari",
+    "store": "https://shop.nijisanji.jp/1143",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=SaikiIttetsu",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E4%BD%90%E4%BC%AF%E3%82%A4%E3%83%83%E3%83%86%E3%83%84"
+  }
 }

@@ -248,5 +248,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/fuyuki-hakase"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/fuyuki-hakase",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fb7d4367e3d9a4d43a050d4b4e900339e%2Fliver-face_Fuyuki_Hakase.png&signature=QNAZq6gv2HjozHZfzsfObpU7ZECixmCVfvnwwmaQ47c4woZdhq%2BzP9vhdBu11pVhyX0dhoBlTToeA%2Fwx4vWjv8oAHc1iuvmT4A9SuiWZ325qoC%2BqJ4%2FLh2tF%2FXWKKzmeVEC64dF0CHCRKExUBA924b0Mz8%2FSGVIUBTd4eK74mXWvdcS60J8jkVmPuVSsBp3xjM8q9%2BYiVAFoKZeDm8tySW84TrkwPXtbcciN7DoxhC7M8fR%2FCZ4Oqe62QIhVn5AZa7miNo68xfyGKWScZpU%2BCwoV5McDyFbVDHj%2BM5NAYUUBA2qAzk4jUt1LgeSQHs5icBgQjGUY7AtuHn85qWbpDA%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/fuyuki-hakase",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ",
+    "x": "https://twitter.com/hakase_fuyuki",
+    "store": "https://shop.nijisanji.jp/1087",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=HakaseFuyuki",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E8%91%89%E5%8A%A0%E7%80%AC%E5%86%AC%E9%9B%AA"
+  }
 }

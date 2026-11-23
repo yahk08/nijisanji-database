@@ -26,14 +26,12 @@
     "showSources": true
   },
   "debutDate": {
-    "value": "2019-05-18",
-    "verification": "official",
+    "value": "2019-05-17",
+    "verification": "legacy-unreviewed",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/levi-elipha",
-        "kind": "official",
-        "verifiedAt": "2026-11-14T13:07:36.734Z"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/levi-elipha"
       }
     ],
     "showSources": true,
@@ -248,5 +246,16 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/levi-elipha"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/levi-elipha",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fa2d250273e0f4146990ebac2d5d1ce8d%2Fliver-face_Levi_Elipha.png.webp&signature=Tv2oypaorUX5AKlDP8pXUOvC9P9Y9dIYZ14Hnh6RO26A4UbKxL5rCoXA33rdClSxbAevgCE4otLV7Fh4V8OE2JcBZITMsVs3SA%2BSdfpwejXOcKfnsxvpnbdEXs%2FzQ1asydNhAo4BD1k2K57CmLY2g7f5cqQ%2BanUDW6SMuiOaSB6xK8h2LWpJr2Pr4I91F5n6wLKPuEcCyIdg2qesl6hyOAyg0pKb3Dazh0n2LtkXCwLGNovbPqYQgceBJlw40T8BN00Ex%2F3S3JTB2VIukMPkUeYpUMFruhWsa3rF%2B3SRBoFD%2Fs%2FwBdlSB%2BOh5nuiuqAnqPyYIWj3Xd0xdd%2FIpN%2Bm0Q%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/levi-elipha",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q",
+    "x": "https://twitter.com/Levi_E_2434",
+    "fanclub": "https://www.nijisanji.jp/fanclubs/levi-elipha",
+    "store": "https://shop.nijisanji.jp/1078",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=LeviElipha",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E3%83%AC%E3%83%B4%E3%82%A3%E3%83%BB%E3%82%A8%E3%83%AA%E3%83%95%E3%82%A1"
+  }
 }

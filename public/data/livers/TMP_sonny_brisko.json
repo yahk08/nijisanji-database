@@ -25,14 +25,12 @@
     "verification": "legacy-unreviewed"
   },
   "debutDate": {
-    "value": "2022-02-27",
-    "verification": "official",
+    "value": "2022-02-22",
+    "verification": "legacy-unreviewed",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/sonny-brisko",
-        "kind": "official",
-        "verifiedAt": "2026-11-15T04:38:58.959Z"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/sonny-brisko"
       }
     ],
     "showSources": true
@@ -102,5 +100,15 @@
       "status": "unavailable"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/sonny-brisko"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/sonny-brisko",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F7951b32b19244128a2379a53fb8a9493%2Fliver-face_Sonny_Brisko.png.webp&signature=YUU7PleICKjFXqMuTXPWmko7uRJERyYedmReakzyJnVv%2FfHhQOvPe9dEvDqQ9uTwI%2BV%2BNivV%2BY9UwZ%2FjGB2Tyi%2BkoIQ5gv7MjCatRvFlRqfJQ2oQ3ASNhE9LKsXDWnCPssxr9sH%2ByMR4I%2FmY8X4Nj7BDTtKDd7XedKPP09kg2XTgZ2RGU5ghWDrxmTTYyfXv594fd3OrQHAEZdfOKAjXYizTDOo34x5Tm6x26Zse7L6y2fJT2RqPhFP8i%2FE4eCrHQGowRZ6kxSO6SKtSwf%2BpHO1YYxTqFf6RADNo8pRzOoaSIddLqg2xPQVvAWc0TnNANE8IQ8ag0ScE1QgQxfu3qA%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/sonny-brisko",
+  "profileBranch": "EN",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw",
+    "x": "https://twitter.com/sonny_brisko",
+    "store": "https://shop.nijisanji.jp/4017",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=SonnyBrisko",
+    "wiki": "https://wikiwiki.jp/nijisanji/Sonny%20Brisko"
+  }
 }

@@ -26,14 +26,12 @@
     "showSources": true
   },
   "debutDate": {
-    "value": "2019-11-01",
-    "verification": "official",
+    "value": "2019-10-31",
+    "verification": "legacy-unreviewed",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/luis-cammy",
-        "kind": "official",
-        "verifiedAt": "2026-11-14T13:07:36.734Z"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/luis-cammy"
       }
     ],
     "showSources": true,
@@ -248,5 +246,16 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/luis-cammy"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/luis-cammy",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F91e3108fec9e4cf4b632c4c76a060c7b%2Fliver-face_Luis_Cammy.png&signature=imaafgpIVdS3ESzAGm9CSPb0Spj5gbkm%2B4uihe3WGOCval67ugCt7LLF3F3%2BKDqrB17g9jr5IhLMt5yTlHd7YCDwFQDwtwn2HW7grAFQGKG82KYdA%2FyJmcmHCygOzfIJ4N4QXdnJBdmfC%2FKqZNYUZieIhg%2F0%2FFhaJlGbjLMOK2vYkd1vL9l8Fzru0uQRS%2FCbk%2F6DGwCmLCEIL6LLsUCPfz7OmypseYATKLotebm2CX52CGfxALN4Rmq7yrxTXxnn6LpuicRZjvy30rEBD9383H77RAllAsLpzzuaL0MqoERZXFLaHaegfaL91pJge4FGg5x5EV6F2ZDXlOTs05Gijg%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/luis-cammy",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCb6ObE-XGCctO3WrjRZC-cw",
+    "x": "https://twitter.com/Luis_Cammy",
+    "fanclub": "https://www.nijisanji.jp/fanclubs/luis-cammy",
+    "store": "https://shop.nijisanji.jp/1101",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=LuisCammy",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E3%83%AB%E3%82%A4%E3%82%B9%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%9F%E3%83%BC"
+  }
 }

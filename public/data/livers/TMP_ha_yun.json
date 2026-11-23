@@ -26,14 +26,12 @@
     "showSources": true
   },
   "debutDate": {
-    "value": "2021-09-01",
-    "verification": "official",
+    "value": "2021-08-25",
+    "verification": "legacy-unreviewed",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/ha-yun",
-        "kind": "official",
-        "verifiedAt": "2026-11-14T13:07:36.734Z"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/ha-yun"
       }
     ],
     "showSources": true,
@@ -264,5 +262,16 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/ha-yun"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/ha-yun",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F4a89b0fe3c2a42d1912d6f053a766264%2Fliver-face_Ha_Yun.png&signature=ZAe98OCTJ4K5pN70Ntm5FKM3B52YtvX1SKK38fzmNl%2BSYl6vJZ%2FtOMFwGbVp7uVgUZ8vBkTwpjU7hXhhTQuk8xdQjL01NcTumpqp8htWJPEuMQ1kLFjW%2FmMi%2FMd8mekqhE65behb8rCoNQYCNoBX8LW3RudHNdt4nwMjrD5b2wOfLrHoO2hytAn5CutuU%2Fi2C2DZJ7KCpBaCMTPeKxzgoDHfILJ1MDR%2Bae1ec91J0W9MQZijpQYoVgZwV%2FSUHooXAOUPo%2FF%2BApHaWWAOUl09QzopUQ68isvGOLm2qOX2UY8iTuWWclVfGxlCiOq2CNJA%2FdBa0Bly8lDxVcvEMcoGdg%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/ha-yun",
+  "profileBranch": "KR",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCrhhJPNsOqzNIkUfTABoSpg",
+    "twitch": "https://www.twitch.tv/hayun2434",
+    "x": "https://twitter.com/HaYun2434",
+    "store": "https://shop.nijisanji.jp/3013",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=HaYun",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E3%83%8F%E3%83%BB%E3%83%A6%E3%83%B3"
+  }
 }

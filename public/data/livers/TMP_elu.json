@@ -9,9 +9,9 @@
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/elu",
   "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/85e296ba421f4541b52c0f2ee3aa588e/liver-full-body_Elu.png",
-  "youtubeChannelUrl": null,
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag",
   "youtubeChannelId": null,
-  "xUrl": null,
+  "xUrl": "https://twitter.com/elu_world",
   "birthday": {
     "value": "01-24",
     "sources": [
@@ -24,9 +24,15 @@
     "showSources": true
   },
   "debutDate": {
-    "value": null,
-    "sources": [],
-    "showSources": false
+    "value": "2018-02-08",
+    "sources": [
+      {
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/elu"
+      }
+    ],
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "height": {
     "value": null,
@@ -39,15 +45,15 @@
     "showSources": false
   },
   "introduction": {
-    "value": "森から上京したエルフ。おしゃべりが好き。",
+    "value": "友達が欲しくてこの世界のどこかにある森から上京してきたエルフ。\nお話をするのが好きで、話し始めたら誰にも止められないどんぐりマシンガントーク。\nえるという名前は愛称で、本名はとても長い。",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/elu",
-        "verifiedAt": "2026-11-14"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/elu"
       }
     ],
-    "showSources": true
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "fields": [
     {
@@ -98,5 +104,16 @@
     "stateCheckedAt": null,
     "videos": []
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/elu"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/elu",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fe749a2e50e1b4005b272260e9393d108%2Fliver-face_Elu.png&signature=cD2Mt04JaZzTEY8RCrIhVm0sz4Q6DWi37IgtslivzXdQAdwdXTt5aDwufWDPKympIeDupMcGH8HdQwM3niVuIpuCaAT8wie%2BZmN44Edae0U4hN%2BqNBxQ6AgN6f5ZprOBFmLdVakyx1SEVp27H1igWv9YIwQTybAUtVoDx%2F%2BUf%2BmoXgWAlJs5eZSRNLJwnbp48ThtXVv%2BLcCb31gxyJco96NS1bd7dXIzcVR9qBFT6mapDr%2Fzm869zhScO4tkBgSmR1rqYEucWiHFW4B4EOabhfZ6ZBw%2FKGrAmSnur7q%2Bz%2B4Uo4uCQfvYhcmLt%2FIz0xASFe3GYTsSuEEsNuW%2F77zApQ%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/elu",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag",
+    "x": "https://twitter.com/elu_world",
+    "fanclub": "https://www.nijisanji.jp/fanclubs/elu",
+    "store": "https://shop.nijisanji.jp/1005",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=Elu",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E3%81%88%E3%82%8B"
+  }
 }

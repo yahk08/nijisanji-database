@@ -6,3 +6,5 @@ dist/
 .DS_Store
 .youtube-state/
 *.tsbuildinfo
+.profile-backups/
+__pycache__/

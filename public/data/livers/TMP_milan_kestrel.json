@@ -339,5 +339,15 @@
       "xAccountLinked": true
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/milan-kestrel"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/milan-kestrel",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F21f60a123e9d470383170b1ebb85914b%2Fliver-face_Milan_Kestrel.png&signature=FAJ7pNpbrxL2OPnAIb01sD3r9RV2jmeS6yH4Fl2eNHYbss2pDXVOIbRJ9dW01lrfEoFRlJeu%2B7lnZH0Y55R%2B2MzY4IWNdQd6fUU2Q1bCCg0bfMP7lIsfntMJOOOgUYBIh3BIObHf68SVef4Ql%2Bi6veLraZDUH3KEBrHhXSMTK6if1ctW4Srip%2BZL2XxNayTfdw3vUT3LWIO5nu2qbasEKsd6zh3N27W58rgoHcqLS8P1YsQVnqmzqwN3nKrZ%2B9Qi4cnvdRnK%2F3otWo7wMkqUHxfqErPg1IrgMyy2KTXX6T%2FAhMTNws27HH5GvG0Se3Ia61VYAruIRMm2lLD72sUwcw%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/milan-kestrel",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@MilanKestrel",
+    "x": "https://x.com/Milan_Kestrel",
+    "store": "https://shop.nijisanji.jp/1148",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=MilanKestrel",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E3%83%9F%E3%83%A9%E3%83%B3%E3%83%BB%E3%82%B1%E3%82%B9%E3%83%88%E3%83%AC%E3%83%AB"
+  }
 }

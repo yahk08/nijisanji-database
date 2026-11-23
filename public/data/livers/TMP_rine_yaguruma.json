@@ -274,5 +274,14 @@
       "xAccountLinked": true
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/rine-yaguruma"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/rine-yaguruma",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fe11a9833e0224a1e9a17c5f3eacfda5b%2Fliver-face_Rine_Yaguruma.png&signature=cAahYnnqPR1H6wfY4YlEGgawkIX%2FIlCBWR5elRt2oNNuI563wYa6B5%2FMohkA62LEkr4gX9WgqrQXHlXwHfDJziJJjL6RxnFMevbwMXPZOL5aeqMT25slh4hgnVzYenqlnFmGPJ1dwlUMeOCdiXcFanp6%2BLMko292pze1k8QtfKHLcL4jW6EkUwHqmOpQXnvBIExcEIMg%2FWtMf5JKqigKDBqi4sQY03DkZ8aY1GhlPdk%2BJQqkx4qwrxBbVuETS2LoHEM%2BCgIEf2i3qG9tNvzeV9oJR%2FvwNGnqnCB5pgV1dVab%2FOt8lknsrbGV6f4wLEK%2FIcb1rncyUxCckGHsrYSk%2Fw%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/rine-yaguruma",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og",
+    "x": "https://twitter.com/rine_yaguruma",
+    "store": "https://shop.nijisanji.jp/1057",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E7%9F%A2%E8%BB%8A%E3%82%8A%E3%81%AD"
+  }
 }

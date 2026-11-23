@@ -248,5 +248,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/wen-akagi"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/wen-akagi",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fd35a7ec3da38468c8830eaf9f0a51c4c%2Fliver-face_Wen_Akagi.png&signature=VUjN%2BVdKzBT6z1Tq6tUY2LYngu78FhHWisYQ498GJAF%2FyKDzn96D%2FdYCsvgFRZs%2FEWPIv6QOhkI17ajoag2lR4V2kPIg4dzaQb2jDioQjYmQ4%2F52N7GTBqPKBLSl4cL9%2F7hVghgJ2DqnadBm1zVPoQCW25dZUUbR0zd7aNG3rBLO6FI92r9THQ4kubMGGJ1SYp5Ko1LIqP7fZbnEd5ZpEXBpHwrHwM5%2Fn6CnlksIEH2OiUfS9NMefXfRH1eLdEu%2Fa7ohQeGy7cqb5eZadROkZAeVJgJuWJ2fH%2B3fVVnjuG7Nz6sCQ9ms9YEAzeRL7yb5wruIF1dqOL08XvONXb%2F9%2FQ%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/wen-akagi",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@AkagiWen",
+    "x": "https://twitter.com/akagi_wen",
+    "store": "https://shop.nijisanji.jp/1139",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=AkagiWen",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E8%B5%A4%E5%9F%8E%E3%82%A6%E3%82%A7%E3%83%B3"
+  }
 }

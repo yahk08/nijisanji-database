@@ -207,5 +207,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/ayato-hitotsubashi"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/ayato-hitotsubashi",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F2629dbb7346d4ec8827dec1ee894e5e8%2Fliver-face_Ayato_Hitotsubashi.png&signature=htZVrv7v7qK6u%2FKHcz73RLItrey4%2Fuw5Xm%2BUZ8PuWrlGeiFdeaC2sOV6iEaQAc07WB3WxOQPELrnZJyEzOBSvM4jNHujPRCYv8Z6nlyl8xotZy%2BbqsHOj7j0wODCiEuAFJTcOjaCtGFgvgqaY6LCmStDLZWfgHILjEq0Z%2FHrZkWAa%2B6EbFFkA%2BqkJPf7mLIUvMdtmV8959zOYy%2FGaBleesGYIXe2zSlIvlYwKK1JtxKlMiP%2Becmx7kD5PYfpf40OjR%2BdqQWojhN%2BQHt5uqdajsrmOLx8m6brtvNiFCIjsGwlGkFVrn8yUZnCCp7neibwqBVrwe0Uks1Vb5oCfbJ6xA%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/ayato-hitotsubashi",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@HitotsubashiAyato",
+    "x": "https://x.com/Aya10_1tsubashi",
+    "store": "https://shop.nijisanji.jp/1169",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=HitotsubashiAyato",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E4%B8%80%E6%A9%8B%E7%B6%BE%E4%BA%BA"
+  }
 }

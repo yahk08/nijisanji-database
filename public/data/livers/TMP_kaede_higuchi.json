@@ -9,24 +9,31 @@
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kaede-higuchi",
   "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/325a9fbd45e64b3b860519952e73efa8/liver-full-body_Kaede_Higuchi.png.webp",
-  "youtubeChannelUrl": "https://www.youtube.com/@HiguchiKaede",
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A",
   "youtubeChannelId": null,
-  "xUrl": null,
+  "xUrl": "https://twitter.com/Higuchikaede",
   "birthday": {
-    "value": "秘密",
+    "value": null,
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/kaede-higuchi",
-        "verifiedAt": "2026-11-14"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/kaede-higuchi"
       }
     ],
-    "showSources": true
+    "showSources": true,
+    "verification": "legacy-unreviewed",
+    "visibility": "secret"
   },
   "debutDate": {
-    "value": null,
-    "sources": [],
-    "showSources": false
+    "value": "2018-02-08",
+    "sources": [
+      {
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/kaede-higuchi"
+      }
+    ],
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "height": {
     "value": null,
@@ -39,15 +46,15 @@
     "showSources": false
   },
   "introduction": {
-    "value": "VR関西に住む高校生。吹奏楽部でトランペットを演奏している。",
+    "value": "VR関西に住む高校2年生。長身でスタイルも抜群。 幼い頃からトランペットが好きで、現在は吹奏楽部に所属している。 オシャレをすること、猫と暮らすことが生きがい。 好きなものについてもっと知ってほしくて、ライバー活動を始めた。",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/kaede-higuchi",
-        "verifiedAt": "2026-11-14"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/kaede-higuchi"
       }
     ],
-    "showSources": true
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "fields": [
     {
@@ -98,5 +105,16 @@
     "stateCheckedAt": null,
     "videos": []
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/kaede-higuchi"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/kaede-higuchi",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fa10e6c0587a74e4781e3329c4ae732d6%2Fliver-face_Kaede_Higuchi.png.webp&signature=lUAp%2FSVj4sX0Uq9qaTSZGUiHXwx4jfPKBiTcPQITzFRKM240U7xD9X4d7dm5KQEpGwpcMkSB3QLpDhhIrm1a%2FylZuTPx5iFEVeon38lzAXE2HYY%2BvsvkT04PomDOcaZLwqU31pJYMC7G2V8DvJwuLgX14q8rz700r0w5zIIx3XbdWlAIb%2Fc6LxZl5WDGcyMEqV1l97qBiSpsSDnP6a05Q%2FABjdQnbZ4FfvO3ivhUDAUgBAS0RLVdogN%2BuvBG8Bf%2F%2Bck6tLOqyrCXQQUcrRjgTFTTmAcSjuoQH51YSansh3nEJDDbvhAUyYTS38KwWqGokZGSMO%2FGsswMc6dDl%2BBaDQ%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/kaede-higuchi",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A",
+    "x": "https://twitter.com/Higuchikaede",
+    "fanclub": "https://www.nijisanji.jp/fanclubs/kaede-higuchi",
+    "store": "https://shop.nijisanji.jp/1001",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=HiguchiKaede",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E6%A8%8B%E5%8F%A3%E6%A5%93"
+  }
 }

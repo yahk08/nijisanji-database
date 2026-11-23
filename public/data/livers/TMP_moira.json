@@ -9,9 +9,9 @@
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/moira",
   "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/cd155159dd5346a3bb5100ee5d8cec7f/liver-full-body_Moira.png.webp",
-  "youtubeChannelUrl": null,
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UCvmppcdYf4HOv-tFQhHHJMA",
   "youtubeChannelId": null,
-  "xUrl": null,
+  "xUrl": "https://twitter.com/moiramoimoimoi",
   "birthday": {
     "value": "02-10",
     "sources": [
@@ -24,9 +24,15 @@
     "showSources": true
   },
   "debutDate": {
-    "value": null,
-    "sources": [],
-    "showSources": false
+    "value": "2018-02-08",
+    "sources": [
+      {
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/moira"
+      }
+    ],
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "height": {
     "value": null,
@@ -39,15 +45,15 @@
     "showSources": false
   },
   "introduction": {
-    "value": "運命を司ると語る女神。",
+    "value": "年齢不詳の女神。本人曰く、運命を司っているとか。 際どいドレスと背中の大きな羽根が特徴的。 今までは好き勝手に人々の運命の赤い糸を繋げたり観察をしたりしていたが、この度天界から配信を始めることにした。性格は少しわがまま。",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/moira",
-        "verifiedAt": "2026-11-14"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/moira"
       }
     ],
-    "showSources": true
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "fields": [
     {
@@ -98,5 +104,15 @@
     "stateCheckedAt": null,
     "videos": []
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/moira"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/moira",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fea9f478820c84208840d248d5c6610d1%2Fliver-face_Moira.png.webp&signature=PGB2NfxhpwuckokU1dzp3FDJAQcl5zJw%2F58hQXZO4D1vy84iX54sbabhBdEe8qjw5jiN2SiWzKAfyHGDQyzefFvOX9ETDBYeyYf9f2BV7qEY3SwgkuT0p7ReHUBlEcuwTkdmeFcGLrn%2FBEsPmwJanPi4Wy7IXW%2B8%2FwbkQ65e2whRx1dnE6MPwS38ZWEB%2B2U8djL91UOstutjsdza6fVSnGs2UXfQe1F581Z1pHsq7UM5y9IVA6O0B7PepISmmIemwb7s%2BWzlY9xbFf1GDkL9JGdSUvAKspBesEMeA1%2B7R%2BgZX%2BNvWQ8aoVK0oGbYiLQ74eTilxfx1oRwajmH%2FkcdNg%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/moira",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCvmppcdYf4HOv-tFQhHHJMA",
+    "x": "https://twitter.com/moiramoimoimoi",
+    "fanclub": "https://www.nijisanji.jp/fanclubs/moira",
+    "store": "https://shop.nijisanji.jp/1006",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E3%83%A2%E3%82%A4%E3%83%A9"
+  }
 }

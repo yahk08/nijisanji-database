@@ -207,5 +207,14 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/lulu-suzuhara"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/lulu-suzuhara",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F78c0abc6efae46ea9d2bc98070866878%2Fliver-face_Lulu_Suzuhara.png&signature=YPH5yaopb5s%2BMTXsuqNyHfUlu8OnI9P8V%2Fz3aZGmgEDNwnEppWEYgk3JEZzc85N%2BqUHQwXK%2FTwIMErLfvpBR%2BaAnfO1pFX0vnJutdezhzdm98z5LTdvuViy3l6tB9M6NCZn7idJdM4IZbz3ak9z4XpbP0V97leOyeRgUnYsdovuhTMEUp%2BU9XL1x5YUfUfPZIz0KMe8Qq6xrao4eegMR9GCw9g3r2QVuLBQzIMy62XOTyZC%2F4qAGFuXYa8MmtcRuHGF8djMqSqci4r%2FJbJ0NYUS033M8Bed8uwzk4lP7c0wZ%2B0DFeKza99uVDHxRBiDbqD9T1ozfuyG4W%2BN%2BlNfStA%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/lulu-suzuhara",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@LuluSuzuhara",
+    "x": "https://x.com/lulu_suzuhara",
+    "store": "https://shop.nijisanji.jp/TAG_858",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E9%88%B4%E5%8E%9F%E3%82%8B%E3%82%8B"
+  }
 }

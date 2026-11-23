@@ -298,5 +298,17 @@
       "xAccountLinked": true
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/rion-takamiya"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/rion-takamiya",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F3284cbdeda0e4bd8ad7d5fdfafc4623b%2Fliver-face_Rion_Takamiya.png.webp&signature=WHHsN61ryMo%2FLMLC%2FF%2FQfSNV5HsXa4gmMErdJ8EW8jYPz6liiFFqWGeq5RlOu0PbbD3PCQP%2FBqkXRRxWuS3uOCosJ0QZMrNgWrPC2Nga58EjIZXIDSZViBWiArmX9JN7r8OMDDboPcUoH40d0ekkbDzPcwJkOAujvdsdazVjVATiZkK9xyKM3Pq4HpLogOV99qmFIefkbyfhBN5LgrSvAz2OW7Zcpal43La%2FOlJ%2B8tPZ0r1rBgZ8EeHf6molMZ%2FDNiblTI2xKfdOBSfXGlWhfaRe12re0oviWeYtu5b%2BsCowoF0g%2FbDG6zdUDc6cayu9Jm6oQ5mGjy8uTgLnXXdNCw%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/rion-takamiya",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw",
+    "twitch": "https://www.twitch.tv/takamiyarion",
+    "x": "https://twitter.com/takamiyarion",
+    "fanclub": "https://www.nijisanji.jp/fanclubs/rion-takamiya",
+    "store": "https://shop.nijisanji.jp/1043",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=TakamiyaRion",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E9%B7%B9%E5%AE%AE%E3%83%AA%E3%82%AA%E3%83%B3"
+  }
 }

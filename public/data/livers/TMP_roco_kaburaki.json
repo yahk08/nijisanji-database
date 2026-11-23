@@ -248,5 +248,16 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/roco-kaburaki"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/roco-kaburaki",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F723ad98bea8f4006a4ef3e272413d18b%2Fliver-face_Roko_Kaburaki.png&signature=RPH9jBpFytFcZsMwDOj3cHeNMc974lrNSFrlsqNrU1k2Hlzkm2HuWDPi%2F%2FtrXJChLEf4Mnvdwy5WCMT8qZNglq062SZphPPzuMSvzox%2FQVf5%2BvaqSEE3J0CrpMjIkeztov%2FEVpF2vTA0GjmZ293llcddMHxJzd7VECVkSkauZ8iFlDhL7vn6h8U8bX9kKutYkG1ar1i29F6AeUMgFLx859c9MROsfYehhWQfHA%2BnobUEjnYVqfy5VBggBq50A%2BplKODLKLzXYg6m%2BM9FW53Zp1WMz9vXf86vKwzAZ3zF0%2FVyKvcCdFXkIPjLtct2vdzxwBhOXJ8haRsDdt5IkU4DNw%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/roco-kaburaki",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA",
+    "x": "https://twitter.com/65_kaburaki",
+    "fanclub": "https://www.nijisanji.jp/fanclubs/kaburaki-roco",
+    "store": "https://shop.nijisanji.jp/1134",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=KaburakiRoco",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E9%8F%91%E6%9C%A8%E3%82%8D%E3%81%93"
+  }
 }

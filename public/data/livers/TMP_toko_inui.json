@@ -9,9 +9,9 @@
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/toko-inui",
   "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/5fcffae3db654f01a4e5442b44514c9a/liver-full-body_Toko_Inui.png",
-  "youtubeChannelUrl": "https://www.youtube.com/@InuiToko",
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UCXRlIK3Cw_TJIQC5kSJJQMg",
   "youtubeChannelId": null,
-  "xUrl": null,
+  "xUrl": "https://twitter.com/inui_toko",
   "birthday": {
     "value": "09-09",
     "sources": [
@@ -24,9 +24,15 @@
     "showSources": true
   },
   "debutDate": {
-    "value": null,
-    "sources": [],
-    "showSources": false
+    "value": "2019-03-22",
+    "sources": [
+      {
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/toko-inui"
+      }
+    ],
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "height": {
     "value": null,
@@ -39,15 +45,15 @@
     "showSources": false
   },
   "introduction": {
-    "value": "和風喫茶で働く女の子。",
+    "value": "寂れた和風喫茶で働く女の子。店長の趣味でメイド服を着せられている。\n足下に見え隠れする尻尾が本物かどうかは、触れた人のみぞ知る。",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/toko-inui",
-        "verifiedAt": "2026-11-14"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/toko-inui"
       }
     ],
-    "showSources": true
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "fields": [
     {
@@ -98,5 +104,15 @@
     "stateCheckedAt": null,
     "videos": []
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/toko-inui"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/toko-inui",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fe901f31dd23841438d5ed3113828353b%2Fliver-face_Toko_Inui.png&signature=Q4EkFr25jkd%2Blm0Rm3lPjDkaFyd40e%2F8V3R2Im%2B%2F3zFqLF6HrhdfMUQJlsavXItjyahtq5vrWoZBBk%2F853MIauu18tnZml77gYnCU01mM8hCvUzCGxY%2FwZabxLLuedi%2FV222x2WC4OKENw91kSVkEbXX5L%2F2V0A59e6JpgzM%2BQLhh%2BZ%2FsaXb%2Byode4OktXRhT5wPgY7vaO5gai%2BYKARB1x5vqbjNk%2FNkl5vwp6yA2m3oRsZiikJXuQQur0vP97bRpjcHoWOq57OG0x5l%2BevpjSBgvocAVhDlDw3VN4PxHl%2BkQY2T%2B6MTeQ%2F7UGsqlbkLYyT46hV64SY%2BPUGT9MXrUA%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/toko-inui",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCXRlIK3Cw_TJIQC5kSJJQMg",
+    "x": "https://twitter.com/inui_toko",
+    "store": "https://shop.nijisanji.jp/1070",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=InuiToko",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E6%88%8C%E4%BA%A5%E3%81%A8%E3%81%93"
+  }
 }

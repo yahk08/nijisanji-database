@@ -9,9 +9,9 @@
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/mugi-ienaga",
   "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/2f45e539493443a580a1d0ee4afb9d3e/liver-full-body_Mugi_Ienaga.png",
-  "youtubeChannelUrl": null,
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ",
   "youtubeChannelId": null,
-  "xUrl": null,
+  "xUrl": "https://twitter.com/ienaga_mugi23",
   "birthday": {
     "value": "11-07",
     "sources": [
@@ -24,9 +24,15 @@
     "showSources": true
   },
   "debutDate": {
-    "value": null,
-    "sources": [],
-    "showSources": false
+    "value": "2018-03-15",
+    "sources": [
+      {
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/mugi-ienaga"
+      }
+    ],
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "height": {
     "value": null,
@@ -39,15 +45,15 @@
     "showSources": false
   },
   "introduction": {
-    "value": "読書や美術館巡りが好きな大学生。",
+    "value": "22歳の大学1年生。\n食べることが大好きだが、料理が壊滅的に下手。\n美術館巡りや読書も好きで、小説を書いたりと多趣味。\n目が悪くゴミ袋と猫をよく見間違える。友達をつくりたくて配信を始めた。",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/mugi-ienaga",
-        "verifiedAt": "2026-11-14"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/mugi-ienaga"
       }
     ],
-    "showSources": true
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "fields": [
     {
@@ -98,5 +104,16 @@
     "stateCheckedAt": null,
     "videos": []
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/mugi-ienaga"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/mugi-ienaga",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fc28de4b1a7e546baba71c8dbc0f2eaa4%2Fliver-face_Mugi_Ienaga.png&signature=RGfy7Snypeumgge4Gh4hFiYLHd%2BXp9p2KVDdGplx1hWLHkoAxZ%2FEw3VOEcHpxKhgcYvv%2FtXOOUmj5vwsQVg9adv%2B%2FmFoWVMYOQP3L0UgmR6XfHI54%2FFPM0h41EKHgiwzCfJA%2FcSbR5t4KNsQOFbSoYpWatWwCskeHxG%2BF9ZIrcE6RQNN4lj%2BrlL27JxvnpurBiYXoYBO8Q24868reokhTpvF4XautyUnP9lSUOFsyfoZ9uEzsVheAlDE56RkM6vUGH2Ay5zMeNK%2FsOStReTPFkFhXrZkZhYId0GQKXslFsoZt%2FT%2BeWi3uLnP%2FLrp3%2F3Di93vHQ4CiTU852yrM5JxFg%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/mugi-ienaga",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ",
+    "x": "https://twitter.com/ienaga_mugi23",
+    "fanclub": "https://www.nijisanji.jp/fanclubs/ienaga-mugi",
+    "store": "https://shop.nijisanji.jp/1011",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=IenagaMugi",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E5%AE%B6%E9%95%B7%E3%82%80%E3%81%8E"
+  }
 }

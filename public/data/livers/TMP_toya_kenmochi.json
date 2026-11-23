@@ -9,9 +9,9 @@
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/toya-kenmochi",
   "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/85ea8f15e3804395b3e838c57397b656/liver-full-body_Toya_Kenmochi.png.webp",
-  "youtubeChannelUrl": "https://www.youtube.com/@KenmochiToya",
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw",
   "youtubeChannelId": null,
-  "xUrl": null,
+  "xUrl": "https://twitter.com/rei_Toya_rei",
   "birthday": {
     "value": "08-22",
     "sources": [
@@ -45,15 +45,15 @@
     "showSources": false
   },
   "introduction": {
-    "value": "剣道部に所属する高校生。",
+    "value": "16歳の高校2年生。剣道部所属の隠れまじめ系男子。 普段は周りと合わせてじゃれているがダメな時はダメという。 以前から他の人の配信を見るのが好きで、その憧れから始めた。 練習のしすぎで怪我が絶えないので、常に救急セットを所持している。",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/toya-kenmochi",
-        "verifiedAt": "2026-11-14"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/toya-kenmochi"
       }
     ],
-    "showSources": true
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "fields": [
     {
@@ -98,5 +98,15 @@
     "stateCheckedAt": null,
     "videos": []
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/toya-kenmochi"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/toya-kenmochi",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Ffa185ae5b61e4ed2ab59d3858e29229c%2Fliver-face_Toya_Kenmochi.png.webp&signature=D8AmaURwhXUyQ2InpBsNVltIKwaSh7vY2mizU3gb3KUhpHCU%2BHDqCz19OmYcVS%2FhbWdUajMjpTmgVL9S%2BDdGJ98xRtY7nSbS6616eWDxYK6pGcwqQNbKr%2FDgA4EnD0Ko62grLKJwl7NPOpA%2F0LK6DT8YV9mwZG0ZywADoscDMoslI%2F2psSFsSjuHd0B1qcdtYq7bBJulKh5uV%2BRzz3nxHh6spFKxTNQVk%2FgeLCxVz5alcGUt%2FTP9hEmB0fztEmqUR%2B2FB%2B0%2FXeNEhTEYWlyoTSmXn1ICWluL7w4Kgy6pr1U5K9mkYDugbIOxXJm7O08Mc5%2FMD2JuWAUPddVghePOlw%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/toya-kenmochi",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw",
+    "x": "https://twitter.com/rei_Toya_rei",
+    "store": "https://shop.nijisanji.jp/1014",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=KenmochiToya",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E5%89%A3%E6%8C%81%E5%88%80%E4%B9%9F"
+  }
 }

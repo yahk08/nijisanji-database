@@ -248,5 +248,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/joe-rikiichi"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/joe-rikiichi",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F4a3b9b71b6574bed8b6d5c08840ecdbe%2Fliver-face_Joe_Rikiichi.png&signature=WQ9ItgbEKGAAtgBbr9cNziNri61isQcDnaOkr6j2oTrCTlH%2FmTt4nGaJ8zqLejxyNQ%2FwjOKqWCy8WhV6kk43XHo%2F9myYsPNOUPYKhbKC9EaxXVbJ7A5XKOrv8aRGO317rCqRKEoA1SbN5V%2Fd4wiA6n%2FwerV6Qg0qdcdrKtbkk90ezizlmCIDM17rPs%2F5Q813oelwV6sFmpNWXNWlB8YVHXHxlyD%2BIps%2FEjLOyCcuWc2SHmdNDgWrMvJ%2Fj3h1jXa0amS%2Ba36sQcLPWbH%2BsRq9QOnqCiprzAsuXDJwmCVk6biyaWAKYbJ44uEb7n8m5GlgaTFdf%2FDG8JX0t8J6LE1pgg%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/joe-rikiichi",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ",
+    "x": "https://twitter.com/joerikiichi",
+    "store": "https://shop.nijisanji.jp/1051",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=JoeRikiichi",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%BB%E5%8A%9B%E4%B8%80"
+  }
 }

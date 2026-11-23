@@ -248,5 +248,16 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/suzuna-nanase"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/suzuna-nanase",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fdf041caab67b41a0b7539c054e10294a%2Fliver-face_Suzuna_Nanase.png&signature=Xuf4sqZvtMdXXZGKepMzHb1SwsWjOlTR5owFfKe7W0ZtdrKXRpO49o06HsYi3KdQqdpQgpAz51NlC3ZwdVQwpF%2BmmSwUv%2BEQph8h18j40GGFlwclQptO2lwfI7wrqtF4xBByZCkZG%2FQ%2F%2F7kV6K%2BNSMK6rVRz6CCa9i4PG%2FoUN6tBnaZcgqj1d3ZCK1T9o6QT0QerdGTOdBcfApmhMssmtgJF0ErGZeqvfEPSQ2gjZi%2FwQGLXicZ8uBW%2BE2vU7IxGU3uJJOTaoO%2F43B5ci8Q4c%2FlnVCEGYo3TunM7EcNyWLD2Yolzb7%2FBPKUVbekPxJA5wuDFlFOynnggxTLCckLSWg%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/suzuna-nanase",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@NanaseSuzuna",
+    "x": "https://x.com/Suzuna_Nanase",
+    "fanclub": "https://www.nijisanji.jp/fanclubs/nanase-suzuna",
+    "store": "https://shop.nijisanji.jp/1167",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=NanaseSuzuna",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E4%B8%83%E7%80%AC%E3%81%99%E3%81%9A%E8%8F%9C"
+  }
 }

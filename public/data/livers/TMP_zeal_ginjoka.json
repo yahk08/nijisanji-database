@@ -102,5 +102,14 @@
       "status": "unavailable"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/zeal-ginjoka"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/zeal-ginjoka",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F0e8b5902726d43babafc6f2623c76be5%2Fliver-face_Zeal_Ginjoka.png&signature=Hi559%2Fb%2FF7oHA%2BjX0EnlqsEeqj%2BakGoTPFbBXUO7LJ4RdDhdg2MbOzGDdHBHMBDsMqH5UJgae8vfYn8vkcUczx3PfbEpwjjmY7e5J8gwaxxjz9nQyGHatovzG8CBe8xjs2yOKNUUMnWOhTNvmZpBaiV%2F%2BVavmpIdnBAolvTLAIv1pqxGXJ4bNTZuAZuD8H3ispSAsmtRlbE9Aqxi2G1ypACNoiNRg9q7pXZJmT2Pthclw05LkgCL3p9g5qEv%2Fd3m9YkVGBHPI0NPl4RhuCUiJqyicbm5X9QfwRTQpqK%2Fa6dKEzGwrLt%2FJWuTCGDiCg302qoOYcxk55Ga3GirzDGMzg%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/zeal-ginjoka",
+  "profileBranch": "EN",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@ZealGinjoka",
+    "x": "https://x.com/ZealGinjoka",
+    "store": "https://shop.nijisanji.jp/4045",
+    "wiki": "https://wikiwiki.jp/nijisanji/Zeal%20Ginjoka"
+  }
 }

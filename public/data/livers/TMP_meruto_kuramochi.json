@@ -248,5 +248,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/meruto-kuramochi"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/meruto-kuramochi",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F6da2c0ebc0e84b3da6c1a410379b8346%2Fliver-face_Meruto_Kuramochi.png&signature=VV2SUz9QZl2loF1yq79VYeggkSjlq2OQ6SJCqVZQoB%2BgYGpeGVLgqN6QU3JW4CwN37Ab8gbODlUBLf7m8ohUzNXBCUKO2Hi05K57xgjgf49q09j%2FayqlzB7TDVNhAcvDE5r7vp%2FWzTtypK9r4xjkZwDQ6GNfVUOlM9FnrAUjTedU%2BWlEh0Jo2v%2FsiWP6BnyAAVFz7MqcQVtaeOOzPhdoAH0i%2FV8lFO19pfP6KEkRpojv71yK3xv4z3C5gpZQSkPphlSBcI3aYw6IIwKEOGD35VAJzR6KFC0t2ictqQbrK7njyrneneLYrdW2%2Bm4ENOUr7O2PFjR9kr6Gplhgi3smyw%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/meruto-kuramochi",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw",
+    "x": "https://twitter.com/k_meruto",
+    "store": "https://shop.nijisanji.jp/1135",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=KuramochiMeruto",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E5%80%89%E6%8C%81%E3%82%81%E3%82%8B%E3%81%A8"
+  }
 }

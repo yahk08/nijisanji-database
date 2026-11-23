@@ -207,5 +207,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/iruka-kokonami"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/iruka-kokonami",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F3e5aada39e0f454288790ffa63e4e3f3%2Fliver-face_Iruka_Kokonami.png&signature=TiTxP9LXzIANEgmLLfS1ucbo5750ywBD3Ovm6VAb8AIVO9jO74uGWrqtwL0XgJn4ScqwI4XojHzmAokVI8Cw87W4UsjXEub%2FgmomPcRa81rNkoXesHWrR1%2FjMIFF8vU1E8c9bgNO2KXlEgMQaLWcjOzy%2F3aG4P4G5AaJSzikVBdMHsxCQM6S08lIlxqPbEdgezws78cOZO56yR0o7%2FWtvWA1LKYJgWBGB%2BVCWY1MLLrQ5uMMnTxeafNMz6B6NcAD5XTsIvrqkHeRKM65Q9XAStXH5N0huTUlQ25FQ%2F%2BhIfMzVNBUz9aPKdI39pmJVL7Jh6NcgtNvoRAX6jffAkTW0g%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/iruka-kokonami",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@KokonamiIruka_Y4T4",
+    "twitch": "https://www.twitch.tv/kokonami_iruka",
+    "x": "https://x.com/Kokonami_Iruka",
+    "store": "https://shop.nijisanji.jp/1182",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E5%B0%8F%E3%80%85%E6%B3%A2%E3%81%84%E3%82%8B%E3%81%8B"
+  }
 }

@@ -281,5 +281,16 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/karuta-yamagami"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/karuta-yamagami",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F6d5442e6ebd64412ae714901c0669487%2Fliver-face_Karuta_Yamagami.png&signature=qK0jP7GGDAN2Tq324TG%2B8W5PtEv7yAFEBYbO3fSUBWrVjgwH1UiD4RGU5poj5e%2BGYRZgz6zus9Y7I1sRVPmnavdnsosoBdRXroOYIzHhMygJeStz%2FbaD3lx9jrjbVhTAc62tdq3d%2BcC3D5Ejanmrwvnj%2BG5%2F8JF69FBVcupKoG9hUrQ9LWhdmlElCTC5rY19UzkcGyf7o4xcVE270Dsw0WRpoQ6tAzwRragW9uHQp4ERSZXySSTmvQFFL%2BoXNfn%2FjVJxdAitXzG7GJgqDMExBJGpyvnPnRwkk5%2FNsgzX22Y3E%2B%2BPe9EM%2F4GQTsITNXj2XXZdQErOsL0c9Cy7U%2FzEBA%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/karuta-yamagami",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ",
+    "x": "https://twitter.com/karuta_Yamagami",
+    "fanclub": "https://www.nijisanji.jp/fanclubs/yamagami-karuta",
+    "store": "https://shop.nijisanji.jp/1098",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=YamagamiKaruta",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E5%B1%B1%E7%A5%9E%E3%82%AB%E3%83%AB%E3%82%BF"
+  }
 }

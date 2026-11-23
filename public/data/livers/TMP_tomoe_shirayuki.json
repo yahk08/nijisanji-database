@@ -105,7 +105,7 @@
         {
           "label": "ファンネーム",
           "data": {
-            "value": "小犬・駄犬イヌ",
+            "value": "小人・駄犬ヒト",
             "verification": "legacy-unreviewed",
             "sources": [
               {
@@ -427,5 +427,16 @@
       "xAccountLinked": true
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/tomoe-shirayuki"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/tomoe-shirayuki",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fd5a34b5834374e50a289198280aad119%2Fliver-face_Tomoe_Shirayuki.png&signature=ERKMdTJ9TXemhaO%2FdPlBjrpB9QWNhdAwf0aztV7tRQj0Gl9ogm0aZU9lJa1r1xM1xCohCyvgwqG3qph5K6RpLl7SCZJY3UspbkdSndKVrHpV5ZIh25FNyy9ety1W%2FfoUfAnFcQ4yeo5sXjIEL2ivRFSJeACG8B63MFb6fx0ytlD0f1dQQ2yKmmO2BjefiFM5NvlMViD6fz8LBqcDZEvCtCBENrfvnuaA9P1RHyDJQ8FvefH6W1C%2F0lBuC6IUmoNRafeDeGbKuyum0kpXfWWwqOgkYwZIehFVxZ%2F%2F2YmRKKcGKLBfyCuK4hJAIUyVWwEpzP2zfCrjJUiPH6JvdBV%2FtA%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/tomoe-shirayuki",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw",
+    "x": "https://twitter.com/Tomoe_Shirayuki",
+    "fanclub": "https://www.nijisanji.jp/fanclubs/shirayuki-tomoe?mode=contents",
+    "store": "https://shop.nijisanji.jp/1103",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=ShirayukiTomoe",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E7%99%BD%E9%9B%AA%E5%B7%B4"
+  }
 }

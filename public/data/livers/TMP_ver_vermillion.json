@@ -102,5 +102,14 @@
       "status": "unavailable"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/ver-vermillion"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/ver-vermillion",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Ff0b609dfe4e84993ba2960c8c7fca9f5%2Fliver-face_Ver_Vermillion.png&signature=XXphW1xV%2FbYYR%2BTtGAHWAqVXvFt3f7aovkmtNZt7wA1Au%2F%2B8zsK%2BqrsjD9kvfc9OiKF%2BvxvASxo7tcLAGZ725GDHslp0hvtEOc0MfNP2Zj6VcnP6jwhlPwKnoWBZr8eD1fmEojFXoBtAExsa5Ous%2BhTWBPDXqdc%2F5Ix2LGoK3CankkcdgQHvebGBI%2BYiGO2vqoNcQj1B4gfWsL6ZGlAIYhL74RaCJOFNbpoqTlqExwrlfVz4gn7vwopqdTgxSl7ui71rtF0lZfOf%2F3agKLxne1owUKPAT3tnOprHofFfGRCLHNCWrYEpxcyx%2BVLVwMEK896e%2FG7WdviFH18EzpcRFQ%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/ver-vermillion",
+  "profileBranch": "EN",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@VerVermillion",
+    "x": "https://twitter.com/Ver_Vermillion",
+    "store": "https://shop.nijisanji.jp/4031",
+    "wiki": "https://wikiwiki.jp/nijisanji/Ver%20Vermillion"
+  }
 }

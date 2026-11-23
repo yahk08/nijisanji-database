@@ -26,14 +26,12 @@
     "showSources": true
   },
   "debutDate": {
-    "value": "2020-01-25",
-    "verification": "official",
+    "value": "2020-01-23",
+    "verification": "legacy-unreviewed",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/min-suha",
-        "kind": "official",
-        "verifiedAt": "2026-11-14T13:07:36.734Z"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/min-suha"
       }
     ],
     "showSources": true,
@@ -297,5 +295,16 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/min-suha"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/min-suha",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F5e8e5c93e7fe4d3eb30b14ffe6581ef0%2Fliver-face_Suha_Min.png.webp&signature=P1LvsULmR8mPUPcv2ee9idZ5vY8r1GPqJ0jRsnlBrl5m6dAy0kUef%2FpRfPsRXx%2BFTKyuxL6NuRteXzMcEKkzUB7ZD1k1s%2FspKNNZ7lKeAsljiuw9cawdQl9QqY%2FPIZBeJ%2FMKCLtEr3743fkrVv8KQHbKUbWhpSjRw3BfDaVcuiAxr0o0HPMNwvgh9lXNkEpzbWD7psFwfuInF0A8vIOOQgLp1vG1EQADEH%2FhG3sxTYJH2NV7vz79RIq%2BntVIzTr4lwsaiZhKYplTHBnz7XBYY3G4ppOpAkF1BQBpBXgiIzLrSQJX3gq73dYWuTkllYc8cZsqAmU7RaCPWeK4ig59dg%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/min-suha",
+  "profileBranch": "KR",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A",
+    "twitch": "https://www.twitch.tv/suha2434",
+    "x": "https://twitter.com/SuhaMin2434",
+    "store": "https://shop.nijisanji.jp/3002",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=MinSuha",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E3%83%9F%E3%83%B3%E3%83%BB%E3%82%B9%E3%82%A5%E3%83%BC%E3%83%8F"
+  }
 }

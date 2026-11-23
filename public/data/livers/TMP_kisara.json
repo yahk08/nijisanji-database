@@ -313,5 +313,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/kisara"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/kisara",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fa5e303fc14b94d74bda56acdb673620b%2Fliver-face_Kisara.png&signature=rXQvnstFuYEZcR0F2ROwmCgBtS%2FO70mfE7rw08aJOPdBjYpAzdl7vg7LGfhUvCwexlbhW1onfJdB62oO5uLWViTQnDqPL9%2BUjH9MdYm0bCR%2B5UiK0OTOlcoHSQ4xFKxOLO%2BIANk6YeYy%2BNOsvaWdugmoldBH1dTSS4w5tJiDeixkBbM8m1XyUgXPy7hcXp9DcanBNYOzbGD7tCZq%2B8zuRVJ%2Ff1uSghT1uSi7UBvRKZFjdtUuC0ozeqYrsXsTaQAEfGcjcEFv3A6dARkdnsrQX04bwH8e9c45Evw4Zo%2FO4tcMXfs0xU4qyD5ux2mQAKde48meK2K3y13%2FjnM53cJdEg%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/kisara",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@Kisara_nijisanji",
+    "x": "https://x.com/Kisara_2434",
+    "store": "https://shop.nijisanji.jp/1159",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=Kisara",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E7%B6%BA%E6%B2%99%E8%89%AF"
+  }
 }

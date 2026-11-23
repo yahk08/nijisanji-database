@@ -26,14 +26,12 @@
     "showSources": true
   },
   "debutDate": {
-    "value": "2021-07-22",
-    "verification": "official",
+    "value": "2021-07-19",
+    "verification": "legacy-unreviewed",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/lauren-iroas",
-        "kind": "official",
-        "verifiedAt": "2026-11-14T13:07:36.734Z"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/lauren-iroas"
       }
     ],
     "showSources": true,
@@ -395,5 +393,15 @@
       "xAccountLinked": true
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/lauren-iroas"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/lauren-iroas",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F20a7002d409545f68b235f2dbadda706%2Fliver-face_Lauren_Iroas.png&signature=fOoAak3F7rvUtCOhD1d9LNms0yNZ2WGMCxv%2BKyAAj3ASsMfsJr3kKmzfmjA%2BE3XHhaLVG4%2B9p%2B0%2FUjvbu6rwjWdPrx0XjK2sHfexvQ2nhkV0utFWyNiCef7FgvIGw%2FNLvZswyFwxyYDt60HffgePAaw0JLgLYtgk7APHl69A7IlDrTgP6beVyCPsdU279vDaT86kaL14ehfAYhGKuTuJcoP6A21fPQaMfbCnahk83LNbVm5aXCvYNHL5okFbwVIzmgTReukpDlmGr2IScHzKuD%2BMKTQOHO07H75ixZUZv3HN%2BmvpsqkDJgfX3v%2BBKuQoOmK%2BPS2R0aBvPdc%2F8aKfnQ%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/lauren-iroas",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow",
+    "x": "https://twitter.com/Lauren_iroas",
+    "store": "https://shop.nijisanji.jp/1119",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=LaurenIroas",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E3%83%AD%E3%83%BC%E3%83%AC%E3%83%B3%E3%83%BB%E3%82%A4%E3%83%AD%E3%82%A2%E3%82%B9"
+  }
 }

@@ -248,5 +248,16 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/berry-saotome"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/berry-saotome",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F712d2034f4d24f29ae34ffaf8b55f46a%2Fliver-face_Berry_Saotome.png&signature=bk%2FfqWvM3Dkj8VrEq7kvcWY0WApNEIppA3tN5cSXcdnzNoEvfIn%2B28pfZ59ADHN7LqidnVZ1aSjvl8YSfXlmw1vHXslKFd4MbenU3%2BTYPPiPQSYyiVzQM8DclklQDENikC%2FVT19IO7w2yDs2r2pbtEGOf5HfCkVxR21%2FvnOWaeH8yYMe4%2FOlK92GsSUONDxUKQbVt2RgUz0JOdLJDj145nZvv7bhZ3vHWB5B2GhEFyQ1z72jy3aIjaVJsC%2BrIedhsW71Ez8nY87kXxsQNNe%2BDXZJH05rx0FP0UlJi7gNjngnJjNsEvx%2B3k2c2pwxXkUyX9%2FZPqtupAgY64c0hwhLjA%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/berry-saotome",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@Saotomeberry",
+    "x": "https://x.com/Saotome_Berry",
+    "fanclub": "https://www.nijisanji.jp/fanclubs/saotome-berry",
+    "store": "https://shop.nijisanji.jp/1164",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=SaotomeBerry",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E6%97%A9%E4%B9%99%E5%A5%B3%E3%83%99%E3%83%AA%E3%83%BC"
+  }
 }

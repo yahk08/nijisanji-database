@@ -248,5 +248,14 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/sayo-amemori"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/sayo-amemori",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fa6e0e401536542db95ed616a038d5d6f%2Fliver-face_Sayo_Amemori.png.webp&signature=k2F5pL6BRfL9VVEIK5BpfdlajhULmk9QOssNTHIpI77xhTk%2BOUkdNSCXxttUynHp3UH6XvpJ0V4DhDSblgweGVFgFk6KJ3IptC0fz5Tyzo2gW5gmcnL3mJfq9zzeiwxxoRkqS%2BEysjz4qhE5%2FSFlyraeyAE2zuv%2Bm4nPPYMfOxvnN%2F0hSpjQ%2F01GgvIkI99yrbY%2FLJOdEP3wi1IDOG9bl9quLDGM%2Bzir5UeLiNaNGirOUz%2F9yfkExF9zXJnmXiIv2uwGNfodq6iiqkvMAaUxDNwM8Q1tL4isBXUzxKaWce8%2BZCzwn%2BMhc%2Bk8c6kNoO1DlTXupD8zO2uC1L%2Bak4cfIw%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/sayo-amemori",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A",
+    "x": "https://twitter.com/sayo_amemori",
+    "store": "https://shop.nijisanji.jp/1047",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E9%9B%A8%E6%A3%AE%E5%B0%8F%E5%A4%9C"
+  }
 }

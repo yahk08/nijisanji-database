@@ -248,5 +248,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/mana-hibachi"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/mana-hibachi",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fc1a94fff322a4796833eca994d9d0bf5%2Fliver-face_Mana_Hibachi.png&signature=j31WAoulDzKI%2Bw%2BHlGMlQmXlE%2FwvaZO%2BFg1MX2Fct%2BeoCo9yAD0QBSgZm3Emiv1W4kSSO12RRXoGrjwZ269%2FH2wzx8WATxLd9auco11fUf%2BG1eO5LRnwsIQqXSy1ZNsqG%2FpHrGAYGuQ7R2xlH6HVuC4bwJvYx1TjouNCjvTE1tIXRt553DvlCVfj5sCLZ2pLBMm44gjXVi9joXsf10CCLJHPTpmTeSz2%2FC6cfjyM7IdMCoyJyTq6hbwSYXYGS7hZ7%2FvMnJsGlu4P699gLSqc3ea1Ims1WLAjPm95%2FwW13%2B8konG6XTM5oFxvWqFYizq1VdJIBXsHGqOn8QPrcse02w%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/mana-hibachi",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@HibachiMana",
+    "x": "https://twitter.com/Hibachi_Mana",
+    "store": "https://shop.nijisanji.jp/1144",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=HibachiMana",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E7%B7%8B%E5%85%AB%E3%83%9E%E3%83%8A"
+  }
 }

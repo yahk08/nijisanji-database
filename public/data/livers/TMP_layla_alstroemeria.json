@@ -26,14 +26,12 @@
     "showSources": true
   },
   "debutDate": {
-    "value": "2020-03-15",
-    "verification": "official",
+    "value": "2020-03-13",
+    "verification": "legacy-unreviewed",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/layla-alstroemeria",
-        "kind": "official",
-        "verifiedAt": "2026-11-14T13:07:36.734Z"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/layla-alstroemeria"
       }
     ],
     "showSources": true,
@@ -264,5 +262,14 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/layla-alstroemeria"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/layla-alstroemeria",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F6aacb7c7f40c4d558b3384a026f55402%2Fliver-face_Layla_Alstroemeria.png.webp&signature=P9po7VPSH62Q3lunwVjsv5HLC7GwnVcDIsToMpRqxDt9JDyK73JsxnG96j%2F4vpeX2W18rh5h9W8J0jiARf2HbWkr7be2uwJkjtyB1BxA28P%2F1OpkV9FzQe2xCgFcCgnNcj9NwkU4oIQbMeuTiHjcpB8AJVPI6%2FXZPqlfHwxnQAVDM9gPjkciTU7UBYl5UYL3HohDSq6jNJKtM3k69ihug%2Be3GlxVPH9iEBm9paCAfCwqLRhuQsQauiDwssGR2uSRIvl5X7fR6Bi0y3jy1GRqF8e0qNZ73gM0cZpv3AuwbRJU3JiPCsLt%2FbnR7fP21%2B0HDll2Df7landXTnxhdt%2Fg7Q%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/layla-alstroemeria",
+  "profileBranch": "ID",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCyRkQSuhJILuGOuXk10voPg",
+    "x": "https://twitter.com/LaylaAlstro2434",
+    "store": "https://shop.nijisanji.jp/2010",
+    "wiki": "https://wikiwiki.jp/nijisanji/Layla%20Alstroemeria"
+  }
 }

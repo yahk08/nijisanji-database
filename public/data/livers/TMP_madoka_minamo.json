@@ -207,5 +207,14 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/madoka-minamo"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/madoka-minamo",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F4b9fcaf98c0d4b7f91e2c1ab9be7985b%2Fliver-face_Madoka_Minamo.png&signature=ZKwREX3e9lfrurGey7TWXUwn%2FgLv%2B%2BR4FeifKw2qHoOUGWCGFzbxlrtV5ly%2Fh5cnqJSNRcZkJcT686Ck2cfs6hKrCCppwaHbSGKLnYYHGpSszMbGsM2O4nZxZT%2FUbi4%2Bc3ScIKAQuL1NPrxYx4pf9yQdkgCOXgDaqmdci3FPCWtKn4QiRfrXLZF0pZRvhSolEh1IS353uoAx4hVnjcWhZRWH1LaGfcCM%2BH6fhZvELMDqaS6Q0EoSiJ5x6k4yifSE275dQ51Dvm8Yk677xleiA70bHsiMwiyHoDVSjj7PxIFLG5WpcbvviErtlf%2BksiNLx3AKbwBIdoTUNs3FB1wgBg%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/madoka-minamo",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@MinamoMadoka",
+    "x": "https://x.com/Madoka_Minamo",
+    "store": "https://shop.nijisanji.jp/1179",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E6%B0%B4%E9%9D%A2%E3%81%BE%E3%81%A9%E3%81%8B"
+  }
 }

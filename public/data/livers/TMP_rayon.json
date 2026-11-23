@@ -207,5 +207,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/rayon"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/rayon",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F29d0df78c9b241ebbfd6a0dc3f1590ff%2Fliver-face_Rayon.png&signature=rOWmBHRf0yQgeNpEMlb9pJkVtW%2BPfsI%2Fgc%2B0jA7YDiF5VyVjJbVD1g3jj9pYMi%2FS7n7zD78kABRTiPARAEH7ZW1WspJTVS1Y8qI%2BTzVtWHPp3lbjOsS5yFT%2FTXdYinYPGiF6Vqqb6vHlTP087FNbw6h1EkFXs59W2x3w1nwag85%2FjA4r50fzu9AXDfL0YwRtPO2JI27Kq3MQjSq3KCiG0MNYYfWFKmfsMKek%2BTHfkEwdgQC0xfsBednaNWDeOH%2FxPDynblL9%2BuMQtvDu9vY6BGd%2BbpO9AoLzwEIutupTUXDM7P%2BTCuvxCFDyz9C8MhNkTv6scMr2LyWL1seREKhEDg%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/rayon",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@Rayon_Y4T4",
+    "twitch": "https://www.twitch.tv/rayon_2434",
+    "x": "https://x.com/Rayon_2434",
+    "store": "https://shop.nijisanji.jp/1187",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E3%83%AC%E3%83%A8%E3%83%B3"
+  }
 }

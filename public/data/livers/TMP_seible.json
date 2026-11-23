@@ -102,5 +102,14 @@
       "status": "unavailable"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/seible"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/seible",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fa8766bf970164d168b02dbd7ce635abc%2Fliver-face_Seible.png&signature=ZDJQU8j2wj2Hl1oo9OTQTsGgR9Xm2jNu4m2FogyBSKTtj2KtQAOH0Oi0ShUuYSIMwLsoIh3T9hJngkbIMCiZVX4S53gGH8Z9DbSGNNSxqlJcWHeMFdGoCvAxJjKz18VMJHPrVOBCAZhiQw8f4ECUEa2rYFDro%2Ff8WIWpGaL3iThKmx%2F4p%2BsNnppYGtrGy%2FjND3jahcO2xoI4FV00or4SYCv%2FXbHQMfEx9iqRcVpS9vAXZCA0vK2T9i2xIIUX7pngjJ5kDoBg2OM9wEPccPO%2FciaguK2AG%2FL4hmjKhqN07fnwHpYcX5l%2BlQatpVkNnOUXd24hp%2BPhxVd%2FTgiPtdx5GA%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/seible",
+  "profileBranch": "EN",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@Seible_nijisanji",
+    "x": "https://x.com/Seible_2434",
+    "store": "https://shop.nijisanji.jp/4044",
+    "wiki": "https://wikiwiki.jp/nijisanji/Seible"
+  }
 }

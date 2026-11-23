@@ -377,5 +377,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/kagetsu-murakumo"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/kagetsu-murakumo",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F44eb7fa3087b480dad1ae245db21952e%2Fliver-face_Kagetsu_Murakumo.png&signature=VKHNJ5wd4DMBYeQ3S%2FDmTI3ekriMxm1JuwaJKx%2Bv57dMWrcb9CbiJ6zfjM4RDKVsadl76XQg5fXBGdwcSRhWcLXGpc%2BEaOHq7%2FB0ygsqGVQvVRWjf0DiAQsa%2FwDOuoKN3V5zX9SBeEo9K5N0qyGWKuFIxSjQ33y31ZBMg2A1wgwvCYVPKhKjYYcPCviLCiOtibcot2mrJwxTousPeHJnhwJIyC9db46MpJRQ4IZrZcGC1tGyiBb3VBByE746T0BUKslpOOk8Mspu5833LgTENZ%2F1XfFIE96UDzLUI0rhJ7PDUJ1D8nbhW3UDxwRZYiYUhamgLNIYKNZgMzB2Y9K5Ng%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/kagetsu-murakumo",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@MurakumoKagetsu",
+    "x": "https://twitter.com/Kagetsu_2434",
+    "store": "https://shop.nijisanji.jp/1146",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=MurakumoKagetsu",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E5%8F%A2%E9%9B%B2%E3%82%AB%E3%82%B2%E3%83%84"
+  }
 }

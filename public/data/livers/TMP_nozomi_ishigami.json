@@ -281,5 +281,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/nozomi-ishigami"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/nozomi-ishigami",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fe1a09f9b02084889a165541da18a6c14%2Fliver-face_Nozomi_Ishigami.png&signature=XtSfNOIbVazGab6Y0A1Bws3vZ7W6mfGAxKVv6JGacvy371J6%2FnVA8nVyLj6Ahj1WUVaLTwT7YMEgG1eItODFvo1TVfRjDobmbzMW264Z30xf6zvllGqL2JCuMOyA3lbvZj3rGX06TBjI%2FTt4K85%2B28bTCo6K%2FxUwXee2fh7i%2F7g%2Bc8tVbs8PN3vvTozAoiBLCR%2BGhB77ERSMN8BTPkIThC1kD2jYC%2FrbvnIS5lYPoWLwv5SzKmg2s8pKQa89gWrAhy9EtLLqmEA46uqpqouMit2llwNqrZNtrOxszYgUNbahqVw8Xa2tP9LzXmsJESNTSGxG5FpKxR6LIkPDVaw0lQ%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/nozomi-ishigami",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg",
+    "x": "https://twitter.com/I_Nozomi_",
+    "store": "https://shop.nijisanji.jp/1133",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=IshigamiNozomi",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E7%9F%B3%E7%A5%9E%E3%81%AE%E3%81%9E%E3%81%BF"
+  }
 }

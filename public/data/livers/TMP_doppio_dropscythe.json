@@ -102,5 +102,14 @@
       "status": "unavailable"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/doppio-dropscythe"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/doppio-dropscythe",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F44d559377a9649ddb85df12fcab6421e%2Fliver-face_Doppio_Dropscythe.png&signature=BT5Gme0WozVfMlNRlQQJitkyGeOgHhX6JLbNagQWsMco2%2FeMFm2xT07UqZldLG%2BLIKuOfpnfzecqwqjFYdF3z2DWw%2FH8k3CykS3bqQjFsx89YKv0LoY1uHQOwEJNWJ67DVSpvjUMK1qiJ2eksVep2as9CHFXp2h3QGITe9XJmuJMqaCOFJxsskStoWjrAYDapZ2XATtVLxcz0jsYtYzW9wd%2FTgFaEePRoda3gwQqSTXmP9UeB28uQG7qoVqEhva4X19ESDb%2BYOKWivyX6dbfooNW2NtIJFES%2BpS5rec73lmfy2QHVA9fsGZQ5MgvH4nmZXmWUc6wUJTPr4OVyYG%2FXw%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/doppio-dropscythe",
+  "profileBranch": "EN",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@DoppioDropscythe",
+    "x": "https://twitter.com/D_Dropscythe",
+    "store": "https://shop.nijisanji.jp/4027",
+    "wiki": "https://wikiwiki.jp/nijisanji/Doppio%20Dropscythe"
+  }
 }

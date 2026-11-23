@@ -102,5 +102,15 @@
       "status": "unavailable"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/yu-q-wilson"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/yu-q-wilson",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fd0ee818c0be94a03836c33a5e54dc091%2Fliver-face_Yu_Q._Wilson.png&signature=fN06Mtg%2FGZjjaemYPutTtXXrEKHxEw9Vi9LnrHoKZ29cmj9bfY1ewcFlmMhO1m2FZ2gMiorCeKppTnvbCVuzTslXk3QDmUCSN%2FCIFaT67WvahMUVVPE5TqyP00cO62%2B0yTLV4GMH%2BTpD2PA8P5Bebelzv4IrAEGIafdybIrpG1gIczUigoqeV1IqmrLLAZcOsTAlZ6PeCJkWjju3Uw4BWW5DJvPSkERy4bWEK%2FKLpw7fy3LTan2gzMTkGKVMKwLK97QqTWYk82N2gvYNjPPqb8ysitL83Z4WXqoJ3ujeYafDLojX8ZVHgHHvfHeNbAZLLg5a3Bp5A%2Bm8jAhddYeM8A%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/yu-q-wilson",
+  "profileBranch": "EN",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@YuQ.Wilson",
+    "x": "https://twitter.com/YuQWilson",
+    "store": "https://shop.nijisanji.jp/4036",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=YuQWilson",
+    "wiki": "https://wikiwiki.jp/nijisanji/Yu%20Q.%20Wilson"
+  }
 }

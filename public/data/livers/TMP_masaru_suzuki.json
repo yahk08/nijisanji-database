@@ -26,14 +26,12 @@
     "showSources": true
   },
   "debutDate": {
-    "value": "2018-06-03",
-    "verification": "official",
+    "value": "2018-06-05",
+    "verification": "legacy-unreviewed",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/masaru-suzuki",
-        "kind": "official",
-        "verifiedAt": "2026-11-14T13:07:36.734Z"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/masaru-suzuki"
       }
     ],
     "showSources": true,
@@ -313,5 +311,14 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/masaru-suzuki"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/masaru-suzuki",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F21a992f2a13c450caa01eed8bf092868%2Fliver-face_Masaru_Suzuki.png.webp&signature=f53EwPHXg9RAkvijl3kJhL41JvHVzBRbh%2Bvfh%2FLRFvqullSrW1wUoiNjRConDZ9r31xPlruazE79lEQ5a9g25E4NDKqQRS9MQVkhzhXDB7JmXcAZDZtXcUuvKlP3NK915uQQk%2BCp4RcQ7JZeVhFbPFjmBoB2otN9qQmrmb3QADydLcWm42Bvm7VMHGMKsyu1cqQ3WSEwgtbY7naB%2BtdbtS8BlxZGyr9iHELQ7zEN5NuO9dvjJ%2FIkR%2BhlczIFwqKhPfgGe%2FSLPYKT1tkzGeJIQ61JT03r6FybFeuCfUGKO3FfaTe7LFOKCDRi2yaY6F0tgCf%2BmuT7%2B0tXUT9w1rLH5Q%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/masaru-suzuki",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw",
+    "x": "https://twitter.com/darkness_eater",
+    "store": "https://shop.nijisanji.jp/1021",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E9%88%B4%E6%9C%A8%E5%8B%9D"
+  }
 }

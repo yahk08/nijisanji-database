@@ -313,5 +313,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/yotsuha-umise"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/yotsuha-umise",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fa4633f90873b4427843f95ee84970b8a%2Fliver-face_Yotsuha_Umise.png.webp&signature=b%2Bc4MsE2RMZyJay6c3fQovPhe7f3UVFcLm2Tz33ZxeZ10W%2BkkI58D11AYLR0Zkc077WUD00vwoZN%2Fz5opADVC3d77qFv%2FQAX8zjSKRDT%2Fg1Mfw%2FODGVk194CiKnaALfvx3sHfcx5cBWjTVjo6A7W6vJuxr5gGNVcZ%2B3LNmAP0Myek07dTJ1%2BiYhfSabBKHpRbZPs36ZNkW62h7zE8dyxseEiFsqfw2RbLkElSftg82NXYkMvJTjpuZqnKBy%2FrsE7xAT1VuzbZ2PmxJbHfjsW9Narr8jcB8SIXl%2Bttk6WNgc1RDHxlYGRB6xkEr4TJFczKFG56Hezoxib667NUbX%2BZQ%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/yotsuha-umise",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCtHY-tP0dyykhTRMmnfPs_g",
+    "x": "https://twitter.com/Yotsuha_Umise",
+    "store": "https://shop.nijisanji.jp/1125",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=UmiseYotsuha",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E6%B5%B7%E5%A6%B9%E5%9B%9B%E8%91%89"
+  }
 }

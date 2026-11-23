@@ -8,7 +8,7 @@
   "group": null,
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/manami-aizono",
-  "portraitUrl": null,
+  "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/d6dd2e34c0954177af158ddf7a7ae5bd/liver-full-body_Manami_Aizono_costume2.png?fm=webp&w=800",
   "youtubeChannelUrl": "https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA",
   "youtubeChannelId": "UC0WwEfE-jOM2rzjpdfhTzZA",
   "xUrl": "https://twitter.com/manami_aizono",
@@ -40,8 +40,15 @@
     "note": "公式サイトのデビュー日。初配信日とは異なる場合があります。"
   },
   "height": {
-    "value": null,
-    "verification": "unknown"
+    "value": "154",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/manami-aizono"
+      }
+    ],
+    "showSources": true
   },
   "fanMark": {
     "value": null,
@@ -280,5 +287,16 @@
       "status": "unavailable",
       "error": "キャッシュ未収録（追加通信なし）"
     }
+  },
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/manami-aizono",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F5af8b71bbf0240db97c2345e13ec7f58%2Fliver-face_Manami_Aizono.png&signature=NeU1zlDH0J9wSP5fq8uQKNT8t2ET1VnN1H3TCdglNx0L0lH89qtjpMqG%2BWrHSQ0WsPRH5%2Fp4%2FmvgcEdbqGda0oD2%2FgulUhc0uqrgBZCxfrAnq1L4sdit3ZTbnqO8ZqCfct%2Fhi0E1IQSFQp5eg8i1pBqpSeJku5aYLBv47beIBWgpkgwcbbnx2ZvIQCtcHHZaGtOeSwJoZA1SIdlcF9XLUbPIdJo7UT41pYm59U79fL0t%2FmTm%2BGsKwulBOMCAqYNvIJZdv5NiXhIXWMW3ob9aB4ehpRykee%2FTlJlHsjPjC8PndJAp2b2TTfnAMGnsyW9qmaS04%2BePVfCzQgwJZiQ05Q%3D%3D&w=300&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/manami-aizono",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA",
+    "x": "https://twitter.com/manami_aizono",
+    "fanclub": "https://www.nijisanji.jp/fanclubs/aizono-manami",
+    "store": "https://shop.nijisanji.jp/1073",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E6%84%9B%E5%9C%92%E6%84%9B%E7%BE%8E"
   }
 }

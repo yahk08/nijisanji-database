@@ -9,9 +9,9 @@
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/youko-akabane",
   "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/4f42e66b01cf49b3ba57d864d2ec5500/liver-full-body_Yoko_Akabane.png",
-  "youtubeChannelUrl": null,
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ",
   "youtubeChannelId": null,
-  "xUrl": null,
+  "xUrl": "https://twitter.com/youko_akabane",
   "birthday": {
     "value": "04-05",
     "sources": [
@@ -24,9 +24,15 @@
     "showSources": true
   },
   "debutDate": {
-    "value": null,
-    "sources": [],
-    "showSources": false
+    "value": "2018-05-02",
+    "sources": [
+      {
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/youko-akabane"
+      }
+    ],
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "height": {
     "value": null,
@@ -39,15 +45,15 @@
     "showSources": false
   },
   "introduction": {
-    "value": "オカルト研究部の部長で怪談好き。",
+    "value": "渋谷の高校に通っていた18歳の女子高生。\nオカルト研究部の部長であり、怪談や降霊術などが大好き。\n彼女の高校には不思議なうわさがあり、放課後になると奇妙な古いチャイムの音が聞こえてくるらしい。",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/youko-akabane",
-        "verifiedAt": "2026-11-14"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/youko-akabane"
       }
     ],
-    "showSources": true
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "fields": [
     {
@@ -98,5 +104,15 @@
     "stateCheckedAt": null,
     "videos": []
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/youko-akabane"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/youko-akabane",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fc921440e235d419ab515e49a46ec0648%2Fliver-face_Yoko_Akabane.png&signature=QFeZY4OdG8D7p0YE5%2BDVE384TrTPpN93YJwFytcyvPz35wL%2FbWlanJZNQgFcX9oUbVnXZzgoKaFK5wHTRvwqXCRj2%2BhE1k1Hl21G%2FcCBglh%2F7xFmYBBU7IKi5S6q1SKtN2WLBGiMxjdIIX0IS%2BLXi11PwniXfrAJwB%2B7tHQR1fEswfOgjI5RDHcx3%2BuGZ9WhYMQbHHPqoJfQ%2B27kptAd9IYBw%2Bq6153iq3fPl%2Fgq8CPJvggnm0oHFvHIGkKlA9%2BsxNGVlfAeIDlzfV2IDqZpvYOnTcSovm0TeE4Bj%2BlRdds52hq3OkrfVm2s7vQZKj7X8Rasz9v91WuqU7I0YuXseQ%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/youko-akabane",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ",
+    "x": "https://twitter.com/youko_akabane",
+    "store": "https://shop.nijisanji.jp/1020",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=AkabaneYouko",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E8%B5%A4%E7%BE%BD%E8%91%89%E5%AD%90"
+  }
 }

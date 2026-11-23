@@ -9,9 +9,9 @@
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/riri-yuhi",
   "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/6862b1a0934544f291cd9153c5a3f6f2/liver-full-body_Riri_Yuuhi.png",
-  "youtubeChannelUrl": null,
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ",
   "youtubeChannelId": null,
-  "xUrl": null,
+  "xUrl": "https://twitter.com/yuuhi_riri",
   "birthday": {
     "value": "01-21",
     "sources": [
@@ -24,9 +24,15 @@
     "showSources": true
   },
   "debutDate": {
-    "value": null,
-    "sources": [],
-    "showSources": false
+    "value": "2018-03-15",
+    "sources": [
+      {
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/riri-yuhi"
+      }
+    ],
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "height": {
     "value": null,
@@ -39,15 +45,15 @@
     "showSources": false
   },
   "introduction": {
-    "value": "いたずら好きな未来人の女の子。",
+    "value": "16歳の高校1年生。未来人の女の子。 悪戯好きで、よくいろんなことをやらかす。 現代の電波をジャックして、悪戯の一環として配信をはじめた。",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/riri-yuhi",
-        "verifiedAt": "2026-11-14"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/riri-yuhi"
       }
     ],
-    "showSources": true
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "fields": [
     {
@@ -98,5 +104,15 @@
     "stateCheckedAt": null,
     "videos": []
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/riri-yuhi"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/riri-yuhi",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Ff9bfdda16f1f46159faf7965894c9a1e%2Fliver-face_Riri_Yuuhi.png&signature=n2RjkyZi2vTBh1wHrVpZhopoYYRnv%2FjjzMwkxTIodMwyxLVZ%2FiTa2sOvE%2FXMJFVe%2B%2FGGiUKyegKAt972BM256EBex%2FpsM2YL7NGRIhP3g0vYIQrgDqkSJfpdqeJ2Bft7Ah5Hct2EC0cXhs24vhlq2mekuDjiGjxuPznXFGuZjlALqM%2Bf3aR%2Bk%2F3YVsv9BLqIqPogYt4mp1L0VhdT%2BxfEpo9xoJkJyWE3lHgCquP32Bk1%2BO0J%2BJ%2FPKaZX5uFsvDlxttBw5d5m7mF24ma8R70Xols6GttLaCtnegTL1vFiJ4pqwMl3xcL%2FRZZXDBWCUNobe69VS19RLlpn03Ij2iu3bg%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/riri-yuhi",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ",
+    "x": "https://twitter.com/yuuhi_riri",
+    "store": "https://shop.nijisanji.jp/1012",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=YuhiRiri",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E5%A4%95%E9%99%BD%E3%83%AA%E3%83%AA"
+  }
 }

@@ -9,9 +9,9 @@
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kokoro-amamiya",
   "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/4e3a233d8dae43edb578b7d6fcca9716/liver-full-body_Kokoro_Amamiya.png.webp",
-  "youtubeChannelUrl": null,
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w",
   "youtubeChannelId": null,
-  "xUrl": null,
+  "xUrl": "https://twitter.com/amamiya_kokoro",
   "birthday": {
     "value": "07-01",
     "sources": [
@@ -24,9 +24,15 @@
     "showSources": true
   },
   "debutDate": {
-    "value": null,
-    "sources": [],
-    "showSources": false
+    "value": "2019-08-08",
+    "sources": [
+      {
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/kokoro-amamiya"
+      }
+    ],
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "height": {
     "value": null,
@@ -39,15 +45,15 @@
     "showSources": false
   },
   "introduction": {
-    "value": "龍と対話できる一族の巫女。",
+    "value": "「龍」と対話できる一族の巫女。箱入り娘として育てられてきたため、配信活動を通して世の中のことを学んでいる。\n自由奔放で自分の好きなことに正直な頑張り屋さん。",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/kokoro-amamiya",
-        "verifiedAt": "2026-11-14"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/kokoro-amamiya"
       }
     ],
-    "showSources": true
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "fields": [
     {
@@ -98,5 +104,15 @@
     "stateCheckedAt": null,
     "videos": []
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/kokoro-amamiya"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/kokoro-amamiya",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F96874bf1074c477198deffe96d64c65e%2Fliver-face_Kokoro_Amamiya.png.webp&signature=NdDlt8wuKzC3IWHp6JInH4sau0iHd4GivNXhqGchcPAm%2FjCIdnnjInAsNZUis3GSLFDroiiCgbIjFaSHwEOLTrmCn2cWpwil5zcH9NunQy7h6R8vQN%2BreVhLbF2DTHmrvACEYTnD%2Fmo7sGG7R%2BGwmw3b5weihbGp4cNssrj1g2Ffs9SOXmWhzqhsHLwY0pg1RhQQ%2F1p3%2FFETvNE0TM8uIpXJiRtuqWF0Ewd8r9LbzYIHkC%2Fw45ck8VmReDuRJlbxpxN9lyUPmaOCcOEoLh4RDm91C8Gx6tlJ%2B9swM4Yq3EfDb5LO3o2i1uaTsW3bXJJbHio1mu8mSi8RhrF0FQv%2FCw%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/kokoro-amamiya",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w",
+    "x": "https://twitter.com/amamiya_kokoro",
+    "fanclub": "https://www.nijisanji.jp/fanclubs/amamiya-kokoro",
+    "store": "https://shop.nijisanji.jp/1091",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E5%A4%A9%E5%AE%AE%E3%81%93%E3%81%93%E3%82%8D"
+  }
 }

@@ -102,5 +102,15 @@
       "status": "unavailable"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/vezalius-bandage"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/vezalius-bandage",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fd82003529a8f472c825834942a43c98a%2Fliver-face_Vezalius_Bandage.png&signature=H7939oOzJcwWGcArXO1hjC9XC4ZFWXoPp%2B13%2BAWG3gZkO4Heu2PezArvRAMhtsVX%2B7kB4%2BYqvNHthiqzXY4sp6uIYw50LwqlnVi%2B2LS440bjeBt9BC70Nc7uslYoSPvBF%2BTOk87gQH6ywA9QiDNgVp4Fi8rq0YwxL6QKiEyHEmwmC4IJQF0xjWsbJbVWIHavKGoOjmzVgLWaffl32r8Wauv7tV5%2F4xMPvW%2B8zAFLJbStI1lXo51dC6VqN7%2FJhdpb%2BkCiZgE5a87S7PmXgDQhO1qaOMNmmqIxJy0wVzLnBpmVjyH9WbxEWmRJngsE%2F8f6mX7%2F8mlF%2BZ45NT61BBbJDA%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/vezalius-bandage",
+  "profileBranch": "EN",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@VezaliusBandage",
+    "x": "https://twitter.com/VezaliusBandage",
+    "store": "https://shop.nijisanji.jp/4034",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=VezaliusBandage",
+    "wiki": "https://wikiwiki.jp/nijisanji/Vezalius%20Bandage"
+  }
 }

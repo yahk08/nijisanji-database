@@ -26,14 +26,12 @@
     "showSources": true
   },
   "debutDate": {
-    "value": "2018-06-03",
-    "verification": "official",
+    "value": "2018-06-05",
+    "verification": "legacy-unreviewed",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/sister-claire",
-        "kind": "official",
-        "verifiedAt": "2026-11-14T13:07:36.734Z"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/sister-claire"
       }
     ],
     "showSources": true,
@@ -248,5 +246,16 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/sister-claire"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/sister-claire",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F001f88b9145f495fb158d56550628e64%2Fliver-face_Sister_Claire.png&signature=QxLVxSW1snmyU4re39T%2FjqKeUulpmnic83AgUp5YBdKYKQGTltxuc7hfcHhr6ynnbKgpP4KEM26f9aWFMzd4rIK4mSOmTXjAMkuhbbz6dvXrpczPdUWcj62zXbfd5DtHCikRz2FuyCwV%2B9PXhOtxSZ3BjlHEolSNWzqBMa2DPXHRaUCuyeAsZxvv8MKbse0oidipKnJ3ZWadwJgyWNXn0S%2Bt1eBXo%2BgAAq9%2FqagqCyK2QNNGko4GDw4AMXKPplcsd%2F139%2B%2FvtAjthHKD%2FF11bJkdhGehDrEGslyfVfwl4trhpFOwGtDTsrOdOCgsyfZZVbHC892ZRFwGTHvhC7pLIg%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/sister-claire",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ",
+    "x": "https://twitter.com/sistercleaire",
+    "fanclub": "https://www.nijisanji.jp/fanclubs/sister-claire",
+    "store": "https://shop.nijisanji.jp/1022",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=SisterClaire",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%AF%E3%83%AC%E3%82%A2"
+  }
 }

@@ -248,5 +248,14 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/tsumugu-kataribe"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/tsumugu-kataribe",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fa3ece7130cf946c69697c7a4105b9a77%2Fliver-face_Tsumugu_Kataribe.png.webp&signature=Wxpz2iC8Tvi4mKxJlr7d%2BiqC54L4m8vfUzqBQ7901uYoeeexrQp%2FmN4D3oB5ekW4WIxKviZyou1T2M0pskw6iPDsJSc%2F%2FGi8lEGeHio9rE6OjffwHzLmUoqvNnjPtJ8ikyWMWsN1pkjcv6f8L147DmCDYLxPwfspp1mOEUDB6ZZJ%2F%2FrBWhZQm37Iray%2FMJHHSwkiblsba229jNUAriLb%2FroAfxy6NeD4LG%2BDPtgJL%2BP3OxL0j2DKBfRP463Qpp3Aq%2BzZBnrzUwvpqkbCbkSAQFuPQb2p%2FtzI56Cuuu2cnMiTEbY%2BgfL%2BSC8yEzRiV%2Fao1D5Cvn2LnpQ9YSv6%2FUV5SA%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/tsumugu-kataribe",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCufQu4q65z63IgE4cfKs1BQ",
+    "x": "https://twitter.com/KataribeTsumugu",
+    "store": "https://shop.nijisanji.jp/1067",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E8%AA%9E%E9%83%A8%E7%B4%A1"
+  }
 }

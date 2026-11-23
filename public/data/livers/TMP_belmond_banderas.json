@@ -248,5 +248,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/belmond-banderas"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/belmond-banderas",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Faf124abd3da043268dc7f59162d6e632%2Fliver-face_Belmond_Banderas.png.webp&signature=mmuPXMRykB3BX%2Ff%2BrEwpbnwmKVbJlUtO0yYjBA9iT0P%2Fc2f3JRkAlG%2F7HI8iXQFlPQO%2Bkb8nhvmVaed1by9%2FYdItYs1HTAA26SO8fhtSZ8IVxQd7VxN2dzhlDRrgGZWbik0u68PjKuZ%2BvYn8tp0k50e5aY%2BBlGInnZymRjsbv29ckLtJhOjlRqgdDUnKxqp0mycwHVhgD4RtkJ%2Bb5CE1DEhbk%2FgfguQiS0PEyd4m%2BrnEpN5H%2FFuefRc8UGNHNDdeO8vjJSmCHBmViJmyyL8jnV0rCwZvZm1HIWpl5dvM8IonEIjIOwI%2FHppEq6UmxMgXg%2BAhBdo8wAnqdyfQ6lUeBw%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/belmond-banderas",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A",
+    "x": "https://twitter.com/belmond_b_2434",
+    "store": "https://shop.nijisanji.jp/1056",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=BelmondBanderas",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E3%83%99%E3%83%AB%E3%83%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%83%90%E3%83%B3%E3%83%87%E3%83%A9%E3%82%B9"
+  }
 }

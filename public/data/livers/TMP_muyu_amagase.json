@@ -281,5 +281,14 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/muyu-amagase"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/muyu-amagase",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F93ac3fe993a4417987e983c31c972da8%2Fliver-face_Muyu_Amagase.png.webp&signature=IhP6iLffQaeIPy80eQRo05D6supB5rJojmuaBGco8l1pea5XFI7jrGnbCuPwGPgCj7IGvH8WfS1O5NJrL7bPSQOf0LOw4PP2REKPb5rthfiK5sqoa%2BWjp49bDti8scGceX%2FpTGEEKStJtb0UanUrvWVbfrGashh%2BBPx7EcfF1ifBydycdpipGTzmyvnFK%2BdWVLut3HcU4iBpQ6tBKt6NrONUg09ctuIQzqks7dYGbjDvK1GvRkc4E5z8QsjRvLqHiC1eqe7EA5VrAoMAvjsV2KCx0RwII74q1kiSB0ubCunvD4lZc%2Fis2aB0SJs76X3RV1hs8NZRl1Mv0sIlhH5YnA%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/muyu-amagase",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCAQDFeCTVdx90GtwohwjHzQ",
+    "x": "https://twitter.com/Muyu_Amagase",
+    "store": "https://shop.nijisanji.jp/1124",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E5%A4%A9%E3%83%B6%E7%80%AC%E3%82%80%E3%82%86"
+  }
 }

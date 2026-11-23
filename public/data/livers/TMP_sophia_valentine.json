@@ -248,5 +248,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/sophia-valentine"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/sophia-valentine",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F6489a08fe04c4bfc9e77e652f664ac66%2Fliver-face_Sophia_Valentine.png&signature=OAESy1a4aomJFWqi1nc0vkfc2x0Syy0h5wq%2BlDhxh%2FUZ53e50w%2B4ggszCh8euLjEYxJEbnYVEB1ioTLZ3FhQPi5eFopeVc6qtPrVFa7dss323Ci0o2BR0kgwFAo1XgMUSeg1VU3OBjo5%2F0PPHJWEvP8hv%2B3Q5768wGbin20RszZHb%2FiXU4lmZjB1gtqn2cENCLFcuQJnbZMC3jIr9KnbPAL21%2FooVX2OFwFNypQIYGsOpYcYhugnqAjkaDjI8TOeXLIT99rudgwvL%2BZ767f7bpmSG42JLXf5avzz7vM8AxL%2B3K%2BFxDNccf%2FwsARZ2t18%2FdAGMAMIrWHd%2Bk%2BmmG0s3A%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/sophia-valentine",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA",
+    "x": "https://twitter.com/SophiaV214",
+    "store": "https://shop.nijisanji.jp/1138",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=SophiaValentine",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E3%82%BD%E3%83%95%E3%82%A3%E3%82%A2%E3%83%BB%E3%83%B4%E3%82%A1%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3"
+  }
 }

@@ -26,14 +26,12 @@
     "showSources": true
   },
   "debutDate": {
-    "value": "2018-06-03",
-    "verification": "official",
+    "value": "2018-06-05",
+    "verification": "legacy-unreviewed",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/kyoko-todoroki",
-        "kind": "official",
-        "verifiedAt": "2026-11-14T13:07:36.734Z"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/kyoko-todoroki"
       }
     ],
     "showSources": true,
@@ -248,5 +246,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/kyoko-todoroki"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/kyoko-todoroki",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F72d24f8d5950414294f799c85542681f%2Fliver-face_Kyoko_Todoroki.png&signature=TSka8Ba0VGRlwgLghoRtk7no4mchEKj0uLWdzpBe7mtqpCf1ZejPZGFROE%2B92at4CzDFUswRldjLMF1R16DlgIvt%2BYaWWw0rJKHO%2BGz9%2BHucNe45CdwrZDWcUo9tyZkLZE7eQzexxQ3Uqwa4gpepHbxQjjKwEhFb9%2BpesSODyKflipvbjEAp8xQqhQG81SnH5kldCeTSmRov4GyJnZmtgS%2Fg97oi5bXwrm7h3W%2Bq6Rfrv1rDCi%2ByePlSwZv2otYk5kNa9H0mpggbZEt5lp8aCeMnFRXb%2BRLOf42YhLKcTuvDUorbYBgLXS13vElITbw35%2FPiXphIEQlPNFiNoyKfWQ%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/kyoko-todoroki",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA",
+    "x": "https://twitter.com/kt_seeds",
+    "store": "https://shop.nijisanji.jp/1033",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=TodorokiKyoko",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E8%BD%9F%E4%BA%AC%E5%AD%90"
+  }
 }

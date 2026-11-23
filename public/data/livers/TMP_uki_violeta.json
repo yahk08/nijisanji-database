@@ -25,14 +25,12 @@
     "verification": "legacy-unreviewed"
   },
   "debutDate": {
-    "value": "2022-02-27",
-    "verification": "official",
+    "value": "2022-02-22",
+    "verification": "legacy-unreviewed",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/uki-violeta",
-        "kind": "official",
-        "verifiedAt": "2026-11-15T04:38:58.959Z"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/uki-violeta"
       }
     ],
     "showSources": true
@@ -102,5 +100,15 @@
       "status": "unavailable"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/uki-violeta"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/uki-violeta",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fa3ad52e072e64b8294dee73c0618f00b%2Fliver-face_Uki_Violeta.png&signature=eW4NfzoTbkDFCWwFKvQg301cxdtoG8yYjKky7ScOTlnjd5xflZx%2FoL3DKgf7TinW9oLILKKiryJFZBgo%2BtMCnL9uwPsLADFI4siVoYTLLZFzxzmc%2FYg6fll76eyLac3WJ7e0yj45dOkPgv2WRBel0PIgu%2FW5lrAPb9Yz8o4lmyqj5EEy56UqNVy%2Feuj3popwkI05hj0wBax6go%2BIy0OSqm%2FPnb%2Bka2GRzy0mP2bQHirSAE1t0XlEScMq1JchH7mSgX4VkVVKvioPoA5GdHEO%2FAi5m7YiT4EApgBJH4NFfGbbhz1pEUeCRtVGJrF5yol%2F2vjUESDljwjNeFAE1yYQLg%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/uki-violeta",
+  "profileBranch": "EN",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ",
+    "x": "https://twitter.com/uki_violeta",
+    "store": "https://shop.nijisanji.jp/4020",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=UkiVioleta",
+    "wiki": "https://wikiwiki.jp/nijisanji/Uki%20Violeta"
+  }
 }

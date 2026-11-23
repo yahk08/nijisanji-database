@@ -26,14 +26,12 @@
     "showSources": true
   },
   "debutDate": {
-    "value": "2018-06-03",
-    "verification": "official",
+    "value": "2018-06-05",
+    "verification": "legacy-unreviewed",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/dola",
-        "kind": "official",
-        "verifiedAt": "2026-11-14T13:07:36.734Z"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/dola"
       }
     ],
     "showSources": true,
@@ -248,5 +246,16 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/dola"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/dola",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F2a755bcce89344fbbc50d336af45efd3%2Fliver-face_Dola.png&signature=EdEjySTK4Qz4F6QiouZR207TMe2OFyWv1BGSUBW%2B6ysVzII9FqQCS7QKPwi7yxfsY9F9WPuMbYhUoOmG9y9Dd2R2owfD12iiCINC1dgCGecQPcjyWc41mOGaISpc%2BGYj3sIY1wfCJtSbwMXr7qkgl2SfG2TaYPe%2Bii1YLo5wykG8AEkL91losZCD1T8OMQws%2FrntOh2KflPEqHkLO9Jb1c6bArWNxEv1hBZvJ71CdO0gNzmVqlPmXRFGiw2%2FjHvMW4SjrVlNm21slDY3sv6u2iqVFIFH2cpw181OIMV1Cn49l%2BzEj34T%2FvRf1JbfglTl6CTvmR8py%2FxUjCMXPefMTQ%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/dola",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ",
+    "x": "https://twitter.com/___dola",
+    "fanclub": "https://www.nijisanji.jp/fanclubs/dola",
+    "store": "https://shop.nijisanji.jp/1023",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=Dola",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E3%83%89%E3%83%BC%E3%83%A9"
+  }
 }

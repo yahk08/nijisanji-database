@@ -17,6 +17,8 @@ export type Video = {
   checkedAt?: string;
 };
 export type Liver = {
+  faceIconUrl?: string | null; faceIconSourceUrl?: string | null; profileBranch?: string;
+  profileLinks?: Partial<Record<'youtube'|'twitch'|'x'|'fanclub'|'store'|'magazine'|'wiki', string>>;
   id: string; status: 'active' | 'graduated'; name: string; reading: string | null; englishName: string | null;
   affiliation: string; group: string | null; branch: string; officialProfileUrl: string;
   portraitUrl?: string | null; youtubeChannelUrl?: string | null; youtubeChannelId?: string | null;

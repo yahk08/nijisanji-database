@@ -9,9 +9,9 @@
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kazaki-morinaka",
   "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/e63d7af23e3648fdb7e42339a61a6b5b/liver-full-body_Kazaki_Morinaka.png.webp",
-  "youtubeChannelUrl": null,
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UCtpB6Bvhs1Um93ziEDACQ8g",
   "youtubeChannelId": null,
-  "xUrl": null,
+  "xUrl": "https://twitter.com/kazakimorinaka",
   "birthday": {
     "value": "05-23",
     "sources": [
@@ -24,9 +24,15 @@
     "showSources": true
   },
   "debutDate": {
-    "value": null,
-    "sources": [],
-    "showSources": false
+    "value": "2018-03-15",
+    "sources": [
+      {
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/kazaki-morinaka"
+      }
+    ],
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "height": {
     "value": null,
@@ -39,15 +45,15 @@
     "showSources": false
   },
   "introduction": {
-    "value": "いろいろな年齢の姿に変身できる小学生。",
+    "value": "10才、小学4年生の普通の女の子……と思いきや、にじさんじの科学技術で体の年齢を変える薬を発明し、大人の姿にも変身できるスーパー小学生……！？ 15才や22歳に変身をして、相手を困らせてからかうことも。 元気で活発的な女の子でクマとオシャレが大好き。 色んな姿でコーデやメイクを楽しんでいる。",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/kazaki-morinaka",
-        "verifiedAt": "2026-11-14"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/kazaki-morinaka"
       }
     ],
-    "showSources": true
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "fields": [
     {
@@ -98,5 +104,15 @@
     "stateCheckedAt": null,
     "videos": []
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/kazaki-morinaka"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/kazaki-morinaka",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F3e3e5fefe79c47fe8bfb9601fd027376%2Fliver-face_Kazaki_Morinaka.png.webp&signature=rFQYQYVt1hhD0rYO6nOAOqXLbJAuOfBnNOUQXrmvLUSXQ3xUwuHyozaV1KoWs%2F8pQ97LplkcvsL3vsJkJEdJ5G%2FbIHgq%2BMVKGegv9VmKx0PLIbatt62Evfz60WOziOQzADvdXOEn1MUIgaaB2qk%2FGAcJUUiuCCnUmS0PiRFHkIS7gy%2BGbpfyg3uVb3mdJWUYdQOfbK7mxz4oPJ7LSNWrMjvSLZN0cFc03g8Vhk7aDVuZ4zUpaXTO%2BCilLy3hXnZAKvp4z4lUq6%2BnlMqFWA3Juh1XMvOLXF1H9eInUVWvz4gE7VkkTsxtgI8n2rAkKjjQKg0UH%2BF3ahvjGuNPo1f%2FvA%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/kazaki-morinaka",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCtpB6Bvhs1Um93ziEDACQ8g",
+    "x": "https://twitter.com/kazakimorinaka",
+    "store": "https://shop.nijisanji.jp/1017",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=MorinakaKazaki",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E6%A3%AE%E4%B8%AD%E8%8A%B1%E5%92%B2"
+  }
 }

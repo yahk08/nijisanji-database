@@ -248,5 +248,14 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/hina-asuka"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/hina-asuka",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fd6f703f463bd4882abf19872d5897ea4%2Fliver-face_Hina_Asuka.png.webp&signature=dKv8UESXfjFwevvcHihxatXjDG8FYdW1cN74Dzwcnzs6zUva0kgbhES8CDBc9wENUefQS3guXWzYPzsPqVcs4t%2FdohCKSQQg14%2BMyp0KnyoYzcx%2Bvil9HVMgOqfiS3VNs7KbGyZCpQeue%2B6VRkMn9nWFo4CBkRZ38JQ9zq%2BR67jWv6krr71Hony6iyd0sfDm5CLff3hV5uYHeOZGjPQGGaqvgWyEJLsu75C9QNQzOWNNA99jhYtLvpLbnCAY1kIUibI2%2F%2BZmMe%2FB%2BmxpCZ0FlXN6NPxnrMiF3l7gUYXOaxc3STRt%2BqFURyFX11G9ow7EW0raNue6FJoM%2FZRil0Cewg%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/hina-asuka",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ",
+    "x": "https://twitter.com/hina__asuka",
+    "store": "https://shop.nijisanji.jp/1044",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E9%A3%9B%E9%B3%A5%E3%81%B2%E3%81%AA"
+  }
 }

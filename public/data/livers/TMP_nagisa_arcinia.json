@@ -26,14 +26,12 @@
     "showSources": true
   },
   "debutDate": {
-    "value": "2020-11-13",
-    "verification": "official",
+    "value": "2020-11-11",
+    "verification": "legacy-unreviewed",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/nagisa-arcinia",
-        "kind": "official",
-        "verifiedAt": "2026-11-14T13:07:36.734Z"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/nagisa-arcinia"
       }
     ],
     "showSources": true,
@@ -264,5 +262,14 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/nagisa-arcinia"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/nagisa-arcinia",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F3cf844c4212f463fa512c1c6c27a02fd%2Fliver-face_Nagisa_Arcinia.png.webp&signature=cq4gT6dR12qwfnoPedgu%2FMdLDsywFZxkBDRfkWA%2Bs1UMcFurj9%2BuxeOIjErkTpr0%2Bc%2BM9CMB99kxoeBCGUd1ktr9t4ImYY03cSUSUce7I0JdSgNyVWwzBZS%2BFbWuyC%2FH%2BSldbq2dagSQ8sHeQeM8OcZc%2Fl9VNa42hHMCTlsDTjuSY7LXDPBB%2BUasBAMu1SeGkMFM2I2VbZndBeDkOtyVxt%2BvFP%2BDSq4Gqle4XkJ%2F2FKUVMpOCZ1DRfL7UIOfGhZHmjzIw%2BKf575NmW58oYwpKdmzo6FCPHeoHeTgtVDHw%2B5OK%2Fsls7OS9N1KwxagFX%2FvMM4wrQKUigbBH0cyX2YtKA%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/nagisa-arcinia",
+  "profileBranch": "ID",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g",
+    "x": "https://twitter.com/NagisaArcinia",
+    "store": "https://shop.nijisanji.jp/2016",
+    "wiki": "https://wikiwiki.jp/nijisanji/Nagisa%20Arcinia"
+  }
 }

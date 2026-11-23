@@ -9,9 +9,9 @@
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/sara-hoshikawa",
   "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/0325347d596743e8b07117d2d2e2cdb4/liver-full-body_Sara_Hoshikawa.png.webp",
-  "youtubeChannelUrl": "https://www.youtube.com/@HoshikawaSara",
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w",
   "youtubeChannelId": null,
-  "xUrl": null,
+  "xUrl": "https://twitter.com/Sara_Hoshikawa",
   "birthday": {
     "value": "08-07",
     "sources": [
@@ -24,9 +24,15 @@
     "showSources": true
   },
   "debutDate": {
-    "value": null,
-    "sources": [],
-    "showSources": false
+    "value": "2019-10-17",
+    "sources": [
+      {
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/sara-hoshikawa"
+      }
+    ],
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "height": {
     "value": null,
@@ -39,15 +45,15 @@
     "showSources": false
   },
   "introduction": {
-    "value": "日本とイギリスにルーツを持つ、自称インフルエンサー。",
+    "value": "自分の可愛さを世界中に届ける事を目指している自称インフルエンサー。 イギリスと日本のハーフで、新しいこと、楽しいこと、恋バナが大好き。",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/sara-hoshikawa",
-        "verifiedAt": "2026-11-14"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/sara-hoshikawa"
       }
     ],
-    "showSources": true
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "fields": [
     {
@@ -98,5 +104,16 @@
     "stateCheckedAt": null,
     "videos": []
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/sara-hoshikawa"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/sara-hoshikawa",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Febb66fde318b469a8ef5bff61312730a%2Fliver-face_Sara_Hoshikawa.png.webp&signature=EIDKKxZEFlieQQLsIJDw0ncmOpPodQSr43Tya6gC1I4uG2tt%2FcqCStcI8l%2Fqz43Os2DlGPENNFUkxqMqukh%2FQmpTL1xs6qRFhC4y1V099uewoFZXEoDpYxY0UZ1HaDyApn9MdOM%2BzISabKKrNlTtY5tiPDeDQdRPHamiTvxQ954xASKkdHgQX8XhzmnCCCAeANInVS1tOpej8LRyfOwwUjCun75IyxQLFrRtx0DSfTiggtinqrykEQUoX8zx4hzAdwpBgUGbKOxw0c3tmQBBjwldpV81powhWSZRzBrJi2dThXD0E9cs6MNIxEZ7rAOM4Z0GKVYHwn3N1rrXU6%2Foqg%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/sara-hoshikawa",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w",
+    "x": "https://twitter.com/Sara_Hoshikawa",
+    "fanclub": "https://www.nijisanji.jp/fanclubs/sara-hoshikawa",
+    "store": "https://shop.nijisanji.jp/1081",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=HoshikawaSara",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E6%98%9F%E5%B7%9D%E3%82%B5%E3%83%A9"
+  }
 }

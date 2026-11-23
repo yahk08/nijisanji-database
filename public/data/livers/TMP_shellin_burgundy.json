@@ -26,14 +26,12 @@
     "showSources": true
   },
   "debutDate": {
-    "value": "2019-09-20",
-    "verification": "official",
+    "value": "2019-09-19",
+    "verification": "legacy-unreviewed",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/shellin-burgundy",
-        "kind": "official",
-        "verifiedAt": "2026-11-14T13:07:36.734Z"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/shellin-burgundy"
       }
     ],
     "showSources": true,
@@ -274,5 +272,15 @@
       "xAccountLinked": true
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/shellin-burgundy"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/shellin-burgundy",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F9be70f7ce3534a908efce63118bb7fef%2Fliver-face_Shellin_Burgundy.png.webp&signature=jLZti%2BLhMpV9BK1d2PwzcRqSTSLKomXk6thb9tjYeIKeOslhaB3dKW%2BfUuX%2BSCBzpCN552SMlXTSRiYeAS9lylux31gLnzPoMwAG7ct0ZsK0B1zzCBaZi34cy08qpNPTtASu4%2FeYCj%2BKpdjffL20jrrnbO%2FRLZ%2BW6okdQqXHHjgntFsHpnERq6XLzfqaJoyOC5zUyv8xUEhtoglFYYU%2B2FoB36mDe5RwXEuNMweEfhL6IJj595jlRlOukNCairomPENFOuE7jt2URBWGyIKthkHFPYHJYwqUp3Y7zyuKbvszlEJNh7MaU5Ftlbl%2FX3kMPggdmrtZUIHsCzNSsbscsg%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/shellin-burgundy",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA",
+    "x": "https://twitter.com/ShellinBurgundy",
+    "store": "https://shop.nijisanji.jp/1095",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=ShellinBurgundy",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E3%82%B7%E3%82%A7%E3%83%AA%E3%83%B3%E3%83%BB%E3%83%90%E3%83%BC%E3%82%AC%E3%83%B3%E3%83%87%E3%82%A3"
+  }
 }

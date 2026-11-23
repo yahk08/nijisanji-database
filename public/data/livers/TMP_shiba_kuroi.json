@@ -248,5 +248,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/shiba-kuroi"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/shiba-kuroi",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F63a01a3e31514430b203b973aa97f22e%2Fliver-face_Shiba_Kuroi.png.webp&signature=sIX5WRRX2UM6eeG0zlz2Yep7BGfKvCNNSBJdZ84QXhlUYe56jWiMir%2FlmRuiztUavu4pdxCxnfU%2FfQj7md389NJaM753cRNc0jultSjezJpnv9IfJViikqS6pF6czHRPagGZ6rlUpqK%2B%2Bix%2FvNAMkqFlVbhc0ySf%2FWmO0yZXXNpaVa16U7NdOlbmVkr0PiM8ImIy6%2B%2Bx%2BBmDDX6bEv%2BmkF2Dl4%2B2Vx1HQw1IXY2jNV%2B8ls82Ac71xx5dLjf30BkQ1RD0LRm3biieMi1zTac1n6Kjz0%2Bpxhhjiruhk8057D1SnPQrpxHWIeUUv2WcIxT7ozVA6E80a%2B%2BjK4z9eLuKZQ%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/shiba-kuroi",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg",
+    "x": "https://twitter.com/blackshiba_chan",
+    "store": "https://shop.nijisanji.jp/1059",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=ShibaKuroi",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E9%BB%92%E4%BA%95%E3%81%97%E3%81%B0"
+  }
 }

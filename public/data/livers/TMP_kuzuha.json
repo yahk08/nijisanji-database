@@ -9,9 +9,9 @@
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kuzuha",
   "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/026e3370bbd1436c8f6800abfd151caa/liver-full-body_Kuzuha.png",
-  "youtubeChannelUrl": "https://www.youtube.com/@Kuzuha",
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g",
   "youtubeChannelId": null,
-  "xUrl": "https://x.com/Vamp_Kuzu",
+  "xUrl": "https://twitter.com/vamp_kuzu",
   "birthday": {
     "value": "11-10",
     "sources": [
@@ -46,15 +46,15 @@
     "value": null
   },
   "introduction": {
-    "value": "親の甘い蜜を吸い続けるニートのゲーマー吸血鬼。見た目にそぐわず我が儘で気まぐれな子供っぽい性格で、すぐ調子に乗る悪い癖がある。おまけにかなり現金でお金に目がない救いようのないヴァンパイア。",
+    "value": "親の甘い蜜を吸い続けるニートのゲーマー吸血鬼。 見た目にそぐわず我が儘で気まぐれな子供っぽい性格で、すぐ調子に乗る悪い癖がある。 おまけにかなり現金でお金に目がない救いようのないヴァンパイア。",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/kuzuha",
-        "verifiedAt": "2026-11-14"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/kuzuha"
       }
     ],
-    "showSources": true
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "fields": [
     {
@@ -105,5 +105,15 @@
     "stateCheckedAt": null,
     "videos": []
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/kuzuha"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/kuzuha",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F72c4d4d190f14fb2b865a24596118ba2%2Fliver-face_Kuzuha.png&signature=qFLJwAwsthOsGSjzHM11wtsqUlA3vF8Oc5Q4RSeSdiKklXUYM5MLt4NE%2FjACHTlrrOQXfSwcq%2BRLV1zJ8bOn8SIUjap3Bh1tRJhAVV6q34gx6j9v%2F28uNW7XdWVPBtSwAoDlqGCe%2BlLRL6rUnA0PgvuVgXXyAQ%2FgZl7KDCHOsAEZ1jl4d6Vm9vumyXd1Fo93OJR7hNrXVwDPsmHx%2FyKdrGZTii3vN3JFEUEb3Ede2YEfKyBowNI7Kugx%2FWomxS1piLxyuQ0Yundbn7q5ig4vmxtmbbSp4dNcpYOrNB9aGdRvv1vl5afVVckPAa0R2J4KDVntd1WsNv58j3NOYGFJuw%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/kuzuha",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g",
+    "x": "https://twitter.com/vamp_kuzu",
+    "store": "https://shop.nijisanji.jp/1042",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=Kuzuha",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E8%91%9B%E8%91%89"
+  }
 }

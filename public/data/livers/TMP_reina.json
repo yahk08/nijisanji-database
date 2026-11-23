@@ -257,5 +257,15 @@
       "xAccountLinked": true
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/reina"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/reina",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fd52c689962e940d2b422753e0fecd744%2Fliver-face_Rei7.png&signature=X2Q9UD10p62S4BcnOCyE4eMTJLDHjbVVxUCX4T35TKIiDU%2BN4k0iHg7%2F0QiTqSpZdkJqNpkTWplTfcmhmKpRfH0821meDMxlrfBi75m4NSW9QbNTwplCL0YQj6ik6oLpM7HHjObE4AYMIjlFlCilA5wNbAR1i%2Fi6GhsBKqkuPPo7lhOwvTURphZc3YS%2BAFPEQgHCNLOpIrbFD64rjss%2BVgD1%2FTpqvWnIjsrTt2eZLeiG10Nz791VVBinDY%2FVdTGuMp3gz1JnKf%2BDIQ0L7Cr0vyQk8BEESzlanPxqIvu0cw%2BbvbI7ZHBo62gnLnvLK0LhgCZPqkFhFdkb3NvT9tc%2Buw%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/reina",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@Rei7_Y4T4",
+    "twitch": "https://www.twitch.tv/rei7_2434",
+    "x": "https://x.com/Rei7_2434",
+    "store": "https://shop.nijisanji.jp/1186",
+    "wiki": "https://wikiwiki.jp/nijisanji/Rei7"
+  }
 }

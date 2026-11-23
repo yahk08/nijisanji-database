@@ -207,5 +207,16 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/ruri-shioriha"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/ruri-shioriha",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fa1334987716b45f0875d3ac8c8dd0593%2Fliver-face_Ruri_Shioriha.png&signature=VvosdoLaNTT%2F8hyVmpgQPCQunUepo%2FZ38BVmHm6063YyC70VtQu1DSuoWuQ0BpPHfsJ3iyFSejkkTiVYUZzPfJHxGraUy3SUfqG5L0zeXch%2FFmOp%2FhZ%2BD8o7QtHyqvwo%2FsqrbCQOovjkRwquhvk3mclJZluBYDZsgkKMvvUzFBi8sYazc1lUhIX9rdia3SI64wf3ya8xh%2BFANjpXSUjJ3NqmN4KnRnH6%2FviZ9Ht8zzx0Z5ZSvHJ3oY4El4cQ291RIrXh2uwfB%2FgTwEpJKRAUGV8nEshBiy0f6blzXQOCf5gk9ttMswXnsuG3RcCIEmKkWyVuleYrarDmdfKknK11hQ%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/ruri-shioriha",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@ShiorihaRuri",
+    "x": "https://x.com/Ruri_4ori8",
+    "fanclub": "https://www.nijisanji.jp/fanclubs/shioriha-ruri",
+    "store": "https://shop.nijisanji.jp/1154",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=ShiorihaRuri",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E6%A0%9E%E8%91%89%E3%82%8B%E3%82%8A"
+  }
 }

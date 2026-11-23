@@ -248,5 +248,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/akari-shishido"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/akari-shishido",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fe44d14200fec437eb35361aab7e29e76%2Fliver-face_Akari_Shishido.png&signature=mHRgV1yRN%2B%2Favidjqguy5SEaafheYrlTszI69ORJcyh5130QFc8LUXGndiSXqx1V0evfEwrXLxVmPoMh6SVxh5f%2FqlUKhKgsi4pSAkS4WJ9cSUPy1pNjvyiriW%2FahjvgogvmHbvHOwa0WZDBBLjCPpjt1ZiLA8XXwHY5j2IAsQxE4tNfYiuPAqBGq7AOb8YWvkPU8j5Xb8HHYGIlDIm9x7ODkRPC9nY4qyvTIHl17jQMj%2B8QaNHSzb7e6TlmvqQ0NzrPVSI8eVHdR5IL4wmWGuNHRihX7isOHMC%2FSoM4QeH3gsXDHbDMMt4qgFrZwB0sPpt6lX7IkDfXOfq5WbRNRw%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/akari-shishido",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ",
+    "x": "https://twitter.com/44do_akari",
+    "store": "https://shop.nijisanji.jp/1137",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=ShishidoAkari",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E7%8D%85%E5%AD%90%E5%A0%82%E3%81%82%E3%81%8B%E3%82%8A"
+  }
 }

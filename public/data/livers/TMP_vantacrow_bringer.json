@@ -102,5 +102,15 @@
       "status": "unavailable"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/vantacrow-bringer"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/vantacrow-bringer",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fd35ae95c701a41dfb191ba04f5d6e05f%2Fliver-face_Vantacrow_Bringer.png&signature=gdgQlk3f6UG2jw0uMRG0ozJZRqoq2I2HUszMXPVt0SAD4qXrHqCnpWEKU%2FmFqn1Jz9fBmrdXwawXDrwa8gIxWejTlqIQye4ByQ8ujRPsc9u%2FWuC3JULu49fX%2BXY4pGPXOISnq%2FGDfVXgZNGb5KdeRckdppZ%2Bll1cxzUa%2BS%2BkLHXV3ehUwSThuWYDB4iU51R4H6U7PNhc1wG5vD0E3kAJuD92wFRpCzu%2F%2B5kqbUkbQMMQVonBSEqI4gTwvQdPG4JWQvoGd8kRo83qSf7hbc0aSYKX4m3qDlL7Ss7rkaisPK6vXNwC3CUrU1nEYGzGxxQAxyj4FiD9mfZqynaRYLjDWw%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/vantacrow-bringer",
+  "profileBranch": "EN",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@VantacrowBringer",
+    "x": "https://twitter.com/Tyrant_Vanta",
+    "store": "https://shop.nijisanji.jp/4035",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=VantacrowBringer",
+    "wiki": "https://wikiwiki.jp/nijisanji/Vantacrow%20Bringer"
+  }
 }

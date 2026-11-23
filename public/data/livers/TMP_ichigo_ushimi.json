@@ -9,9 +9,9 @@
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ichigo-ushimi",
   "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/a36b1cdac921468ab192bc1403be118b/liver-full-body_Ichigo_Ushimi.png.webp",
-  "youtubeChannelUrl": null,
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q",
   "youtubeChannelId": null,
-  "xUrl": null,
+  "xUrl": "https://twitter.com/ushimi_ichigo",
   "birthday": {
     "value": "04-15",
     "sources": [
@@ -24,9 +24,15 @@
     "showSources": true
   },
   "debutDate": {
-    "value": null,
-    "sources": [],
-    "showSources": false
+    "value": "2018-03-15",
+    "sources": [
+      {
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/ichigo-ushimi"
+      }
+    ],
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "height": {
     "value": null,
@@ -39,15 +45,15 @@
     "showSources": false
   },
   "introduction": {
-    "value": "海辺の町に住むイチゴミルクウミウシの女の子。",
+    "value": "8歳の小学3年生。海辺の町に住んでいる、イチゴミルクウミウシの女の子。 \nお転婆でハツラツとした性格で、毎日学校帰りに海に潜って遊んでいる。 \n好物は桃色のワカメと、いちご味のお菓子全般。",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/ichigo-ushimi",
-        "verifiedAt": "2026-11-14"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/ichigo-ushimi"
       }
     ],
-    "showSources": true
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "fields": [
     {
@@ -98,5 +104,14 @@
     "stateCheckedAt": null,
     "videos": []
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/ichigo-ushimi"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/ichigo-ushimi",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F3007bd76572d42f19efd70a1f168ebc4%2Fliver-face_Ichigo_Ushimi.png.webp&signature=Yjy3HSbM0BdYsVYl1NOi%2FSWh2aB%2F5t6nEtu4oRNaPp18mcr1Pjmyf1qAdlDLC4xCfF4JoS%2BtWUqI7b0NMllAXs67VpZt8jXUaoabaBD%2FUHXzVSAP608iRg8SAwzeMLdhTIk1SFRuKMKsbJHWOGt%2FblQPmgzLeun7qbRRtXk6Hu6HlIg0usAF9flGKxYbr3i%2BBZfcwM%2BYg6EMK9cDg0EwkdpRmiabpOn59%2Bq8fiv%2FBDnnVSl9WVXnTvtAxxpu%2B68Sd0L48GXeXnZBvD%2BxbiRrPw8J58idQ4hnOnXTHCv%2FLYa%2FF1s4NNn5DyLDV7VAzCkk0CFjRSFSiEJXgUmuNgoUoA%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/ichigo-ushimi",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q",
+    "x": "https://twitter.com/ushimi_ichigo",
+    "store": "https://shop.nijisanji.jp/1015",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E5%AE%87%E5%BF%97%E6%B5%B7%E3%81%84%E3%81%A1%E3%81%94"
+  }
 }

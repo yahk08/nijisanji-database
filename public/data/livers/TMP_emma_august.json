@@ -26,14 +26,12 @@
     "showSources": true
   },
   "debutDate": {
-    "value": "2019-11-01",
-    "verification": "official",
+    "value": "2019-10-31",
+    "verification": "legacy-unreviewed",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/emma-august",
-        "kind": "official",
-        "verifiedAt": "2026-11-14T13:07:36.734Z"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/emma-august"
       }
     ],
     "showSources": true,
@@ -371,5 +369,16 @@
       "xAccountLinked": true
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/emma-august"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/emma-august",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fb9ee06612e6647159a40a668b8d602e4%2Fliver-face_Emma_August.png&signature=PCNd%2B%2FFySG%2Ff6dEeb1JbKOT%2BV4rTMNY4GU6wm6hFpCRiHVTkJjtBuQAFk5i6p0K8Uy96afEs4eEavqVFFHXDxwaSomEwUF4%2BvmzOtt%2B19e3bRH7Ku%2F3s2RVvpRp2qWinEINIXFYhStN4VQnGQw1r9DoX%2Fis0zpTtHJx4BZjN2h8qHPS%2FS6XkDuDJsW8I1nxR2GeFIIeGaaiHphiEQm2hLOmU38PdvWXynreIhGuKfkQ27mhSkowt4CFgByzm%2F5u%2FeIhL0kobhuAi4llyWXW6ChCg1bzULcCVQYEOGCXVAXW4DkDd32GnxerTj4MDEGqxthtGXAbsXDDBj2S%2FWMlcZw%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/emma-august",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ",
+    "x": "https://twitter.com/emma_august_",
+    "fanclub": "https://www.nijisanji.jp/fanclubs/emma-august",
+    "store": "https://shop.nijisanji.jp/1094",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=EmmaAugust",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E3%81%88%E3%81%BE%E2%98%85%E3%81%8A%E3%81%86%E3%81%8C%E3%81%99%E3%81%A8"
+  }
 }

@@ -9,9 +9,9 @@
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/haru-kaida",
   "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/79a8248101f24357ba2be23dc2c62b80/liver-full-body_Haru_Kaida.png.webp",
-  "youtubeChannelUrl": "https://www.youtube.com/@KaidaHaru",
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw",
   "youtubeChannelId": null,
-  "xUrl": null,
+  "xUrl": "https://twitter.com/Kaida_Haru",
   "birthday": {
     "value": "10-25",
     "sources": [
@@ -24,9 +24,15 @@
     "showSources": true
   },
   "debutDate": {
-    "value": null,
-    "sources": [],
-    "showSources": false
+    "value": "2020-04-02",
+    "sources": [
+      {
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/haru-kaida"
+      }
+    ],
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "height": {
     "value": null,
@@ -39,15 +45,15 @@
     "showSources": false
   },
   "introduction": {
-    "value": "皇都で魔の研究を行う研究者。",
+    "value": "皇都でも著名な、「魔」の研究者。屋敷で研究に没頭しており、その姿を知る者は少ない。\n切れ者だが怠け者でもあるため、 興味のないことには関わろうとしない。",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/haru-kaida",
-        "verifiedAt": "2026-11-14"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/haru-kaida"
       }
     ],
-    "showSources": true
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "fields": [
     {
@@ -98,5 +104,15 @@
     "stateCheckedAt": null,
     "videos": []
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/haru-kaida"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/haru-kaida",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Ff5ac57e32d534ade918207d631b43b63%2Fliver-face_Haru_Kaida.png.webp&signature=pJd0uuIFpRPSMd07iYfmOAMoN8Ow0vbBWa7%2B%2FakTyw1jMWtQ6rBh2JRlq78c%2B2wfE2upaSi8SH82xbPTuJPnf%2FpgXDSP4t2F8VFfcxxPiu99aSx%2BKB6mngN7STKgfWTWIcvwWRHdgI1sdj6PP5Jv%2FTRVpA26KzKIxybfJE3%2F%2FqnKQHvEW6g9MQcO9QjVUJ4%2BRlqZLeueAJmEEGZh%2FpmuPIOo9HOO7GYfl85%2BPOEvXJePqE0JzZ8zTjCEyVAyU0k2m6Ae36yQc2RPEatgvv7eLeOd8wJcFf%2FycYQBm3WGpvy%2BkB%2FDfzWBQ%2BfoJV1UZQHvpbunv1%2BJ2uvphEUETQlqWA%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/haru-kaida",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw",
+    "x": "https://twitter.com/Kaida_Haru",
+    "store": "https://shop.nijisanji.jp/1112",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=KaidaHaru",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E7%94%B2%E6%96%90%E7%94%B0%E6%99%B4"
+  }
 }

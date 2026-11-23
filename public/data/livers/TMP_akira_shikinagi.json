@@ -345,5 +345,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/akira-shikinagi"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/akira-shikinagi",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fde2e34f9584544fe882846f24947226e%2Fliver-face_Akira_Shikinagi.png.webp&signature=rUolnWaDerJJCYiWhRNLVsR3MNiuiHyaLX8h60IX0g2r7iS3PpzpcPL4OWBztuIzezVRXQg160Xqz9aWTVTMJ%2FYLbHulj9rzbALf9wRnP1alI40DEnkRY23L5LBs%2FBmpKMZTbAXkWpOqomhG64iQW6FSdpN%2BuZzFqncV1GiXRxIj4YJCDQNRiunLsAD4wSs5SY8VU8i2UI1RDSoa7iQvvV3s3ObOxm3zTf%2Blv%2BQX6DB77LHHELxS0qjqy2EPY16UHtjOaEnREHljEhVzkhy0%2BVXUD1ZmNadFxreskGLyLvvh5V5INBtsSl3pL43hY2m7%2BdDbmP0UvktuMMv0kEKYGA%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/akira-shikinagi",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg",
+    "x": "https://twitter.com/Shikinagi_2434",
+    "store": "https://shop.nijisanji.jp/1130",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=ShikinagiAkira",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E5%9B%9B%E5%AD%A3%E5%87%AA%E3%82%A2%E3%82%AD%E3%83%A9"
+  }
 }

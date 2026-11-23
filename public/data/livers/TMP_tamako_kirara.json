@@ -207,5 +207,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/tamako-kirara"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/tamako-kirara",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fe3730f9f6b6f4428a0f5d9d135e0b1f8%2Fliver-face_Tamako_Kirara.png&signature=iZaPYc9oPOy%2B%2FwUokgrWzhCXZkkUJiNceyM0Tq2SkMxB%2BvN0yjd%2FQGtnFCFK%2Fx8jYs5v3cQgf6U9l575RGFVeoXAoYMrUt3mAJmg1F38EQ3bGVHYiT%2FXQ6QiQJ44kfzpc8Ch2gF%2Bt9UYwzNRXIAK1ZpixPv%2F1Vn1xt0Jv%2BEBYt%2BOaym%2Fd5u3D3OQtlnsOoxsNOrzE7wlBAOu4w%2FPgE3xawMaOP%2BNvBP0a6RreNxSNV%2FaR6CRwJGNAjDwgtLkx3Dkp0gQHf1UCwHEKkucjQR6Wa2FpuIOaLp9dSrwT1z8CcT55VvEP6TI2ZDXmYkAfHChZqF272PLUJwepoLYL%2B%2FOVA%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/tamako-kirara",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@KiraraTamako",
+    "x": "https://x.com/kirara_tamako",
+    "store": "https://shop.nijisanji.jp/1163",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=KiraraTamako",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E9%9B%B2%E6%AF%8D%E3%81%9F%E3%81%BE%E3%81%93"
+  }
 }

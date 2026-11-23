@@ -207,5 +207,14 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/pomelo-punch"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/pomelo-punch",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F142fe456d0f84480bbe94bc25e34fc18%2Fliver-face_Pomelo_Punch.png&signature=sR0DV7n0uZPHib0DcC0Ya7tx9EsJ0MHZIAw1HWerb3xhyyXpUw6H1im0DEDMt4cUrlXtOvYk602Mz7MZzGVnPhFnbaFUHr6rDzsFQgsjzQSEY91UV65KCQzZlFY03M3LQxBJZTmNpR5zYTP8Bu84kipRUzDh8zhoRIXvhrQ%2FAcEB3bhCMcvM0keXZTaIuGsDy3%2FAxNsBZEK1JHnyXEDNDQphdRl9oI%2FWbpgMDb0a1LXZxlmozPCNnQyW2ly9NdEmrBVL1fQ5J4TlDp6wCxosdpQgH2Sw2AWeSp%2FTUP85cmt1RTUaiT3JFhyrvne7a4Kyj%2FfnlbOJxv2fEZAYfEi20w%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/pomelo-punch",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@PomeloPunch",
+    "x": "https://x.com/Punch_Pomelo",
+    "store": "https://shop.nijisanji.jp/1189",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E3%81%BD%E3%82%81%E3%82%8D%E3%83%BB%E3%81%B1%E3%82%93%E3%81%A1"
+  }
 }

@@ -248,5 +248,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/sango-suo"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/sango-suo",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F1df05d7e85a6468192f664ff258903f8%2Fliver-face_Sango_Suo.png&signature=LaAcjz8IYEGLlnbGhSqTL5zQwSxkp6ARFmiLGcLIk88JPeZX042tEYSF%2Fv9nOoOSLi3LdVUsQpTM0Z%2BqDwkJbUB%2FEsGn4kfmMGnKN0li4hJ%2BiVK6J%2FQJLax43A8Q%2BaaZ8jbrNcts%2FgUD0n0qCnoND1jkdDl37kbagBtVMXi%2FHc2Dm2Pva6JiAdQs%2FlRBuFfn17w1SEPIl3XmTmYA2RADrl%2FBh0P7JeokhjqDHpB0%2F%2F46q51E%2Fy8salBLE%2FEkK5ZyGbw02pMvOdaOsaqpAWkORVKFiMXShGDsGLwDQ1RC4Ila72F6zQI5Yswm4LfIiokSrP%2B0Nm8GfCzA4Xpbsqi3mQ%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/sango-suo",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA",
+    "x": "https://twitter.com/Suo_Sango",
+    "store": "https://shop.nijisanji.jp/1117",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=SuoSango",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E5%91%A8%E5%A4%AE%E3%82%B5%E3%83%B3%E3%82%B4"
+  }
 }

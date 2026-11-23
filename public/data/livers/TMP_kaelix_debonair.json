@@ -102,5 +102,14 @@
       "status": "unavailable"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/kaelix-debonair"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/kaelix-debonair",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F6d3794aa4a0b46de802ee1dda99dc0df%2Fliver-face_Kaelix_Debonair.png&signature=RdipdwJ2jDEkNO2Ei4vYUpfrwjkHYRYXv0l1%2F76rosC7KGXEYeRW20k43GRPDrlCyySG6TfnBX2Wg94hbgS17EV247oHqN27ENkd4q90qQ4xC3ptlA0oPQaQVCMb9YZf%2FzU%2BNQqd2eqO1%2BYmhlu25PM8SopzzclRr%2FuDmgB%2BA7aa4LaC7BqXbrUd%2FN%2BrmFdYUf8V4MLJlZQcQNWNnPbZhNqz9uF3p3UIfkFzT9%2BvabpxBadrwgFFF%2BLGqQZ%2FTd%2F93sUErnbIBTFPGMN5SgIK8Kl6Fjau6rlbuDgieNSYS%2BQbTGfO%2Fd5fEYmRxNqz%2BGby0GovGaIK4p8B1XAHjqOl4Q%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/kaelix-debonair",
+  "profileBranch": "EN",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@KaelixDebonair",
+    "x": "https://x.com/KaelixDebonair",
+    "store": "https://shop.nijisanji.jp/4046",
+    "wiki": "https://wikiwiki.jp/nijisanji/Kaelix%20Debonair"
+  }
 }

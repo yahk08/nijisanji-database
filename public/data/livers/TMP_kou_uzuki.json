@@ -26,14 +26,12 @@
     "showSources": true
   },
   "debutDate": {
-    "value": "2018-06-03",
-    "verification": "official",
+    "value": "2018-06-05",
+    "verification": "legacy-unreviewed",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/kou-uzuki",
-        "kind": "official",
-        "verifiedAt": "2026-11-14T13:07:36.734Z"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/kou-uzuki"
       }
     ],
     "showSources": true,
@@ -250,5 +248,15 @@
       "xAccountLinked": true
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/kou-uzuki"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/kou-uzuki",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Faf6b8193430741f8b5633a2ffa4ab9dc%2Fliver-face_Kou_Uzuki.png.webp&signature=o%2BNAK50bULNQKZo0VYPaLYOy6gJZz1Cd7PjeOJl3Rn0BIh1Pd8DwoaP3FU29AgNnZc36CC%2BrCXLx8ri9UM3ovZiP2pehdcX3Qk6DTk5JoPfeo676YzdEkeOPOXMdHP%2B8lWJN4oHWl4x%2F0Scuo5mHjeQdsuSfliohyOFHZVEWTSXz9fUQ68uJiXHZCblnuEBG%2Fuk%2Fi9CbMonQOEG1OJYc0sd8brDAVdGvL6QDlprkzBf8RmHimaCtK93OTRvTdKK2QzdcHi4jstqdFNp98RaqTXP7tWEHrgaPPHQKtX8PgyVcvUqvMcrWjngp5oTp6ZSWSU3bFcmcBo%2F9au31apXNsQ%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/kou-uzuki",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A",
+    "x": "https://twitter.com/udukikohh",
+    "store": "https://shop.nijisanji.jp/1026",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=UzukiKou",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E5%8D%AF%E6%9C%88%E3%82%B3%E3%82%A6"
+  }
 }

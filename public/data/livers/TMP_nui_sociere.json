@@ -248,5 +248,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/nui-sociere"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/nui-sociere",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F4643fd371d974cdb93f07e9aa80d1fd0%2Fliver-face_Nui_Sociere.png&signature=DvsRo52pfr0YpfOZswrPSaY2TJML4I0anYlbVTh6GSaTeq52bzMtXXWHY%2FNJhAEU6nO2xdNL6CebUMsiFVLgxQWgThD5rTVeO%2BAeX4c8TglIYFDqJdij42jYvNujh5hjEv8CLQizx%2FcZHwYugGqMQAATjGgcGNaiHqO0Ok%2BQG9bF%2BLr5xoyJYhhZq1f6AEeReKMufu%2Bl3INYPJ70D%2FgjYh%2FRffopwe%2FsRZ4boPnNns1NDey2H9qRh7m2l69A7z%2FWsVR4N5p2KBAx0%2FtQGNjGw%2BgW7uYxlRNrN%2FCWq4phVYb4sZs6rrVV1TiEmjfw8%2BE9%2Fz4V7z4%2BWzNVhCQXBXSAXQ%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/nui-sociere",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g",
+    "x": "https://twitter.com/Nui_Sociere",
+    "fanclub": "https://www.nijisanji.jp/fanclubs/nui-sociere",
+    "store": "https://shop.nijisanji.jp/1084",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E3%83%8B%E3%83%A5%E3%82%A4%E3%83%BB%E3%82%BD%E3%82%B7%E3%82%A8%E3%83%BC%E3%83%AB"
+  }
 }

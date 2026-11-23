@@ -248,5 +248,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/himawari-honma"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/himawari-honma",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F977cdefa720e4035b71e580692316190%2Fliver-face_Himawari_Honma.png&signature=qc8MhKC16Ey%2BleedrBs%2F8EnuF3cRPyYtrApZEUFx0f6HzeyeSHr5XZrwXRMdDAL3%2FP47NBNxIMylQBOW8uBYMi3tFc8ZDY0YiAWt6n63DFjFkFHxIo1DpdFzTjX3t1juGy0XpXZAXLCFu89cxLGobH3y%2F7nVD9wxct4y7erf3JEow7hLIg9DIcNu4MtUg5C%2F4UIRbJKt6nvPcPSZfrXS1bl6uQWnBOfk4WOr6vpjH92Ek72OKbl4S6ItfkkEWa%2FqLGc5PMMg%2F53Fa2eureyFhB3jv0SVsAgLMZhADh6uWh9D9v3DyTRDS6Cd2lWNEDNXJLbUrYi3HK8pqY%2BmMfeK3Q%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/himawari-honma",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w",
+    "x": "https://twitter.com/honmahimawari",
+    "store": "https://shop.nijisanji.jp/1036",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=HonmaHimawari",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E6%9C%AC%E9%96%93%E3%81%B2%E3%81%BE%E3%82%8F%E3%82%8A"
+  }
 }

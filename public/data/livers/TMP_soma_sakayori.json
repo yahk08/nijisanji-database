@@ -207,5 +207,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/soma-sakayori"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/soma-sakayori",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F9bb7b450ba15434aad0b137ad0b4232f%2Fliver-face_Soma_Sakayori.png&signature=I8sFAtdMldVfvP3I1VVV7o3wXSSIVpWiY3ulTQslOdtZmta0XZzna%2BHENJtF3vgCD%2FeSCx%2BLWtGgBdWB8XuM3el%2BCOY8fdf73oq4i6hS24ZwbaaMzH30OxsUXyBISKP2dH5AxoSre0uXgBZ%2FnmuEJz7WfbfWK9N5vZhKtvy4OkgCb3P%2B6wrsoeuvUKjVVILC3JErIyzAmXTph2fXSk8PII6nSRyi29hRPh4ePI8Wd6ycl6YggaD0dHas1hH4WDc4xaArG9qekwhj40DPoevBGBEBhLOIFFNf%2FbQCS3%2FPpJ4FtkO6Xwz2oY%2FvxRKOjxk8%2BsbRGLHD29M%2F75VaiJ%2Ft1Q%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/soma-sakayori",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@SakayoriSoma",
+    "x": "https://x.com/sakayori_soma",
+    "store": "https://shop.nijisanji.jp/1165",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=SakayoriSoma",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E9%85%92%E5%AF%84%E9%A2%AF%E9%A6%AC"
+  }
 }

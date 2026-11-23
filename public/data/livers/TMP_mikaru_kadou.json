@@ -207,5 +207,16 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/mikaru-kadou"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/mikaru-kadou",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F2fabd91950cc46d19be06392a8654708%2Fliver-face_Mikaru_Kadou.png&signature=pbw39352KCf2EpTnt8Sdb3%2FgRc3fRM29GaIbawPDAEcXjbzTTIXo9hof3Qp3U0hdP%2BJoSPnAs%2Bgbon6Hue9i6Zyrt7j1206w7POJTOFnQTlcIMZyZqYQEVsTFbKKezCNmjYCSanGsI32oJz%2F%2FPji9AQZGMA7fI67ke0bl7%2B37xVRyYPdABThDW9FAME41Xb9hwFBbsR58MWEXRx8s42hDKWIuUgi4%2FmsPo99H8zB3T3YKdyTe4udIWr9VOS1NHXIvKi7Jne%2FsdRcrKMbV2VgARaOxhcemTPGF0lehnoR31eDWliMbUMzQQSr9tSj%2BHPD%2FePoJKeC0y%2FdfFUP%2BsBlKw%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/mikaru-kadou",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@KadouMikaru",
+    "x": "https://x.com/Kadou_Mikaru",
+    "fanclub": "https://www.nijisanji.jp/fanclubs/kadou-mikaru",
+    "store": "https://shop.nijisanji.jp/1170",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=KadouMikaru",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E8%9D%B8%E5%A0%82%E3%81%BF%E3%81%8B%E3%82%8B"
+  }
 }

@@ -313,5 +313,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/nei-ponto"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/nei-ponto",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F08a0455940404ccfa11a8c9d6a4538ad%2Fliver-face_Nei_Ponto.png&signature=SM88Ey3Woz2MEDtUjocUn34Wu9TQ5kGR0YCgQMr%2BQQMhzhuvJVV5R5HtqtVZ0YwQo9OE%2BvBS58jRkmJ63FVZzdZH8z5zhQJYL9hbm6jiS%2FdgHI4pNkhtrqA4nLgdJZgbfB7FKuEXkpVOmRkCyq0M0U9Is9ajP6%2FfzfBVlD3oiQ02IEFfybD4sVLwnkXcHknccuR4ZeJDNHJ0Ig4GbMlSQdlUVrMUd84ua0a03wxNAgHLesVuKEtI378eyvFUNIKSECBQp1BFlOqvCBSvmrQsd2utu67oOM2%2F0akkoKXSMImGd40Hzm0UlTQKRiKpFN0pOUnNJGCYr%2BwZiPZGFcS3sQ%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/nei-ponto",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A",
+    "x": "https://twitter.com/ponto_nei",
+    "store": "https://shop.nijisanji.jp/1126",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=PontoNei",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E5%85%88%E6%96%97%E5%AF%A7"
+  }
 }

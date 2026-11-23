@@ -9,9 +9,9 @@
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kanae",
   "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/c22012c1710143cbabcf3e2d2bb9a7d1/liver-full-body_Kanae.png",
-  "youtubeChannelUrl": "https://www.youtube.com/@Kanae",
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA",
   "youtubeChannelId": null,
-  "xUrl": "https://x.com/Kanae_2434",
+  "xUrl": "https://twitter.com/kanae_2434",
   "birthday": {
     "value": "07-07",
     "sources": [
@@ -46,15 +46,15 @@
     "value": null
   },
   "introduction": {
-    "value": "突然天使の如く舞い降りてきた超癒し系男子。そして猫のクッションを両手で抱っこしている。話し方もふわふわしている。学生のように見えるが普段何をしているかは不明。甘いボイスで、聞いているこちらの心が洗い流されるようなトークを繰り広げる。",
+    "value": "突然天使の如く舞い降りてきた超癒し系男子。そして猫のクッションを両手で抱っこしている。話し方もふわふわしている。\n学生のように見えるが普段何をしているかは不明。\n甘いボイスで、聞いているこちらの心が洗い流されるようなトークを繰り広げる。",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/kanae",
-        "verifiedAt": "2026-11-14"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/kanae"
       }
     ],
-    "showSources": true
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "fields": [
     {
@@ -105,5 +105,15 @@
     "stateCheckedAt": null,
     "videos": []
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/kanae"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/kanae",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fba94d70307e344b083ca0b50fb733659%2Fliver-face_Kanae.png&signature=D3tm%2BF4xwD7bFelHrsWXBtuJWnQQNUZ06f%2FvR7dz%2BUuzNW3FnWLBC2%2Fg9dVOiZgaPo8AapTmMpw7RFDpNSHyRPDXYNLA9kOr4i9XfPsOY95s92ssbQSAc1UM8cb7wOMhmo0akpJef%2F58FA4FctV4tkw28h46qa65hu7E0kw8PtS6YDGIjo0rcpmDAEo21quAxm8X3nGCNv6wmKxJT9gZR4VLrXjLPp2BLLYeQ5sa49F6pWnH0hBEhmWpScxjdJhKNPk0xxyIFdFtRUF%2FG8%2FBGN%2Fj5eMUmz3xsQlNi7zCigr9WRbzHUP0q%2FsTERXiMzy3AziZZBjhec95cnNoezeqVw%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/kanae",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA",
+    "x": "https://twitter.com/kanae_2434",
+    "store": "https://shop.nijisanji.jp/1019",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=Kanae",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E5%8F%B6"
+  }
 }

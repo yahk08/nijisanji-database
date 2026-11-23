@@ -25,14 +25,12 @@
     "verification": "legacy-unreviewed"
   },
   "debutDate": {
-    "value": "2021-12-20",
-    "verification": "official",
+    "value": "2021-12-17",
+    "verification": "legacy-unreviewed",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/luca-kaneshiro",
-        "kind": "official",
-        "verifiedAt": "2026-11-15T04:38:58.959Z"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/luca-kaneshiro"
       }
     ],
     "showSources": true
@@ -102,5 +100,15 @@
       "status": "unavailable"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/luca-kaneshiro"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/luca-kaneshiro",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fa69e253aceeb4ea2aad124963263d1f3%2Fliver-face_Luca_Kaneshiro.png.webp&signature=Xf%2BVP5QW%2FWKXHbuRVZK%2BhHuAbKQpX0W0zMQD5pdaWDfYoxzb4%2BtyItgELMZd%2BeRM%2BlxOS%2B1wju6mFlTUGiv8pVQo8qaCmFT9yoIXvZYC4gIWz4dlDXcdm%2Fxj3CCzL%2BvdOEetDcjmHAaJBnKPyQLvfpeP5NY8yPw8IZxvoNKtubs9uZBs%2FheJbpzIcwt5XGog2OEapKRjdJi06bgZ%2FgPFju3B7eOZdf3Vj960KDxsBJ6GMa1NNCzJ7aKAF9%2BwQPw1257vSd0L%2Fr8A%2BvGqsug%2FAtMfXh8epgdYFSKTE7ikMc1sXOcS82zCy7P7i1ACSldyMIHYTHWi5iPuihikhkDh4w%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/luca-kaneshiro",
+  "profileBranch": "EN",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UC7Gb7Uawe20QyFibhLl1lzA",
+    "x": "https://twitter.com/Luca_Kaneshiro",
+    "store": "https://shop.nijisanji.jp/4012",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=LucaKaneshiro",
+    "wiki": "https://wikiwiki.jp/nijisanji/Luca%20Kaneshiro"
+  }
 }

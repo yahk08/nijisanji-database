@@ -395,5 +395,15 @@
       "xAccountLinked": true
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/kanato-fura"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/kanato-fura",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fb0151287da7d40e4b3d80ce499838785%2Fliver-face_Kanato_Fura.png.webp&signature=mzamB%2BECN5Jb0QXV9aHVfT96ua04U0vETtnA4nju8Hrbdn2YyRsD5ryDUEOV32Qdswe%2FkN%2F3jCCZTuHvNxn%2FgN%2B%2BYpUTV%2Fo%2FN%2BqOdQdjiiB%2BMAD6Wr%2FhOeIYfNVZwnNk%2Ftu%2FpjYzNSDymT6TqYRJrLJIHGo6Sxkdh72Qz7D0kBxZvfnzFeLhMg71VnldCY6v4tI794931QoYWInD871AjBwr9m5VeOtQmbJysEKM5ZVPYSUpDlaBlMhM2Y9YUAvpEyhXjl1UOBvBeFjn3GdCLKBIvlZ7F6o9K%2FSqZQB7naUzwGpGA1aBIDmF9YTNBAW9KXficT495OZe3OlfBbC9fg%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/kanato-fura",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCC7rRD6P7RQcx0hKv9RQP4w",
+    "x": "https://twitter.com/KNTFR2434",
+    "store": "https://shop.nijisanji.jp/1128",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=FuraKanato",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E9%A2%A8%E6%A5%BD%E5%A5%8F%E6%96%97"
+  }
 }

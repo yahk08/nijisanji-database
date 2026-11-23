@@ -26,14 +26,12 @@
     "showSources": true
   },
   "debutDate": {
-    "value": "2020-11-13",
-    "verification": "official",
+    "value": "2020-11-11",
+    "verification": "legacy-unreviewed",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/derem-kado",
-        "kind": "official",
-        "verifiedAt": "2026-11-14T13:07:36.734Z"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/derem-kado"
       }
     ],
     "showSources": true,
@@ -264,5 +262,14 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/derem-kado"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/derem-kado",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fdd96bf7da87140e0933208d93a664cec%2Fliver-face_Derem_Kado.png&signature=JVjQ49ixrkTiYujOqPpoetNWvg6HduCBbasXfqdltsJ%2BVstTT90ZnqpU3fctiojGlMIoxt9jEcdy10eq6YDA1ID%2BG8AXKrWzjrUmWHfmGhQDKLckrzXHqYNgq7x%2BosXT41W1DXScmgsbCVq4NBQfYQTxjjL2UfClpmBXZNqGCGjZe8%2B9Yb%2BZETP%2B3rWBf%2FAoFDYR3%2BbODlYib42Ff%2F8G6aArOWYKg2ffTzOZOINYnggU0V5Xgkt87yfz7VPKMCzBl5uPB9TLI9JSUuBG2lK%2B5QIzzhjx8KZhA8vOy25c1Mj9K4DyAVs3aVU53tmyeMu6HavkjZzWIRG8lBOFB4cBtw%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/derem-kado",
+  "profileBranch": "ID",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA",
+    "x": "https://twitter.com/DeremKado",
+    "store": "https://shop.nijisanji.jp/2014",
+    "wiki": "https://wikiwiki.jp/nijisanji/Derem%20Kado"
+  }
 }

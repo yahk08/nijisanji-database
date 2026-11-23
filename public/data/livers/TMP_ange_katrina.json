@@ -9,9 +9,9 @@
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/ange-katrina",
   "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/9621c6474a884751a176ee3e706fdd73/liver-full-body_Ange_Katrina.png",
-  "youtubeChannelUrl": null,
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UCHVXbQzkl3rDfsXWo8xi2qw",
   "youtubeChannelId": null,
-  "xUrl": null,
+  "xUrl": "https://twitter.com/ange_katrina_",
   "birthday": {
     "value": "09-30",
     "sources": [
@@ -24,9 +24,15 @@
     "showSources": true
   },
   "debutDate": {
-    "value": null,
-    "sources": [],
-    "showSources": false
+    "value": "2019-03-22",
+    "sources": [
+      {
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/ange-katrina"
+      }
+    ],
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "height": {
     "value": null,
@@ -39,15 +45,15 @@
     "showSources": false
   },
   "introduction": {
-    "value": "錬金術の研究に夢中なライバー。",
+    "value": "ボロボロの小屋で時間を忘れて錬金術の研究に明け暮れている。\n大人っぽい女性的な体に憧れており、実はその研究をしているとかしていないとか。",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/ange-katrina",
-        "verifiedAt": "2026-11-14"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/ange-katrina"
       }
     ],
-    "showSources": true
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "fields": [
     {
@@ -98,5 +104,15 @@
     "stateCheckedAt": null,
     "videos": []
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/ange-katrina"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/ange-katrina",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F15670f33fae545de9fc5dff585be332c%2Fliver-face_Ange_Katrina.png&signature=L6NjSs%2BzlXi3gxN888aLfBl2MENji3OtQmniJQgIuoIn%2BCOkf3%2B2ILrgqcYscBfusNoOW2LPS8iZMiyLNU%2FkIKtC9nfdcO2bcURJW4EbBMMqpKQ67plX4uYXEgH6mwzC1HjoXiHmzBNfUlsStalBSZra5VOXWFLpiRjTZoCS%2BzKRtYl6sXs96bcMdaVINPJ4A0W%2BCy8E0ksS0HJW9hfLLmjByoavy1NcI6b11%2BZjJWTaAUPlgnKWRL2yU8MKh0yMXWbHUbhcFHlgqaHc26FqrfoMOO8koOhiDnj1pft720vfGeG%2Fed0ZZAkp39THNaGXFZb6rbBbaWJaDQWuKXXNvQ%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/ange-katrina",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCHVXbQzkl3rDfsXWo8xi2qw",
+    "x": "https://twitter.com/ange_katrina_",
+    "store": "https://shop.nijisanji.jp/1068",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=AngeKatrina",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E3%82%A2%E3%83%B3%E3%82%B8%E3%83%A5%E3%83%BB%E3%82%AB%E3%83%88%E3%83%AA%E3%83%BC%E3%83%8A"
+  }
 }

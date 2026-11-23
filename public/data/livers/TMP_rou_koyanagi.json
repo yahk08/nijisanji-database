@@ -248,5 +248,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/rou-koyanagi"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/rou-koyanagi",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F2222cb2866fe4f3b9c85a45f3689fe53%2Fliver-face_Rou_Koyanagi.png&signature=YC0kaEpTlJP%2BblWdc5ta4ZW70PMjogt7uBOqvoqJYay%2FnItBsSOWqu8P1qfcXxE%2BtxNrB5j9r%2Bb07HW%2FNOWgdWjo%2F%2BWewB5tMFXZAiWmKYkONkpKNsTRxWAGYE2ItO2PXvxDI0AEM8xuLg444tYxI%2FsUECmK2MgWdUmCavaWNOlZFCwiHGMrHgiF4l982A25rf7oyHPQbN898p7xfjTWRlIMr6f3MEX%2BHp8vOQKIxn%2FkJeKGP7qmMSJ%2B1jLXDXD8%2Bt%2F%2FxjovzO5f6X5a%2BJ5xXLnJEXxueLCxGAI7nCiW1bnhsPSVGLuxY0qlEZCK6uDt1C3V9pwNs5ITfJ2ICsxZPA%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/rou-koyanagi",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@KoyanagiRou",
+    "x": "https://twitter.com/Rou_2434",
+    "store": "https://shop.nijisanji.jp/1142",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=KoyanagiRou",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E5%B0%8F%E6%9F%B3%E3%83%AD%E3%82%A6"
+  }
 }

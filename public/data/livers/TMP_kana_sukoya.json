@@ -26,14 +26,12 @@
     "showSources": true
   },
   "debutDate": {
-    "value": "2019-09-20",
-    "verification": "official",
+    "value": "2019-09-19",
+    "verification": "legacy-unreviewed",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/kana-sukoya",
-        "kind": "official",
-        "verifiedAt": "2026-11-14T13:07:36.734Z"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/kana-sukoya"
       }
     ],
     "showSources": true,
@@ -345,5 +343,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/kana-sukoya"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/kana-sukoya",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F5b67649f6b7b4d84af278e4cce9532c9%2Fliver-face_Kana_Sukoya.png.webp&signature=bn0%2BNFv%2B8Jw5UoEaGqfrLLI0wa6EXdSEZRBz28%2F245rWEC2LZegKLYud5Eal62bGTHhR3NPK6ve5tjMeOqSARR5XrGZhFli0zgUbM%2FzVU4%2BSbo0turOZ5F3gBu1%2FKD4Oes5df8uWM5Wq16VJ5W028fNK0uuh%2FizvO70yLj1%2FQfm3xNn4WCGz10qAHb5oDY1GN7DjyczSadb42HVm4EcieZcdnv66N1MIxvxaoj2gk%2FMVtxeuQE1sDHRFdQlfMgw2YpMQVIwgKGK5Qhj0CEaLEXAnwTuvcCfAHd9XZhUBjoAZRFCBcjy2%2FIA0vdVxiNZKsn0Xm4aoW5vtYfLjQjAj3w%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/kana-sukoya",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ",
+    "x": "https://twitter.com/sukosuko_sukoya",
+    "fanclub": "https://www.nijisanji.jp/fanclubs/sukoya-kana",
+    "store": "https://shop.nijisanji.jp/1092",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E5%81%A5%E5%B1%8B%E8%8A%B1%E9%82%A3"
+  }
 }

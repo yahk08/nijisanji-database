@@ -207,5 +207,14 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/purin-lala-mode"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/purin-lala-mode",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F21b383b80a554ca7bff591a61c0b4433%2Fliver-face_Purin_Lala_Mode.png&signature=mrMtFCCk64ERejVAn%2FrCE%2Bj9dr1AiEiYYJLUbBcKgn7GYBN0zUVJ7xCsMBadxyTtO3XXFfr5ahmYt7asmjzQruUnotzxcNh19jIFBfszTydqG6kjiMKrO2lPEVlH6s8z6wzAGTQBFCu9jsVZhgCfCSlYlcF5Q7WTE92IwGWKPtJOlvx%2Bs8fB1U4V9TI%2BkuspT0mCsEjPh2FNPQBcxT3pAOzErJNKnoKr%2Fic6a%2BOJjy1v%2F9pRUaSgYRH%2FJXl3i%2B3PI%2FZ8pmTwKcNHj2y3OkX8V01c4HUxF%2F3zjYIArdrT%2BA2tvPmh%2FVXZbTuqafF4jQ00pv3fsJTEo8vz7gxZHZM3nw%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/purin-lala-mode",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@PurinLalaMode",
+    "x": "https://x.com/Purin_lala_mode",
+    "store": "https://shop.nijisanji.jp/1188",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E3%81%B7%E3%82%8A%E3%82%93%E3%83%BB%E3%82%89%E3%82%89%E3%83%BB%E3%82%82%E3%83%BC%E3%81%A9"
+  }
 }

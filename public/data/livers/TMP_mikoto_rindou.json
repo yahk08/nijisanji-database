@@ -248,5 +248,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/mikoto-rindou"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/mikoto-rindou",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F1bf138f610fc48dda135b93ab9d93478%2Fliver-face_Mikoto_Rindou.png.webp&signature=kkKAFqligKYvpVrVu1dz6G4BukJFFtDicb6Skmds0zZHD3x4S7ZxjMIrmwR9pW%2Fx%2BGKPUKwKjd0vfmheodS7wm%2F8cr7twetwGrgd17Z5BYl8KBxfElQeOXMLLdwBKUuLWv0eTTm4qsNohgiQ5wJW7lSUPJkSS2krrkRjz53kDAapCV5OdLAuSQjfm8sPlzHkERLkq77YXwDcBlSnvyRRHN0X4uisnJeWOZlffkX2kyLKTJRQCMLoiHMdoIQsjHw3%2FALzLIEgCzw9ux%2BF2jT1Vtxpae2bf1aET0tYouwTk%2FD6kw5NIJEtQh2CQOJqu2e2xZtxVUwSP0C%2BZefQoTB9Vg%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/mikoto-rindou",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A",
+    "x": "https://twitter.com/rindoumikoto",
+    "store": "https://shop.nijisanji.jp/1050",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=RindouMikoto",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E7%AB%9C%E8%83%86%E5%B0%8A"
+  }
 }

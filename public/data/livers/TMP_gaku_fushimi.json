@@ -9,9 +9,9 @@
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/gaku-fushimi",
   "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/33c5bec2fcfc47868cb6fd23246734c0/liver-full-body_Gaku_Fushimi.png.webp",
-  "youtubeChannelUrl": null,
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w",
   "youtubeChannelId": null,
-  "xUrl": null,
+  "xUrl": "https://twitter.com/gaku_fushimi",
   "birthday": {
     "value": "10-05",
     "sources": [
@@ -24,9 +24,15 @@
     "showSources": true
   },
   "debutDate": {
-    "value": null,
-    "sources": [],
-    "showSources": false
+    "value": "2018-03-15",
+    "sources": [
+      {
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/gaku-fushimi"
+      }
+    ],
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "height": {
     "value": null,
@@ -39,15 +45,15 @@
     "showSources": false
   },
   "introduction": {
-    "value": "大学生。バンド活動やアルバイトをしている。",
+    "value": "普段はアルバイトやサークルのバンド活動に勤しむ大学生。 性格は犬っぽく純粋に楽しいことが大好き。いろんな人とお喋りしたくて配信を始めた。 チャラそうに見えるが周りの人を気遣ったりと優しい。 楽しんでなさそうな人がいると「楽しんでる？」と声をかけたりする。",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/gaku-fushimi",
-        "verifiedAt": "2026-11-14"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/gaku-fushimi"
       }
     ],
-    "showSources": true
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "fields": [
     {
@@ -98,5 +104,15 @@
     "stateCheckedAt": null,
     "videos": []
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/gaku-fushimi"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/gaku-fushimi",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F4834edc2a7c9472ea9d6fe4ee43c2a04%2Fliver-face_Gaku_Fushimi.png.webp&signature=Cx6tpZRg2frVhwNs7pStZ13icWrHwGLqZdySf7VGjpbcBOB99xnCeewIhMXvru6ZHtOehcbATEoG5DQX6pXHTpjLIHeJ%2F0yNTKQcfPKCsyCxCpDqVqw%2FcUuutj1ClX%2BinS9x2sjYM19hc0s%2F4Fz5dKVOJ7r5kKOHNCMEQvlpzfqtmZCXavY6b0dGkDQYqVZP82%2BPuOfy9%2Bd8n21lRBlplLA5f%2B61rqv4j4XUny%2BH9h32aGmxhZW2CeqafGQbVzR8ccKHmc%2BQrruGmh60ed6nW%2B30gasmtr2dq%2BSHdDjhGaLjzoadjeodZ3pdX8GXNG8tgV4BkBDVLT%2Fy6T4n2PJ6hA%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/gaku-fushimi",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w",
+    "x": "https://twitter.com/gaku_fushimi",
+    "store": "https://shop.nijisanji.jp/1013",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=FushimiGaku",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E4%BC%8F%E8%A6%8B%E3%82%AC%E3%82%AF"
+  }
 }

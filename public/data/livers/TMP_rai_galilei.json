@@ -264,5 +264,14 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/rai-galilei"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/rai-galilei",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Ff8223e6b3b4441bb81ecaf85512b33ca%2Fliver-face_Rai_Galilei.png.webp&signature=X60K%2BFpGTUaLotDDyhnko2yt5EvQq2Af%2BFku1SlfwaKJC3zrq32wI44EDwxN14j1kvepkExGiszYUOKAe2sCuhp348j8jy5mjdOWFdsHdkVJaC27qxWx8NkPQGQtaAy4SzbkpqfUOGCIHl9wCdPEs9UH8PO%2BrWFndat7%2FOQnSQr53Xp9azgRkgWTMZiv5UHUOO8EmU83Lb89LK7F0PYvQVxuDhDXGO89Eo%2BUeTiFzbqlzbuefUzmjeyRZlsi4I%2BiswW%2Bq1Ynh%2F%2FhWRxscLUw2ZEuIJoRITlSSRqpwA3RRK2FXkw9UH4snV5ysQIAf3d0%2B08zafVlQCt9f6JAS0svUA%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/rai-galilei",
+  "profileBranch": "ID",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ",
+    "x": "https://twitter.com/Rai_Galilei",
+    "store": "https://shop.nijisanji.jp/2004",
+    "wiki": "https://wikiwiki.jp/nijisanji/Rai%20Galilei"
+  }
 }

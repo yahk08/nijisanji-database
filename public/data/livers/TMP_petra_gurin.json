@@ -25,14 +25,12 @@
     "verification": "legacy-unreviewed"
   },
   "debutDate": {
-    "value": "2021-07-18",
-    "verification": "official",
+    "value": "2021-07-14",
+    "verification": "legacy-unreviewed",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/petra-gurin",
-        "kind": "official",
-        "verifiedAt": "2026-11-15T04:38:58.959Z"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/petra-gurin"
       }
     ],
     "showSources": true
@@ -102,5 +100,16 @@
       "status": "unavailable"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/petra-gurin"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/petra-gurin",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fc11417fb94b04f27aaca9a698861286e%2Fliver-face_Petra_Gurin.png.webp&signature=MDDDE1ukmOoIcbkE%2FavutlBLdGj9QO9jKe10TF5a3rEDrnCR6aaBgR2UO%2F2KAnE%2FbSdXwb8GQtnoFqwe80DuQHuJlpCgfL7TUfsh%2BsFJnSrm8g%2Bk4wJltmVQD25ona%2BLlPL91qOy5iryuEvJ06oRkeqlECefUGMDaBx7sm4YQ3QSIOBOq0ediCFWxkmodIOkiW%2BS%2BoJ3YaP0oxrEyQlpvV%2Fdany6OECDpA40Z%2BYJVsqS5hfXFlblkI9LeqUbEampbgV0riJFHshlNksslC2mpdTVvPJFQg5kZEM%2FTaOueucd2MtG0Mbzv0PFtT0PmQihtYtcurrTIZTTllJd3BoAIQ%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/petra-gurin",
+  "profileBranch": "EN",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw",
+    "twitch": "https://www.twitch.tv/petragurin",
+    "x": "https://twitter.com/Petra_Gurin",
+    "store": "https://shop.nijisanji.jp/4006",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=PetraGurin",
+    "wiki": "https://wikiwiki.jp/nijisanji/Petra%20Gurin"
+  }
 }

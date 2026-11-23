@@ -207,5 +207,16 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/miku-nekoyashiki"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/miku-nekoyashiki",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F365b8ecc7fa74048841d38f4b21a07e6%2Fliver-face_Miku_Nekoyashiki.png&signature=KcIHP%2BBCLGYgACZ1ao61rkYfLbCxVRhZGI7CLG7%2F5p4J%2F73Pfg62n%2FsF3OYdZ06kHsssJPp7x1S5TjUt1UK0rZkL4T03U3fmsQezgYQo6x5lm8trMKScsR3xlUMDu1Sl3u7ZlW9J%2FjyQV4UNMolqYQ31cSQtZDnud2hk%2F5FOx53IIAbXO81MtXhLHOVSXDs4BqStJ5yjzV94MIgbaRQZoGlg0v07IQpW2Si4EnAPdOeIXeZusm%2BE3hDfG22iTeGKu2cqMgG83oQ3r4tJxSWPtcJZKedm8c45PX29VNxvze5rVQje5bTXlQqnaP2QSg0bMSjsdSCF6kxyXf1mniSJKQ%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/miku-nekoyashiki",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@NekoyashikiMiku",
+    "x": "https://x.com/Nekoyashiki_39",
+    "fanclub": "https://www.nijisanji.jp/fanclubs/nekoyashiki-miku",
+    "store": "https://shop.nijisanji.jp/1172",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=NekoyashikiMiku",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E7%8C%AB%E5%B1%8B%E6%95%B7%E7%BE%8E%E7%B4%85"
+  }
 }

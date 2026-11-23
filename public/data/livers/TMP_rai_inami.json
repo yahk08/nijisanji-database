@@ -248,5 +248,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/rai-inami"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/rai-inami",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F177564c99e734028b8a59f318b333c33%2Fliver-face_Rai_Inami.png&signature=rfbBz53A6GFXgXV%2FGf3jxBrMt0Xv7D%2FNF3Q3UOakNzcXDH2a1pmOTSgB4LUODUnaO8FsuSKvyMw%2FHjgNh5Af%2BsE8HqZeAPyqWXqm%2BbV0wUrXym8IhKYb6aKGt0%2Bg%2Fk1qKfeh1%2BHkzWS2%2BdE9as5c4E0O3ZCtfEk4NmJ53tJrEb%2BrkDxq%2BFQNQStKWENAVc4Iu8Xoy3lYpEZf74SIzn%2FbCihG3D2TbPHU%2BjgherIytQ%2FWHLl8JaMrtrZl8XJ5%2B01nnKqhdpL67Oelek%2BVP5mN5JlWVcnU86hC%2BmvbaktKPZEEcCNiDe296s6T0FIRsLpJcHmnm5CnZ5Chk%2B6MLQhi4Q%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/rai-inami",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@InamiRai",
+    "x": "https://twitter.com/rai_173",
+    "store": "https://shop.nijisanji.jp/1140",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=InamiRai",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E4%BC%8A%E6%B3%A2%E3%83%A9%E3%82%A4"
+  }
 }

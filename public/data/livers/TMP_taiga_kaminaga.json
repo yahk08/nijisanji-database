@@ -207,5 +207,14 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/taiga-kaminaga"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/taiga-kaminaga",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fc1ed5a82365b40838162daa65bde3033%2Fliver-face_Taiga_Kaminaga.png&signature=ohm7mLssxICue48LmsjCXSsa%2FSbUVmf%2BMnQbf75Ox%2FIQWMo51dpejbYjW%2F0vSriYExgCKsjdxc%2FT%2BfX3UZ4Z9NGI0pDReAgtfRO982rSUO4Ojr808NmQTGqJsIMQw8KSGHa5ImNjq8IOghNZij%2Fx0cVFN9QIcyFgQDGcjtj7XdnAOH9Q31GsHYlWZDd0dn4AYV%2F46PGZIYvm9OcR73EI1T%2BJXAstdB3RUu8k3kAl9yO2YHmM0c00mnGkwCNGsEJ1P81evgEUO1XpKpAS59TCOy81CE468qn3ldYBOGFfbDvyFTLHiQNNSDCt%2BeDPlC3iYNWjbCh96okGYDIxGYEuGw%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/taiga-kaminaga",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@KaminagaTaiga",
+    "x": "https://x.com/Taiga_kaminaga",
+    "store": "https://shop.nijisanji.jp/1190",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E7%A5%9E%E6%B0%B8%E3%82%BF%E3%82%A4%E3%82%AC"
+  }
 }

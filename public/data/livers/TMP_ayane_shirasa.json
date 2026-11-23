@@ -257,5 +257,14 @@
       "xAccountLinked": true
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/ayane-shirasa"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/ayane-shirasa",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F4e06d796ed364d72b935dc69eddc49b7%2Fliver-face_Ayane_Shirasa.png&signature=bIImf2WD%2BoQfFDUQNynCHtgs3G%2BJJckz3bpfYmR0ggjYTAnxpV4El4aB9NUGDUQCQtyVl8uCxunN4a8qEbRDr%2FS0SqE%2FVa%2Fsy%2FeylBQh8eDiX74qetpNMr%2BghYX74IVzMCp335onPlvVMoAtoRhZbXUpMqeZeu0d16JpIGoHn9HEzHWsTnXotWHtlrfe1raa7AVhrGEpQTHhXyes4MEs1fblsccDoWgB10IqhqLEiEINBUCHbKMv5t%2Bh6Jr7Kt1UODm8jcoQM%2BfF1sisiT4fkXBm7qx0YfdTIwCxfdLlVgXZBLlZWicR1cgPFzHk0pTDaAzNc5P21neWyIXxL%2FNVrA%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/ayane-shirasa",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@ShirasaAyane",
+    "x": "https://x.com/shirasa_ayane",
+    "store": "https://shop.nijisanji.jp/1178",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E7%99%BD%E7%A0%82%E3%81%82%E3%82%84%E3%81%AD"
+  }
 }

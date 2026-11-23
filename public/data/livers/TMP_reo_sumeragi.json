@@ -207,5 +207,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/reo-sumeragi"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/reo-sumeragi",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F7965aa35528c4bb2918ce13b44f78ea8%2Fliver-face_Reo_Sumeragi.png&signature=pQiQ%2FfI06%2F8kghd1QpBlVKEdR8asF9Y2nJOacoClYsj3xs%2FwYusftpJ5RjNeBCWxaTZ%2FP%2Fz0hyTAm%2BT%2BVlSUjyAoWXPrqQs%2B%2Fhy8gLYN1JICTOpEPxil6zOhywWrhL0R31Yh9fF3mJnJcOTzN%2FWuZ5m92pgZvRrxRTWE9oZ2LItWd0lLKMXeyvc3DxnOHXL%2F1DMAaGdwsj0mWkH17Pzp7qvmQwpaxmzgYHrfIQZRoaNOdPODR32QCbwwU1fTfXZCYgT42fbV7DMKzbtKMDSTbZfStuRpPpFEBodlfMnWFUKSoSHw66IRUG4qFM0Krg8TzDcg%2FmA8AOp5tUKsZ4AiFw%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/reo-sumeragi",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@SumeragiReo",
+    "x": "https://x.com/sumeragi_0o",
+    "store": "https://shop.nijisanji.jp/1176",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=SumeragiReo",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E7%9A%87%E3%82%8C%E3%81%8A"
+  }
 }

@@ -26,14 +26,12 @@
     "showSources": true
   },
   "debutDate": {
-    "value": "2019-11-01",
-    "verification": "official",
+    "value": "2019-10-31",
+    "verification": "legacy-unreviewed",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/mao-matsukai",
-        "kind": "official",
-        "verifiedAt": "2026-11-14T13:07:36.734Z"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/mao-matsukai"
       }
     ],
     "showSources": true,
@@ -248,5 +246,14 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/mao-matsukai"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/mao-matsukai",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F247b9af77e04473091ee72acbf259fa4%2Fliver-face_Mao_Matsukai.png&signature=opJBwlVrzNQWn9MWDJ2XypmMTYygGXVIMMtjUJlIKQh4pdsoI9FxsDUSreeHM%2F2HwJtUo62gQ2iFEpLZKGhfs9MV1oqNG%2B4OYmTAt45SObWi4npbAkqj%2BljW3VtuNnHPYhIs%2FCjWkZ9r6wk8oe5Vbh5zRpRjFAExUs12623dtEUvfKok%2FWtnzRhAF5Uuz8NPHkz7vWrWBBc7g43N0qxoO2ou%2FUVgQ0vHJBGbUd55FhGrOUs%2FgohcNrALcipIt8TU326iB3bQvcsQyYRg7lCkgA6Zu2S0NCHVT02%2BR8a2OfWZEnTEl2NiIR5zeDgDu27xMOZ1dYaF10zqCr986C6Tvw%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/mao-matsukai",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg",
+    "x": "https://twitter.com/matsukai_mao",
+    "store": "https://shop.nijisanji.jp/1097",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E9%AD%94%E4%BD%BF%E3%83%9E%E3%82%AA"
+  }
 }

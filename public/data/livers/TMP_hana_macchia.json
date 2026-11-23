@@ -393,5 +393,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/hana-macchia"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/hana-macchia",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Ffb0035ee1e374daf9f57a6589468dced%2Fliver-face_Hana_Macchia.png&signature=qaPNa9mZBYcadevRu5K3RYpEKLaUhkUAMJtDpP3sRyyJeWpDo%2FlcEkYsa7m4uYroL4pkimkF1GyaWMOPTNKRkN1FG7xnL9kpkt0zaDnlNrQbZ6etjce26zOkpUtikMnbBq2dfF9hmt7eNDWFl0Nu8xVnUM4yTaDO7B3mH%2FSRCR5GGMPCTmvVJmf6%2FNWDRhOzfdqNHk9Up0EKCT%2BGf%2BNCtBY7pxCnGu0es0d1nKZjux1cAjgGSmNYkwzDqnM%2FTDJ3pwq%2FwFXZzBhgaNsGJXjMsLw7CxOWJStqwcP7sl5QlZhR9SczW%2F8CcuGDb6RZT8XfsXKr75AYOLEFoqxRNT%2FhOQ%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/hana-macchia",
+  "profileBranch": "ID",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCpJtk0myFr5WnyfsmnInP-w",
+    "twitch": "https://www.twitch.tv/hanamacchia",
+    "x": "https://twitter.com/Hana_Macchia",
+    "store": "https://shop.nijisanji.jp/2003",
+    "wiki": "https://wikiwiki.jp/nijisanji/Hana%20Macchia"
+  }
 }

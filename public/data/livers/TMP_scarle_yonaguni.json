@@ -25,14 +25,12 @@
     "verification": "legacy-unreviewed"
   },
   "debutDate": {
-    "value": "2022-07-25",
-    "verification": "official",
+    "value": "2022-07-20",
+    "verification": "legacy-unreviewed",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/scarle-yonaguni",
-        "kind": "official",
-        "verifiedAt": "2026-11-15T04:38:58.959Z"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/scarle-yonaguni"
       }
     ],
     "showSources": true
@@ -102,5 +100,15 @@
       "status": "unavailable"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/scarle-yonaguni"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/scarle-yonaguni",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fa410b878c4f64e9a9d1577097e3e56d9%2Fliver-face_Scarle_Yonaguni.png.webp&signature=ZZTt9XWyhesSyI7JHcHkl9ODMLwhoM3nxeYrZxt7cJtHD0YuPzgbkr8AqGerj5DUskuFtEA5egJRSakc%2BVJCdmOO%2BF2q9PTRveRYwBN0v5h0WFi1f6X6E5soiJPEznaIBLIWkP4AavnDP34DuCjAqEc20hZSHXLVWmrRBEbF0gJScy%2BEAHZtfkI2w9X93vxCgE6cEtt3lIRZPDcKOA2p79fykdNQnxlAC6eAzJcuUmXiYe3T58ebByVuHFUBUfXygkQ90gyiG7A1vzg1d8%2FNa%2BShkTS5nfgaiIvCcjBk7wayoYVXTapCW3p6%2B5UxWPM9EN2Vt4WotcrlpC5z7Zetbg%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/scarle-yonaguni",
+  "profileBranch": "EN",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCFgXWZOUZA2oYHNr6qDmsTQ",
+    "twitch": "https://www.twitch.tv/scarleyonaguni",
+    "x": "https://twitter.com/ScarleYonaguni",
+    "store": "https://shop.nijisanji.jp/4026",
+    "wiki": "https://wikiwiki.jp/nijisanji/Scarle%20Yonaguni"
+  }
 }

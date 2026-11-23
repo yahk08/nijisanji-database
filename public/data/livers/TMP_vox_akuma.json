@@ -25,14 +25,12 @@
     "verification": "legacy-unreviewed"
   },
   "debutDate": {
-    "value": "2021-12-20",
-    "verification": "official",
+    "value": "2021-12-17",
+    "verification": "legacy-unreviewed",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/vox-akuma",
-        "kind": "official",
-        "verifiedAt": "2026-11-15T04:38:58.959Z"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/vox-akuma"
       }
     ],
     "showSources": true
@@ -102,5 +100,15 @@
       "status": "unavailable"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/vox-akuma"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/vox-akuma",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F75bce98aa25943518ae8b1d42ec3dd5d%2Fliver-face_Vox_Akuma.png.webp&signature=MxXsZmK4%2BxQPw9FatfWGcBG2i4xN2dSyEDlCe%2B%2FNnztCWQZn0yom8Hx1bMY12GlvSWeogZM5tM5yCgLYtubKWXBLf06wqWJTAYNRok2xic1PwJ6c16EjM79rSd66JBU3AGOYup4AXn0w%2BRA6uAQtxy%2Fn43WzT5HLcFAxj71DeHtvRMOlHjmL%2BWzhK3W9aE79b7cHUFoDhBZkCbmi37zsbrv5pe%2FD1EbfGnQV19qoe02f4HqZgXObtZrggayiEJmD8WwZFrx6uQwZ3cC9APd8xInCfhapZuX%2F8XF0lEqIdy5uWFV0p2F83TIalh4ztV2mo%2FArHffobQvBHiI0tWKN7Q%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/vox-akuma",
+  "profileBranch": "EN",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA",
+    "x": "https://twitter.com/Vox_Akuma",
+    "store": "https://shop.nijisanji.jp/4015",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=VoxAkuma",
+    "wiki": "https://wikiwiki.jp/nijisanji/Vox%20Akuma"
+  }
 }

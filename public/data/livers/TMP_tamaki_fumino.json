@@ -13,17 +13,16 @@
   "youtubeChannelId": "UCBiqkFJljoxAj10SoP2w2Cg",
   "xUrl": "https://twitter.com/nekokan_chu",
   "birthday": {
-    "value": "毎日",
-    "verification": "official",
+    "value": null,
+    "verification": "legacy-unreviewed",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/tamaki-fumino",
-        "kind": "official",
-        "verifiedAt": "2026-11-14T13:07:36.734Z"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/tamaki-fumino"
       }
     ],
-    "showSources": true
+    "showSources": true,
+    "visibility": "everyday"
   },
   "debutDate": {
     "value": "2018-03-15",
@@ -248,5 +247,14 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/tamaki-fumino"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/tamaki-fumino",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F362f946246d049ada0e4e88410ace52e%2Fliver-face_Tamaki_Fumino.png.webp&signature=SV8iZKuDLOYjM69OkHpuNQwDS7SCg8zs0phKTmevHWvCwVqHYb1mrjINEpIRFiiS4Pw7YHQVOmsvTn3aMEwfrdp702HHJAFkbdg6cNkR4%2BnuO1SMrJwW%2FC8XRHyvDB6AHhKh6Zkb51L8dMUDjn6zEr0G0sj6h6rBxibGseu34qq4G2cHYZV0xvVJiOl8DBxB8b9z4386WhKNkExmoWWZCuXwe23A5LTPNCDJXtTRnl%2BpqgHOeft4qBY22HcQdjRJFM7Imshl8GsBZ5HNLQx8biGimWpIeu4BZV3Fi2Twl7oRTO6YclccLE2a5LuTTWIwN23khlcV912LVELOgwc5cw%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/tamaki-fumino",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg",
+    "x": "https://twitter.com/nekokan_chu",
+    "store": "https://shop.nijisanji.jp/1016",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E6%96%87%E9%87%8E%E7%92%B0"
+  }
 }

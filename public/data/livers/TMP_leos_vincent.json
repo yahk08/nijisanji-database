@@ -26,14 +26,12 @@
     "showSources": true
   },
   "debutDate": {
-    "value": "2021-07-22",
-    "verification": "official",
+    "value": "2021-07-19",
+    "verification": "legacy-unreviewed",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/leos-vincent",
-        "kind": "official",
-        "verifiedAt": "2026-11-14T13:07:36.734Z"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/leos-vincent"
       }
     ],
     "showSources": true,
@@ -345,5 +343,14 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/leos-vincent"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/leos-vincent",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Ffc61ee728a9949a4936c89be4a922e7c%2Fliver-face_Leos_Vincent.png.webp&signature=ApJ8ALnOKXExXq2GgYdr4oj7bCFto0nSkU4PGThuO5Jv3YeF11Fe3CTY%2FBZ0DmlCG1WxbYORIVJPIEOehfEHmMLuELQTAuDC9Q86nEVUL3P1kiAo%2FLFN%2Ft1t%2BPQDqbWfWwmlAuV9Veet%2BZTobEwH%2BADjBe5Sy%2BzHgDj2ilRwga0FihS14zGQwQl%2B0h0frt0ZlifviS%2FJToEYyivDL1%2F3HKFMtxTW7IeuUD2aHWk8b2LrBVwbs8Urqvz1EiNdTwrXAa4iDwMypCIgZdOrG07%2BAiVpmG84Ni4fPUtW0sK48FQ2gWYYJoriqjIQ6rxCAjEpBbrfHxY3u3Vqfg2hbADkfw%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/leos-vincent",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow",
+    "x": "https://twitter.com/Leos_Vincent",
+    "store": "https://shop.nijisanji.jp/1122",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E3%83%AC%E3%82%AA%E3%82%B9%E3%83%BB%E3%83%B4%E3%82%A3%E3%83%B3%E3%82%BB%E3%83%B3%E3%83%88"
+  }
 }

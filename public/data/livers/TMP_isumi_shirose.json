@@ -207,5 +207,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/isumi-shirose"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/isumi-shirose",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fc359f30b042746be88cd87f76bd49894%2Fliver-face_Isumi_Shirose.png&signature=Fv7e28UOooKXzgzvFdZEVcq3cNhn6ECGeMCBOfiDOca6BMpVlq5Ni7IDKLz6EoZgxXGByvLnGPYK81za7KWgGHdnyLBnjdEOCLR8Vi9beN%2BJ9Rl%2FJs9bkYgoihEs8wSCpWqhFcwOVUOLfEe%2B91JGqUhA6D6fj1EQhPP3TEbKGs8G6Ub3gfmAB2tQeI%2BsIg2f%2Baj1lzpNAp4ETqGFPF7rOw%2Fp%2Bwkhrsmm1pc0lGhBTuRTVxK8W%2FzHpavJKeIspeRoHcoymfpOTb%2FErGFanvLo4RAB4ZjCeb45oUsfkjoxFWhWwCTxbSmL%2FDt8Kecd4X%2Bo4I4mO2jXpj959idUZ3AIFQ%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/isumi-shirose",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@ShiroseIsumi",
+    "x": "https://x.com/Shiro_Isumyan",
+    "store": "https://shop.nijisanji.jp/1175",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=ShiroseIsumi",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E5%9F%8E%E7%80%AC%E3%81%84%E3%81%99%E3%81%BF"
+  }
 }

@@ -26,14 +26,12 @@
     "showSources": true
   },
   "debutDate": {
-    "value": "2021-07-22",
-    "verification": "official",
+    "value": "2021-07-19",
+    "verification": "legacy-unreviewed",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/lain-paterson",
-        "kind": "official",
-        "verifiedAt": "2026-11-14T13:07:36.734Z"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/lain-paterson"
       }
     ],
     "showSources": true,
@@ -403,5 +401,15 @@
       "xAccountLinked": true
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/lain-paterson"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/lain-paterson",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fda6c50863a1247ff92ab8246d88a4145%2Fliver-face_Lain_Paterson.png.webp&signature=or3VBJiT3jJkXny7gOwaCQU4aUX%2BE6vYKEMExyyDtkkKz7KcAqmiAaJKAHvhM6ymBBhabyF7gjJ0AbC3LaCtqE2xGBcAFoDb8cKhbfnrF2DA4swLJgw%2BKOB%2Ffu9%2FNQdULgW6hdtKk1JJP%2BJQoypYylnwltsYm6myUEALiZ6Qax52qR6BDaO8E%2BVrwpUv%2Fmbq92LQHS8Pw8eTLNh8QjDE4c6VlhZOOfvQ6TRJm8FmilMHe6v%2Fdhz5bUdFc80Y0JM3lgWoHuKo3XUDB7%2FaWNJOJ6NGvTa4ekz4n0IOSYGeQS1GHZ6hv9%2BLPpYa5AemEokHCocYWRqiIrfp0sVXv%2Fk%2FuQ%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/lain-paterson",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCRm6lqtdxs_Qo6HeL-SRQ-w",
+    "x": "https://twitter.com/Lain_Paterson",
+    "store": "https://shop.nijisanji.jp/1123",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=LainPaterson",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%BB%E3%83%91%E3%82%BF%E3%83%BC%E3%82%BD%E3%83%B3"
+  }
 }

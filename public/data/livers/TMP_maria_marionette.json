@@ -25,14 +25,12 @@
     "verification": "legacy-unreviewed"
   },
   "debutDate": {
-    "value": "2022-07-25",
-    "verification": "official",
+    "value": "2022-07-20",
+    "verification": "legacy-unreviewed",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/maria-marionette",
-        "kind": "official",
-        "verifiedAt": "2026-11-15T04:38:58.959Z"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/maria-marionette"
       }
     ],
     "showSources": true
@@ -102,5 +100,15 @@
       "status": "unavailable"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/maria-marionette"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/maria-marionette",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fe4d32f8f3a9e4efc852950d38ea4ba57%2Fliver-face_Maria_Marionette.png.webp&signature=nG7Ng%2Fb3T%2BsPQn1AOGO5MxQhIVQM2tpbr7rPnjpOcwy%2FsQYxDf4ZUotQgh46icDm2PTUzfiwdhJo6s45EG4NESu8CF%2FBq6v%2B3VWo7T4wXNY2MwksO00kfiUiFjYD9JhvI5CY%2BHLLG8jaXS7mj4PO%2FFayg6TGwYftl5InpG5hkmXmMmqfc8H78j6tmCaMzSwK79JwEt24Ms1V6w11Z36YP%2F%2B6shR5yEhPDwK06jBNbZUAPVuMyk68yoJf5%2F5O85fwJOaucJnGrXOcmLe%2BCRRZg63mlLD0%2BMIctzSEK2KpJj3bQkMUl%2BmSJrSFxmUlgphrCYgxmIkCKPeonMskn05eNg%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/maria-marionette",
+  "profileBranch": "EN",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCwaS8_S7kMiKA3izlTWHbQg",
+    "x": "https://twitter.com/MariaMari0nette",
+    "store": "https://shop.nijisanji.jp/4022",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=MariaMarionette",
+    "wiki": "https://wikiwiki.jp/nijisanji/Maria%20Marionette"
+  }
 }

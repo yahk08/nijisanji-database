@@ -25,14 +25,12 @@
     "verification": "legacy-unreviewed"
   },
   "debutDate": {
-    "value": "2022-02-27",
-    "verification": "official",
+    "value": "2022-02-22",
+    "verification": "legacy-unreviewed",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/alban-knox",
-        "kind": "official",
-        "verifiedAt": "2026-11-15T04:38:58.959Z"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/alban-knox"
       }
     ],
     "showSources": true
@@ -102,5 +100,15 @@
       "status": "unavailable"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/alban-knox"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/alban-knox",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fb55c850f56474b81876f9a678640ce52%2Fliver-face_Alban_Knox.png.webp&signature=Ap%2Fghif9tLmOzDEqNRXQtI5qaKwzbUMitFYc6QuRj6kEOhcx97dr0HHpoeWPXbo9760Z5xvGAKqdJ%2FJ04JFHODLrZ0XJW1VueJL7qBXIssZ9HH2TibodZYprjgQDsWwudTR8i8o4roxiQ7m9Yx30ESAV7yFeeupOsf0cu7UueUz7XZM0TepdsaZWT%2FtBEmqCB9wKSFRSt0uwUynqZX3SB9N8rfQqdfjrj%2FgegnHx2IPb%2F6zoOJK2t9a8NFCPBM0uQV0J3kSrCmeO5flarbMa%2FGdrvrwG8PuQfeTflsgcrOyttpvocmNjt7IOWiBzA2MyaXGtoPM%2BqcHP4ZFE%2Fsk%2FgA%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/alban-knox",
+  "profileBranch": "EN",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCQ1zGxHrfEmmW4CPpBx9-qw",
+    "x": "https://twitter.com/alban_knox",
+    "store": "https://shop.nijisanji.jp/4019",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=AlbanKnox",
+    "wiki": "https://wikiwiki.jp/nijisanji/Alban%20Knox"
+  }
 }

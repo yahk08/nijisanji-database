@@ -248,5 +248,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/fumi"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/fumi",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F2aecf7a5282e4a349ead29f8f8e525f1%2Fliver-face_Fumi.png.webp&signature=RkFYShpos2LZiUj3OVCvQYWRrcgChhmWQRqV2wYeoAm1mLClFJbeUQ1YlCbvAr914yi6PSpmNdeUXldlYTouF2HDWXU3lBDrsi54voNlxY3oVKoCdrQKLQ6sxhKVvxDALqlaQ1JiURq1JYk5qb%2Fvuv0NC8gpb5hIXs1PjYaUAvLWFmKgD2ztGgXJHjJWdJIjWxlpq6hk6adEQMEnCMzGdWh07BQpR4XZNv5%2BqSfmlRDRzKlzzrriFFgpmJHkHFNeQ8ea7CChAYKANSKFnys2DUoCzdEyM7H8UR4hxUZYwUPIK9uLEYQxnWgnEwQaGsw4vifp%2Bjz6cf%2FNscp9fmhaFw%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/fumi",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw",
+    "x": "https://twitter.com/FumiVirtual",
+    "fanclub": "https://www.nijisanji.jp/fanclubs/fumi",
+    "store": "https://shop.nijisanji.jp/1096",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E3%83%95%E3%83%9F"
+  }
 }

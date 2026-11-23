@@ -26,14 +26,12 @@
     "showSources": true
   },
   "debutDate": {
-    "value": "2018-06-08",
-    "verification": "official",
+    "value": "2018-08-09",
+    "verification": "legacy-unreviewed",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/air-harusaki",
-        "kind": "official",
-        "verifiedAt": "2026-11-14T13:07:36.734Z"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/air-harusaki"
       }
     ],
     "showSources": true,
@@ -298,5 +296,14 @@
       "xAccountLinked": true
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/air-harusaki"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/air-harusaki",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F4961a4b80e264badaa2d8bbb699c992e%2Fliver-face_Air_Harusaki.png.webp&signature=RH7uHzQhAAmbnHQncc9QUh2QYu4eIuhqhHyWHNGHx6qTQt2Nggbuwr2BV4f%2BWN3r3N0%2BNyKQ3Le6eoI%2B1CoE5pXpwsbrosGVPtNJuOuogBn6pJNZFNwtaunegl4HkhZlJtz8qUrN00gCGsJOlEdpX97rwjFHZNC2vZo2fJOwwiK5ZaKkNFnwtYnoyZR6kyJ7riUOkJbYQzF%2BN88ebiHkWqaVoS0Q2xjAkIR9F9%2BBjmn%2BCbGgldYN17ZRnBynmhMWpKZWaGZ1Sed6EzrtLGhIzgKjtpQ0Cy7b%2BesJlVa%2FX6nvSOYyzcRvEuEW4RlwyRpfvStXrQ125bIFbThLGfNktw%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/air-harusaki",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg",
+    "x": "https://twitter.com/harusakiair2434",
+    "store": "https://shop.nijisanji.jp/1034",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E6%98%A5%E5%B4%8E%E3%82%A8%E3%82%A2%E3%83%AB"
+  }
 }

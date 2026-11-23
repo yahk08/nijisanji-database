@@ -25,14 +25,12 @@
     "verification": "legacy-unreviewed"
   },
   "debutDate": {
-    "value": "2021-10-09",
-    "verification": "official",
+    "value": "2021-10-06",
+    "verification": "legacy-unreviewed",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/enna-alouette",
-        "kind": "official",
-        "verifiedAt": "2026-11-15T04:38:58.959Z"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/enna-alouette"
       }
     ],
     "showSources": true
@@ -102,5 +100,14 @@
       "status": "unavailable"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/enna-alouette"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/enna-alouette",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F0a0aec871e504f5c9eab69144afcd447%2Fliver-face_Enna_Alouette.png.webp&signature=N6TZ3Ronj43eldFNIeXPyIuysRsFBkMbEfw1OzgT26N1fvQghcp48KkersjwwYFZ%2BuIOPpU0%2FXwS%2FuFrUtpfX0V5PS9gf0V37agLz%2FADQpiWj7Qe7nONcDSHUUVQQHxL5a8HkKoueWHYwHhPqDBuGzdgpWui9qXSHja12rlw%2FywU4wsjJ%2BccXpJx9vZVuA9HhRGdKf6HavaHsmXdoGL4dhIhIZ9JVrRxekhmfPJrRUW3xXEVpmSzkIB0KY%2FBUYhWLwR7s%2BSsXmfrD3x8eGTgBEH9mO3rqH7ihDacvyaVpmp%2BPeznJzCLmwakd0zGouTJ0jVD6MuY1iiIID%2FyHbWZ1g%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/enna-alouette",
+  "profileBranch": "EN",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow",
+    "x": "https://twitter.com/EnnaAlouette",
+    "store": "https://shop.nijisanji.jp/4010",
+    "wiki": "https://wikiwiki.jp/nijisanji/Enna%20Alouette"
+  }
 }

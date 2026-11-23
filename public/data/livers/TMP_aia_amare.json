@@ -25,14 +25,12 @@
     "verification": "legacy-unreviewed"
   },
   "debutDate": {
-    "value": "2022-07-25",
-    "verification": "official",
+    "value": "2022-07-20",
+    "verification": "legacy-unreviewed",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/aia-amare",
-        "kind": "official",
-        "verifiedAt": "2026-11-15T04:38:58.959Z"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/aia-amare"
       }
     ],
     "showSources": true
@@ -102,5 +100,14 @@
       "status": "unavailable"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/aia-amare"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/aia-amare",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F277243c23e434832abb4d2eb80db5ad9%2Fliver-face_Aia_Amare.png.webp&signature=EIHu4y0JpocCRSSymvjHlRr5fC%2BHyho2CERFHCgzyw4XELN%2F1ogTx4EyaZfWUDWCp26qOOEQ%2FDKLbYgADpTwpQPMx4opQMlPEyFNQB1x2op0arJHHU8QRuoSyA6cxkjQN9EPqWaNb1RwLBwjEz0twZGsh8k0m2oLM3humR3Kx8l66HRKg0g%2BeiUPObq9OLGgJllZZLLSfDDqghIi7%2BB9rQ8MDTRbwWzEr1Pa4xWxmjJoZ4SCxrFSZy3vYB4iR84JZcxXCYSO4ohCGdgg6%2BlDOvfgzZ80CMpkhjTRiZ3s7GCuYyTDoOWhZuypinYO%2FN7g63%2BC%2Bqi8AeQbkP8Af9iEvg%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/aia-amare",
+  "profileBranch": "EN",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA",
+    "x": "https://twitter.com/AiaAmare",
+    "store": "https://shop.nijisanji.jp/4024",
+    "wiki": "https://wikiwiki.jp/nijisanji/Aia%20Amare"
+  }
 }

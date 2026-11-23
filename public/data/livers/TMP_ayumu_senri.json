@@ -207,5 +207,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/ayumu-senri"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/ayumu-senri",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fe44c5e13ac324cd3a1b43196739bea2f%2Fliver-face_Ayumu_Senri.png&signature=UNUsdCsqc3j2VjlNYcrcBBCPYpCf4J3OwTRpZgSxrr8qghJOb4b%2F8uc8R%2Bvy%2F1vLLmq090CqwmLSqcH%2BmgFrVP82c%2BM9aPiSCwNkGzwVtaDC%2F2UoZVvs2uOSqS0aK2gaDPFlSNUP19bBDzhK10pdDwgeHgOiJ1XhoqGV2ru7s5hE3QxDVl%2BBKdFDHStwN%2FRQmPRfhL5%2F4NZhtkBCJOyujHf6jYWj%2BCJDaiwQ%2FhObBawpzPI0U%2BP7uxcalxgImb37DcheV9QHG93Grmllvr%2FIVRfvaAxujR6wgzrk4y0x0wIytZXKpbj05FumFnDJDFxljtp9CGJzPEpro2C8xB%2F0mQ%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/ayumu-senri",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@SenriAyumu_Y4T4",
+    "twitch": "https://www.twitch.tv/senriayumu_2434",
+    "x": "https://x.com/Senri_Ayumu",
+    "store": "https://shop.nijisanji.jp/1183",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E5%8D%83%E5%87%9B%E3%81%82%E3%82%86%E3%82%80"
+  }
 }

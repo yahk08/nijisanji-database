@@ -248,5 +248,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/hisui-kitakoji"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/hisui-kitakoji",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fb9d1759ea04d47ebb5503f1d4b66688b%2Fliver-face_Hisui_Kitakoji.png&signature=R2QfjzuMtAAQfe1%2B15dKKI%2FktNMXWBQPlC7pvUHrNOQ5Am6wa857fH6RVZ%2B8c3Eug3fmAMqk4SMl25iJKSDu%2FqVBkZujKjz%2FUctZ7D1OTxJdfiMoCBIJFoUG3ObNGHNxFngefmt%2BX47w2a7QNcHG1%2Bo%2FGaltm%2BtHK%2B%2F2P2WTujgTIgElBkaMEkhOWldfhFfCk9bBkSKEtrSjVojHfjSEim6c5mJW8ioud8O0a4xGM%2BQ36HQGB%2FBf4hDrRv025KUYp7HGrj8pghAV%2BfwJa5QBZufIxKE%2FhlRjpFXtf0AyKCkl0CXOefh3RpFItdED9VDOBVdTbHwdM9FfiJNrgIeRzA%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/hisui-kitakoji",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ",
+    "x": "https://twitter.com/Hisui_Kitakoji",
+    "fanclub": "https://www.nijisanji.jp/fanclubs/kitakoji-hisui",
+    "store": "https://shop.nijisanji.jp/1118",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E5%8C%97%E5%B0%8F%E8%B7%AF%E3%83%92%E3%82%B9%E3%82%A4"
+  }
 }

@@ -26,14 +26,12 @@
     "showSources": true
   },
   "debutDate": {
-    "value": "2020-08-06",
-    "verification": "official",
+    "value": "2020-07-31",
+    "verification": "legacy-unreviewed",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/akira-ray",
-        "kind": "official",
-        "verifiedAt": "2026-11-14T13:07:36.734Z"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/akira-ray"
       }
     ],
     "showSources": true,
@@ -264,5 +262,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/akira-ray"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/akira-ray",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F353657a3d45540098b20eff2112308be%2Fliver-face_Ray_Akira.png.webp&signature=FrFrppnN90bbpeq%2B5YiaimHkWfLTs05PqOvDgmo7XmVhlybiA8gAIyX4LoDSMw8ySqKca7xVlFAWLb%2BYTfILgfBxSIqeQPzWsCmlIUEEmKLHSN%2B9I3B1UrY7MiUUi7z0JxvmGCS64h8kosd9aXGdbi2CqZl4RsABOsbTYFqwoass85gUVtgdMaD5ZwK1ql4mgcep2a%2BTuLWKvPbT3LMYum0Fq8A%2FxZ02qC1grKYfMJ9NAIqEQDf6%2BGS1Xke7wCFtFwBm7%2BQAmxegQupRW8l60dTV0witji5nj%2BqNbM0xO%2Foq%2FFA5W1nZJHTdXJX5NskvZQs%2FpSJgMD%2Bkru6UUvk%2FEg%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/akira-ray",
+  "profileBranch": "KR",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg",
+    "twitch": "https://www.twitch.tv/rayakira2434",
+    "x": "https://twitter.com/RayAkira2434",
+    "store": "https://shop.nijisanji.jp/3005",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E6%98%8E%E6%A5%BD%E3%83%AC%E3%82%A4"
+  }
 }

@@ -248,5 +248,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/gilzaren-iii"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/gilzaren-iii",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Ffc45c528d4ad49ae992ccf99c9e27deb%2Fliver-face_Gilzaren_%25E2%2585%25A2.png&signature=BOwHZ%2BTehp6a2A7LbdzW%2BIt42wmbQ4TN7ey0dYITnFsKpDY0WPbrLwTp0x3ipuAOu%2FPxB%2FYaV0FXk%2BVd5q9woMjprB9B9GRfdSIKsIXb1rCDbKqferuNp3eSO9nzt3AXM2ujYu3mK5khxzTnmobQkHJDrYHnnCz%2B4GzByli%2FfOYzuxPbKR7C7Gv6SQpHZcu1%2BNUPqpnmGFqZB1E28cGf3MYrBHT0yr%2BqdRPVnfWhkFMSA%2FNdlDoZVm4w7ChscFzhyxT%2FlxsV%2Bxwx4tK8hRI%2BAaR0syQUahBdqr4eN3GSMjDsFQOjpLOpinbZqjlY%2B1aYaIMJWFiki%2BnhC8v3U6ix1Q%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/gilzaren-iii",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCUzJ90o1EjqUbk2pBAy0_aw",
+    "x": "https://twitter.com/gilzaren_iii",
+    "store": "https://shop.nijisanji.jp/1010",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=GilzarenIII",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E3%82%AE%E3%83%AB%E3%82%B6%E3%83%AC%E3%83%B3III%E4%B8%96"
+  }
 }

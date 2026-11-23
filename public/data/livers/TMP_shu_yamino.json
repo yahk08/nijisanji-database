@@ -25,14 +25,12 @@
     "verification": "legacy-unreviewed"
   },
   "debutDate": {
-    "value": "2021-12-20",
-    "verification": "official",
+    "value": "2021-12-17",
+    "verification": "legacy-unreviewed",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/shu-yamino",
-        "kind": "official",
-        "verifiedAt": "2026-11-15T04:38:58.959Z"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/shu-yamino"
       }
     ],
     "showSources": true
@@ -102,5 +100,15 @@
       "status": "unavailable"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/shu-yamino"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/shu-yamino",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F57f8266ce45a4ace95f272c19e032413%2Fliver-face_ShuYamino.png.webp&signature=OdAkbT9rUa6JLVCp10v59ZFXIau%2Bi0FiWf8ZKGqlJ01MOSG0ku%2F5hLbsANMN9kETdTw3ox9yHRluGFUu%2FqV7lcx%2BY2N0IjoGNuCO2BOgFtSAgoi9qMT7cgWr2bvP6Pi7hIcBApwM9yq%2B2NTA%2FpjDBtruhECyFRPWrxepnMYJnAOVVAG2WfGPX4bGnTPGB3mStinAGNRqTUTQuvpW0MoyXGPVTVbS8TQ54a65UuBmMrk7QaIstD7iHdwvK0KRNC5V5nVmHwv7Pw3K1QpDEGvNbKbpPC7yxAGiBUAVLPc%2FK3gvrbYaSO4i2Bfm5x75qbqSLdATI71shUChkAJ5i24tdw%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/shu-yamino",
+  "profileBranch": "EN",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA",
+    "x": "https://twitter.com/Shu_Yamino",
+    "store": "https://shop.nijisanji.jp/4014",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=ShuYamino",
+    "wiki": "https://wikiwiki.jp/nijisanji/Shu%20Yamino"
+  }
 }

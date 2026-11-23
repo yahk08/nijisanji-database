@@ -25,14 +25,12 @@
     "verification": "legacy-unreviewed"
   },
   "debutDate": {
-    "value": "2021-05-16",
-    "verification": "official",
+    "value": "2021-05-12",
+    "verification": "legacy-unreviewed",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/finana-ryugu",
-        "kind": "official",
-        "verifiedAt": "2026-11-15T04:38:58.959Z"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/finana-ryugu"
       }
     ],
     "showSources": true
@@ -102,5 +100,14 @@
       "status": "unavailable"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/finana-ryugu"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/finana-ryugu",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F825b3215dd994a998e00c8efcecf49ce%2Fliver-face_Finana_Ryugu.png.webp&signature=JPRkyJfnQaDpCHEwV%2BeDuXr4ZxTPlzk3ohpqmaBMkYQQyg1djTVPsl3O%2FmlmhpNEyX%2FZAhCkI%2FBYof5h441MD60lQcrKGK%2F7ju1rMc1DMBB9LgkS%2BTfWpjFxlT%2Bj0iuMXdgvFvzkgoqKuP5zQaY2LeOMSdHGhRje8PLR7C9K40KNH8dhUVWagZo%2B6v6y3bZmVg2a8cD7yWzMoOOtq3JJKX0QRkmVkkFqEuac3KlnPherLmnH1tkHf3yCurrElZ8LXDVdSf2UG9XliJJgHUVkC1ZPljxYXzzda9TRQ%2FT9eVy4rc1u9l2xQRwpZsEtGJzsQvrKVCMdgEf6Jl2NM3sHpw%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/finana-ryugu",
+  "profileBranch": "EN",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw",
+    "x": "https://twitter.com/FinanaRyugu",
+    "store": "https://shop.nijisanji.jp/4003",
+    "wiki": "https://wikiwiki.jp/nijisanji/Finana%20Ryugu"
+  }
 }

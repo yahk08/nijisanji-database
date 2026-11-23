@@ -1,8 +1,89 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-15T04:07:54.544Z",
+  "checkedAt": "2026-11-22T20:58:24.132Z",
   "source": "https://www.nijisanji.jp/news",
   "news": [
+    {
+      "id": "1efabc1a2a4d93da",
+      "title": "にじさんじ「甘やかし同居ボイス」2026年11月26日(木)18時より発売決定！",
+      "url": "https://www.anycolor.co.jp/news/49p7ov77l",
+      "publishedAt": "2026-11-20",
+      "category": "news",
+      "firstSeenAt": "2026-11-20T11:11:42.318Z",
+      "lastSeenAt": "2026-11-22T20:58:24.132Z"
+    },
+    {
+      "id": "d88b3f0951278e07",
+      "title": "「みたらし団 3rd Anniversary」グッズを2026年11月20日(金)18時から販売開始！",
+      "url": "https://www.anycolor.co.jp/news/63di5-z1wsw",
+      "publishedAt": "2026-11-19",
+      "category": "news",
+      "firstSeenAt": "2026-11-19T11:22:35.116Z",
+      "lastSeenAt": "2026-11-22T20:58:24.132Z"
+    },
+    {
+      "id": "be8666e9ae5f9652",
+      "title": "にじさんじから「Unit Selection Calendar 2027」グッズが登場！2026年11月19日(木)17時から販売開始！",
+      "url": "https://www.anycolor.co.jp/news/77br2ry-bqwb",
+      "publishedAt": "2026-11-18",
+      "category": "news",
+      "firstSeenAt": "2026-11-18T11:24:50.060Z",
+      "lastSeenAt": "2026-11-22T20:58:24.132Z"
+    },
+    {
+      "id": "a57faa54fd80ee92",
+      "title": "にじさんじから「にじたうん もけもけますこっと に」が登場！2026年11月18日(水)19時から販売開始！",
+      "url": "https://www.anycolor.co.jp/news/afi34qhiae-u",
+      "publishedAt": "2026-11-17",
+      "category": "news",
+      "firstSeenAt": "2026-11-17T11:37:55.604Z",
+      "lastSeenAt": "2026-11-22T20:58:24.132Z"
+    },
+    {
+      "id": "94d479ab1c3ebf53",
+      "title": "にじさんじから「にじたうんぐっず に」が登場！2026年11月18日(水)19時から販売開始！",
+      "url": "https://www.anycolor.co.jp/news/952rqm63llg",
+      "publishedAt": "2026-11-17",
+      "category": "news",
+      "firstSeenAt": "2026-11-17T11:37:55.604Z",
+      "lastSeenAt": "2026-11-22T20:58:24.132Z"
+    },
+    {
+      "id": "01f550634d871fa7",
+      "title": "NIJISANJI ENから「WANNYANZ」グッズが登場！2026年11月19日(木)11時(JST)から販売開始！",
+      "url": "https://www.anycolor.co.jp/news/xu7d-14f6t",
+      "publishedAt": "2026-11-17",
+      "category": "news",
+      "firstSeenAt": "2026-11-17T11:37:55.604Z",
+      "lastSeenAt": "2026-11-22T20:58:24.132Z"
+    },
+    {
+      "id": "7755f053dbda64e6",
+      "title": "にじさんじから「にじさんじフロッキーマスコットシリーズ#2」グッズが登場！2026年11月17日(火)18時から販売開始！",
+      "url": "https://www.anycolor.co.jp/news/j4q3gxwy9ia",
+      "publishedAt": "2026-11-16",
+      "category": "news",
+      "firstSeenAt": "2026-11-16T10:52:16.735Z",
+      "lastSeenAt": "2026-11-22T20:58:24.132Z"
+    },
+    {
+      "id": "7b7cf2db25d81f85",
+      "title": "ROF-MAO、再始動第一弾楽曲「/SLASH」本日2026年11月16日(月)楽曲配信＆デジタルキャンペーン開始！",
+      "url": "https://www.anycolor.co.jp/news/80oz0bg8u",
+      "publishedAt": "2026-11-16",
+      "category": "news",
+      "firstSeenAt": "2026-11-16T10:52:16.735Z",
+      "lastSeenAt": "2026-11-22T20:58:24.132Z"
+    },
+    {
+      "id": "afc20dd9339a4e76",
+      "title": "ROF-MAOが2026年11月15日(日)に200kmマラソンの完走をもって活動再開！キービジュアルやロゴを一新し、新曲リリースや新グッズ発売など情報解禁！",
+      "url": "https://www.anycolor.co.jp/news/18nu9inae",
+      "publishedAt": "2026-11-15",
+      "category": "news",
+      "firstSeenAt": "2026-11-15T20:15:04.271Z",
+      "lastSeenAt": "2026-11-22T20:58:24.132Z"
+    },
     {
       "id": "e71862acdd9c0d02",
       "title": "にじさんじから「にじさんじデコラモード PART3」グッズが登場！2026年11月13日(金)18時から販売開始！",
@@ -10,7 +91,7 @@
       "publishedAt": "2026-11-12",
       "category": "news",
       "firstSeenAt": "2026-11-15T04:07:54.544Z",
-      "lastSeenAt": "2026-11-15T04:07:54.544Z"
+      "lastSeenAt": "2026-11-22T20:58:24.132Z"
     },
     {
       "id": "b8a3e4e57dc77d73",
@@ -19,7 +100,7 @@
       "publishedAt": "2026-11-10",
       "category": "news",
       "firstSeenAt": "2026-11-15T04:07:54.544Z",
-      "lastSeenAt": "2026-11-15T04:07:54.544Z"
+      "lastSeenAt": "2026-11-19T22:37:41.674Z"
     },
     {
       "id": "c633fed5104d5839",
@@ -28,7 +109,7 @@
       "publishedAt": "2026-11-09",
       "category": "news",
       "firstSeenAt": "2026-11-15T04:07:54.544Z",
-      "lastSeenAt": "2026-11-15T04:07:54.544Z"
+      "lastSeenAt": "2026-11-18T22:31:38.357Z"
     },
     {
       "id": "f23e73fe351748ea",
@@ -37,7 +118,7 @@
       "publishedAt": "2026-11-09",
       "category": "news",
       "firstSeenAt": "2026-11-15T04:07:54.544Z",
-      "lastSeenAt": "2026-11-15T04:07:54.544Z"
+      "lastSeenAt": "2026-11-17T22:49:37.132Z"
     },
     {
       "id": "d5ac3333413719e1",
@@ -46,7 +127,7 @@
       "publishedAt": "2026-11-06",
       "category": "news",
       "firstSeenAt": "2026-11-15T04:07:54.544Z",
-      "lastSeenAt": "2026-11-15T04:07:54.544Z"
+      "lastSeenAt": "2026-11-16T23:41:29.773Z"
     },
     {
       "id": "0e9d807e7a0e2274",
@@ -55,7 +136,7 @@
       "publishedAt": "2026-11-06",
       "category": "news",
       "firstSeenAt": "2026-11-15T04:07:54.544Z",
-      "lastSeenAt": "2026-11-15T04:07:54.544Z"
+      "lastSeenAt": "2026-11-16T23:41:29.773Z"
     },
     {
       "id": "24485f9184caf677",
@@ -64,7 +145,7 @@
       "publishedAt": "2026-11-04",
       "category": "news",
       "firstSeenAt": "2026-11-15T04:07:54.544Z",
-      "lastSeenAt": "2026-11-15T04:07:54.544Z"
+      "lastSeenAt": "2026-11-16T23:41:29.773Z"
     },
     {
       "id": "bed977076b4ac505",
@@ -73,7 +154,7 @@
       "publishedAt": "2026-11-02",
       "category": "news",
       "firstSeenAt": "2026-11-15T04:07:54.544Z",
-      "lastSeenAt": "2026-11-15T04:07:54.544Z"
+      "lastSeenAt": "2026-11-15T20:15:04.271Z"
     },
     {
       "id": "b0ac7a317addda46",
@@ -82,7 +163,7 @@
       "publishedAt": "2026-10-30",
       "category": "news",
       "firstSeenAt": "2026-11-15T04:07:54.544Z",
-      "lastSeenAt": "2026-11-15T04:07:54.544Z"
+      "lastSeenAt": "2026-11-15T20:15:04.271Z"
     },
     {
       "id": "8b4dd222c8d0fcaf",

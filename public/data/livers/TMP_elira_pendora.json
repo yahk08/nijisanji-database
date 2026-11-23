@@ -25,14 +25,12 @@
     "verification": "legacy-unreviewed"
   },
   "debutDate": {
-    "value": "2021-05-16",
-    "verification": "official",
+    "value": "2021-05-12",
+    "verification": "legacy-unreviewed",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/elira-pendora",
-        "kind": "official",
-        "verifiedAt": "2026-11-15T04:38:58.959Z"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/elira-pendora"
       }
     ],
     "showSources": true
@@ -102,5 +100,15 @@
       "status": "unavailable"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/elira-pendora"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/elira-pendora",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F3b0f859e100e419aa179bc9def264714%2Fliver-face_Elira_Pendora.png.webp&signature=H1PI%2F8j8FQJ6Y%2FSfFiJ3UUKA0Z529F9O4zJXRkoor1OlkFm45EV9uVRzr7sLbf9Tv%2BfACkwU%2F1IoFJZBT4WNoLzJDicddFKVbTSQZFxxjRxi0pzbtXHpTea5kAETb0B%2BqTsGM0SNmTHa8NtW4V6HWyoyRYvzmhtHVn5Blb6vDc86dZJ3ORlfG6N8OsV1IZbRpiahy91DCrhulkarAWfCrxOZMs%2FlptkT45wygJhMnEgJ1Xc%2B6Fc1CcM51mge4pTZ5JQWdXe8z8Gkua54uSQPb7ajASz1Ggm2cr91XcoQtR9PAZHp%2F9MNk1xgzQlmtVIBbUm6GpYYEvALoQ1tzSXxxQ%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/elira-pendora",
+  "profileBranch": "EN",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow",
+    "x": "https://twitter.com/EliraPendora",
+    "store": "https://shop.nijisanji.jp/4002",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=EliraPendora",
+    "wiki": "https://wikiwiki.jp/nijisanji/Elira%20Pendora"
+  }
 }

@@ -26,14 +26,12 @@
     "showSources": true
   },
   "debutDate": {
-    "value": "2020-10-14",
-    "verification": "official",
+    "value": "2020-10-09",
+    "verification": "legacy-unreviewed",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/oh-jiyu",
-        "kind": "official",
-        "verifiedAt": "2026-11-14T13:07:36.734Z"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/oh-jiyu"
       }
     ],
     "showSources": true,
@@ -264,5 +262,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/oh-jiyu"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/oh-jiyu",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fe738023c6a744910b52baee0f2b4fcb3%2Fliver-face_Jiyu_Oh.png.webp&signature=SNERO4sFJ6Ns%2BpLvIWjsrN3PVtaquAZYa6LHgdvt6jr5GBjCR99shb7NlZA9EpzORU2BN4JgxSWLvSeKRb0EGVlNOn8oY01l8G%2Fu5UjsIhjPmmyhzKpEacv%2FpXGHSjhrea6SzK8IyCghJeJR0Ag1NGNq0W9IXpuW1OwoD3i36eXPi3Fm7jzc082%2F2I51A8FNnNPPNvlqhh3kN9l%2FZ9O%2F1At7ghzNd%2BPML7eKWy2qT3WHNjImhKB%2FFe%2BhTgosGOnF%2FyxDIIPH%2FOJRP3sZ7xQ4psd7fPJk5DFXVwP%2BocziOW66InzseyJ5H5cryVyezJyJZPKqifr2cNdEJliQ8kvgvw%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/oh-jiyu",
+  "profileBranch": "KR",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCnzZmBOSrQf2wDBbnsDajVw",
+    "twitch": "https://www.twitch.tv/jiyuoh2434",
+    "x": "https://twitter.com/JiyuOh2434",
+    "store": "https://shop.nijisanji.jp/3009",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E3%82%AA%E3%83%BB%E3%82%B8%E3%83%A6"
+  }
 }

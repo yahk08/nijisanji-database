@@ -281,5 +281,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/sho-hoshirube"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/sho-hoshirube",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F4b2b45a06a2a49e3b6c6835087ecc1b2%2Fliver-face_Sho_Hoshirube.png&signature=Cku7IXhcnWjPgU6DV99kmzcXgNwHpI%2BRSGIBYiZ5R3ikmZTVvsK2Pp3XGbWrfD4F8lO50PuXVCQA%2Ff1KLzu2NmR%2F9kLfVTlsb3sAKjH9sewH1hLQEuvL%2F%2B3TmhzxWvpVm1VMKHllWKdYadX6E6p2jbYbKpWKOatEIbzPtTTd3nV82zqXHSqi48nJPsNlV9XgGNJOzjRcQnxejbQqz4vHunsYrYaRShQJxHz4gxj9MGQJzkxQy7eTh7uM%2FMTJDXe%2FhtuwQ%2BjI9pMiBtgC6EuW%2BNvEZlFVXYZzp3PAvBFkfZUAt3G7ChlMDSP1DQ6932xEXbI%2FoS3bPNhN3kkh86twqQ%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/sho-hoshirube",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@HoshirubeSho",
+    "x": "https://twitter.com/Show_SylveSTAR",
+    "store": "https://shop.nijisanji.jp/1145",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=HoshirubeSho",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E6%98%9F%E5%B0%8E%E3%82%B7%E3%83%A7%E3%82%A6"
+  }
 }

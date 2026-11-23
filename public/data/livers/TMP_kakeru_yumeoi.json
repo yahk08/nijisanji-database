@@ -9,9 +9,9 @@
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kakeru-yumeoi",
   "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/b450137e2b104488ae11a2c32156dd6a/liver-full-body_Kakeru_Yumeoi.png.webp",
-  "youtubeChannelUrl": null,
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UCTIE7LM5X15NVugV7Krp9Hw",
   "youtubeChannelId": null,
-  "xUrl": null,
+  "xUrl": "https://twitter.com/kakeru_yumeoi",
   "birthday": {
     "value": "06-28",
     "sources": [
@@ -24,9 +24,15 @@
     "showSources": true
   },
   "debutDate": {
-    "value": null,
-    "sources": [],
-    "showSources": false
+    "value": "2018-09-25",
+    "sources": [
+      {
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/kakeru-yumeoi"
+      }
+    ],
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "height": {
     "value": null,
@@ -39,15 +45,15 @@
     "showSources": false
   },
   "introduction": {
-    "value": "作曲と歌を得意とするミュージシャン。",
+    "value": "声が大きい34歳の男性ミュージシャン。 潰れる寸前のライブハウスにお客さんを呼ぶため、配信を始めた。 楽器は苦手だが作曲と歌が得意で、自分の曲を世界中の人に聴いてもらうのが夢。 お金がないのでライブハウスに住み込んでおり、夜な夜なもやしを炒めて生活している。",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/kakeru-yumeoi",
-        "verifiedAt": "2026-11-14"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/kakeru-yumeoi"
       }
     ],
-    "showSources": true
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "fields": [
     {
@@ -98,5 +104,16 @@
     "stateCheckedAt": null,
     "videos": []
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/kakeru-yumeoi"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/kakeru-yumeoi",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fa14d762a2d674b599d530083fcd49447%2Fliver-face_Kakeru_Yumeoi.png.webp&signature=VFuM5XbTh1vo8tzvXd2RLuNZFKcHlzkPLimpqM1MreG0LW5iffVvLyepQi2n7aZLTp5puT7Ozk3ROVyhYkgmcwN8wushaIKx7oqZByGH1Hm5y%2FE1nHVBzyTj1%2BvnX48UZOAp2ethWct3EKajMIyiPwEMOlAUWGlZQW5v1JMlYVLSoG75%2F6%2Fdun9pwBoWXC2%2F796EfSzrJ%2BmWdHjjuJimLyKGIdcaoIkk5A836nAwMk2XJVCx7U2wzC52GJxeBvDwbDGHX9n6Gzi8tVIVi%2FGQHXJaStEzpkpvTIRQzJKIy7QxHV3s3s3pOkmcfeXzYFKdmktZ9mG9ZbPW0Z7P3KuO9g%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/kakeru-yumeoi",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCTIE7LM5X15NVugV7Krp9Hw",
+    "x": "https://twitter.com/kakeru_yumeoi",
+    "fanclub": "https://www.nijisanji.jp/fanclubs/kakeru-yumeoi",
+    "store": "https://shop.nijisanji.jp/1058",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=YumeoiKakeru",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E5%A4%A2%E8%BF%BD%E7%BF%94"
+  }
 }

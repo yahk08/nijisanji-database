@@ -9,9 +9,9 @@
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/hayato-kagami",
   "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/f58d8a7b949b4e4cabae7df63639caa7/liver-full-body_Hayato_Kagami.png",
-  "youtubeChannelUrl": null,
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ",
   "youtubeChannelId": null,
-  "xUrl": null,
+  "xUrl": "https://twitter.com/H_KAGAMI2434",
   "birthday": {
     "value": "12-02",
     "sources": [
@@ -24,9 +24,15 @@
     "showSources": true
   },
   "debutDate": {
-    "value": null,
-    "sources": [],
-    "showSources": false
+    "value": "2019-07-03",
+    "sources": [
+      {
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/hayato-kagami"
+      }
+    ],
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "height": {
     "value": null,
@@ -39,15 +45,15 @@
     "showSources": false
   },
   "introduction": {
-    "value": "玩具会社の若き社長。",
+    "value": "玩具会社、「加賀美インダストリアル」の若き社長。\n自社玩具のPRのため、自らライバーとしてデビューすることを決めた。",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/hayato-kagami",
-        "verifiedAt": "2026-11-14"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/hayato-kagami"
       }
     ],
-    "showSources": true
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "fields": [
     {
@@ -98,5 +104,15 @@
     "stateCheckedAt": null,
     "videos": []
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/hayato-kagami"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/hayato-kagami",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F616a31c054da4761ae731bc852f9381b%2Fliver-face_Hayato_Kagami.png&signature=DQBqDxgU%2BgVLvGtX5bryBaaRUifftbUWFgNGQiPwYYdevxgRx%2FDby6Nbr5zak7rw9lQdRLumOjAdYxok3GaErA2hYlUQSWYTJAQOfjWue1s1DvOTETYAIaUJlTojkpfNl487IeZ5JdQ%2BLlGy2XctJghD739ysTa4MHnOHABlrWg7m8n%2FkSFjBkcgllU6UHGYfAJImOPfdVgGmAMsSvnaAbmpyI4nJxaaUdYuhaFUXc0yY7gWo7uLNTkQHyTZzBMQmtUDM6fGxNOHEP2bY3dhpAlaQ3rpuMJnPGR%2Fc%2ByvELMTyZEN%2BotZBM5%2FA0unt9BBDeImdmQWRwFZd%2BodeZbR7g%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/hayato-kagami",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ",
+    "x": "https://twitter.com/H_KAGAMI2434",
+    "store": "https://shop.nijisanji.jp/1079",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=KagamiHayato",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E5%8A%A0%E8%B3%80%E7%BE%8E%E3%83%8F%E3%83%A4%E3%83%88"
+  }
 }

@@ -248,5 +248,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/saku-sasaki"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/saku-sasaki",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F10bfc765724647449f785e9a7974eabd%2Fliver-face_Saku_Sasaki.png&signature=UFUVq7kpAhWaSJu0YuJEAWhWEYZ%2F54mSR%2FyUKRIqn9p9QQfGAg2fA%2BvhVVr8MRgUtFgHzOy0j2W0fEHeBcOC0Q1MhZ2%2FAWE9ZY8L8n8eBBd0bPRpXGBMI8pUgkgydUljpJ0JjQn0Wn08mYpWphFSUDEn0T6q8B1Ghvlvi22jddDW%2FC9jFJWRMDFSGcpSHwR%2FHS1vw5tTbd5cCVAUY%2FeJLpM81xM%2BqlypHR8sIt6wAHiFsBMVSgmAdE%2FzaSnphN72PQ%2BNfhT5pj0dtcAbaALF3hLSNFc4PaxqY1DJtWLUGSBcqSVKmCd%2BumF%2FA%2F3XOEpk%2BatQLR4bocGwbiSyNGqvlg%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/saku-sasaki",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA",
+    "x": "https://twitter.com/saku_sasaki",
+    "store": "https://shop.nijisanji.jp/1038",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=SasakiSaku",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E7%AC%B9%E6%9C%A8%E5%92%B2"
+  }
 }

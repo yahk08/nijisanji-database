@@ -207,5 +207,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/nonoha-togawa"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/nonoha-togawa",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fda656750c9204df59abf3ba0a84cf56c%2Fliver-face_Nonoha_Togawa.png&signature=QVkBo2tRMketQCgcJrOLZSrJrI1ET7S2m5lbQxiChliNZAGdqGWE%2BOJRmr8RHa2WeP9O%2FqwLxfTsXhNFAPla4PJQ7nPR7On6ZMwuekWrYeqsVmzEV49aw4loiwN6nTs9xrUZyJEjgebP5MTmva%2BmhXCIUGVOTPGz7AR%2F70ygCUcnG9d9CVATQ0IF%2FqgVws5Gz26XWYU6tNe5RiLIFiH7HIWNbJ3rNYE7SX5P68TtTHBjyK4cIqQJ89lrD6p738Ne1OAIlYnuwwOdjKmuGpQX%2BnrIsQdM%2FndcqtsuSJJB6lql5cUMeEYfB3hqfgDPxWPjiOqpD3lButVQqRdo2ssFCQ%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/nonoha-togawa",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@TogawaNonoha",
+    "x": "https://x.com/Togawa_Nonoha",
+    "fanclub": "https://www.nijisanji.jp/fanclubs/togawa-nonoha",
+    "store": "https://shop.nijisanji.jp/1171",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E5%8D%81%E6%B2%B3%E3%81%AE%E3%81%AE%E3%81%AF"
+  }
 }

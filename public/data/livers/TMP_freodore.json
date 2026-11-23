@@ -102,5 +102,14 @@
       "status": "unavailable"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/freodore"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/freodore",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fe62e2f857c8e46fc98c79bdf9bb848bd%2Fliver-face_Freodore.png&signature=aJ0ASkLwQnuJMyENUzF1qJE7I4tlhhpSt0Pm%2FjeMZGfv3pScZNG893%2Foedjj7HlD2DWvgbkkolVjjQY3SrfgAKLLimeOiuHTKva91F%2FG0B5pDyvqWXeSYZTrZk4jG5U8sGBjJtVP0KXpL0R5v%2BEyJKH3fi0t3rpXg%2BDFjpqQkjDUZNI1HkHuPe%2FXVwWFS6vt5rHpb8NvKs5%2BkPQPhMCm%2FiGz6%2F8nyGh03alw%2Fp7ZOp%2B7XapR%2BAvlyTQuPcb4Pc6loAK8jFKabYjtjqblkPrYhSxt8hv0m2boRgN03sbfiYsCMk3EbGNRhvk0PKtRFHyQWBqd097ricAmoM%2Bp5IxOlg%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/freodore",
+  "profileBranch": "EN",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@Freodore_nijisanji",
+    "x": "https://x.com/Freo_2434",
+    "store": "https://shop.nijisanji.jp/4043",
+    "wiki": "https://wikiwiki.jp/nijisanji/Freodore"
+  }
 }

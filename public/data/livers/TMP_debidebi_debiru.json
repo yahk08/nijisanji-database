@@ -248,5 +248,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/debidebi-debiru"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/debidebi-debiru",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F04f4ba87b763413da8836997ae3cd4c7%2Fliver-face_Debidebi_Debiru.png.webp&signature=FIypLCr7lJopB1FXc02TEj%2FAAJbNra82ucj5QCvB8ZZT6dl6GUMHDZCHuhF1%2FBHmlAd6TCTnI1FQCFRxjEp1jTVsd7%2FaXJascAzTulJDmqbzlqpeaD9l4Z5SxBck6vgqOn8nSc3OjjcebgTPMrQ43mmwnrBlS2KkuLi9MLp%2FRDe5FBNN6gwPzlXCyh1gAXeZPc2M1dZ8fhJTd9AqSeL3NvSVpAHSQak%2FtNVbstxSuNUBVsZHmABeVg0AuTpI%2ByY2EhWVmg%2Fs74hrM0J8GJCf%2B9WpnUvTBmUR%2ByIlSVWTF1MKp0K4u5F2jHX%2Fg5XjH9%2BGj62etnfx%2FANmJKtIgfsQVA%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/debidebi-debiru",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w",
+    "x": "https://twitter.com/debidebiru_sama",
+    "store": "https://shop.nijisanji.jp/1049",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=DebidebiDebiru",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E3%81%A7%E3%81%B3%E3%81%A7%E3%81%B3%E3%83%BB%E3%81%A7%E3%81%B3%E3%82%8B"
+  }
 }

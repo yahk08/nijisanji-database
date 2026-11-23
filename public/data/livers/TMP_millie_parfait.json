@@ -25,14 +25,12 @@
     "verification": "legacy-unreviewed"
   },
   "debutDate": {
-    "value": "2021-10-09",
-    "verification": "official",
+    "value": "2021-10-06",
+    "verification": "legacy-unreviewed",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/millie-parfait",
-        "kind": "official",
-        "verifiedAt": "2026-11-15T04:38:58.959Z"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/millie-parfait"
       }
     ],
     "showSources": true
@@ -102,5 +100,14 @@
       "status": "unavailable"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/millie-parfait"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/millie-parfait",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Ffdf4cecc8af14d99a1d2c9f6acd4a6cb%2Fliver-face_Millie_Parfait.png.webp&signature=TZyCX4iR7ARDkruMbTpksME58udPdh0t66G0LCfaMOXnOCaudt483hU%2Bgk2FSRvXvdS9llpmFIL%2BVIPWMMSmNRb3HpTs%2BslUOoXoxKKh6UgsdWksk1xu%2FTKbCw3r%2B6khI5TQtT99PjWk%2FQATud2CNMwN6xMOtmqHeannPxxACHyqVoaMFE2TvUWDDH6Xfs8egqGE8lKi0WVE3xnTCX%2BEU8jUPpj%2FDO5EzT32K%2BKQbguOyriKyfNiUAifUqsPb4Le3d0kL9NTlU4nr5UdyGA6PVAMUqy5MaSw14%2FtgjyDAY9oWvyc8JGgllpFMUjP9pZjJEyxkplUEZWBD5X%2Bvlb02g%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/millie-parfait",
+  "profileBranch": "EN",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ",
+    "x": "https://twitter.com/MillieParfait",
+    "store": "https://shop.nijisanji.jp/4007",
+    "wiki": "https://wikiwiki.jp/nijisanji/Millie%20Parfait"
+  }
 }

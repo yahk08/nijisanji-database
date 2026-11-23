@@ -26,14 +26,12 @@
     "showSources": true
   },
   "debutDate": {
-    "value": "2021-07-22",
-    "verification": "official",
+    "value": "2021-07-19",
+    "verification": "legacy-unreviewed",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/oliver-evans",
-        "kind": "official",
-        "verifiedAt": "2026-11-14T13:07:36.734Z"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/oliver-evans"
       }
     ],
     "showSources": true,
@@ -345,5 +343,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/oliver-evans"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/oliver-evans",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fad3beeb99c4a4482a90d1a567648450e%2Fliver-face_Oliver_Evans.png&signature=kxfa7G4886Udr660aTRIc53vb3TGaS2mJgKMwZSwhlku4jCI43BFxUSyj%2BTzHv4rkZm4fG5zXqGGFcVxaORemZXqqEeXT5sieHwtzzXUwaNRbWlktBdheJd4zWTEc61yNf94Wsixei%2BSJIilKpCY3xFrijyubaVvl2gOhO4DakitSPYE8yla079iwJcghRrvkUr00W3ZxkNY0GG%2FNOvETP34dyFdsjAzJ4alLgksWUf5Dei2zHc4SL69ORMRFCWLp5jBtyJ0%2F5V7s8uBUuz4ChsLiUxIjgIDq0PpEaeR6j7Tz2XBU4QwuQ83Q1eoHbmuE6Kv4nBHFiujCPZQs9DxWg%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/oliver-evans",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA",
+    "x": "https://twitter.com/oliverD_23",
+    "store": "https://shop.nijisanji.jp/1121",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=OliverEvans",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E3%82%AA%E3%83%AA%E3%83%90%E3%83%BC%E3%83%BB%E3%82%A8%E3%83%90%E3%83%B3%E3%82%B9"
+  }
 }

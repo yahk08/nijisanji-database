@@ -9,7 +9,7 @@
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/mito-tsukino",
   "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/598fa0f71c554ef9bbde319304025876/liver-full-body_Mito_Tsukino.png.webp",
-  "youtubeChannelUrl": "https://www.youtube.com/@TsukinoMito",
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A",
   "youtubeChannelId": null,
   "xUrl": "https://twitter.com/MitoTsukino",
   "birthday": {
@@ -46,15 +46,15 @@
     "value": null
   },
   "introduction": {
-    "value": "高校2年生。性格はツンデレだが根は真面目な学級委員。本人は頑張っているが少し空回り気味で、よく発言した後で言いすぎたかもと落ち込んだりする。",
+    "value": "高校2年生。性格はツンデレだが根は真面目な学級委員。 本人は頑張っているが少し空回り気味で、よく発言した後で言いすぎたかもと落ち込んだりする。",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/mito-tsukino",
-        "verifiedAt": "2026-11-14"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/mito-tsukino"
       }
     ],
-    "showSources": true
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "fields": [
     {
@@ -105,5 +105,15 @@
     "stateCheckedAt": null,
     "videos": []
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/mito-tsukino"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/mito-tsukino",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fbd287ec9cfb8453da4a32161e4e76ce1%2Fliver-face_Mito_Tsukino.png.webp&signature=rRUGqeDY033YBrgLY7bcp%2FB%2BRoBztxRAmU2Tuv8lQdpEdBs3VUUJ6derIvwxIGe2JXCJYgYVHiOBA5%2FcGqIeEKMKnAQmVUIYUDgEyDZNoHeX8%2BYqHjUFNQ8IHdi18%2BZLWxKbXdl2OyS%2FqCqLNgcIBfN1QSaDvsxfkf0FHEiD%2FQ6up3mbxvRHY%2BM5hquypsy%2FLx%2Fhn%2BRrLyVGenK9ZXerbhnyHq8GegjUFb28BVyCuGTgV8B7HWwSqSizyFYobrIqhOietlQS7Mbxrwz9iTrbzDpQhiM3DhEfavWdOuxQBaV3hahW9Mo6wWNuPB6uvJj5ZV7yDc%2Fgv6rNKvZ2jzYXBw%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/mito-tsukino",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A",
+    "x": "https://twitter.com/MitoTsukino",
+    "store": "https://shop.nijisanji.jp/1002",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=TsukinoMito",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E6%9C%88%E3%83%8E%E7%BE%8E%E5%85%8E"
+  }
 }

@@ -9,9 +9,9 @@
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/kizuku-yashiro",
   "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/def82e9e6aee4b5c90856ce8dc624116/liver-full-body_Kizuku_Yashiro.png",
-  "youtubeChannelUrl": null,
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA",
   "youtubeChannelId": null,
-  "xUrl": null,
+  "xUrl": "https://twitter.com/846kizuq",
   "birthday": {
     "value": "11-23",
     "sources": [
@@ -45,15 +45,15 @@
     "showSources": false
   },
   "introduction": {
-    "value": "IT企業に勤めるプログラマー。",
+    "value": "34歳男性IT企業の社員、プログラマーでそれなりに優秀。 本人は謙虚な性格、いつも疲れた喋り方。優しく流されやすい性格。 週休35時間でそれ以外は常に仕事をしている。 空いた休み時間に試しに配信をして、何かしら面白いものなど発見できたらいいなと考えてる。",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/kizuku-yashiro",
-        "verifiedAt": "2026-11-14"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/kizuku-yashiro"
       }
     ],
-    "showSources": true
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "fields": [
     {
@@ -104,5 +104,15 @@
     "stateCheckedAt": null,
     "videos": []
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/kizuku-yashiro"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/kizuku-yashiro",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fff46243c3787455cb8005023513616ca%2Fliver-face_Kizuku_Yashiro.png&signature=rWGGihctf59eQ60VH7nbiumuwJYN09eNnsn%2FvRnu%2BJJ9n0%2BLzZO2F0bFVbBG0YqPZY5Z4iLE%2FSXSgznz4eRxbdSkQ5X7gYe82cId2L%2FBKISzolPHvhLBG5aQatSZRwbwfxLZAFliOs5%2BQvC%2FpoUlBdmBZkJqsY%2BazewUDsZ9BTNp9OywwPjVb0068k1IN9xbCrfIEPkZfHeRGcS5rSI2rhKD9LhhRQD1QsOgLvOFnuYOcOND53gIAyh8F%2BQTs2xOn1qqG0uBzZ5u8bf1yT3TXGDEUY%2FRk236s3w9qvYRihdaaBj89x8YRL%2F7Dn%2B%2BBL270C%2F5VlZwxh%2FeYnsMcmkF0Q%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/kizuku-yashiro",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA",
+    "x": "https://twitter.com/846kizuq",
+    "store": "https://shop.nijisanji.jp/1030",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=YashiroKizuku",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E7%A4%BE%E7%AF%89"
+  }
 }

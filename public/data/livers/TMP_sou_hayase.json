@@ -9,9 +9,9 @@
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/sou-hayase",
   "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/f58fe3526c34470685785c6ad842dfe7/liver-full-body_Sou_Hayase.png.webp",
-  "youtubeChannelUrl": null,
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw",
   "youtubeChannelId": null,
-  "xUrl": null,
+  "xUrl": "https://twitter.com/SouHayase",
   "birthday": {
     "value": "03-20",
     "sources": [
@@ -24,9 +24,15 @@
     "showSources": true
   },
   "debutDate": {
-    "value": null,
-    "sources": [],
-    "showSources": false
+    "value": "2019-09-19",
+    "sources": [
+      {
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/sou-hayase"
+      }
+    ],
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "height": {
     "value": null,
@@ -39,15 +45,15 @@
     "showSources": false
   },
   "introduction": {
-    "value": "コスプレやロードバイクなどアウトドアが好き。",
+    "value": "アウトドア大好きな女子。コスプレ、ロードバイクなど興味の範囲は広い。 自慢の一台に跨がり日本中を駆け回って、将来の目標を探している",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/sou-hayase",
-        "verifiedAt": "2026-11-14"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/sou-hayase"
       }
     ],
-    "showSources": true
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "fields": [
     {
@@ -98,5 +104,16 @@
     "stateCheckedAt": null,
     "videos": []
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/sou-hayase"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/sou-hayase",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F79033e0bc6ef4db3b4d24abde3fddcc9%2Fliver-face_Sou_Hayase.png.webp&signature=BHYeesIvPovi%2B3jFseBhjHA6fJyem4q9ZPesCMDQO28dOnu%2BJstlXfFt%2FKxGuMhqRWqcf7Ols7b7tPqimzV6AMo8tL1XObyj3wWKRBJQW9ZViTyjoEujbmtr%2F6VpPysWddvU%2BO25p6rwxIOl9xxRKBwpRZkj2qon%2BnpUQiI19%2FqfHA5awD2b0qXP%2FaQGwWZVJwF4ifvOXKxiwZ3C818LEcGAv3%2Bp0n9cHmy%2FZKF6FiD9gg3VrZHtrh8bXzVMqHwhbjEgupDo2JA%2BeTHLuBYC%2Bz9JxQ%2BRp%2BcWMpHzumj15Ph3kKJCQ9feBjK3QQrSKIwQIhMEc%2BE3B%2BU2FtS7DgJCDA%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/sou-hayase",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw",
+    "x": "https://twitter.com/SouHayase",
+    "fanclub": "https://www.nijisanji.jp/fanclubs/sou-hayase",
+    "store": "https://shop.nijisanji.jp/1085",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=HayaseSou",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E6%97%A9%E7%80%AC%E8%B5%B0"
+  }
 }

@@ -26,14 +26,12 @@
     "showSources": true
   },
   "debutDate": {
-    "value": "2020-08-06",
-    "verification": "official",
+    "value": "2020-07-31",
+    "verification": "legacy-unreviewed",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/lee-roha",
-        "kind": "official",
-        "verifiedAt": "2026-11-14T13:07:36.734Z"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/lee-roha"
       }
     ],
     "showSources": true,
@@ -264,5 +262,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/lee-roha"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/lee-roha",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F0901bc3c2c534410a60d82ac7ad347d1%2Fliver-face_Roha_Lee.png&signature=EnjqgOAgJ8tmhf8k9RYeAsZ8Gz8K66WI9QrdMiTUxtT94BsJSZb2V%2Fj%2BAHoPfXCtsf3TZctjYxLDnbotwRFizTzGKfBud6%2Fy%2F0oo7NZmc8yjlGuXAnnkZfDv9xYfuhyW9wqMW%2B8zMzC80flxTdSOFNELu%2BkXBbyxOj8atsIJSmxoJYt%2BjHjYCPKRCVUWzunsDMF7bwjhjORRNosjrpyizQwyEprBHgw7WX8A%2FJBjqzdEMT14znrrdEGnCkvOaTqiJjq%2Fl0Im3NVWlNMHeP88DIwGbn9t8WLEA1BMoKZjgwv2wIpk3ttZw3oj4meCewK3o83EodmVbxEbdcMRjaMimg%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/lee-roha",
+  "profileBranch": "KR",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg",
+    "twitch": "https://www.twitch.tv/rohalee2434",
+    "x": "https://twitter.com/RohaLee2434",
+    "store": "https://shop.nijisanji.jp/3006",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E3%82%A4%E3%83%BB%E3%83%AD%E3%83%8F"
+  }
 }

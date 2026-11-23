@@ -9,9 +9,9 @@
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/hajime-shibuya",
   "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/0ce8ab8faf61481cafcb322c8ad00dd3/liver-full-body_Hajime_Shibuya.png.webp",
-  "youtubeChannelUrl": null,
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ",
   "youtubeChannelId": null,
-  "xUrl": null,
+  "xUrl": "https://twitter.com/sibuya_hajime",
   "birthday": {
     "value": "05-05",
     "sources": [
@@ -24,9 +24,15 @@
     "showSources": true
   },
   "debutDate": {
-    "value": null,
-    "sources": [],
-    "showSources": false
+    "value": "2018-02-08",
+    "sources": [
+      {
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/hajime-shibuya"
+      }
+    ],
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "height": {
     "value": null,
@@ -39,15 +45,15 @@
     "showSources": false
   },
   "introduction": {
-    "value": "ゲームやアニメが好きな大学生。",
+    "value": "大学2年生。よく家にひきこもっている。 人と直接話すのが苦手で、克服しようと思い配信を始めた。 アニメやゲームが好き。グッズ集めも好き。",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/hajime-shibuya",
-        "verifiedAt": "2026-11-14"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/hajime-shibuya"
       }
     ],
-    "showSources": true
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "fields": [
     {
@@ -98,5 +104,14 @@
     "stateCheckedAt": null,
     "videos": []
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/hajime-shibuya"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/hajime-shibuya",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F48d793b718984df8b9f81ade7f0b8a5a%2Fliver-face_Hajime_Shibuya.png.webp&signature=qzJlVS9f4Q0FKylqFvvuVN%2BPSLTnRL%2FaAQkX%2FsvKWNAWB7%2B4Xefpu%2FqEuGvY3Pfts%2FcmVmmx12GNVf2iQGyXqu7ulfXEXvjOIRYKdosf3FqcEZ5oCPtnywozWvNPqoBSOs3uk%2F5C4XRopzNPhqVYgSufvtK9OldzMJOP%2BxRvVU3aJtVmSSM66WUP%2BKUvy5VX4Sp%2BwuDSrwTkN%2FpVVnqh9%2B%2BhK3LVElOmVUyXLgHnEqT3Eec3pRnRRlOxHRnMv%2BppNWvIsXPrqCcMFpwj0lQxr%2FSYv4CotG3JFLYlDxgdfX3Fk2tydmrkO%2BrL1P%2FofGbTRY8QcDPIYzdITsVETq5DEQ%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/hajime-shibuya",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ",
+    "x": "https://twitter.com/sibuya_hajime",
+    "store": "https://shop.nijisanji.jp/1007",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E6%B8%8B%E8%B0%B7%E3%83%8F%E3%82%B8%E3%83%A1"
+  }
 }

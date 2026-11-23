@@ -25,14 +25,12 @@
     "verification": "legacy-unreviewed"
   },
   "debutDate": {
-    "value": "2022-07-25",
-    "verification": "official",
+    "value": "2022-07-20",
+    "verification": "legacy-unreviewed",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/ren-zotto",
-        "kind": "official",
-        "verifiedAt": "2026-11-15T04:38:58.959Z"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/ren-zotto"
       }
     ],
     "showSources": true
@@ -102,5 +100,14 @@
       "status": "unavailable"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/ren-zotto"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/ren-zotto",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fdeca5e8685ed481f8a618df234e5408c%2Fliver-face_Ren_Zotto.png.webp&signature=OFEYwvgpAgNQ7ztSBfA%2Fo9Of3C%2Bme8HcnpJ0FnFxvoRqmPGLiexhNz7Cv4LIuuCe%2F35iI9OiKeSXQZkpAjkx83qpEdJHif0V9PKrcnV2EcKUHZUPm%2FUl3CfYU2%2BECjsEAX%2F1QFSM88lmGFcOf1kdfjs5vCGHez1B%2BoJeGXmMP6gE%2FpPDMkYHs0o%2FEuqdjSQwmuRSH39L3EkS0hJls8lF6xoFCARciJuEtilyCGNLw8bdkin2LJz%2B3balVlQPgHvjDqr51zDCVOTJhhy9n0AbTkM75XirMIixYQ8xiNp1m1yfx650jwjXwjdzF%2Bs%2FcGXUYqkIk1XgubT0TuLxlGnoag%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/ren-zotto",
+  "profileBranch": "EN",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg",
+    "x": "https://twitter.com/RenZott0",
+    "store": "https://shop.nijisanji.jp/4025",
+    "wiki": "https://wikiwiki.jp/nijisanji/Ren%20Zotto"
+  }
 }

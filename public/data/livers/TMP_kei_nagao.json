@@ -345,5 +345,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/kei-nagao"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/kei-nagao",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F883ad7825d6141f1beb2f50b0a79f542%2Fliver-face_Kei_Nagao.png&signature=hN0dVI2tdSb7Gt9YAhwQGwVg0hb%2FrjdlZFMs7OCm2orCOcfxIWoDDI55%2FyjFM4I3r8F7cgxWTgY%2BHhyVLwLS2BABtmttbH5sFNCja8UrehC43t8MJZ7f5XJXNpZS0IWCT0sagENJ8zecL8BTC1V26TZ9dv2uDGJW5McUk%2FoBqNHDvTTWBFV%2FexGTod67gX7VsGcPuWQrgNTIWzdGRFi4fRNe%2FIUeqp5HrFsiaU8VHKT%2BUWX4zlufHHkghyXcPy6p5eseQ%2BigP9iUckS9XAGdwfWdJV7hEc%2BJO6qJVkyOGU5C23i1W09Omx5%2BGJ8y3ZqlmvUYEb7%2BtEM9DiqMP2JRMg%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/kei-nagao",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg",
+    "x": "https://twitter.com/kei_nagao2434",
+    "store": "https://shop.nijisanji.jp/1113",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=NagaoKei",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E9%95%B7%E5%B0%BE%E6%99%AF"
+  }
 }

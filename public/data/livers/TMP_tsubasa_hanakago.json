@@ -207,5 +207,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/tsubasa-hanakago"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/tsubasa-hanakago",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Ffcd6581ea328412e99cd953e80ae738d%2Fliver-face_Tsubasa_Hanakago.png&signature=SuCQFkyn06SZP1Q5oMKHsHeMMSF5esQIwkFlbAlv81rRe0mmM%2BBrl1VZR1mGZ7jwO0DrVaXhfax5XLJJWQwTf5LMaY2exeqiPg0kONvAeYOm%2FIN6UdfuU0bAeGb10TMScJBj6%2FHtYDAlw4ecaLdklo4lLXYb%2BH9lA1yho%2BbHsKzjQJ4vl1TWqC1ZmL3ogth1kS47OASe1ljLC8oXHlRQqEbujUL1BmxkZOHX1tXN9IL19PvBMz6PgkttLYd8z2cmWEAlBfCtd0SWYYP%2B7E%2F9LjvoT5r2bMzn%2BHq8ljbsVaPSlp2YyEaTcSdOhJhzCzpk1wNQ1d8RZsX%2B%2BRVddPGYeg%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/tsubasa-hanakago",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@HanakagoTsubasa",
+    "x": "https://x.com/Hanakago_2434rr",
+    "store": "https://shop.nijisanji.jp/1177",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=HanakagoTsubasa",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E8%8A%B1%E7%B1%A0%E3%81%A4%E3%81%B0%E3%81%95"
+  }
 }

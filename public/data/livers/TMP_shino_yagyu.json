@@ -207,5 +207,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/shino-yagyu"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/shino-yagyu",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fd712a24a2b8543e0b589ecdfbe7c5ad9%2Fliver-face_Shino_Yagyu.png&signature=IGBuvoKVLpiji6Zj%2BO5zNfMTnXnKYH%2BmxKEbK%2F9ZwD64P%2B%2BZDAUTX5uLfGFOt1qDjTPJAz76%2FHcFXipC5YDsmwnV5JwDfB0hB%2BOVTmJRk9mlDjSt9S8huLQ%2FtNS3qjdWcaDY4qMjBR%2B9DcoQI4i4iOz5r7G6yPIKUj9nPs%2FbqsszL9wqtWBA42mCFV5j9l%2FiwONK%2BZfr9eko0ICCxXhsaHwuceJmTU9354HQ9xi%2BYbNe%2BuAj6YQm9223jCpUWIbKZACSJkgB58Bnb8DdHk2OcVDD6ioeG5IRQ05tN4Hov82bjcBwCwUWwdpHQkdWQwd8Fsp27VDcgy6Ng3W5WTuASQ%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/shino-yagyu",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@YagyuShino",
+    "x": "https://x.com/YagyuShino",
+    "store": "https://shop.nijisanji.jp/1173",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=YagyuShino",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E5%A4%9C%E7%89%9B%E8%A9%A9%E4%B9%83"
+  }
 }

@@ -298,5 +298,16 @@
       "xAccountLinked": true
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/sakyo-itsuki"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/sakyo-itsuki",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F3e196e23ad234fc39212007f10fa046d%2Fliver-face_Sakyo_Itsuki.png&signature=rmjkmQasCDPKYZTdHuA7WjH%2FRc5SnwOlemr3%2F0wtr5PUYGx8K4dnLxNOVOQKRgvXLnePBvZDZK7HHR%2Fxym0gQxeDKQkg9FU7Qn%2FI5nttEPS3%2FGv4WL88Ca4b2Wax4VhnfeqyDzEKbiqmi%2FsKBizeG3iuPOUXImFwqSMLFDHiMhZ8ohcO%2FpwuRsbU4wPLJnX8%2Fu5OrbMTSfcNi7wU2S0yaekZo2TTKhGlXVXZbTUARTF4EXl%2B%2BGVS8qqS9womBlq1gAa2brKjGTZ91AYM6mQJjlQ5kOKqEBP3MWZxIyJWTWWDLoOboGzcv2NH%2FmkVSqlDl91v0iaLKQjzypsf2Hrw0g%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/sakyo-itsuki",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@ItsukiSakyo",
+    "twitch": "https://www.twitch.tv/itsuki_sakyo",
+    "x": "https://x.com/Itsuki_Sakyo",
+    "store": "https://shop.nijisanji.jp/1168",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=ItsukiSakyo",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E4%BA%94%E6%9C%A8%E5%B7%A6%E4%BA%AC"
+  }
 }

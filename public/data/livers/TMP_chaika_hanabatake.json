@@ -26,14 +26,12 @@
     "showSources": true
   },
   "debutDate": {
-    "value": "2018-06-03",
-    "verification": "official",
+    "value": "2018-06-05",
+    "verification": "legacy-unreviewed",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/chaika-hanabatake",
-        "kind": "official",
-        "verifiedAt": "2026-11-14T13:07:36.734Z"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/chaika-hanabatake"
       }
     ],
     "showSources": true,
@@ -345,5 +343,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/chaika-hanabatake"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/chaika-hanabatake",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fe7a6cbdcfc9b40ea8ea8be29199becc7%2Fliver-face_Chaika_Hanabatake.png.webp&signature=P%2BuaodOr2p9mOYNF3dMGtzD9yyr6CvOue5tt%2Fc7MYlL9EP7lySNFsCcrGNxX%2BOd1GEYiUZh9%2BAlsFzHca6iZ7zVXNe7XSNnoiWksunvV1q6IiHqIwy1Xn2zrgMr7SFB1kWJCWLiknpzjh1NPd9c8WWH8J6zG%2BQ%2BCnTq%2FDLag1fZdFq2R7e6%2F7vGYON%2Bz%2BRaW6ayKaLGMEkuB5UY3avdAodsVrGZZdymcTTr7%2FFeI1mKirKPOZzoCRkHn9E125j%2BUJLVeuVoQxC%2B1y3Ng0csoaNfNFokdlP4%2Bolkojt1fQh3KdPCnflJ7QpfxyZ7WBf%2FHGQ46vfIrGmVTeIe7Krvk6w%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/chaika-hanabatake",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg",
+    "x": "https://twitter.com/zulmihp1nlmot5y",
+    "store": "https://shop.nijisanji.jp/1032",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=HanabatakeChaika",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E8%8A%B1%E7%95%91%E3%83%81%E3%83%A3%E3%82%A4%E3%82%AB"
+  }
 }

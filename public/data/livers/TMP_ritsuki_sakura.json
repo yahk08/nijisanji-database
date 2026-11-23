@@ -248,5 +248,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/ritsuki-sakura"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/ritsuki-sakura",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F3b53416aa270464f994b3a88f65ec79b%2Fliver-face_Ritsuki_Sakura.png.webp&signature=fESCrGlKmxBzTx2LhOny4FqnWRxvNHglit7pAqibdbJsg3k8lyrT7RRIZgM17bYhFmzhLXpVQaQ2IddEvOomVagNUvVfkg51115hnzx32y70tv71jlZhlYYlQENvv%2FWwYxZ1lhihzIIo0%2BpSsVDriVg4cqUjh%2F6AO5rz7%2BjAmIF1jDHvy4z2%2F8kUQll6FPuwT7S%2BWKTEH%2BvgJhhEpEPyAfx4q6hgoMORcz57W1q3Ia1hohGEJQFoU%2FkEYVFkZ13uOTCB%2BaC9Syrs%2FqkAeISzEWH%2F%2FOk%2BHWKnjPm1jj%2BhtsbORu249CGZj89o2EiyLk%2FrruL%2FWqh6XIEmX3k0Ov8GeQ%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/ritsuki-sakura",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ",
+    "x": "https://twitter.com/sakura_ritsuki",
+    "store": "https://shop.nijisanji.jp/1054",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=SakuraRitsuki",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E6%A1%9C%E5%87%9B%E6%9C%88"
+  }
 }

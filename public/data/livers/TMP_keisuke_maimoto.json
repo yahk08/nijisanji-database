@@ -9,9 +9,9 @@
   "branch": "JP",
   "officialProfileUrl": "https://www.nijisanji.jp/talents/l/keisuke-maimoto",
   "portraitUrl": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/e8fa6c21a87449868f72278d5d04a273/liver-full-body_Keisuke_Maimoto.png",
-  "youtubeChannelUrl": null,
+  "youtubeChannelUrl": "https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g",
   "youtubeChannelId": null,
-  "xUrl": null,
+  "xUrl": "https://twitter.com/maimoto_k",
   "birthday": {
     "value": "11-09",
     "sources": [
@@ -24,9 +24,15 @@
     "showSources": true
   },
   "debutDate": {
-    "value": null,
-    "sources": [],
-    "showSources": false
+    "value": "2018-08-09",
+    "sources": [
+      {
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/keisuke-maimoto"
+      }
+    ],
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "height": {
     "value": null,
@@ -39,15 +45,15 @@
     "showSources": false
   },
   "introduction": {
-    "value": "スポーツ観戦を愛する農家。",
+    "value": "40歳の独身農家。若白髪に悩む日本人でスポーツ観戦を何よりも愛している。 近所の子供達から白髪のおっさんとしていじられており、正直やめてほしいと思っているが、近所の皆様の目線が怖く強く言えない小市民。",
     "sources": [
       {
-        "label": "にじさんじ公式プロフィール",
-        "url": "https://www.nijisanji.jp/talents/l/keisuke-maimoto",
-        "verifiedAt": "2026-11-14"
+        "label": "手動入力Excel（公式ページ未再照合）",
+        "url": "https://www.nijisanji.jp/talents/l/keisuke-maimoto"
       }
     ],
-    "showSources": true
+    "showSources": true,
+    "verification": "legacy-unreviewed"
   },
   "fields": [
     {
@@ -98,5 +104,15 @@
     "stateCheckedAt": null,
     "videos": []
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/keisuke-maimoto"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/keisuke-maimoto",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2F62cb2dc53c984daaac6cf0d398415364%2Fliver-face_Keisuke_Maimoto.png&signature=clT54fDjFk46ToKKDc7%2BXhouslcYIBTxmwj1Oth04tDQxgs9iEiygQtj%2B%2FLUCdto6xislxLyL6TkzmMt0%2BXoocIO%2BcvPyvzWRvEKHUfp4hJZDaaMvqAYdWO61vEjYqARxahTukgiJ89lrutk9oXX%2FOA%2B%2BiEyDp71hS%2BAo4art0dIhDI1iq0l6uPsE2uwXey8PktidvMmgMdIIIK6lramTwSyLZ6XWocOg6ioRDVefiZFzoraKkFIw8AUle6Lptcc2NHTBOlx0o70JwWj8GTl0VBg6xYd%2FUZMSz2%2FGLJeQ5rLl%2BSn7JvwR58PzMH59UEyaYcCp2mgwUp4D4vvl4wdfA%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/keisuke-maimoto",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g",
+    "x": "https://twitter.com/maimoto_k",
+    "store": "https://shop.nijisanji.jp/1048",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=MaimotoKeisuke",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E8%88%9E%E5%85%83%E5%95%93%E4%BB%8B"
+  }
 }

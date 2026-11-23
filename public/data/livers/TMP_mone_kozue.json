@@ -248,5 +248,15 @@
       "error": "キャッシュ未収録（追加通信なし）"
     }
   },
-  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/mone-kozue"
+  "portraitSourceUrl": "https://www.nijisanji.jp/talents/l/mone-kozue",
+  "faceIconUrl": "https://www.nijisanji.jp/api/image-proxy?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F5694fd90407444338a64d654e407cc0e%2Fc2b3cb15c4374087b1e5c2d306326583%2Fliver-face_Mone_Kozue.png&signature=klMAHBP8xu4C%2Bs05fjCbJc75f4wEs5jLVS4LerxhEuMLgo2yAMrdR9nRqs5wknc%2F5Uox7bSzwnU3ouhZkCh%2BNwrDT2fm%2FQhoKoYlc3dASQJSTloh6D1Ku81GDGT5IEX%2BIAaFxw5P7fjBGz%2FSPaKOvJuzld8KYLgMyKRGlNZigdOcBRvmWvqPT0Clm%2F5LRrlZj22ZY9fWEYpyNtMRbMiVW0kIK25QskH6NxyTDF%2Bby6JvgmnK2i40SUarI0v7AGW4375zRHM3wASjWUC0n6gqcaDGUnjI%2B4k9VGb9BZ3GjjDujkXFVWkHX9gq289%2BRE0Y7rvexP790p3SOKTRd69oWw%3D%3D&w=400&fm=webp",
+  "faceIconSourceUrl": "https://www.nijisanji.jp/talents/l/mone-kozue",
+  "profileBranch": "JP",
+  "profileLinks": {
+    "youtube": "https://www.youtube.com/@KozueMone",
+    "x": "https://x.com/KozueMone",
+    "store": "https://shop.nijisanji.jp/1160",
+    "magazine": "https://magazine.anycolor.co.jp/articles?tag=KozueMone",
+    "wiki": "https://wikiwiki.jp/nijisanji/%E6%A2%A2%E6%A1%83%E9%9F%B3"
+  }
 }
