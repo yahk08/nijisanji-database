@@ -110,5 +110,17 @@
     "store": "https://shop.nijisanji.jp/4020",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=UkiVioleta",
     "wiki": "https://wikiwiki.jp/nijisanji/Uki%20Violeta"
+  },
+  "fanName": {
+    "value": "Stargazers",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/uki-violeta",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

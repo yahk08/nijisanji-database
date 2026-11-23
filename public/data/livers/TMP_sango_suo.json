@@ -258,5 +258,17 @@
     "store": "https://shop.nijisanji.jp/1117",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=SuoSango",
     "wiki": "https://wikiwiki.jp/nijisanji/%E5%91%A8%E5%A4%AE%E3%82%B5%E3%83%B3%E3%82%B4"
+  },
+  "fanName": {
+    "value": "ふぁんご",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/sango-suo",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

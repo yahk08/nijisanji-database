@@ -324,5 +324,17 @@
     "store": "https://shop.nijisanji.jp/1046",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=KandaShoichi",
     "wiki": "https://wikiwiki.jp/nijisanji/%E7%A5%9E%E7%94%B0%E7%AC%91%E4%B8%80"
+  },
+  "fanName": {
+    "value": "無し",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/shoichi-kanda",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

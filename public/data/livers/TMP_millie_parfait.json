@@ -109,5 +109,17 @@
     "x": "https://twitter.com/MillieParfait",
     "store": "https://shop.nijisanji.jp/4007",
     "wiki": "https://wikiwiki.jp/nijisanji/Millie%20Parfait"
+  },
+  "fanName": {
+    "value": "FaMillie",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/millie-parfait",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

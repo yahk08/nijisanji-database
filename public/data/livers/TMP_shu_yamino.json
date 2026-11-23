@@ -110,5 +110,17 @@
     "store": "https://shop.nijisanji.jp/4014",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=ShuYamino",
     "wiki": "https://wikiwiki.jp/nijisanji/Shu%20Yamino"
+  },
+  "fanName": {
+    "value": "Yaminions",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/shu-yamino",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

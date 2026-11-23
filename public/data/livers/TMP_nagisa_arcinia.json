@@ -271,5 +271,17 @@
     "x": "https://twitter.com/NagisaArcinia",
     "store": "https://shop.nijisanji.jp/2016",
     "wiki": "https://wikiwiki.jp/nijisanji/Nagisa%20Arcinia"
+  },
+  "fanName": {
+    "value": "MASTEAM",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/nagisa-arcinia",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

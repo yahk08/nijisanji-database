@@ -50,6 +50,6 @@ if __name__=='__main__':
  data=extract(source)
  expected=['代表画像・プロフィール','衣装・ビジュアル','衣装差分','楽曲','活動履歴']
  if not all(n in data for n in expected):sys.exit('必要なシートがありません: '+str([n for n in expected if n not in data]))
- dest.write_text(json.dumps({'schemaVersion':1,'sourceFile':source.name,'sheets':{n:data[n] for n in expected}},ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+ dest.write_text(json.dumps({'schemaVersion':1,'sourceFile':source.name,'sheets':data},ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
  print('Excelを変換:', dest)
  for n in expected:print(n, len(data[n])-1, '行')

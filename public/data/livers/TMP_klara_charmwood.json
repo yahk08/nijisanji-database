@@ -111,5 +111,17 @@
     "x": "https://x.com/KlaraCharmwood",
     "store": "https://shop.nijisanji.jp/4042",
     "wiki": "https://wikiwiki.jp/nijisanji/Klara%20Charmwood"
+  },
+  "fanName": {
+    "value": "Kouchamas",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/klara-charmwood",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

@@ -258,5 +258,17 @@
     "store": "https://shop.nijisanji.jp/1054",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=SakuraRitsuki",
     "wiki": "https://wikiwiki.jp/nijisanji/%E6%A1%9C%E5%87%9B%E6%9C%88"
+  },
+  "fanName": {
+    "value": "桜ンボ",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/ritsuki-sakura",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

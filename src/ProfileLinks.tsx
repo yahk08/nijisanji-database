@@ -6,6 +6,7 @@ const services = [
   ['youtube', 'YouTube', 'sns/youtube_orig.svg'],
   ['twitch', 'Twitch', 'sns/twitch_orig.svg'],
   ['x', 'X', 'sns/x_black.svg'],
+  ['tiktok', 'TikTok', null],
   ['fanclub', 'ファンクラブ', 'fanclub.svg'],
   ['store', '公式ストア', 'official-store.png'],
   ['magazine', 'エニマガ', 'anycolor-magazine.png'],

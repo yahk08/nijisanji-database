@@ -272,5 +272,17 @@
     "x": "https://twitter.com/RayAkira2434",
     "store": "https://shop.nijisanji.jp/3005",
     "wiki": "https://wikiwiki.jp/nijisanji/%E6%98%8E%E6%A5%BD%E3%83%AC%E3%82%A4"
+  },
+  "fanName": {
+    "value": "クラス明ト",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/akira-ray",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

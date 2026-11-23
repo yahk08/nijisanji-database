@@ -258,5 +258,17 @@
     "store": "https://shop.nijisanji.jp/1049",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=DebidebiDebiru",
     "wiki": "https://wikiwiki.jp/nijisanji/%E3%81%A7%E3%81%B3%E3%81%A7%E3%81%B3%E3%83%BB%E3%81%A7%E3%81%B3%E3%82%8B"
+  },
+  "fanName": {
+    "value": "けいやくしゃ",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/debidebi-debiru",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

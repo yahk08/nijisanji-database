@@ -257,5 +257,17 @@
     "x": "https://twitter.com/hina__asuka",
     "store": "https://shop.nijisanji.jp/1044",
     "wiki": "https://wikiwiki.jp/nijisanji/%E9%A3%9B%E9%B3%A5%E3%81%B2%E3%81%AA"
+  },
+  "fanName": {
+    "value": "ことりさん",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/hina-asuka",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

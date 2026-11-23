@@ -403,5 +403,17 @@
     "x": "https://twitter.com/Hana_Macchia",
     "store": "https://shop.nijisanji.jp/2003",
     "wiki": "https://wikiwiki.jp/nijisanji/Hana%20Macchia"
+  },
+  "fanName": {
+    "value": "Nijisenja",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/hana-macchia",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

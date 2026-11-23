@@ -111,5 +111,17 @@
     "x": "https://x.com/Seible_2434",
     "store": "https://shop.nijisanji.jp/4044",
     "wiki": "https://wikiwiki.jp/nijisanji/Seible"
+  },
+  "fanName": {
+    "value": "Seinyan",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/seible",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

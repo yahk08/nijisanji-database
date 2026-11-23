@@ -298,5 +298,17 @@
     "fanclub": "https://www.nijisanji.jp/fanclubs/aizono-manami",
     "store": "https://shop.nijisanji.jp/1073",
     "wiki": "https://wikiwiki.jp/nijisanji/%E6%84%9B%E5%9C%92%E6%84%9B%E7%BE%8E"
+  },
+  "fanName": {
+    "value": "愛民（まなみん）",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/manami-aizono",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

@@ -2,8 +2,8 @@
   "id": "TMP_rin_shizuka",
   "status": "active",
   "name": "静凛",
-  "reading": null,
-  "englishName": null,
+  "reading": "しずかりん",
+  "englishName": "Shizuka Rin",
   "affiliation": "にじさんじ",
   "group": null,
   "branch": "JP",
@@ -114,5 +114,17 @@
     "store": "https://shop.nijisanji.jp/1004",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=ShizukaRin",
     "wiki": "https://wikiwiki.jp/nijisanji/%E9%9D%99%E5%87%9B"
+  },
+  "fanName": {
+    "value": "凛fam",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/rin-shizuka",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

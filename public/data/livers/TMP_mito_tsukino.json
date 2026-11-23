@@ -115,5 +115,17 @@
     "store": "https://shop.nijisanji.jp/1002",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=TsukinoMito",
     "wiki": "https://wikiwiki.jp/nijisanji/%E6%9C%88%E3%83%8E%E7%BE%8E%E5%85%8E"
+  },
+  "fanName": {
+    "value": "無し",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/mito-tsukino",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

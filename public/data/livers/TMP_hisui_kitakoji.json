@@ -258,5 +258,17 @@
     "fanclub": "https://www.nijisanji.jp/fanclubs/kitakoji-hisui",
     "store": "https://shop.nijisanji.jp/1118",
     "wiki": "https://wikiwiki.jp/nijisanji/%E5%8C%97%E5%B0%8F%E8%B7%AF%E3%83%92%E3%82%B9%E3%82%A4"
+  },
+  "fanName": {
+    "value": "ヒスナー",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/hisui-kitakoji",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

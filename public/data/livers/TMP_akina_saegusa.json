@@ -258,5 +258,17 @@
     "store": "https://shop.nijisanji.jp/1072",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=SaegusaAkina",
     "wiki": "https://wikiwiki.jp/nijisanji/%E4%B8%89%E6%9E%9D%E6%98%8E%E9%82%A3"
+  },
+  "fanName": {
+    "value": "どうし",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/akina-saegusa",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

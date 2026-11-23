@@ -305,5 +305,17 @@
     "x": "https://twitter.com/harusakiair2434",
     "store": "https://shop.nijisanji.jp/1034",
     "wiki": "https://wikiwiki.jp/nijisanji/%E6%98%A5%E5%B4%8E%E3%82%A8%E3%82%A2%E3%83%AB"
+  },
+  "fanName": {
+    "value": "春の民",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/air-harusaki",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

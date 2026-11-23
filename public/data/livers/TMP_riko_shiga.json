@@ -258,5 +258,17 @@
     "store": "https://shop.nijisanji.jp/1158",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=ShigaRiko",
     "wiki": "https://wikiwiki.jp/nijisanji/%E5%8F%B8%E8%B3%80%E3%82%8A%E3%81%93"
+  },
+  "fanName": {
+    "value": "りこりすと",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/riko-shiga",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

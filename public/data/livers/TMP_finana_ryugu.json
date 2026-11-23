@@ -109,5 +109,17 @@
     "x": "https://twitter.com/FinanaRyugu",
     "store": "https://shop.nijisanji.jp/4003",
     "wiki": "https://wikiwiki.jp/nijisanji/Finana%20Ryugu"
+  },
+  "fanName": {
+    "value": "Ryuguards",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/finana-ryugu",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

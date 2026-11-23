@@ -1,178 +1,166 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-22T20:58:24.132Z",
   "source": "https://www.nijisanji.jp/news",
+  "eventSource": "https://www.nijisanji.jp/events",
+  "checkedAt": "2026-11-23T09:56:47.992Z",
   "news": [
     {
-      "id": "1efabc1a2a4d93da",
+      "id": "11d0c27e2e7f2b19",
       "title": "にじさんじ「甘やかし同居ボイス」2026年11月26日(木)18時より発売決定！",
-      "url": "https://www.anycolor.co.jp/news/49p7ov77l",
-      "publishedAt": "2026-11-20",
+      "url": "https://www.nijisanji.jp/news/49p7ov77l",
       "category": "news",
-      "firstSeenAt": "2026-11-20T11:11:42.318Z",
-      "lastSeenAt": "2026-11-22T20:58:24.132Z"
+      "publishedAt": "2026-11-20T03:10:00.000Z"
     },
     {
-      "id": "d88b3f0951278e07",
+      "id": "7a2e81e402886715",
       "title": "「みたらし団 3rd Anniversary」グッズを2026年11月20日(金)18時から販売開始！",
-      "url": "https://www.anycolor.co.jp/news/63di5-z1wsw",
-      "publishedAt": "2026-11-19",
+      "url": "https://www.nijisanji.jp/news/63di5-z1wsw",
       "category": "news",
-      "firstSeenAt": "2026-11-19T11:22:35.116Z",
-      "lastSeenAt": "2026-11-22T20:58:24.132Z"
+      "publishedAt": "2026-11-19T09:00:00.000Z"
     },
     {
-      "id": "be8666e9ae5f9652",
+      "id": "1b0499bd13edf0bf",
       "title": "にじさんじから「Unit Selection Calendar 2027」グッズが登場！2026年11月19日(木)17時から販売開始！",
-      "url": "https://www.anycolor.co.jp/news/77br2ry-bqwb",
-      "publishedAt": "2026-11-18",
+      "url": "https://www.nijisanji.jp/news/77br2ry-bqwb",
       "category": "news",
-      "firstSeenAt": "2026-11-18T11:24:50.060Z",
-      "lastSeenAt": "2026-11-22T20:58:24.132Z"
+      "publishedAt": "2026-11-18T08:00:00.000Z"
     },
     {
-      "id": "a57faa54fd80ee92",
+      "id": "de90288350a37af5",
       "title": "にじさんじから「にじたうん もけもけますこっと に」が登場！2026年11月18日(水)19時から販売開始！",
-      "url": "https://www.anycolor.co.jp/news/afi34qhiae-u",
-      "publishedAt": "2026-11-17",
+      "url": "https://www.nijisanji.jp/news/afi34qhiae-u",
       "category": "news",
-      "firstSeenAt": "2026-11-17T11:37:55.604Z",
-      "lastSeenAt": "2026-11-22T20:58:24.132Z"
+      "publishedAt": "2026-11-17T10:10:00.000Z"
     },
     {
-      "id": "94d479ab1c3ebf53",
+      "id": "488e02d75e41a157",
       "title": "にじさんじから「にじたうんぐっず に」が登場！2026年11月18日(水)19時から販売開始！",
-      "url": "https://www.anycolor.co.jp/news/952rqm63llg",
-      "publishedAt": "2026-11-17",
+      "url": "https://www.nijisanji.jp/news/952rqm63llg",
       "category": "news",
-      "firstSeenAt": "2026-11-17T11:37:55.604Z",
-      "lastSeenAt": "2026-11-22T20:58:24.132Z"
+      "publishedAt": "2026-11-17T10:00:00.000Z"
     },
     {
-      "id": "01f550634d871fa7",
+      "id": "4022e4a07db30918",
       "title": "NIJISANJI ENから「WANNYANZ」グッズが登場！2026年11月19日(木)11時(JST)から販売開始！",
-      "url": "https://www.anycolor.co.jp/news/xu7d-14f6t",
-      "publishedAt": "2026-11-17",
+      "url": "https://www.nijisanji.jp/news/xu7d-14f6t",
       "category": "news",
-      "firstSeenAt": "2026-11-17T11:37:55.604Z",
-      "lastSeenAt": "2026-11-22T20:58:24.132Z"
+      "publishedAt": "2026-11-17T02:00:00.000Z"
     },
     {
-      "id": "7755f053dbda64e6",
+      "id": "27f24ccb6c6aa154",
       "title": "にじさんじから「にじさんじフロッキーマスコットシリーズ#2」グッズが登場！2026年11月17日(火)18時から販売開始！",
-      "url": "https://www.anycolor.co.jp/news/j4q3gxwy9ia",
-      "publishedAt": "2026-11-16",
+      "url": "https://www.nijisanji.jp/news/j4q3gxwy9ia",
       "category": "news",
-      "firstSeenAt": "2026-11-16T10:52:16.735Z",
-      "lastSeenAt": "2026-11-22T20:58:24.132Z"
+      "publishedAt": "2026-11-16T09:00:00.000Z"
     },
     {
-      "id": "7b7cf2db25d81f85",
+      "id": "feb00c2bb70d5c16",
       "title": "ROF-MAO、再始動第一弾楽曲「/SLASH」本日2026年11月16日(月)楽曲配信＆デジタルキャンペーン開始！",
-      "url": "https://www.anycolor.co.jp/news/80oz0bg8u",
-      "publishedAt": "2026-11-16",
+      "url": "https://www.nijisanji.jp/news/80oz0bg8u",
       "category": "news",
-      "firstSeenAt": "2026-11-16T10:52:16.735Z",
-      "lastSeenAt": "2026-11-22T20:58:24.132Z"
+      "publishedAt": "2026-11-16T03:00:00.000Z"
     },
     {
-      "id": "afc20dd9339a4e76",
+      "id": "4e2d3a8df5816502",
       "title": "ROF-MAOが2026年11月15日(日)に200kmマラソンの完走をもって活動再開！キービジュアルやロゴを一新し、新曲リリースや新グッズ発売など情報解禁！",
-      "url": "https://www.anycolor.co.jp/news/18nu9inae",
-      "publishedAt": "2026-11-15",
+      "url": "https://www.nijisanji.jp/news/18nu9inae",
       "category": "news",
-      "firstSeenAt": "2026-11-15T20:15:04.271Z",
-      "lastSeenAt": "2026-11-22T20:58:24.132Z"
+      "publishedAt": "2026-11-15T13:40:00.000Z"
     },
     {
-      "id": "e71862acdd9c0d02",
+      "id": "3fa8a85a77200925",
       "title": "にじさんじから「にじさんじデコラモード PART3」グッズが登場！2026年11月13日(金)18時から販売開始！",
-      "url": "https://www.anycolor.co.jp/news/cf0kx4qk5g",
-      "publishedAt": "2026-11-12",
+      "url": "https://www.nijisanji.jp/news/cf0kx4qk5g",
       "category": "news",
-      "firstSeenAt": "2026-11-15T04:07:54.544Z",
-      "lastSeenAt": "2026-11-22T20:58:24.132Z"
+      "publishedAt": "2026-11-12T09:00:00.000Z"
     },
     {
-      "id": "b8a3e4e57dc77d73",
+      "id": "a3a1bf9f886ed391",
       "title": "「にじさんじ バディボイス」「にじさんじ よしよし全肯定ボイス」、「ボイスビジュアルカード」2026年11月13日(金)12時より販売決定！",
-      "url": "https://www.anycolor.co.jp/news/2g5pg4397zm",
-      "publishedAt": "2026-11-10",
+      "url": "https://www.nijisanji.jp/news/2g5pg4397zm",
       "category": "news",
-      "firstSeenAt": "2026-11-15T04:07:54.544Z",
-      "lastSeenAt": "2026-11-19T22:37:41.674Z"
+      "publishedAt": "2026-11-10T03:00:00.000Z"
     },
     {
-      "id": "c633fed5104d5839",
+      "id": "6344d96809e1ccb8",
       "title": "にじさんじから「Dolly Patchwork」グッズが登場！2026年11月10日(火)18時から販売開始！",
-      "url": "https://www.anycolor.co.jp/news/vhb0ztz921pw",
-      "publishedAt": "2026-11-09",
+      "url": "https://www.nijisanji.jp/news/vhb0ztz921pw",
       "category": "news",
-      "firstSeenAt": "2026-11-15T04:07:54.544Z",
-      "lastSeenAt": "2026-11-18T22:31:38.357Z"
+      "publishedAt": "2026-11-09T09:00:00.000Z"
     },
     {
-      "id": "f23e73fe351748ea",
-      "title": "お仕事手帖 企画・台本制作（公式番組）編 あえての「余白」でライバーらしさを映し出す",
-      "url": "https://www.anycolor.co.jp/news/822hcp9wjda",
-      "publishedAt": "2026-11-09",
-      "category": "news",
-      "firstSeenAt": "2026-11-15T04:07:54.544Z",
-      "lastSeenAt": "2026-11-17T22:49:37.132Z"
+      "id": "959b8f8f415ec224",
+      "title": "にじさんじ Girls Idol Festival 〜虹をつないで、未来を見つけて〜",
+      "url": "https://www.nijisanji.jp/events/nijikimi/",
+      "category": "event",
+      "publishedAt": null,
+      "displayDate": "2026年12月19日(土)・20日(日)"
     },
     {
-      "id": "d5ac3333413719e1",
-      "title": "にじさんじから「PARALLEL CASE: 2434『CASE 02：ソフィア・ヴァレンタインの記録』」が2026年11月6日(金)20時より「調査可能」に。グッズも販売開始",
-      "url": "https://www.anycolor.co.jp/news/lr7-l12uys",
-      "publishedAt": "2026-11-06",
-      "category": "news",
-      "firstSeenAt": "2026-11-15T04:07:54.544Z",
-      "lastSeenAt": "2026-11-16T23:41:29.773Z"
+      "id": "f6a2b481b1e04b91",
+      "title": "劇場版 七次元生徒会！ 〜ずっと一緒大作戦！〜",
+      "url": "https://www.nijisanji.jp/events/seitokai_07_daisakusen",
+      "category": "event",
+      "publishedAt": null,
+      "displayDate": "2027年1月23日(土)"
     },
     {
-      "id": "0e9d807e7a0e2274",
-      "title": "【にじさんじ】不破湊 New Single『ECLIPSE』試聴動画(XFD)・楽曲詳細を公開！また全形態のパッケージ写真を公開！",
-      "url": "https://www.anycolor.co.jp/news/a9mfyxjdnz",
-      "publishedAt": "2026-11-06",
-      "category": "news",
-      "firstSeenAt": "2026-11-15T04:07:54.544Z",
-      "lastSeenAt": "2026-11-16T23:41:29.773Z"
+      "id": "babcdcc25cf04403",
+      "title": "VOLTACTION 2nd LIVE \"EVOLVE\"",
+      "url": "https://www.nijisanji.jp/events/voltaction_evolve/",
+      "category": "event",
+      "publishedAt": null,
+      "displayDate": "2027年1月24日(日)"
     },
     {
-      "id": "24485f9184caf677",
-      "title": "当社所属ライバー「叢雲カゲツ」に対する権利侵害行為への対応について",
-      "url": "https://www.anycolor.co.jp/news/jt5cah_8lv",
-      "publishedAt": "2026-11-04",
-      "category": "news",
-      "firstSeenAt": "2026-11-15T04:07:54.544Z",
-      "lastSeenAt": "2026-11-16T23:41:29.773Z"
+      "id": "eda7a8bae0a28768",
+      "title": "フレン・E・ルスタリオ 1st LIVE “smilE” 〜帝国からハッピーをおとどけ〜",
+      "url": "https://www.nijisanji.jp/events/furen_smilE/",
+      "category": "event",
+      "publishedAt": null,
+      "displayDate": "2027年2月6日(土)"
     },
     {
-      "id": "bed977076b4ac505",
-      "title": "ROF-MAOが2026年11月15日に3名体制で再始動決定。「ROF-MAOの背中を押そう！」キャンペーンに合わせて11月8日より特設広告がPickUpランキン 渋谷ちかみちに登場！",
-      "url": "https://www.anycolor.co.jp/news/kwak0dbzh",
-      "publishedAt": "2026-11-02",
-      "category": "news",
-      "firstSeenAt": "2026-11-15T04:07:54.544Z",
-      "lastSeenAt": "2026-11-15T20:15:04.271Z"
+      "id": "771c264ddabc5393",
+      "title": "星川サラ 2nd LIVE ｢星くず Shining Day-きみと紡ぐ星の軌跡-」",
+      "url": "https://www.nijisanji.jp/events/hoshikuzu_shiningday_2nd/",
+      "category": "event",
+      "publishedAt": null,
+      "displayDate": "2027年2月7日(日)"
     },
     {
-      "id": "b0ac7a317addda46",
-      "title": "「攻撃的行為及び誹謗中傷行為対策チーム」活動報告（2026年10月）",
-      "url": "https://www.anycolor.co.jp/news/m6rts-wx8u",
-      "publishedAt": "2026-10-30",
-      "category": "news",
-      "firstSeenAt": "2026-11-15T04:07:54.544Z",
-      "lastSeenAt": "2026-11-15T20:15:04.271Z"
+      "id": "76fe5fdace65b2be",
+      "title": "不破湊 2nd LIVE “VORTEX”",
+      "url": "https://www.nijisanji.jp/events/fuwa_VORTEX/",
+      "category": "event",
+      "publishedAt": null,
+      "displayDate": "2027年3月3日(水)"
     },
     {
-      "id": "8b4dd222c8d0fcaf",
-      "title": "にじさんじから「SANBAKA Palais de Rose」グッズが登場！2026年10月30日(金)18時から販売開始！",
-      "url": "https://www.anycolor.co.jp/news/yzzghhspht",
-      "publishedAt": "2026-10-29",
-      "category": "news",
-      "firstSeenAt": "2026-11-15T04:07:54.544Z",
-      "lastSeenAt": "2026-11-15T04:07:54.544Z"
+      "id": "75afa27f03da35ba",
+      "title": "Inui Toko 2nd Solo Live “リスタート”",
+      "url": "https://www.nijisanji.jp/events/inui_restart/",
+      "category": "event",
+      "publishedAt": null,
+      "displayDate": "2027年4月24日(土)"
+    },
+    {
+      "id": "83900fa684d304d7",
+      "title": "ChroNoiR 2nd Live \"Twin King's Gambit\"",
+      "url": "https://www.nijisanji.jp/events/chronoir_2ndlive/",
+      "category": "event",
+      "publishedAt": null,
+      "displayDate": "2027年5月15日(土)"
     }
-  ]
+  ],
+  "feeds": {
+    "news": {
+      "checkedAt": "2026-11-23T09:56:47.992Z",
+      "source": "https://www.nijisanji.jp/news"
+    },
+    "event": {
+      "checkedAt": "2026-11-23T09:56:47.992Z",
+      "source": "https://www.nijisanji.jp/events"
+    }
+  }
 }

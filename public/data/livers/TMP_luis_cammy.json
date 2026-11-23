@@ -257,5 +257,17 @@
     "store": "https://shop.nijisanji.jp/1101",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=LuisCammy",
     "wiki": "https://wikiwiki.jp/nijisanji/%E3%83%AB%E3%82%A4%E3%82%B9%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%9F%E3%83%BC"
+  },
+  "fanName": {
+    "value": "怪盗団",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/luis-cammy",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

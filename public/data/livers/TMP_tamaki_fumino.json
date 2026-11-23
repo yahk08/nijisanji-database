@@ -256,5 +256,17 @@
     "x": "https://twitter.com/nekokan_chu",
     "store": "https://shop.nijisanji.jp/1016",
     "wiki": "https://wikiwiki.jp/nijisanji/%E6%96%87%E9%87%8E%E7%92%B0"
+  },
+  "fanName": {
+    "value": "乗客",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/tamaki-fumino",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

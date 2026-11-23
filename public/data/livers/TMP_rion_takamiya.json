@@ -310,5 +310,17 @@
     "store": "https://shop.nijisanji.jp/1043",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=TakamiyaRion",
     "wiki": "https://wikiwiki.jp/nijisanji/%E9%B7%B9%E5%AE%AE%E3%83%AA%E3%82%AA%E3%83%B3"
+  },
+  "fanName": {
+    "value": "ファンボ・ファンガ",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/rion-takamiya",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

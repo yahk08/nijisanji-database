@@ -259,5 +259,17 @@
     "store": "https://shop.nijisanji.jp/1132",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=IgarashiRika",
     "wiki": "https://wikiwiki.jp/nijisanji/%E4%BA%94%E5%8D%81%E5%B5%90%E6%A2%A8%E8%8A%B1"
+  },
+  "fanName": {
+    "value": "監督くん・監督ちゃん",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/rika-igarashi",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

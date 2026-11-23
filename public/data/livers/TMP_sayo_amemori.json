@@ -257,5 +257,17 @@
     "x": "https://twitter.com/sayo_amemori",
     "store": "https://shop.nijisanji.jp/1047",
     "wiki": "https://wikiwiki.jp/nijisanji/%E9%9B%A8%E6%A3%AE%E5%B0%8F%E5%A4%9C"
+  },
+  "fanName": {
+    "value": "無し",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/sayo-amemori",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

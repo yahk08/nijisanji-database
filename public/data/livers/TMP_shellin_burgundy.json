@@ -282,5 +282,17 @@
     "store": "https://shop.nijisanji.jp/1095",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=ShellinBurgundy",
     "wiki": "https://wikiwiki.jp/nijisanji/%E3%82%B7%E3%82%A7%E3%83%AA%E3%83%B3%E3%83%BB%E3%83%90%E3%83%BC%E3%82%AC%E3%83%B3%E3%83%87%E3%82%A3"
+  },
+  "fanName": {
+    "value": "被疑者",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/shellin-burgundy",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

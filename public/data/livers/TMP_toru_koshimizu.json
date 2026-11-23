@@ -355,5 +355,17 @@
     "store": "https://shop.nijisanji.jp/1136",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=KoshimizuToru",
     "wiki": "https://wikiwiki.jp/nijisanji/%E5%B0%8F%E6%B8%85%E6%B0%B4%E9%80%8F"
+  },
+  "fanName": {
+    "value": "ばぶめいと",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/toru-koshimizu",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

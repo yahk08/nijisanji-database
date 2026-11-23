@@ -111,5 +111,17 @@
     "x": "https://x.com/Freo_2434",
     "store": "https://shop.nijisanji.jp/4043",
     "wiki": "https://wikiwiki.jp/nijisanji/Freodore"
+  },
+  "fanName": {
+    "value": "Doremin",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/freodore",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

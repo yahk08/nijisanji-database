@@ -259,5 +259,17 @@
     "store": "https://shop.nijisanji.jp/1134",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=KaburakiRoco",
     "wiki": "https://wikiwiki.jp/nijisanji/%E9%8F%91%E6%9C%A8%E3%82%8D%E3%81%93"
+  },
+  "fanName": {
+    "value": "アミューズメイト",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/roco-kaburaki",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

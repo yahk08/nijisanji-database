@@ -2,8 +2,8 @@
   "id": "TMP_riri_yuhi",
   "status": "active",
   "name": "夕陽リリ",
-  "reading": null,
-  "englishName": null,
+  "reading": "ゆうひりり",
+  "englishName": "Yuhi Riri",
   "affiliation": "にじさんじ",
   "group": null,
   "branch": "JP",
@@ -114,5 +114,17 @@
     "store": "https://shop.nijisanji.jp/1012",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=YuhiRiri",
     "wiki": "https://wikiwiki.jp/nijisanji/%E5%A4%95%E9%99%BD%E3%83%AA%E3%83%AA"
+  },
+  "fanName": {
+    "value": "無し",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/riri-yuhi",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

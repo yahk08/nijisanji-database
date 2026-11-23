@@ -258,5 +258,17 @@
     "store": "https://shop.nijisanji.jp/1050",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=RindouMikoto",
     "wiki": "https://wikiwiki.jp/nijisanji/%E7%AB%9C%E8%83%86%E5%B0%8A"
+  },
+  "fanName": {
+    "value": "鬼の子",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/mikoto-rindou",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

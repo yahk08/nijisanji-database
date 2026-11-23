@@ -258,5 +258,17 @@
     "store": "https://shop.nijisanji.jp/1051",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=JoeRikiichi",
     "wiki": "https://wikiwiki.jp/nijisanji/%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%BB%E5%8A%9B%E4%B8%80"
+  },
+  "fanName": {
+    "value": "ジョー児",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/joe-rikiichi",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

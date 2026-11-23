@@ -2,8 +2,8 @@
   "id": "TMP_moira",
   "status": "active",
   "name": "モイラ",
-  "reading": null,
-  "englishName": null,
+  "reading": "もいら",
+  "englishName": "Moira",
   "affiliation": "にじさんじ",
   "group": null,
   "branch": "JP",
@@ -114,5 +114,17 @@
     "fanclub": "https://www.nijisanji.jp/fanclubs/moira",
     "store": "https://shop.nijisanji.jp/1006",
     "wiki": "https://wikiwiki.jp/nijisanji/%E3%83%A2%E3%82%A4%E3%83%A9"
+  },
+  "fanName": {
+    "value": "こいぬ",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/moira",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

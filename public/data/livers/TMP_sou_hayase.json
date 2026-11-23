@@ -2,8 +2,8 @@
   "id": "TMP_sou_hayase",
   "status": "active",
   "name": "早瀬走",
-  "reading": null,
-  "englishName": null,
+  "reading": "はやせそう",
+  "englishName": "Hayase Sou",
   "affiliation": "にじさんじ",
   "group": null,
   "branch": "JP",
@@ -115,5 +115,17 @@
     "store": "https://shop.nijisanji.jp/1085",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=HayaseSou",
     "wiki": "https://wikiwiki.jp/nijisanji/%E6%97%A9%E7%80%AC%E8%B5%B0"
+  },
+  "fanName": {
+    "value": "らんナー",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/sou-hayase",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

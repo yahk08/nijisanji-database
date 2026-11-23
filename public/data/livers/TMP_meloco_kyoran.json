@@ -112,5 +112,17 @@
     "store": "https://shop.nijisanji.jp/4030",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=MelocoKyoran",
     "wiki": "https://wikiwiki.jp/nijisanji/Meloco%20Kyoran"
+  },
+  "fanName": {
+    "value": "Meloves",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/meloco-kyoran",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

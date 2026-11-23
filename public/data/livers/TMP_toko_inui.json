@@ -2,8 +2,8 @@
   "id": "TMP_toko_inui",
   "status": "active",
   "name": "戌亥とこ",
-  "reading": null,
-  "englishName": null,
+  "reading": "いぬいとこ",
+  "englishName": "Inui Toko",
   "affiliation": "にじさんじ",
   "group": null,
   "branch": "JP",
@@ -114,5 +114,17 @@
     "store": "https://shop.nijisanji.jp/1070",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=InuiToko",
     "wiki": "https://wikiwiki.jp/nijisanji/%E6%88%8C%E4%BA%A5%E3%81%A8%E3%81%93"
+  },
+  "fanName": {
+    "value": "無し",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/toko-inui",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

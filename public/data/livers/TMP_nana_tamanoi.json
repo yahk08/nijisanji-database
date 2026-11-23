@@ -284,5 +284,17 @@
     "store": "https://shop.nijisanji.jp/1161",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=TamanoiNana",
     "wiki": "https://wikiwiki.jp/nijisanji/%E7%8F%A0%E4%B9%83%E4%BA%95%E3%83%8A%E3%83%8A"
+  },
+  "fanName": {
+    "value": "ななかま",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/nana-tamanoi",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

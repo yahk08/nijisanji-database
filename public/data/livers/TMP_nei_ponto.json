@@ -323,5 +323,17 @@
     "store": "https://shop.nijisanji.jp/1126",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=PontoNei",
     "wiki": "https://wikiwiki.jp/nijisanji/%E5%85%88%E6%96%97%E5%AF%A7"
+  },
+  "fanName": {
+    "value": "ぽんめいと",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/nei-ponto",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

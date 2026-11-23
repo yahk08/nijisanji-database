@@ -2,8 +2,8 @@
   "id": "TMP_kaede_higuchi",
   "status": "active",
   "name": "樋口楓",
-  "reading": null,
-  "englishName": null,
+  "reading": "ひぐちかえで",
+  "englishName": "Higuchi Kaede",
   "affiliation": "にじさんじ",
   "group": null,
   "branch": "JP",
@@ -116,5 +116,17 @@
     "store": "https://shop.nijisanji.jp/1001",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=HiguchiKaede",
     "wiki": "https://wikiwiki.jp/nijisanji/%E6%A8%8B%E5%8F%A3%E6%A5%93"
+  },
+  "fanName": {
+    "value": "楓組",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/kaede-higuchi",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

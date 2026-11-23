@@ -258,5 +258,17 @@
     "store": "https://shop.nijisanji.jp/1026",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=UzukiKou",
     "wiki": "https://wikiwiki.jp/nijisanji/%E5%8D%AF%E6%9C%88%E3%82%B3%E3%82%A6"
+  },
+  "fanName": {
+    "value": "卯月軍団",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/kou-uzuki",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

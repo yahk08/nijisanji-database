@@ -306,5 +306,17 @@
     "store": "https://shop.nijisanji.jp/3010",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=Seffyna",
     "wiki": "https://wikiwiki.jp/nijisanji/%E3%82%BB%E3%83%95%E3%82%A3%E3%83%8A"
+  },
+  "fanName": {
+    "value": "セフィナイト",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/seffyna",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

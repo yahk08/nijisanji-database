@@ -355,5 +355,17 @@
     "store": "https://shop.nijisanji.jp/1130",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=ShikinagiAkira",
     "wiki": "https://wikiwiki.jp/nijisanji/%E5%9B%9B%E5%AD%A3%E5%87%AA%E3%82%A2%E3%82%AD%E3%83%A9"
+  },
+  "fanName": {
+    "value": "凪友",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/akira-shikinagi",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

@@ -2,8 +2,8 @@
   "id": "TMP_gaku_fushimi",
   "status": "active",
   "name": "伏見ガク",
-  "reading": null,
-  "englishName": null,
+  "reading": "ふしみがく",
+  "englishName": "Fushimi Gaku",
   "affiliation": "にじさんじ",
   "group": null,
   "branch": "JP",
@@ -114,5 +114,17 @@
     "store": "https://shop.nijisanji.jp/1013",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=FushimiGaku",
     "wiki": "https://wikiwiki.jp/nijisanji/%E4%BC%8F%E8%A6%8B%E3%82%AC%E3%82%AF"
+  },
+  "fanName": {
+    "value": "アクター",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/gaku-fushimi",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

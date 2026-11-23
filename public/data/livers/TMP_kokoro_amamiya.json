@@ -2,8 +2,8 @@
   "id": "TMP_kokoro_amamiya",
   "status": "active",
   "name": "天宮こころ",
-  "reading": null,
-  "englishName": null,
+  "reading": "あまみやこころ",
+  "englishName": "Amamiya Kokoro",
   "affiliation": "にじさんじ",
   "group": null,
   "branch": "JP",
@@ -114,5 +114,17 @@
     "fanclub": "https://www.nijisanji.jp/fanclubs/amamiya-kokoro",
     "store": "https://shop.nijisanji.jp/1091",
     "wiki": "https://wikiwiki.jp/nijisanji/%E5%A4%A9%E5%AE%AE%E3%81%93%E3%81%93%E3%82%8D"
+  },
+  "fanName": {
+    "value": "MYAOZ",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/kokoro-amamiya",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

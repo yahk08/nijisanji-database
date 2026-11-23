@@ -2,8 +2,8 @@
   "id": "TMP_hajime_shibuya",
   "status": "active",
   "name": "渋谷ハジメ",
-  "reading": null,
-  "englishName": null,
+  "reading": "しぶやはじめ",
+  "englishName": "Shibuya Hajime",
   "affiliation": "にじさんじ",
   "group": null,
   "branch": "JP",
@@ -113,5 +113,17 @@
     "x": "https://twitter.com/sibuya_hajime",
     "store": "https://shop.nijisanji.jp/1007",
     "wiki": "https://wikiwiki.jp/nijisanji/%E6%B8%8B%E8%B0%B7%E3%83%8F%E3%82%B8%E3%83%A1"
+  },
+  "fanName": {
+    "value": "しぶミン",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/hajime-shibuya",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

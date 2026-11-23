@@ -411,5 +411,17 @@
     "store": "https://shop.nijisanji.jp/1123",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=LainPaterson",
     "wiki": "https://wikiwiki.jp/nijisanji/%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%BB%E3%83%91%E3%82%BF%E3%83%BC%E3%82%BD%E3%83%B3"
+  },
+  "fanName": {
+    "value": "依頼者",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/lain-paterson",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

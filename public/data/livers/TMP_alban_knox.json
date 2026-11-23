@@ -110,5 +110,17 @@
     "store": "https://shop.nijisanji.jp/4019",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=AlbanKnox",
     "wiki": "https://wikiwiki.jp/nijisanji/Alban%20Knox"
+  },
+  "fanName": {
+    "value": "Takaradachi",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/alban-knox",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

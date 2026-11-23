@@ -283,5 +283,17 @@
     "x": "https://twitter.com/rine_yaguruma",
     "store": "https://shop.nijisanji.jp/1057",
     "wiki": "https://wikiwiki.jp/nijisanji/%E7%9F%A2%E8%BB%8A%E3%82%8A%E3%81%AD"
+  },
+  "fanName": {
+    "value": "無し",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/rine-yaguruma",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

@@ -273,5 +273,17 @@
     "x": "https://twitter.com/Gaon2434",
     "store": "https://shop.nijisanji.jp/3001",
     "wiki": "https://wikiwiki.jp/nijisanji/%E3%82%AC%E3%82%AA%E3%83%B3"
+  },
+  "fanName": {
+    "value": "Gaide",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/gaon",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

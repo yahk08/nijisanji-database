@@ -258,5 +258,17 @@
     "store": "https://shop.nijisanji.jp/1040",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=MakainoRirimu",
     "wiki": "https://wikiwiki.jp/nijisanji/%E9%AD%94%E7%95%8C%E3%83%8E%E3%82%8A%E3%82%8A%E3%82%80"
+  },
+  "fanName": {
+    "value": "陰キャバス",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/makaino-ririmu",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

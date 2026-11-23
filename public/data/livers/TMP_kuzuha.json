@@ -115,5 +115,17 @@
     "store": "https://shop.nijisanji.jp/1042",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=Kuzuha",
     "wiki": "https://wikiwiki.jp/nijisanji/%E8%91%9B%E8%91%89"
+  },
+  "fanName": {
+    "value": "ラグファミ",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/kuzuha",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

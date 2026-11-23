@@ -323,5 +323,17 @@
     "store": "https://shop.nijisanji.jp/1129",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=WataraiHibari",
     "wiki": "https://wikiwiki.jp/nijisanji/%E6%B8%A1%E4%BC%9A%E9%9B%B2%E9%9B%80"
+  },
+  "fanName": {
+    "value": "ひばりすた",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/hibari-watarai",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

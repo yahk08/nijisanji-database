@@ -258,5 +258,17 @@
     "store": "https://shop.nijisanji.jp/1139",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=AkagiWen",
     "wiki": "https://wikiwiki.jp/nijisanji/%E8%B5%A4%E5%9F%8E%E3%82%A6%E3%82%A7%E3%83%B3"
+  },
+  "fanName": {
+    "value": "ぎゃうちゃんズ",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/wen-akagi",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

@@ -2,8 +2,8 @@
   "id": "TMP_ichigo_ushimi",
   "status": "active",
   "name": "宇志海いちご",
-  "reading": null,
-  "englishName": null,
+  "reading": "うしみいちご",
+  "englishName": "Ushimi Ichigo",
   "affiliation": "にじさんじ",
   "group": null,
   "branch": "JP",
@@ -113,5 +113,17 @@
     "x": "https://twitter.com/ushimi_ichigo",
     "store": "https://shop.nijisanji.jp/1015",
     "wiki": "https://wikiwiki.jp/nijisanji/%E5%AE%87%E5%BF%97%E6%B5%B7%E3%81%84%E3%81%A1%E3%81%94"
+  },
+  "fanName": {
+    "value": "うみとも",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/ichigo-ushimi",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

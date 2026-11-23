@@ -306,5 +306,17 @@
     "store": "https://shop.nijisanji.jp/3002",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=MinSuha",
     "wiki": "https://wikiwiki.jp/nijisanji/%E3%83%9F%E3%83%B3%E3%83%BB%E3%82%B9%E3%82%A5%E3%83%BC%E3%83%8F"
+  },
+  "fanName": {
+    "value": "Suhaqua",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/min-suha",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

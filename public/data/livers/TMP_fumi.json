@@ -258,5 +258,17 @@
     "fanclub": "https://www.nijisanji.jp/fanclubs/fumi",
     "store": "https://shop.nijisanji.jp/1096",
     "wiki": "https://wikiwiki.jp/nijisanji/%E3%83%95%E3%83%9F"
+  },
+  "fanName": {
+    "value": "フミ民",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/fumi",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

@@ -291,5 +291,17 @@
     "store": "https://shop.nijisanji.jp/1133",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=IshigamiNozomi",
     "wiki": "https://wikiwiki.jp/nijisanji/%E7%9F%B3%E7%A5%9E%E3%81%AE%E3%81%9E%E3%81%BF"
+  },
+  "fanName": {
+    "value": "神者",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/nozomi-ishigami",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

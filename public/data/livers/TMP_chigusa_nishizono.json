@@ -257,5 +257,17 @@
     "x": "https://twitter.com/Chigusa_24zono",
     "store": "https://shop.nijisanji.jp/1111",
     "wiki": "https://wikiwiki.jp/nijisanji/%E8%A5%BF%E5%9C%92%E3%83%81%E3%82%B0%E3%82%B5"
+  },
+  "fanName": {
+    "value": "ちぐにゃー",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/chigusa-nishizono",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

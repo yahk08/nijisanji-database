@@ -2,8 +2,8 @@
   "id": "TMP_mugi_ienaga",
   "status": "active",
   "name": "家長むぎ",
-  "reading": null,
-  "englishName": null,
+  "reading": "いえながむぎ",
+  "englishName": "Ienaga Mugi",
   "affiliation": "にじさんじ",
   "group": null,
   "branch": "JP",
@@ -115,5 +115,17 @@
     "store": "https://shop.nijisanji.jp/1011",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=IenagaMugi",
     "wiki": "https://wikiwiki.jp/nijisanji/%E5%AE%B6%E9%95%B7%E3%82%80%E3%81%8E"
+  },
+  "fanName": {
+    "value": "むぎのともだち",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/mugi-ienaga",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

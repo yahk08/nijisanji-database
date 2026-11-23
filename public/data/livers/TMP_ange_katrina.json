@@ -2,8 +2,8 @@
   "id": "TMP_ange_katrina",
   "status": "active",
   "name": "アンジュ・カトリーナ",
-  "reading": null,
-  "englishName": null,
+  "reading": "あんじゅ かとりーな",
+  "englishName": "Ange Katrina",
   "affiliation": "にじさんじ",
   "group": null,
   "branch": "JP",
@@ -114,5 +114,17 @@
     "store": "https://shop.nijisanji.jp/1068",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=AngeKatrina",
     "wiki": "https://wikiwiki.jp/nijisanji/%E3%82%A2%E3%83%B3%E3%82%B8%E3%83%A5%E3%83%BB%E3%82%AB%E3%83%88%E3%83%AA%E3%83%BC%E3%83%8A"
+  },
+  "fanName": {
+    "value": "賢者キッズ（非公式：FCL）",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/ange-katrina",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

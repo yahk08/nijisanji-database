@@ -257,5 +257,17 @@
     "x": "https://twitter.com/KataribeTsumugu",
     "store": "https://shop.nijisanji.jp/1067",
     "wiki": "https://wikiwiki.jp/nijisanji/%E8%AA%9E%E9%83%A8%E7%B4%A1"
+  },
+  "fanName": {
+    "value": "無し",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/tsumugu-kataribe",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

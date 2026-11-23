@@ -109,5 +109,17 @@
     "x": "https://twitter.com/RenZott0",
     "store": "https://shop.nijisanji.jp/4025",
     "wiki": "https://wikiwiki.jp/nijisanji/Ren%20Zotto"
+  },
+  "fanName": {
+    "value": "Renvaderz",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/ren-zotto",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

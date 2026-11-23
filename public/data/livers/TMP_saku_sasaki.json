@@ -258,5 +258,17 @@
     "store": "https://shop.nijisanji.jp/1038",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=SasakiSaku",
     "wiki": "https://wikiwiki.jp/nijisanji/%E7%AC%B9%E6%9C%A8%E5%92%B2"
+  },
+  "fanName": {
+    "value": "笹キッズ",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/saku-sasaki",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

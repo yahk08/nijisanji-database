@@ -2,8 +2,8 @@
   "id": "TMP_haru_kaida",
   "status": "active",
   "name": "甲斐田晴",
-  "reading": null,
-  "englishName": null,
+  "reading": "かいだはる",
+  "englishName": "Kaida Haru",
   "affiliation": "にじさんじ",
   "group": null,
   "branch": "JP",
@@ -114,5 +114,17 @@
     "store": "https://shop.nijisanji.jp/1112",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=KaidaHaru",
     "wiki": "https://wikiwiki.jp/nijisanji/%E7%94%B2%E6%96%90%E7%94%B0%E6%99%B4"
+  },
+  "fanName": {
+    "value": "晴れ男・晴れ女",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/haru-kaida",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

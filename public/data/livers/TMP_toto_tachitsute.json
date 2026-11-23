@@ -258,5 +258,17 @@
     "store": "https://shop.nijisanji.jp/1150",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=TachitsuteToto",
     "wiki": "https://wikiwiki.jp/nijisanji/%E7%AB%8B%E4%BC%9D%E9%83%BD%E3%80%85"
+  },
+  "fanName": {
+    "value": "たちつてともだち",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/toto-tachitsute",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

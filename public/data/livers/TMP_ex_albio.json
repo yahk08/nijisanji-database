@@ -320,5 +320,17 @@
     "x": "https://twitter.com/ex_albio",
     "store": "https://shop.nijisanji.jp/1080",
     "wiki": "https://wikiwiki.jp/nijisanji/%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%AB%E3%83%93%E3%82%AA"
+  },
+  "fanName": {
+    "value": "英友",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/ex-albio",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

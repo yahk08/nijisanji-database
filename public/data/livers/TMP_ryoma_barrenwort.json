@@ -111,5 +111,17 @@
     "x": "https://x.com/RyomaBarrenwort",
     "store": "https://shop.nijisanji.jp/4040",
     "wiki": "https://wikiwiki.jp/nijisanji/Ryoma%20Barrenwort"
+  },
+  "fanName": {
+    "value": "Ryonins",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/ryoma-barrenwort",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

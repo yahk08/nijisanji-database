@@ -2,8 +2,8 @@
   "id": "TMP_minato_fuwa",
   "status": "active",
   "name": "不破湊",
-  "reading": null,
-  "englishName": null,
+  "reading": "ふわみなと",
+  "englishName": "Fuwa Minato",
   "affiliation": "にじさんじ",
   "group": null,
   "branch": "JP",
@@ -115,5 +115,17 @@
     "store": "https://shop.nijisanji.jp/1099",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=FuwaMinato",
     "wiki": "https://wikiwiki.jp/nijisanji/%E4%B8%8D%E7%A0%B4%E6%B9%8A"
+  },
+  "fanName": {
+    "value": "不破狂",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/minato-fuwa",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

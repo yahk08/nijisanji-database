@@ -353,5 +353,17 @@
     "store": "https://shop.nijisanji.jp/1032",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=HanabatakeChaika",
     "wiki": "https://wikiwiki.jp/nijisanji/%E8%8A%B1%E7%95%91%E3%83%81%E3%83%A3%E3%82%A4%E3%82%AB"
+  },
+  "fanName": {
+    "value": "時間の無駄",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/chaika-hanabatake",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

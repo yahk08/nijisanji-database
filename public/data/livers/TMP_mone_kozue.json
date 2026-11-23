@@ -258,5 +258,17 @@
     "store": "https://shop.nijisanji.jp/1160",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=KozueMone",
     "wiki": "https://wikiwiki.jp/nijisanji/%E6%A2%A2%E6%A1%83%E9%9F%B3"
+  },
+  "fanName": {
+    "value": "もねゴン",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/mone-kozue",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

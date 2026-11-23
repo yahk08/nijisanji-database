@@ -258,5 +258,17 @@
     "store": "https://shop.nijisanji.jp/1157",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=SakakiNess",
     "wiki": "https://wikiwiki.jp/nijisanji/%E6%A6%8A%E3%83%8D%E3%82%B9"
+  },
+  "fanName": {
+    "value": "ネッシー",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/ness-sakaki",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

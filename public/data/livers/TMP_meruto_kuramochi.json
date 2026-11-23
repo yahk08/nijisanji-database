@@ -258,5 +258,17 @@
     "store": "https://shop.nijisanji.jp/1135",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=KuramochiMeruto",
     "wiki": "https://wikiwiki.jp/nijisanji/%E5%80%89%E6%8C%81%E3%82%81%E3%82%8B%E3%81%A8"
+  },
+  "fanName": {
+    "value": "めるねいと",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/meruto-kuramochi",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

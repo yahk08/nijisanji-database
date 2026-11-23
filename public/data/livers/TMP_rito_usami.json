@@ -258,5 +258,17 @@
     "store": "https://shop.nijisanji.jp/1141",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=UsamiRito",
     "wiki": "https://wikiwiki.jp/nijisanji/%E5%AE%87%E4%BD%90%E7%BE%8E%E3%83%AA%E3%83%88"
+  },
+  "fanName": {
+    "value": "無し",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/rito-usami",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

@@ -273,5 +273,17 @@
     "x": "https://twitter.com/Rai_Galilei",
     "store": "https://shop.nijisanji.jp/2004",
     "wiki": "https://wikiwiki.jp/nijisanji/Rai%20Galilei"
+  },
+  "fanName": {
+    "value": "Inmates",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/rai-galilei",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

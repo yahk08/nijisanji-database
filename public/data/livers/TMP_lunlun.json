@@ -355,5 +355,17 @@
     "store": "https://shop.nijisanji.jp/1162",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=Lunlun",
     "wiki": "https://wikiwiki.jp/nijisanji/%E3%83%AB%E3%83%B3%E3%83%AB%E3%83%B3"
+  },
+  "fanName": {
+    "value": "おちょまだち",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/lunlun",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

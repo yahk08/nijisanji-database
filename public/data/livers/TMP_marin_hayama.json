@@ -357,5 +357,17 @@
     "fanclub": "https://www.nijisanji.jp/fanclubs/marin-hayama",
     "store": "https://shop.nijisanji.jp/1083",
     "wiki": "https://wikiwiki.jp/nijisanji/%E8%91%89%E5%B1%B1%E8%88%9E%E9%88%B4"
+  },
+  "fanName": {
+    "value": "超町民",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/marin-hayama",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

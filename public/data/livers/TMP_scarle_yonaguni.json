@@ -110,5 +110,17 @@
     "x": "https://twitter.com/ScarleYonaguni",
     "store": "https://shop.nijisanji.jp/4026",
     "wiki": "https://wikiwiki.jp/nijisanji/Scarle%20Yonaguni"
+  },
+  "fanName": {
+    "value": "Scarlings",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/scarle-yonaguni",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

@@ -355,5 +355,17 @@
     "fanclub": "https://www.nijisanji.jp/fanclubs/yorumi-rena",
     "store": "https://shop.nijisanji.jp/1089",
     "wiki": "https://wikiwiki.jp/nijisanji/%E5%A4%9C%E8%A6%8B%E3%82%8C%E3%81%AA"
+  },
+  "fanName": {
+    "value": "鳩(・θ・)",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/rena-yorumi",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

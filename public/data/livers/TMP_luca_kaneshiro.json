@@ -110,5 +110,17 @@
     "store": "https://shop.nijisanji.jp/4012",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=LucaKaneshiro",
     "wiki": "https://wikiwiki.jp/nijisanji/Luca%20Kaneshiro"
+  },
+  "fanName": {
+    "value": "Lucubs",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/luca-kaneshiro",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

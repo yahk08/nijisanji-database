@@ -2,8 +2,8 @@
   "id": "TMP_kizuku_yashiro",
   "status": "active",
   "name": "社築",
-  "reading": null,
-  "englishName": null,
+  "reading": "やしろきずく",
+  "englishName": "Yashiro Kizuku",
   "affiliation": "にじさんじ",
   "group": null,
   "branch": "JP",
@@ -114,5 +114,17 @@
     "store": "https://shop.nijisanji.jp/1030",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=YashiroKizuku",
     "wiki": "https://wikiwiki.jp/nijisanji/%E7%A4%BE%E7%AF%89"
+  },
+  "fanName": {
+    "value": "飲み友",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/kizuku-yashiro",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

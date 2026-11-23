@@ -259,5 +259,17 @@
     "store": "https://shop.nijisanji.jp/1167",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=NanaseSuzuna",
     "wiki": "https://wikiwiki.jp/nijisanji/%E4%B8%83%E7%80%AC%E3%81%99%E3%81%9A%E8%8F%9C"
+  },
+  "fanName": {
+    "value": "すずふぁーむ",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/suzuna-nanase",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

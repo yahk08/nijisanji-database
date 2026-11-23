@@ -257,5 +257,17 @@
     "x": "https://twitter.com/mahiroyukishiro",
     "store": "https://shop.nijisanji.jp/1077",
     "wiki": "https://wikiwiki.jp/nijisanji/%E9%9B%AA%E5%9F%8E%E7%9C%9E%E5%B0%8B"
+  },
+  "fanName": {
+    "value": "まひとも",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/mahiro-yukishiro",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

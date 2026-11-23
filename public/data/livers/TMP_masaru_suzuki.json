@@ -320,5 +320,17 @@
     "x": "https://twitter.com/darkness_eater",
     "store": "https://shop.nijisanji.jp/1021",
     "wiki": "https://wikiwiki.jp/nijisanji/%E9%88%B4%E6%9C%A8%E5%8B%9D"
+  },
+  "fanName": {
+    "value": "盟友",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/masaru-suzuki",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

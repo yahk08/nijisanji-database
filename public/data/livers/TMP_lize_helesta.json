@@ -2,8 +2,8 @@
   "id": "TMP_lize_helesta",
   "status": "active",
   "name": "リゼ・ヘルエスタ",
-  "reading": null,
-  "englishName": null,
+  "reading": "りぜ へるえすた",
+  "englishName": "Lize Helesta",
   "affiliation": "にじさんじ",
   "group": null,
   "branch": "JP",
@@ -114,5 +114,17 @@
     "store": "https://shop.nijisanji.jp/1074",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=LizeHelesta",
     "wiki": "https://wikiwiki.jp/nijisanji/%E3%83%AA%E3%82%BC%E3%83%BB%E3%83%98%E3%83%AB%E3%82%A8%E3%82%B9%E3%82%BF"
+  },
+  "fanName": {
+    "value": "ヘルエスタ王国民",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/lize-helesta",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

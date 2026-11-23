@@ -259,5 +259,17 @@
     "store": "https://shop.nijisanji.jp/1164",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=SaotomeBerry",
     "wiki": "https://wikiwiki.jp/nijisanji/%E6%97%A9%E4%B9%99%E5%A5%B3%E3%83%99%E3%83%AA%E3%83%BC"
+  },
+  "fanName": {
+    "value": "べりすなー",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/berry-saotome",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

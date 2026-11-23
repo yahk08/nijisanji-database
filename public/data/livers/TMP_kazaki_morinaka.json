@@ -2,8 +2,8 @@
   "id": "TMP_kazaki_morinaka",
   "status": "active",
   "name": "森中花咲",
-  "reading": null,
-  "englishName": null,
+  "reading": "もりなかかざき",
+  "englishName": "Morinaka Kazaki",
   "affiliation": "にじさんじ",
   "group": null,
   "branch": "JP",
@@ -114,5 +114,17 @@
     "store": "https://shop.nijisanji.jp/1017",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=MorinakaKazaki",
     "wiki": "https://wikiwiki.jp/nijisanji/%E6%A3%AE%E4%B8%AD%E8%8A%B1%E5%92%B2"
+  },
+  "fanName": {
+    "value": "くまさんず",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/kazaki-morinaka",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

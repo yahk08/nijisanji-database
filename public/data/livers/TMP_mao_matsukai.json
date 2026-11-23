@@ -255,5 +255,17 @@
     "x": "https://twitter.com/matsukai_mao",
     "store": "https://shop.nijisanji.jp/1097",
     "wiki": "https://wikiwiki.jp/nijisanji/%E9%AD%94%E4%BD%BF%E3%83%9E%E3%82%AA"
+  },
+  "fanName": {
+    "value": "マオの飼育係",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/mao-matsukai",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

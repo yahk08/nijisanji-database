@@ -353,5 +353,17 @@
     "store": "https://shop.nijisanji.jp/1121",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=OliverEvans",
     "wiki": "https://wikiwiki.jp/nijisanji/%E3%82%AA%E3%83%AA%E3%83%90%E3%83%BC%E3%83%BB%E3%82%A8%E3%83%90%E3%83%B3%E3%82%B9"
+  },
+  "fanName": {
+    "value": "ゼミ生",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/oliver-evans",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

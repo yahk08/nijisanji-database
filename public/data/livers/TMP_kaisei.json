@@ -285,5 +285,17 @@
     "store": "https://shop.nijisanji.jp/1156",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=Kaisei",
     "wiki": "https://wikiwiki.jp/nijisanji/%E9%AD%81%E6%98%9F"
+  },
+  "fanName": {
+    "value": "錠連",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/kaisei",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

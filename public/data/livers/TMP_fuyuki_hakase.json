@@ -258,5 +258,17 @@
     "store": "https://shop.nijisanji.jp/1087",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=HakaseFuyuki",
     "wiki": "https://wikiwiki.jp/nijisanji/%E8%91%89%E5%8A%A0%E7%80%AC%E5%86%AC%E9%9B%AA"
+  },
+  "fanName": {
+    "value": "ラボメン",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/fuyuki-hakase",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

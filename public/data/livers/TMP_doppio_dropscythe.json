@@ -111,5 +111,17 @@
     "x": "https://twitter.com/D_Dropscythe",
     "store": "https://shop.nijisanji.jp/4027",
     "wiki": "https://wikiwiki.jp/nijisanji/Doppio%20Dropscythe"
+  },
+  "fanName": {
+    "value": "Scythekicks",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/doppio-dropscythe",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

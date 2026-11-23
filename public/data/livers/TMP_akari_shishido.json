@@ -258,5 +258,17 @@
     "store": "https://shop.nijisanji.jp/1137",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=ShishidoAkari",
     "wiki": "https://wikiwiki.jp/nijisanji/%E7%8D%85%E5%AD%90%E5%A0%82%E3%81%82%E3%81%8B%E3%82%8A"
+  },
+  "fanName": {
+    "value": "飼い主候補",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/akari-shishido",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

@@ -355,5 +355,17 @@
     "store": "https://shop.nijisanji.jp/1106",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=FurenELustario",
     "wiki": "https://wikiwiki.jp/nijisanji/%E3%83%95%E3%83%AC%E3%83%B3%E3%83%BBE%E3%83%BB%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%AA"
+  },
+  "fanName": {
+    "value": "親衛隊／オーク",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/furen-e-lustario",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

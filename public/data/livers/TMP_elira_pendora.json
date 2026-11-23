@@ -110,5 +110,17 @@
     "store": "https://shop.nijisanji.jp/4002",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=EliraPendora",
     "wiki": "https://wikiwiki.jp/nijisanji/Elira%20Pendora"
+  },
+  "fanName": {
+    "value": "FamElira",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/elira-pendora",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

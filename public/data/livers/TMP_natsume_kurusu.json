@@ -388,5 +388,17 @@
     "store": "https://shop.nijisanji.jp/1107",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=KurusuNatsume",
     "wiki": "https://wikiwiki.jp/nijisanji/%E6%9D%A5%E6%A0%96%E5%A4%8F%E8%8A%BD"
+  },
+  "fanName": {
+    "value": "なつめいと",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/natsume-kurusu",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

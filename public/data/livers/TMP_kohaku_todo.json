@@ -317,5 +317,17 @@
     "store": "https://shop.nijisanji.jp/1116",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=TodoKohaku",
     "wiki": "https://wikiwiki.jp/nijisanji/%E6%9D%B1%E5%A0%82%E3%82%B3%E3%83%8F%E3%82%AF"
+  },
+  "fanName": {
+    "value": "コハク党",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/kohaku-todo",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

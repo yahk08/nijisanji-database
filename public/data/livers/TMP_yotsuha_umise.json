@@ -323,5 +323,17 @@
     "store": "https://shop.nijisanji.jp/1125",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=UmiseYotsuha",
     "wiki": "https://wikiwiki.jp/nijisanji/%E6%B5%B7%E5%A6%B9%E5%9B%9B%E8%91%89"
+  },
+  "fanName": {
+    "value": "シロツメイト",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/yotsuha-umise",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

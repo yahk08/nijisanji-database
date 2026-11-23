@@ -355,5 +355,17 @@
     "fanclub": "https://www.nijisanji.jp/fanclubs/mononobe-alice",
     "store": "https://shop.nijisanji.jp/1009",
     "wiki": "https://wikiwiki.jp/nijisanji/%E7%89%A9%E8%BF%B0%E6%9C%89%E6%A0%96"
+  },
+  "fanName": {
+    "value": "うさぎさん🐰",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/alice-mononobe",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

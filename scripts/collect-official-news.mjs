@@ -111,28 +111,12 @@ async function fetchArticles(source) {
   return articles;
 }
 async function main() {
-  const now = new Date().toISOString();
-  const errors = [];
-  let sourceUsed = null, items = [];
-  for (const source of [PRIMARY, FALLBACK]) {
-    try {
-      items = await fetchArticles(source);
-      sourceUsed = source;
-      break;
-    } catch (e) { errors.push(String(e.message || e)); }
-  }
-  const prior = fs.existsSync(OUT) ? JSON.parse(fs.readFileSync(OUT, 'utf8')) : {schemaVersion:1, checkedAt:null, source:PRIMARY, news:[]};
-  const success = items.length > 0;
-  const result = success ? merge(prior, items, now) : prior;
-  fs.mkdirSync(path.dirname(REPORT), {recursive:true});
-  fs.writeFileSync(REPORT, JSON.stringify({checkedAt:now, success, found:items.length, stored:result.news.length, sourceUsed, fallbackUsed:sourceUsed===FALLBACK, errors}, null, 2) + '\n');
-  if (!success) {
-    console.error('公式ニュースの取得に失敗しました。以前のデータを保持します。\n' + errors.join('\n'));
-    process.exitCode = 1;
-    return;
-  }
-  fs.writeFileSync(OUT, JSON.stringify(result,null,2)+'\n');
-  console.log(`収集成功: ${items.length}件 / 保存: ${result.news.length}件 / 取得元: ${sourceUsed}`);
-  if (errors.length) console.warn('最初の収集元は取得できず、運営会社の公式サイトから取得しました。');
-}
-if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)) await main();
+  const {collectFeeds}=await import('./official-feeds.mjs');
+  const prior=fs.existsSync(OUT)?JSON.parse(fs.readFileSync(OUT,'utf8')):{news:[]};
+  const {result,errors}=await collectFeeds(prior);
+  fs.mkdirSync(path.dirname(REPORT),{recursive:true});
+  fs.writeFileSync(REPORT,JSON.stringify({checkedAt:new Date().toISOString(),success:!errors.length,stored:result.news.length,errors},null,2)+'\n');
+  fs.writeFileSync(OUT,JSON.stringify(result,null,2)+'\n');
+  console.log(`公式ニュース ${result.news.filter(n=>n.category==='news').length}件 / イベント ${result.news.filter(n=>n.category==='event').length}件`);
+  if(errors.length){console.error(errors.join('\n'));process.exitCode=1;}
+}if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)) await main();

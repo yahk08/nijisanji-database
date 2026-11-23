@@ -341,5 +341,17 @@
     "store": "https://shop.nijisanji.jp/1143",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=SaikiIttetsu",
     "wiki": "https://wikiwiki.jp/nijisanji/%E4%BD%90%E4%BC%AF%E3%82%A4%E3%83%83%E3%83%86%E3%83%84"
+  },
+  "fanName": {
+    "value": "仲磨",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/ittetsu-saiki",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

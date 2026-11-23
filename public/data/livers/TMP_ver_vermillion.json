@@ -111,5 +111,17 @@
     "x": "https://twitter.com/Ver_Vermillion",
     "store": "https://shop.nijisanji.jp/4031",
     "wiki": "https://wikiwiki.jp/nijisanji/Ver%20Vermillion"
+  },
+  "fanName": {
+    "value": "Villions",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/ver-vermillion",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

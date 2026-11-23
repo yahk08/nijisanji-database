@@ -2,8 +2,8 @@
   "id": "TMP_keisuke_maimoto",
   "status": "active",
   "name": "舞元啓介",
-  "reading": null,
-  "englishName": null,
+  "reading": "まいもとけいすけ",
+  "englishName": "Maimoto Keisuke",
   "affiliation": "にじさんじ",
   "group": null,
   "branch": "JP",
@@ -114,5 +114,17 @@
     "store": "https://shop.nijisanji.jp/1048",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=MaimotoKeisuke",
     "wiki": "https://wikiwiki.jp/nijisanji/%E8%88%9E%E5%85%83%E5%95%93%E4%BB%8B"
+  },
+  "fanName": {
+    "value": "加齢衆",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/keisuke-maimoto",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

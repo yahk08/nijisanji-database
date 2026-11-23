@@ -111,5 +111,17 @@
     "x": "https://x.com/ZealGinjoka",
     "store": "https://shop.nijisanji.jp/4045",
     "wiki": "https://wikiwiki.jp/nijisanji/Zeal%20Ginjoka"
+  },
+  "fanName": {
+    "value": "Zerpent",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/zeal-ginjoka",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

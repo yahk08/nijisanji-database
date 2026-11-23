@@ -258,5 +258,17 @@
     "store": "https://shop.nijisanji.jp/1010",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=GilzarenIII",
     "wiki": "https://wikiwiki.jp/nijisanji/%E3%82%AE%E3%83%AB%E3%82%B6%E3%83%AC%E3%83%B3III%E4%B8%96"
+  },
+  "fanName": {
+    "value": "ケンゾク",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/gilzaren-iii",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

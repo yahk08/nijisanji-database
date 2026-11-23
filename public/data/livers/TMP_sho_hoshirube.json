@@ -291,5 +291,17 @@
     "store": "https://shop.nijisanji.jp/1145",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=HoshirubeSho",
     "wiki": "https://wikiwiki.jp/nijisanji/%E6%98%9F%E5%B0%8E%E3%82%B7%E3%83%A7%E3%82%A6"
+  },
+  "fanName": {
+    "value": "インショウ派",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/sho-hoshirube",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

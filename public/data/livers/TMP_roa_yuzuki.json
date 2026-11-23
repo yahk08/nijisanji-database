@@ -306,5 +306,17 @@
     "fanclub": "https://www.nijisanji.jp/fanclubs/roa-yuzuki",
     "store": "https://shop.nijisanji.jp/1062",
     "wiki": "https://wikiwiki.jp/nijisanji/%E5%A4%A2%E6%9C%88%E3%83%AD%E3%82%A2"
+  },
+  "fanName": {
+    "value": "リリン",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/roa-yuzuki",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

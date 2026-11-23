@@ -273,5 +273,17 @@
     "x": "https://twitter.com/Etna_Crimson",
     "store": "https://shop.nijisanji.jp/2011",
     "wiki": "https://wikiwiki.jp/nijisanji/Etna%20Crimson"
+  },
+  "fanName": {
+    "value": "HENSIMP",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/etna-crimson",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

@@ -110,5 +110,17 @@
     "store": "https://shop.nijisanji.jp/4022",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=MariaMarionette",
     "wiki": "https://wikiwiki.jp/nijisanji/Maria%20Marionette"
+  },
+  "fanName": {
+    "value": "Marippets",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/maria-marionette",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

@@ -387,5 +387,17 @@
     "store": "https://shop.nijisanji.jp/1146",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=MurakumoKagetsu",
     "wiki": "https://wikiwiki.jp/nijisanji/%E5%8F%A2%E9%9B%B2%E3%82%AB%E3%82%B2%E3%83%84"
+  },
+  "fanName": {
+    "value": "叢人",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/kagetsu-murakumo",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

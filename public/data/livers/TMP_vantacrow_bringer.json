@@ -112,5 +112,17 @@
     "store": "https://shop.nijisanji.jp/4035",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=VantacrowBringer",
     "wiki": "https://wikiwiki.jp/nijisanji/Vantacrow%20Bringer"
+  },
+  "fanName": {
+    "value": "Vantacrew",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/vantacrow-bringer",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

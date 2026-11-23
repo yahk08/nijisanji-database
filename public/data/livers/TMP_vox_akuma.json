@@ -110,5 +110,17 @@
     "store": "https://shop.nijisanji.jp/4015",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=VoxAkuma",
     "wiki": "https://wikiwiki.jp/nijisanji/Vox%20Akuma"
+  },
+  "fanName": {
+    "value": "Kindred",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/vox-akuma",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

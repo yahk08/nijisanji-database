@@ -292,5 +292,17 @@
     "store": "https://shop.nijisanji.jp/1098",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=YamagamiKaruta",
     "wiki": "https://wikiwiki.jp/nijisanji/%E5%B1%B1%E7%A5%9E%E3%82%AB%E3%83%AB%E3%82%BF"
+  },
+  "fanName": {
+    "value": "かるたっこ",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/karuta-yamagami",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

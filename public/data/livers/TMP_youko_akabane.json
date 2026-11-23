@@ -2,8 +2,8 @@
   "id": "TMP_youko_akabane",
   "status": "active",
   "name": "赤羽葉子",
-  "reading": null,
-  "englishName": null,
+  "reading": "あかばねようこ",
+  "englishName": "Akabane Youko",
   "affiliation": "にじさんじ",
   "group": null,
   "branch": "JP",
@@ -114,5 +114,17 @@
     "store": "https://shop.nijisanji.jp/1020",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=AkabaneYouko",
     "wiki": "https://wikiwiki.jp/nijisanji/%E8%B5%A4%E7%BE%BD%E8%91%89%E5%AD%90"
+  },
+  "fanName": {
+    "value": "しかばね",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/youko-akabane",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

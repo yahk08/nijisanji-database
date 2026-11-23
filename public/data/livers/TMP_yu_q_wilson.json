@@ -112,5 +112,17 @@
     "store": "https://shop.nijisanji.jp/4036",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=YuQWilson",
     "wiki": "https://wikiwiki.jp/nijisanji/Yu%20Q.%20Wilson"
+  },
+  "fanName": {
+    "value": "Wilsoneer",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/yu-q-wilson",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

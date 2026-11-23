@@ -438,5 +438,17 @@
     "store": "https://shop.nijisanji.jp/1103",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=ShirayukiTomoe",
     "wiki": "https://wikiwiki.jp/nijisanji/%E7%99%BD%E9%9B%AA%E5%B7%B4"
+  },
+  "fanName": {
+    "value": "小人・駄犬",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/tomoe-shirayuki",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

@@ -26,7 +26,7 @@ const errors=[],warnings=[],modifications=[],stats={matched:0,portrait:0,fields:
 const str=v=>v===null||v===undefined?'':String(v).trim();
 const url=v=>{const s=str(v);if(!s)return '';try{const u=new URL(s);if(u.protocol!=='https:')return '';return s}catch{return ''}};
 const human=(v)=>str(v).normalize('NFKC');
-const date=v=>{let s=str(v);if(!s)return null;if(/^\d{4}-\d{2}-\d{2}$/.test(s))return s;errors.push('日付形式が不正: '+s);return null};
+const date=v=>{let s=str(v);if(!s)return null;if(/^\d{8}$/.test(s))s=s.slice(0,4)+'-'+s.slice(4,6)+'-'+s.slice(6);if(/^\d{4}-\d{2}-\d{2}$/.test(s))return s;errors.push('日付形式が不正: '+s);return null};
 // The date value is kept null when a birthday is secret/private/unknown.
 // Its public visibility is stored separately, so a non-date value never breaks sorting.
 const birthday=v=>{
@@ -97,20 +97,24 @@ const setUrl=(l,key,value,context)=>{if(!str(value))return;
  if(l[key]&&!overwrite){warnings.push(`${l.name}: ${context} は既存URLと異なるため保留`);stats.skipped++;return}
  l[key]=u;stats.links++;
 };
-const linkLabels=[['各種リンク（youtube）','YouTube'],['各種リンク（Twitch）','Twitch'],['各種リンク（Twitter）','X / Twitter'],['各種リンク（ファンクラブ）','ファンクラブ'],['各種リンク（公式ストア）','公式ストア'],['各種リンク（エニマガ）','エニマガ']];
-const setExtra=(l,label,value,source)=>{if(!str(value))return;
- let groups=l.fields||(l.fields=[]);let g=groups.find(x=>x.section==='追加プロフィール');if(!g){g={section:'追加プロフィール',items:[]};groups.push(g)}
- let item=g.items.find(x=>x.label===label);if(!item){item={label,data:{value:null,sources:[],showSources:false}};g.items.push(item)}
- let old=item.data?.value;if(old===value){stats.unchanged++;return}
- if(old&&!overwrite){warnings.push(`${l.name}: ${label} の既存値と異なるため保留`);stats.skipped++;return}
- item.data={value:String(value),verification:'legacy-unreviewed',sources:[{label:'手動入力Excel',url:source||l.officialProfileUrl}],showSources:true};stats.fields++;
-};
 const sheet=(name)=>{const rows=input.sheets[name];if(!Array.isArray(rows)||!rows.length)abort('シートが存在しません: '+name);const h=rows[0];return rows.slice(1).map((values,i)=>({row:i+2,fields:Object.fromEntries(h.map((k,j)=>[k,values?.[j]??null]))})).filter(x=>Object.values(x.fields).some(v=>str(v)!==''))};
 const requireUrl=(val,context)=>{let u=url(val);if(!u)errors.push(`${context}: URLが不正です`);return u};
 const identityHash=(...parts)=>crypto.createHash('sha256').update(parts.join('|')).digest('hex').slice(0,15);
 const first=sheet('代表画像・プロフィール');const seen=new Set();
 for(const {row,fields:f} of first){let l=getPerson(f['ライバー名（変更しない）'],f['公式プロフィールURL（変更しない）'],'代表画像・プロフィール '+row);if(!l)continue;
  if(seen.has(l.id)){errors.push('プロフィール入力が重複: '+l.name);continue}seen.add(l.id);stats.matched++;
+
+ for(const [header,key] of [['名前のよみ（ひらがな）','reading'],['ローマ字表記','englishName'],['所属','profileBranch'],['同期ユニット','syncUnit'],['イメージカラー','imageColor'],['イメージカラー（サブ）','imageColorSub']]) {
+  const value=str(f[header]);if(!value)continue;
+  if(key.startsWith('imageColor')&&!/^#[0-9a-f]{6}$/i.test(value)){errors.push(`${l.name}: ${header}は#と6桁のカラーコードで入力`);continue;}
+  if(l[key]&&l[key]!==value&&!overwrite){warnings.push(`${l.name}: ${header}の差異を保留`);stats.skipped++;continue;}
+  l[key]=value;
+ }
+ setField(l,'fanName',f['ファンネーム'],'ファンネーム');
+ setUrl(l,'faceIconUrl',f['代表顔アイコンURL（入力）'],'顔アイコン');
+ setUrl(l,'faceIconSourceUrl',f['画像の出典URL2'],'顔アイコン出典');
+ const services=[['youtube','youtube'],['Twitch','twitch'],['Twitter','x'],['TikTok','tiktok'],['ファンクラブ','fanclub'],['公式ストア','store'],['エニマガ','magazine'],['非公式wiki','wiki']];
+ for(const [header,key] of services){const value=str(f[`各種リンク（${header}）`]);if(!value)continue;const u=requireUrl(value,l.name+' '+header);if(u){l.profileLinks||={};setUrl(l.profileLinks,key,u,header);}}
  const portrait=str(f['代表立ち絵URL（入力）']);
  if(portrait){let u=requireUrl(portrait,l.name+' 代表画像');if(u){
  const isFace=/liver[-_]face[-_]|liver[-_]head[-_]/i.test(u);
@@ -123,11 +127,9 @@ for(const {row,fields:f} of first){let l=getPerson(f['ライバー名（変更�
  const b=f['誕生日（MM-DD）'];if(str(b)){const parsed=birthday(b);if(parsed?.error)errors.push(`${l.name}: ${parsed.error}`);else setBirthday(l,parsed)}
  const d=f['デビュー日（YYYY-MM-DD）'];if(str(d)){let formatted=date(d);if(formatted)setField(l,'debutDate',formatted,'デビュー日')}
  setField(l,'height',f['身長（例：160cm）'],'身長');setField(l,'fanMark',f['ファンマーク'],'ファンマーク');setField(l,'introduction',f['紹介文'],'紹介文');
- setExtra(l,'ファンネーム',str(f['ファンネーム']),l.officialProfileUrl);
  // Existing primary YouTube and X URLs are not replaced without explicit flag.
  setUrl(l,'youtubeChannelUrl',f['各種リンク（youtube）'],'YouTube');
  setUrl(l,'xUrl',f['各種リンク（Twitter）'],'X/Twitter');
- for(const [excel,label] of linkLabels){let v=str(f[excel]);if(v){let u=requireUrl(v,l.name+' '+label);if(u)setExtra(l,label,u,l.officialProfileUrl)}}
  const note=str(f['備考・修正指示']);if(note)warnings.push(`${l.name}: 備考・修正指示は自動反映せず要確認: ${note.slice(0,160)}`);
 }
 const visualMap=new Map();
@@ -167,6 +169,15 @@ for(const {row,fields:f} of sheet('活動履歴')){
  let category=kinds[raw]||'other',day=date(f['日付（YYYY-MM-DD）']),link=url(f['関連動画・記事URL']);let id='manual-event-'+identityHash(l.id,title,day);
  if(l.events.some(e=>e.id===id||e.title===title&&e.date===day)){stats.unchanged++;continue}
  l.events.push({id,title,category,date:day,description:str(f['備考'])||undefined,url:link||undefined,sources:[{label:'手動入力Excel',url:url(f['出典URL'])||l.officialProfileUrl}]});stats.events++;
+}
+if(input.sheets['ハッシュタグ'])for(const {row,fields:f} of sheet('ハッシュタグ')){
+ if(!str(f['タグ種別'])&&!str(f['タグ（#を含む）'])&&!str(f['出典URL'])&&!str(f['備考']))continue;
+ const l=getPerson(f['氏名（ライバー名）'],f['公式プロフィールURL'],'ハッシュタグ '+row);if(!l)continue;
+ const type=str(f['タグ種別']),tag=str(f['タグ（#を含む）']);
+ if(!type||!/^#[^\s#]+$/.test(tag)){errors.push(`ハッシュタグ ${row}: 種別と#から始まるタグが必要`);continue;}
+ const sourceUrl=str(f['出典URL'])?requireUrl(f['出典URL'],'ハッシュタグ '+row):undefined;
+ l.hashtags||=[];const entry={type,tag,sourceUrl,note:str(f['備考'])||undefined};
+ const old=l.hashtags.find(x=>x.type===type&&x.tag===tag);if(old){if(overwrite)Object.assign(old,entry);}else l.hashtags.push(entry);
 }
 const staged=[...people.values()].filter(x=>JSON.stringify(x.l)!==x.original);
 console.log(`読み込み人数: ${stats.matched}/${people.size}; 変更対象JSON: ${staged.length}`);

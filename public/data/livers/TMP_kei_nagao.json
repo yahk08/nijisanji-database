@@ -355,5 +355,17 @@
     "store": "https://shop.nijisanji.jp/1113",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=NagaoKei",
     "wiki": "https://wikiwiki.jp/nijisanji/%E9%95%B7%E5%B0%BE%E6%99%AF"
+  },
+  "fanName": {
+    "value": "16KBG",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/kei-nagao",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

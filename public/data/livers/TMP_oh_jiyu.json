@@ -272,5 +272,17 @@
     "x": "https://twitter.com/JiyuOh2434",
     "store": "https://shop.nijisanji.jp/3009",
     "wiki": "https://wikiwiki.jp/nijisanji/%E3%82%AA%E3%83%BB%E3%82%B8%E3%83%A6"
+  },
+  "fanName": {
+    "value": "子猫鳥",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/oh-jiyu",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

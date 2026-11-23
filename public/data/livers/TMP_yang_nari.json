@@ -273,5 +273,17 @@
     "store": "https://shop.nijisanji.jp/3007",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=YangNari",
     "wiki": "https://wikiwiki.jp/nijisanji/%E3%83%A4%E3%83%B3%E3%83%BB%E3%83%8A%E3%83%AA"
+  },
+  "fanName": {
+    "value": "オトナリ",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/yang-nari",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

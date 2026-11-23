@@ -355,5 +355,17 @@
     "store": "https://shop.nijisanji.jp/1052",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=MachitaChima",
     "wiki": "https://wikiwiki.jp/nijisanji/%E7%94%BA%E7%94%B0%E3%81%A1%E3%81%BE"
+  },
+  "fanName": {
+    "value": "ちまちゃんず",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/chima-machita",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

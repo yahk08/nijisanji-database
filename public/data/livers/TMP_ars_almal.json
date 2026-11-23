@@ -2,8 +2,8 @@
   "id": "TMP_ars_almal",
   "status": "active",
   "name": "アルス・アルマル",
-  "reading": null,
-  "englishName": null,
+  "reading": "あるす あるまる",
+  "englishName": "Ars Almal",
   "affiliation": "にじさんじ",
   "group": null,
   "branch": "JP",
@@ -115,5 +115,17 @@
     "store": "https://shop.nijisanji.jp/1082",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=ArsAlmal",
     "wiki": "https://wikiwiki.jp/nijisanji/%E3%82%A2%E3%83%AB%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%AB%E3%83%9E%E3%83%AB"
+  },
+  "fanName": {
+    "value": "トゲ丸",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/ars-almal",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

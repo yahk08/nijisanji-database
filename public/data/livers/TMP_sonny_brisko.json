@@ -110,5 +110,17 @@
     "store": "https://shop.nijisanji.jp/4017",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=SonnyBrisko",
     "wiki": "https://wikiwiki.jp/nijisanji/Sonny%20Brisko"
+  },
+  "fanName": {
+    "value": "Briskadets",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/sonny-brisko",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

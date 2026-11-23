@@ -111,5 +111,17 @@
     "x": "https://x.com/KaelixDebonair",
     "store": "https://shop.nijisanji.jp/4046",
     "wiki": "https://wikiwiki.jp/nijisanji/Kaelix%20Debonair"
+  },
+  "fanName": {
+    "value": "Debonheir",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/kaelix-debonair",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

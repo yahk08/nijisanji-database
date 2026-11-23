@@ -258,5 +258,17 @@
     "store": "https://shop.nijisanji.jp/1036",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=HonmaHimawari",
     "wiki": "https://wikiwiki.jp/nijisanji/%E6%9C%AC%E9%96%93%E3%81%B2%E3%81%BE%E3%82%8F%E3%82%8A"
+  },
+  "fanName": {
+    "value": "ひまぐま",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/himawari-honma",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

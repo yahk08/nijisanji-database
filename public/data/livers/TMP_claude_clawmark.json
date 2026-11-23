@@ -112,5 +112,17 @@
     "store": "https://shop.nijisanji.jp/4039",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=ClaudeClawmark",
     "wiki": "https://wikiwiki.jp/nijisanji/Claude%20Clawmark"
+  },
+  "fanName": {
+    "value": "Outclaws",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/claude-clawmark",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

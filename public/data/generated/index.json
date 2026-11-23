@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T02:18:05.502Z",
+  "generatedAt": "2026-11-23T10:01:45.193Z",
   "demo": false,
   "idAliases": {
     "niji_01fq_kisd": "TMP_rou_koyanagi",
@@ -286,6 +286,18 @@
         "x": "https://twitter.com/AiaAmare",
         "store": "https://shop.nijisanji.jp/4024",
         "wiki": "https://wikiwiki.jp/nijisanji/Aia%20Amare"
+      },
+      "fanName": {
+        "value": "Aiadmirers",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/aia-amare",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -595,6 +607,18 @@
         "x": "https://twitter.com/harusakiair2434",
         "store": "https://shop.nijisanji.jp/1034",
         "wiki": "https://wikiwiki.jp/nijisanji/%E6%98%A5%E5%B4%8E%E3%82%A8%E3%82%A2%E3%83%AB"
+      },
+      "fanName": {
+        "value": "春の民",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/air-harusaki",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -857,6 +881,18 @@
         "store": "https://shop.nijisanji.jp/1137",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=ShishidoAkari",
         "wiki": "https://wikiwiki.jp/nijisanji/%E7%8D%85%E5%AD%90%E5%A0%82%E3%81%82%E3%81%8B%E3%82%8A"
+      },
+      "fanName": {
+        "value": "飼い主候補",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/akari-shishido",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -1119,6 +1155,18 @@
         "store": "https://shop.nijisanji.jp/1072",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=SaegusaAkina",
         "wiki": "https://wikiwiki.jp/nijisanji/%E4%B8%89%E6%9E%9D%E6%98%8E%E9%82%A3"
+      },
+      "fanName": {
+        "value": "どうし",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/akina-saegusa",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -1395,6 +1443,18 @@
         "x": "https://twitter.com/RayAkira2434",
         "store": "https://shop.nijisanji.jp/3005",
         "wiki": "https://wikiwiki.jp/nijisanji/%E6%98%8E%E6%A5%BD%E3%83%AC%E3%82%A4"
+      },
+      "fanName": {
+        "value": "クラス明ト",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/akira-ray",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -1754,6 +1814,18 @@
         "store": "https://shop.nijisanji.jp/1130",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=ShikinagiAkira",
         "wiki": "https://wikiwiki.jp/nijisanji/%E5%9B%9B%E5%AD%A3%E5%87%AA%E3%82%A2%E3%82%AD%E3%83%A9"
+      },
+      "fanName": {
+        "value": "凪友",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/akira-shikinagi",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -1868,6 +1940,18 @@
         "store": "https://shop.nijisanji.jp/4019",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=AlbanKnox",
         "wiki": "https://wikiwiki.jp/nijisanji/Alban%20Knox"
+      },
+      "fanName": {
+        "value": "Takaradachi",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/alban-knox",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -2227,14 +2311,26 @@
         "fanclub": "https://www.nijisanji.jp/fanclubs/mononobe-alice",
         "store": "https://shop.nijisanji.jp/1009",
         "wiki": "https://wikiwiki.jp/nijisanji/%E7%89%A9%E8%BF%B0%E6%9C%89%E6%A0%96"
+      },
+      "fanName": {
+        "value": "うさぎさん🐰",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/alice-mononobe",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
       "id": "TMP_ange_katrina",
       "status": "active",
       "name": "アンジュ・カトリーナ",
-      "reading": null,
-      "englishName": null,
+      "reading": "あんじゅ かとりーな",
+      "englishName": "Ange Katrina",
       "affiliation": "にじさんじ",
       "group": null,
       "branch": "JP",
@@ -2345,14 +2441,26 @@
         "store": "https://shop.nijisanji.jp/1068",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=AngeKatrina",
         "wiki": "https://wikiwiki.jp/nijisanji/%E3%82%A2%E3%83%B3%E3%82%B8%E3%83%A5%E3%83%BB%E3%82%AB%E3%83%88%E3%83%AA%E3%83%BC%E3%83%8A"
+      },
+      "fanName": {
+        "value": "賢者キッズ（非公式：FCL）",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/ange-katrina",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
       "id": "TMP_ars_almal",
       "status": "active",
       "name": "アルス・アルマル",
-      "reading": null,
-      "englishName": null,
+      "reading": "あるす あるまる",
+      "englishName": "Ars Almal",
       "affiliation": "にじさんじ",
       "group": null,
       "branch": "JP",
@@ -2464,6 +2572,18 @@
         "store": "https://shop.nijisanji.jp/1082",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=ArsAlmal",
         "wiki": "https://wikiwiki.jp/nijisanji/%E3%82%A2%E3%83%AB%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%AB%E3%83%9E%E3%83%AB"
+      },
+      "fanName": {
+        "value": "トゲ丸",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/ars-almal",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -3438,6 +3558,18 @@
         "store": "https://shop.nijisanji.jp/1056",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=BelmondBanderas",
         "wiki": "https://wikiwiki.jp/nijisanji/%E3%83%99%E3%83%AB%E3%83%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%83%90%E3%83%B3%E3%83%87%E3%83%A9%E3%82%B9"
+      },
+      "fanName": {
+        "value": "睡民",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/belmond-banderas",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -3701,6 +3833,18 @@
         "store": "https://shop.nijisanji.jp/1164",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=SaotomeBerry",
         "wiki": "https://wikiwiki.jp/nijisanji/%E6%97%A9%E4%B9%99%E5%A5%B3%E3%83%99%E3%83%AA%E3%83%BC"
+      },
+      "fanName": {
+        "value": "べりすなー",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/berry-saotome",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -4058,6 +4202,18 @@
         "store": "https://shop.nijisanji.jp/1032",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=HanabatakeChaika",
         "wiki": "https://wikiwiki.jp/nijisanji/%E8%8A%B1%E7%95%91%E3%83%81%E3%83%A3%E3%82%A4%E3%82%AB"
+      },
+      "fanName": {
+        "value": "時間の無駄",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/chaika-hanabatake",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -4319,6 +4475,18 @@
         "x": "https://twitter.com/Chigusa_24zono",
         "store": "https://shop.nijisanji.jp/1111",
         "wiki": "https://wikiwiki.jp/nijisanji/%E8%A5%BF%E5%9C%92%E3%83%81%E3%82%B0%E3%82%B5"
+      },
+      "fanName": {
+        "value": "ちぐにゃー",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/chigusa-nishizono",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -4678,6 +4846,18 @@
         "store": "https://shop.nijisanji.jp/1052",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=MachitaChima",
         "wiki": "https://wikiwiki.jp/nijisanji/%E7%94%BA%E7%94%B0%E3%81%A1%E3%81%BE"
+      },
+      "fanName": {
+        "value": "ちまちゃんず",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/chima-machita",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -4794,6 +4974,18 @@
         "store": "https://shop.nijisanji.jp/4039",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=ClaudeClawmark",
         "wiki": "https://wikiwiki.jp/nijisanji/Claude%20Clawmark"
+      },
+      "fanName": {
+        "value": "Outclaws",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/claude-clawmark",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -5277,6 +5469,18 @@
         "store": "https://shop.nijisanji.jp/1049",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=DebidebiDebiru",
         "wiki": "https://wikiwiki.jp/nijisanji/%E3%81%A7%E3%81%B3%E3%81%A7%E3%81%B3%E3%83%BB%E3%81%A7%E3%81%B3%E3%82%8B"
+      },
+      "fanName": {
+        "value": "けいやくしゃ",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/debidebi-debiru",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -5552,6 +5756,18 @@
         "x": "https://twitter.com/DeremKado",
         "store": "https://shop.nijisanji.jp/2014",
         "wiki": "https://wikiwiki.jp/nijisanji/Derem%20Kado"
+      },
+      "fanName": {
+        "value": "Domikado",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/derem-kado",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -5813,6 +6029,18 @@
         "store": "https://shop.nijisanji.jp/1023",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=Dola",
         "wiki": "https://wikiwiki.jp/nijisanji/%E3%83%89%E3%83%BC%E3%83%A9"
+      },
+      "fanName": {
+        "value": "竜友（ドラとも）",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/dola",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -5928,6 +6156,18 @@
         "x": "https://twitter.com/D_Dropscythe",
         "store": "https://shop.nijisanji.jp/4027",
         "wiki": "https://wikiwiki.jp/nijisanji/Doppio%20Dropscythe"
+      },
+      "fanName": {
+        "value": "Scythekicks",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/doppio-dropscythe",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -6508,6 +6748,18 @@
         "fanclub": "https://www.nijisanji.jp/fanclubs/eli-conifer",
         "store": "https://shop.nijisanji.jp/1093",
         "wiki": "https://wikiwiki.jp/nijisanji/%E3%82%A8%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%B3%E3%83%8B%E3%83%95%E3%82%A1%E3%83%BC"
+      },
+      "fanName": {
+        "value": "エリ草",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/eli-conifer",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -6622,14 +6874,26 @@
         "store": "https://shop.nijisanji.jp/4002",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=EliraPendora",
         "wiki": "https://wikiwiki.jp/nijisanji/Elira%20Pendora"
+      },
+      "fanName": {
+        "value": "FamElira",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/elira-pendora",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
       "id": "TMP_elu",
       "status": "active",
       "name": "える",
-      "reading": null,
-      "englishName": null,
+      "reading": "える",
+      "englishName": "Elu",
       "affiliation": "にじさんじ",
       "group": null,
       "branch": "JP",
@@ -6741,6 +7005,18 @@
         "store": "https://shop.nijisanji.jp/1005",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=Elu",
         "wiki": "https://wikiwiki.jp/nijisanji/%E3%81%88%E3%82%8B"
+      },
+      "fanName": {
+        "value": "おれら",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/elu",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -7125,6 +7401,18 @@
         "store": "https://shop.nijisanji.jp/1094",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=EmmaAugust",
         "wiki": "https://wikiwiki.jp/nijisanji/%E3%81%88%E3%81%BE%E2%98%85%E3%81%8A%E3%81%86%E3%81%8C%E3%81%99%E3%81%A8"
+      },
+      "fanName": {
+        "value": "下僕",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/emma-august",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -7238,6 +7526,18 @@
         "x": "https://twitter.com/EnnaAlouette",
         "store": "https://shop.nijisanji.jp/4010",
         "wiki": "https://wikiwiki.jp/nijisanji/Enna%20Alouette"
+      },
+      "fanName": {
+        "value": "Aloupeeps",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/enna-alouette",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -7515,6 +7815,18 @@
         "x": "https://twitter.com/Etna_Crimson",
         "store": "https://shop.nijisanji.jp/2011",
         "wiki": "https://wikiwiki.jp/nijisanji/Etna%20Crimson"
+      },
+      "fanName": {
+        "value": "HENSIMP",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/etna-crimson",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -7839,6 +8151,18 @@
         "x": "https://twitter.com/ex_albio",
         "store": "https://shop.nijisanji.jp/1080",
         "wiki": "https://wikiwiki.jp/nijisanji/%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%AB%E3%83%93%E3%82%AA"
+      },
+      "fanName": {
+        "value": "英友",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/ex-albio",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -7952,6 +8276,18 @@
         "x": "https://twitter.com/FinanaRyugu",
         "store": "https://shop.nijisanji.jp/4003",
         "wiki": "https://wikiwiki.jp/nijisanji/Finana%20Ryugu"
+      },
+      "fanName": {
+        "value": "Ryuguards",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/finana-ryugu",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -8067,6 +8403,18 @@
         "x": "https://x.com/Freo_2434",
         "store": "https://shop.nijisanji.jp/4043",
         "wiki": "https://wikiwiki.jp/nijisanji/Freodore"
+      },
+      "fanName": {
+        "value": "Doremin",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/freodore",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -8329,6 +8677,18 @@
         "fanclub": "https://www.nijisanji.jp/fanclubs/fumi",
         "store": "https://shop.nijisanji.jp/1096",
         "wiki": "https://wikiwiki.jp/nijisanji/%E3%83%95%E3%83%9F"
+      },
+      "fanName": {
+        "value": "フミ民",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/fumi",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -8688,6 +9048,18 @@
         "store": "https://shop.nijisanji.jp/1106",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=FurenELustario",
         "wiki": "https://wikiwiki.jp/nijisanji/%E3%83%95%E3%83%AC%E3%83%B3%E3%83%BBE%E3%83%BB%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%AA"
+      },
+      "fanName": {
+        "value": "親衛隊／オーク",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/furen-e-lustario",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -8950,14 +9322,26 @@
         "store": "https://shop.nijisanji.jp/1087",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=HakaseFuyuki",
         "wiki": "https://wikiwiki.jp/nijisanji/%E8%91%89%E5%8A%A0%E7%80%AC%E5%86%AC%E9%9B%AA"
+      },
+      "fanName": {
+        "value": "ラボメン",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/fuyuki-hakase",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
       "id": "TMP_gaku_fushimi",
       "status": "active",
       "name": "伏見ガク",
-      "reading": null,
-      "englishName": null,
+      "reading": "ふしみがく",
+      "englishName": "Fushimi Gaku",
       "affiliation": "にじさんじ",
       "group": null,
       "branch": "JP",
@@ -9068,6 +9452,18 @@
         "store": "https://shop.nijisanji.jp/1013",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=FushimiGaku",
         "wiki": "https://wikiwiki.jp/nijisanji/%E4%BC%8F%E8%A6%8B%E3%82%AC%E3%82%AF"
+      },
+      "fanName": {
+        "value": "アクター",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/gaku-fushimi",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -9345,6 +9741,18 @@
         "x": "https://twitter.com/Gaon2434",
         "store": "https://shop.nijisanji.jp/3001",
         "wiki": "https://wikiwiki.jp/nijisanji/%E3%82%AC%E3%82%AA%E3%83%B3"
+      },
+      "fanName": {
+        "value": "Gaide",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/gaon",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -9607,6 +10015,18 @@
         "store": "https://shop.nijisanji.jp/1010",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=GilzarenIII",
         "wiki": "https://wikiwiki.jp/nijisanji/%E3%82%AE%E3%83%AB%E3%82%B6%E3%83%AC%E3%83%B3III%E4%B8%96"
+      },
+      "fanName": {
+        "value": "ケンゾク",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/gilzaren-iii",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -9884,14 +10304,26 @@
         "store": "https://shop.nijisanji.jp/3013",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=HaYun",
         "wiki": "https://wikiwiki.jp/nijisanji/%E3%83%8F%E3%83%BB%E3%83%A6%E3%83%B3"
+      },
+      "fanName": {
+        "value": "ムニャ",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/ha-yun",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
       "id": "TMP_hajime_shibuya",
       "status": "active",
       "name": "渋谷ハジメ",
-      "reading": null,
-      "englishName": null,
+      "reading": "しぶやはじめ",
+      "englishName": "Shibuya Hajime",
       "affiliation": "にじさんじ",
       "group": null,
       "branch": "JP",
@@ -10001,6 +10433,18 @@
         "x": "https://twitter.com/sibuya_hajime",
         "store": "https://shop.nijisanji.jp/1007",
         "wiki": "https://wikiwiki.jp/nijisanji/%E6%B8%8B%E8%B0%B7%E3%83%8F%E3%82%B8%E3%83%A1"
+      },
+      "fanName": {
+        "value": "しぶミン",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/hajime-shibuya",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -10408,14 +10852,26 @@
         "x": "https://twitter.com/Hana_Macchia",
         "store": "https://shop.nijisanji.jp/2003",
         "wiki": "https://wikiwiki.jp/nijisanji/Hana%20Macchia"
+      },
+      "fanName": {
+        "value": "Nijisenja",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/hana-macchia",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
       "id": "TMP_haru_kaida",
       "status": "active",
       "name": "甲斐田晴",
-      "reading": null,
-      "englishName": null,
+      "reading": "かいだはる",
+      "englishName": "Kaida Haru",
       "affiliation": "にじさんじ",
       "group": null,
       "branch": "JP",
@@ -10526,14 +10982,26 @@
         "store": "https://shop.nijisanji.jp/1112",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=KaidaHaru",
         "wiki": "https://wikiwiki.jp/nijisanji/%E7%94%B2%E6%96%90%E7%94%B0%E6%99%B4"
+      },
+      "fanName": {
+        "value": "晴れ男・晴れ女",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/haru-kaida",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
       "id": "TMP_hayato_kagami",
       "status": "active",
       "name": "加賀美ハヤト",
-      "reading": null,
-      "englishName": null,
+      "reading": "かがみはやと",
+      "englishName": "Kagami Hayato",
       "affiliation": "にじさんじ",
       "group": null,
       "branch": "JP",
@@ -10644,6 +11112,18 @@
         "store": "https://shop.nijisanji.jp/1079",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=KagamiHayato",
         "wiki": "https://wikiwiki.jp/nijisanji/%E5%8A%A0%E8%B3%80%E7%BE%8E%E3%83%8F%E3%83%A4%E3%83%88"
+      },
+      "fanName": {
+        "value": "潜在株主",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/hayato-kagami",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -10971,6 +11451,18 @@
         "store": "https://shop.nijisanji.jp/1129",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=WataraiHibari",
         "wiki": "https://wikiwiki.jp/nijisanji/%E6%B8%A1%E4%BC%9A%E9%9B%B2%E9%9B%80"
+      },
+      "fanName": {
+        "value": "ひばりすた",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/hibari-watarai",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -11233,6 +11725,18 @@
         "store": "https://shop.nijisanji.jp/1036",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=HonmaHimawari",
         "wiki": "https://wikiwiki.jp/nijisanji/%E6%9C%AC%E9%96%93%E3%81%B2%E3%81%BE%E3%82%8F%E3%82%8A"
+      },
+      "fanName": {
+        "value": "ひまぐま",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/himawari-honma",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -11494,6 +11998,18 @@
         "x": "https://twitter.com/hina__asuka",
         "store": "https://shop.nijisanji.jp/1044",
         "wiki": "https://wikiwiki.jp/nijisanji/%E9%A3%9B%E9%B3%A5%E3%81%B2%E3%81%AA"
+      },
+      "fanName": {
+        "value": "ことりさん",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/hina-asuka",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -11756,6 +12272,18 @@
         "fanclub": "https://www.nijisanji.jp/fanclubs/kitakoji-hisui",
         "store": "https://shop.nijisanji.jp/1118",
         "wiki": "https://wikiwiki.jp/nijisanji/%E5%8C%97%E5%B0%8F%E8%B7%AF%E3%83%92%E3%82%B9%E3%82%A4"
+      },
+      "fanName": {
+        "value": "ヒスナー",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/hisui-kitakoji",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -12018,14 +12546,26 @@
         "store": "https://shop.nijisanji.jp/1108",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=Ibrahim",
         "wiki": "https://wikiwiki.jp/nijisanji/%E3%82%A4%E3%83%96%E3%83%A9%E3%83%92%E3%83%A0"
+      },
+      "fanName": {
+        "value": "下水",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/ibrahim",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
       "id": "TMP_ichigo_ushimi",
       "status": "active",
       "name": "宇志海いちご",
-      "reading": null,
-      "englishName": null,
+      "reading": "うしみいちご",
+      "englishName": "Ushimi Ichigo",
       "affiliation": "にじさんじ",
       "group": null,
       "branch": "JP",
@@ -12135,6 +12675,18 @@
         "x": "https://twitter.com/ushimi_ichigo",
         "store": "https://shop.nijisanji.jp/1015",
         "wiki": "https://wikiwiki.jp/nijisanji/%E5%AE%87%E5%BF%97%E6%B5%B7%E3%81%84%E3%81%A1%E3%81%94"
+      },
+      "fanName": {
+        "value": "うみとも",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/ichigo-ushimi",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -12922,6 +13474,18 @@
         "store": "https://shop.nijisanji.jp/1143",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=SaikiIttetsu",
         "wiki": "https://wikiwiki.jp/nijisanji/%E4%BD%90%E4%BC%AF%E3%82%A4%E3%83%83%E3%83%86%E3%83%84"
+      },
+      "fanName": {
+        "value": "仲磨",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/ittetsu-saiki",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -13184,14 +13748,26 @@
         "store": "https://shop.nijisanji.jp/1051",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=JoeRikiichi",
         "wiki": "https://wikiwiki.jp/nijisanji/%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%BB%E5%8A%9B%E4%B8%80"
+      },
+      "fanName": {
+        "value": "ジョー児",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/joe-rikiichi",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
       "id": "TMP_kaede_higuchi",
       "status": "active",
       "name": "樋口楓",
-      "reading": null,
-      "englishName": null,
+      "reading": "ひぐちかえで",
+      "englishName": "Higuchi Kaede",
       "affiliation": "にじさんじ",
       "group": null,
       "branch": "JP",
@@ -13304,6 +13880,18 @@
         "store": "https://shop.nijisanji.jp/1001",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=HiguchiKaede",
         "wiki": "https://wikiwiki.jp/nijisanji/%E6%A8%8B%E5%8F%A3%E6%A5%93"
+      },
+      "fanName": {
+        "value": "楓組",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/kaede-higuchi",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -13419,6 +14007,18 @@
         "x": "https://x.com/KaelixDebonair",
         "store": "https://shop.nijisanji.jp/4046",
         "wiki": "https://wikiwiki.jp/nijisanji/Kaelix%20Debonair"
+      },
+      "fanName": {
+        "value": "Debonheir",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/kaelix-debonair",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -13810,6 +14410,18 @@
         "store": "https://shop.nijisanji.jp/1146",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=MurakumoKagetsu",
         "wiki": "https://wikiwiki.jp/nijisanji/%E5%8F%A2%E9%9B%B2%E3%82%AB%E3%82%B2%E3%83%84"
+      },
+      "fanName": {
+        "value": "叢人",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/kagetsu-murakumo",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -14099,14 +14711,26 @@
         "store": "https://shop.nijisanji.jp/1156",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=Kaisei",
         "wiki": "https://wikiwiki.jp/nijisanji/%E9%AD%81%E6%98%9F"
+      },
+      "fanName": {
+        "value": "錠連",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/kaisei",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
       "id": "TMP_kakeru_yumeoi",
       "status": "active",
       "name": "夢追翔",
-      "reading": null,
-      "englishName": null,
+      "reading": "ゆめおいかける",
+      "englishName": "Yumeoi Kakeru",
       "affiliation": "にじさんじ",
       "group": null,
       "branch": "JP",
@@ -14218,6 +14842,18 @@
         "store": "https://shop.nijisanji.jp/1058",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=YumeoiKakeru",
         "wiki": "https://wikiwiki.jp/nijisanji/%E5%A4%A2%E8%BF%BD%E7%BF%94"
+      },
+      "fanName": {
+        "value": "追っ翔",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/kakeru-yumeoi",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -14575,6 +15211,18 @@
         "fanclub": "https://www.nijisanji.jp/fanclubs/sukoya-kana",
         "store": "https://shop.nijisanji.jp/1092",
         "wiki": "https://wikiwiki.jp/nijisanji/%E5%81%A5%E5%B1%8B%E8%8A%B1%E9%82%A3"
+      },
+      "fanName": {
+        "value": "すこや患者",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/kana-sukoya",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -14694,6 +15342,18 @@
         "store": "https://shop.nijisanji.jp/1019",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=Kanae",
         "wiki": "https://wikiwiki.jp/nijisanji/%E5%8F%B6"
+      },
+      "fanName": {
+        "value": "叶え隊",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/kanae",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -15103,6 +15763,18 @@
         "store": "https://shop.nijisanji.jp/1128",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=FuraKanato",
         "wiki": "https://wikiwiki.jp/nijisanji/%E9%A2%A8%E6%A5%BD%E5%A5%8F%E6%96%97"
+      },
+      "fanName": {
+        "value": "Diner",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/kanato-fura",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -15399,14 +16071,26 @@
         "store": "https://shop.nijisanji.jp/1098",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=YamagamiKaruta",
         "wiki": "https://wikiwiki.jp/nijisanji/%E5%B1%B1%E7%A5%9E%E3%82%AB%E3%83%AB%E3%82%BF"
+      },
+      "fanName": {
+        "value": "かるたっこ",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/karuta-yamagami",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
       "id": "TMP_kazaki_morinaka",
       "status": "active",
       "name": "森中花咲",
-      "reading": null,
-      "englishName": null,
+      "reading": "もりなかかざき",
+      "englishName": "Morinaka Kazaki",
       "affiliation": "にじさんじ",
       "group": null,
       "branch": "JP",
@@ -15517,6 +16201,18 @@
         "store": "https://shop.nijisanji.jp/1017",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=MorinakaKazaki",
         "wiki": "https://wikiwiki.jp/nijisanji/%E6%A3%AE%E4%B8%AD%E8%8A%B1%E5%92%B2"
+      },
+      "fanName": {
+        "value": "くまさんず",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/kazaki-morinaka",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -15876,14 +16572,26 @@
         "store": "https://shop.nijisanji.jp/1113",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=NagaoKei",
         "wiki": "https://wikiwiki.jp/nijisanji/%E9%95%B7%E5%B0%BE%E6%99%AF"
+      },
+      "fanName": {
+        "value": "16KBG",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/kei-nagao",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
       "id": "TMP_keisuke_maimoto",
       "status": "active",
       "name": "舞元啓介",
-      "reading": null,
-      "englishName": null,
+      "reading": "まいもとけいすけ",
+      "englishName": "Maimoto Keisuke",
       "affiliation": "にじさんじ",
       "group": null,
       "branch": "JP",
@@ -15994,6 +16702,18 @@
         "store": "https://shop.nijisanji.jp/1048",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=MaimotoKeisuke",
         "wiki": "https://wikiwiki.jp/nijisanji/%E8%88%9E%E5%85%83%E5%95%93%E4%BB%8B"
+      },
+      "fanName": {
+        "value": "加齢衆",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/keisuke-maimoto",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -16312,6 +17032,18 @@
         "x": "https://twitter.com/kirame_2434",
         "store": "https://shop.nijisanji.jp/1114",
         "wiki": "https://wikiwiki.jp/nijisanji/%E7%A9%BA%E6%98%9F%E3%81%8D%E3%82%89%E3%82%81"
+      },
+      "fanName": {
+        "value": "きらめいと",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/kirame-sorahoshi",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -16639,14 +17371,26 @@
         "store": "https://shop.nijisanji.jp/1159",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=Kisara",
         "wiki": "https://wikiwiki.jp/nijisanji/%E7%B6%BA%E6%B2%99%E8%89%AF"
+      },
+      "fanName": {
+        "value": "きさらぶ",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/kisara",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
       "id": "TMP_kizuku_yashiro",
       "status": "active",
       "name": "社築",
-      "reading": null,
-      "englishName": null,
+      "reading": "やしろきずく",
+      "englishName": "Yashiro Kizuku",
       "affiliation": "にじさんじ",
       "group": null,
       "branch": "JP",
@@ -16757,6 +17501,18 @@
         "store": "https://shop.nijisanji.jp/1030",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=YashiroKizuku",
         "wiki": "https://wikiwiki.jp/nijisanji/%E7%A4%BE%E7%AF%89"
+      },
+      "fanName": {
+        "value": "飲み友",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/kizuku-yashiro",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -16872,6 +17628,18 @@
         "x": "https://x.com/KlaraCharmwood",
         "store": "https://shop.nijisanji.jp/4042",
         "wiki": "https://wikiwiki.jp/nijisanji/Klara%20Charmwood"
+      },
+      "fanName": {
+        "value": "Kouchamas",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/klara-charmwood",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -17193,14 +17961,26 @@
         "store": "https://shop.nijisanji.jp/1116",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=TodoKohaku",
         "wiki": "https://wikiwiki.jp/nijisanji/%E6%9D%B1%E5%A0%82%E3%82%B3%E3%83%8F%E3%82%AF"
+      },
+      "fanName": {
+        "value": "コハク党",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/kohaku-todo",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
       "id": "TMP_kokoro_amamiya",
       "status": "active",
       "name": "天宮こころ",
-      "reading": null,
-      "englishName": null,
+      "reading": "あまみやこころ",
+      "englishName": "Amamiya Kokoro",
       "affiliation": "にじさんじ",
       "group": null,
       "branch": "JP",
@@ -17311,6 +18091,18 @@
         "fanclub": "https://www.nijisanji.jp/fanclubs/amamiya-kokoro",
         "store": "https://shop.nijisanji.jp/1091",
         "wiki": "https://wikiwiki.jp/nijisanji/%E5%A4%A9%E5%AE%AE%E3%81%93%E3%81%93%E3%82%8D"
+      },
+      "fanName": {
+        "value": "MYAOZ",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/kokoro-amamiya",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -17794,6 +18586,18 @@
         "store": "https://shop.nijisanji.jp/1026",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=UzukiKou",
         "wiki": "https://wikiwiki.jp/nijisanji/%E5%8D%AF%E6%9C%88%E3%82%B3%E3%82%A6"
+      },
+      "fanName": {
+        "value": "卯月軍団",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/kou-uzuki",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -17913,6 +18717,18 @@
         "store": "https://shop.nijisanji.jp/1042",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=Kuzuha",
         "wiki": "https://wikiwiki.jp/nijisanji/%E8%91%9B%E8%91%89"
+      },
+      "fanName": {
+        "value": "ラグファミ",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/kuzuha",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -18173,6 +18989,18 @@
         "store": "https://shop.nijisanji.jp/1033",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=TodorokiKyoko",
         "wiki": "https://wikiwiki.jp/nijisanji/%E8%BD%9F%E4%BA%AC%E5%AD%90"
+      },
+      "fanName": {
+        "value": "ろきぺ",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/kyoko-todoroki",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -18588,6 +19416,18 @@
         "store": "https://shop.nijisanji.jp/1123",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=LainPaterson",
         "wiki": "https://wikiwiki.jp/nijisanji/%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%BB%E3%83%91%E3%82%BF%E3%83%BC%E3%82%BD%E3%83%B3"
+      },
+      "fanName": {
+        "value": "依頼者",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/lain-paterson",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -18995,6 +19835,18 @@
         "store": "https://shop.nijisanji.jp/1119",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=LaurenIroas",
         "wiki": "https://wikiwiki.jp/nijisanji/%E3%83%AD%E3%83%BC%E3%83%AC%E3%83%B3%E3%83%BB%E3%82%A4%E3%83%AD%E3%82%A2%E3%82%B9"
+      },
+      "fanName": {
+        "value": "WANTED",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/lauren-iroas",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -19270,6 +20122,18 @@
         "x": "https://twitter.com/LaylaAlstro2434",
         "store": "https://shop.nijisanji.jp/2010",
         "wiki": "https://wikiwiki.jp/nijisanji/Layla%20Alstroemeria"
+      },
+      "fanName": {
+        "value": "TeamBaksomeria",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/layla-alstroemeria",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -19546,6 +20410,18 @@
         "x": "https://twitter.com/RohaLee2434",
         "store": "https://shop.nijisanji.jp/3006",
         "wiki": "https://wikiwiki.jp/nijisanji/%E3%82%A4%E3%83%BB%E3%83%AD%E3%83%8F"
+      },
+      "fanName": {
+        "value": "プロハ",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/lee-roha",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -19902,6 +20778,18 @@
         "x": "https://twitter.com/Leos_Vincent",
         "store": "https://shop.nijisanji.jp/1122",
         "wiki": "https://wikiwiki.jp/nijisanji/%E3%83%AC%E3%82%AA%E3%82%B9%E3%83%BB%E3%83%B4%E3%82%A3%E3%83%B3%E3%82%BB%E3%83%B3%E3%83%88"
+      },
+      "fanName": {
+        "value": "被験者/まめねこファンクラブ",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/leos-vincent",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -20163,14 +21051,26 @@
         "store": "https://shop.nijisanji.jp/1078",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=LeviElipha",
         "wiki": "https://wikiwiki.jp/nijisanji/%E3%83%AC%E3%83%B4%E3%82%A3%E3%83%BB%E3%82%A8%E3%83%AA%E3%83%95%E3%82%A1"
+      },
+      "fanName": {
+        "value": "エリファミリー",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/levi-elipha",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
       "id": "TMP_lize_helesta",
       "status": "active",
       "name": "リゼ・ヘルエスタ",
-      "reading": null,
-      "englishName": null,
+      "reading": "りぜ へるえすた",
+      "englishName": "Lize Helesta",
       "affiliation": "にじさんじ",
       "group": null,
       "branch": "JP",
@@ -20281,6 +21181,18 @@
         "store": "https://shop.nijisanji.jp/1074",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=LizeHelesta",
         "wiki": "https://wikiwiki.jp/nijisanji/%E3%83%AA%E3%82%BC%E3%83%BB%E3%83%98%E3%83%AB%E3%82%A8%E3%82%B9%E3%82%BF"
+      },
+      "fanName": {
+        "value": "ヘルエスタ王国民",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/lize-helesta",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -20395,6 +21307,18 @@
         "store": "https://shop.nijisanji.jp/4012",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=LucaKaneshiro",
         "wiki": "https://wikiwiki.jp/nijisanji/Luca%20Kaneshiro"
+      },
+      "fanName": {
+        "value": "Lucubs",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/luca-kaneshiro",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -20656,6 +21580,18 @@
         "store": "https://shop.nijisanji.jp/1101",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=LuisCammy",
         "wiki": "https://wikiwiki.jp/nijisanji/%E3%83%AB%E3%82%A4%E3%82%B9%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%9F%E3%83%BC"
+      },
+      "fanName": {
+        "value": "怪盗団",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/luis-cammy",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -21235,6 +22171,18 @@
         "store": "https://shop.nijisanji.jp/1162",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=Lunlun",
         "wiki": "https://wikiwiki.jp/nijisanji/%E3%83%AB%E3%83%B3%E3%83%AB%E3%83%B3"
+      },
+      "fanName": {
+        "value": "おちょまだち",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/lunlun",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -21716,6 +22664,18 @@
         "x": "https://twitter.com/mahiroyukishiro",
         "store": "https://shop.nijisanji.jp/1077",
         "wiki": "https://wikiwiki.jp/nijisanji/%E9%9B%AA%E5%9F%8E%E7%9C%9E%E5%B0%8B"
+      },
+      "fanName": {
+        "value": "まひとも",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/mahiro-yukishiro",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -21978,6 +22938,18 @@
         "store": "https://shop.nijisanji.jp/1040",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=MakainoRirimu",
         "wiki": "https://wikiwiki.jp/nijisanji/%E9%AD%94%E7%95%8C%E3%83%8E%E3%82%8A%E3%82%8A%E3%82%80"
+      },
+      "fanName": {
+        "value": "陰キャバス",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/makaino-ririmu",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -22240,6 +23212,18 @@
         "store": "https://shop.nijisanji.jp/1144",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=HibachiMana",
         "wiki": "https://wikiwiki.jp/nijisanji/%E7%B7%8B%E5%85%AB%E3%83%9E%E3%83%8A"
+      },
+      "fanName": {
+        "value": "マナ弟子",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/mana-hibachi",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -22542,6 +23526,18 @@
         "fanclub": "https://www.nijisanji.jp/fanclubs/aizono-manami",
         "store": "https://shop.nijisanji.jp/1073",
         "wiki": "https://wikiwiki.jp/nijisanji/%E6%84%9B%E5%9C%92%E6%84%9B%E7%BE%8E"
+      },
+      "fanName": {
+        "value": "愛民（まなみん）",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/manami-aizono",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -22801,6 +23797,18 @@
         "x": "https://twitter.com/matsukai_mao",
         "store": "https://shop.nijisanji.jp/1097",
         "wiki": "https://wikiwiki.jp/nijisanji/%E9%AD%94%E4%BD%BF%E3%83%9E%E3%82%AA"
+      },
+      "fanName": {
+        "value": "マオの飼育係",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/mao-matsukai",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -22915,6 +23923,18 @@
         "store": "https://shop.nijisanji.jp/4022",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=MariaMarionette",
         "wiki": "https://wikiwiki.jp/nijisanji/Maria%20Marionette"
+      },
+      "fanName": {
+        "value": "Marippets",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/maria-marionette",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -23276,6 +24296,18 @@
         "fanclub": "https://www.nijisanji.jp/fanclubs/marin-hayama",
         "store": "https://shop.nijisanji.jp/1083",
         "wiki": "https://wikiwiki.jp/nijisanji/%E8%91%89%E5%B1%B1%E8%88%9E%E9%88%B4"
+      },
+      "fanName": {
+        "value": "超町民",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/marin-hayama",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -23600,6 +24632,18 @@
         "x": "https://twitter.com/darkness_eater",
         "store": "https://shop.nijisanji.jp/1021",
         "wiki": "https://wikiwiki.jp/nijisanji/%E9%88%B4%E6%9C%A8%E5%8B%9D"
+      },
+      "fanName": {
+        "value": "盟友",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/masaru-suzuki",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -23716,6 +24760,18 @@
         "store": "https://shop.nijisanji.jp/4030",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=MelocoKyoran",
         "wiki": "https://wikiwiki.jp/nijisanji/Meloco%20Kyoran"
+      },
+      "fanName": {
+        "value": "Meloves",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/meloco-kyoran",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -23978,6 +25034,18 @@
         "store": "https://shop.nijisanji.jp/1102",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=MashiroMeme",
         "wiki": "https://wikiwiki.jp/nijisanji/%E3%81%BE%E3%81%97%E3%82%8D"
+      },
+      "fanName": {
+        "value": "無し",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/meme-mashiro",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -24240,6 +25308,18 @@
         "store": "https://shop.nijisanji.jp/1135",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=KuramochiMeruto",
         "wiki": "https://wikiwiki.jp/nijisanji/%E5%80%89%E6%8C%81%E3%82%81%E3%82%8B%E3%81%A8"
+      },
+      "fanName": {
+        "value": "めるねいと",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/meruto-kuramochi",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -24724,6 +25804,18 @@
         "store": "https://shop.nijisanji.jp/1050",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=RindouMikoto",
         "wiki": "https://wikiwiki.jp/nijisanji/%E7%AB%9C%E8%83%86%E5%B0%8A"
+      },
+      "fanName": {
+        "value": "鬼の子",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/mikoto-rindou",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -25299,6 +26391,18 @@
         "store": "https://shop.nijisanji.jp/1148",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=MilanKestrel",
         "wiki": "https://wikiwiki.jp/nijisanji/%E3%83%9F%E3%83%A9%E3%83%B3%E3%83%BB%E3%82%B1%E3%82%B9%E3%83%88%E3%83%AC%E3%83%AB"
+      },
+      "fanName": {
+        "value": "クラン・ケストレル",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/milan-kestrel",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -25412,6 +26516,18 @@
         "x": "https://twitter.com/MillieParfait",
         "store": "https://shop.nijisanji.jp/4007",
         "wiki": "https://wikiwiki.jp/nijisanji/Millie%20Parfait"
+      },
+      "fanName": {
+        "value": "FaMillie",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/millie-parfait",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -25722,14 +26838,26 @@
         "store": "https://shop.nijisanji.jp/3002",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=MinSuha",
         "wiki": "https://wikiwiki.jp/nijisanji/%E3%83%9F%E3%83%B3%E3%83%BB%E3%82%B9%E3%82%A5%E3%83%BC%E3%83%8F"
+      },
+      "fanName": {
+        "value": "Suhaqua",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/min-suha",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
       "id": "TMP_minato_fuwa",
       "status": "active",
       "name": "不破湊",
-      "reading": null,
-      "englishName": null,
+      "reading": "ふわみなと",
+      "englishName": "Fuwa Minato",
       "affiliation": "にじさんじ",
       "group": null,
       "branch": "JP",
@@ -25841,6 +26969,18 @@
         "store": "https://shop.nijisanji.jp/1099",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=FuwaMinato",
         "wiki": "https://wikiwiki.jp/nijisanji/%E4%B8%8D%E7%A0%B4%E6%B9%8A"
+      },
+      "fanName": {
+        "value": "不破狂",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/minato-fuwa",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -25960,14 +27100,26 @@
         "store": "https://shop.nijisanji.jp/1002",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=TsukinoMito",
         "wiki": "https://wikiwiki.jp/nijisanji/%E6%9C%88%E3%83%8E%E7%BE%8E%E5%85%8E"
+      },
+      "fanName": {
+        "value": "無し",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/mito-tsukino",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
       "id": "TMP_moira",
       "status": "active",
       "name": "モイラ",
-      "reading": null,
-      "englishName": null,
+      "reading": "もいら",
+      "englishName": "Moira",
       "affiliation": "にじさんじ",
       "group": null,
       "branch": "JP",
@@ -26078,6 +27230,18 @@
         "fanclub": "https://www.nijisanji.jp/fanclubs/moira",
         "store": "https://shop.nijisanji.jp/1006",
         "wiki": "https://wikiwiki.jp/nijisanji/%E3%83%A2%E3%82%A4%E3%83%A9"
+      },
+      "fanName": {
+        "value": "こいぬ",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/moira",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -26340,14 +27504,26 @@
         "store": "https://shop.nijisanji.jp/1160",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=KozueMone",
         "wiki": "https://wikiwiki.jp/nijisanji/%E6%A2%A2%E6%A1%83%E9%9F%B3"
+      },
+      "fanName": {
+        "value": "もねゴン",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/mone-kozue",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
       "id": "TMP_mugi_ienaga",
       "status": "active",
       "name": "家長むぎ",
-      "reading": null,
-      "englishName": null,
+      "reading": "いえながむぎ",
+      "englishName": "Ienaga Mugi",
       "affiliation": "にじさんじ",
       "group": null,
       "branch": "JP",
@@ -26459,6 +27635,18 @@
         "store": "https://shop.nijisanji.jp/1011",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=IenagaMugi",
         "wiki": "https://wikiwiki.jp/nijisanji/%E5%AE%B6%E9%95%B7%E3%82%80%E3%81%8E"
+      },
+      "fanName": {
+        "value": "むぎのともだち",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/mugi-ienaga",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -26753,6 +27941,18 @@
         "x": "https://twitter.com/Muyu_Amagase",
         "store": "https://shop.nijisanji.jp/1124",
         "wiki": "https://wikiwiki.jp/nijisanji/%E5%A4%A9%E3%83%B6%E7%80%AC%E3%82%80%E3%82%86"
+      },
+      "fanName": {
+        "value": "ふぁむゆ",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/muyu-amagase",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -27062,6 +28262,18 @@
         "x": "https://twitter.com/NaSera2434",
         "store": "https://shop.nijisanji.jp/3012",
         "wiki": "https://wikiwiki.jp/nijisanji/%E3%83%8A%E3%83%BB%E3%82%BB%E3%83%A9"
+      },
+      "fanName": {
+        "value": "ケセラ",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/na-sera",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -27337,6 +28549,18 @@
         "x": "https://twitter.com/NagisaArcinia",
         "store": "https://shop.nijisanji.jp/2016",
         "wiki": "https://wikiwiki.jp/nijisanji/Nagisa%20Arcinia"
+      },
+      "fanName": {
+        "value": "MASTEAM",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/nagisa-arcinia",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -27625,6 +28849,18 @@
         "store": "https://shop.nijisanji.jp/1161",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=TamanoiNana",
         "wiki": "https://wikiwiki.jp/nijisanji/%E7%8F%A0%E4%B9%83%E4%BA%95%E3%83%8A%E3%83%8A"
+      },
+      "fanName": {
+        "value": "ななかま",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/nana-tamanoi",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -28017,6 +29253,18 @@
         "store": "https://shop.nijisanji.jp/1107",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=KurusuNatsume",
         "wiki": "https://wikiwiki.jp/nijisanji/%E6%9D%A5%E6%A0%96%E5%A4%8F%E8%8A%BD"
+      },
+      "fanName": {
+        "value": "なつめいと",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/natsume-kurusu",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -28344,6 +29592,18 @@
         "store": "https://shop.nijisanji.jp/1126",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=PontoNei",
         "wiki": "https://wikiwiki.jp/nijisanji/%E5%85%88%E6%96%97%E5%AF%A7"
+      },
+      "fanName": {
+        "value": "ぽんめいと",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/nei-ponto",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -28606,6 +29866,18 @@
         "store": "https://shop.nijisanji.jp/1157",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=SakakiNess",
         "wiki": "https://wikiwiki.jp/nijisanji/%E6%A6%8A%E3%83%8D%E3%82%B9"
+      },
+      "fanName": {
+        "value": "ネッシー",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/ness-sakaki",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -29122,6 +30394,18 @@
         "store": "https://shop.nijisanji.jp/1133",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=IshigamiNozomi",
         "wiki": "https://wikiwiki.jp/nijisanji/%E7%9F%B3%E7%A5%9E%E3%81%AE%E3%81%9E%E3%81%BF"
+      },
+      "fanName": {
+        "value": "神者",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/nozomi-ishigami",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -29384,6 +30668,18 @@
         "fanclub": "https://www.nijisanji.jp/fanclubs/nui-sociere",
         "store": "https://shop.nijisanji.jp/1084",
         "wiki": "https://wikiwiki.jp/nijisanji/%E3%83%8B%E3%83%A5%E3%82%A4%E3%83%BB%E3%82%BD%E3%82%B7%E3%82%A8%E3%83%BC%E3%83%AB"
+      },
+      "fanName": {
+        "value": "魔女の大釜",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/nui-sociere",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -29660,6 +30956,18 @@
         "x": "https://twitter.com/JiyuOh2434",
         "store": "https://shop.nijisanji.jp/3009",
         "wiki": "https://wikiwiki.jp/nijisanji/%E3%82%AA%E3%83%BB%E3%82%B8%E3%83%A6"
+      },
+      "fanName": {
+        "value": "子猫鳥",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/oh-jiyu",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -30017,6 +31325,18 @@
         "store": "https://shop.nijisanji.jp/1121",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=OliverEvans",
         "wiki": "https://wikiwiki.jp/nijisanji/%E3%82%AA%E3%83%AA%E3%83%90%E3%83%BC%E3%83%BB%E3%82%A8%E3%83%90%E3%83%B3%E3%82%B9"
+      },
+      "fanName": {
+        "value": "ゼミ生",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/oliver-evans",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -30353,6 +31673,18 @@
         "store": "https://shop.nijisanji.jp/4006",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=PetraGurin",
         "wiki": "https://wikiwiki.jp/nijisanji/Petra%20Gurin"
+      },
+      "fanName": {
+        "value": "Pentomo",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/petra-gurin",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -31070,6 +32402,18 @@
         "x": "https://twitter.com/Rai_Galilei",
         "store": "https://shop.nijisanji.jp/2004",
         "wiki": "https://wikiwiki.jp/nijisanji/Rai%20Galilei"
+      },
+      "fanName": {
+        "value": "Inmates",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/rai-galilei",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -31332,6 +32676,18 @@
         "store": "https://shop.nijisanji.jp/1140",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=InamiRai",
         "wiki": "https://wikiwiki.jp/nijisanji/%E4%BC%8A%E6%B3%A2%E3%83%A9%E3%82%A4"
+      },
+      "fanName": {
+        "value": "無し",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/rai-inami",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -31594,6 +32950,18 @@
         "store": "https://shop.nijisanji.jp/1086",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=RatnaPetit",
         "wiki": "https://wikiwiki.jp/nijisanji/%E3%83%A9%E3%83%88%E3%83%8A%E3%83%BB%E3%83%97%E3%83%86%E3%82%A3"
+      },
+      "fanName": {
+        "value": "ぷりすなー",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/ratna-petit",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -32199,6 +33567,18 @@
         "x": "https://twitter.com/RenZott0",
         "store": "https://shop.nijisanji.jp/4025",
         "wiki": "https://wikiwiki.jp/nijisanji/Ren%20Zotto"
+      },
+      "fanName": {
+        "value": "Renvaderz",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/ren-zotto",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -32558,6 +33938,18 @@
         "fanclub": "https://www.nijisanji.jp/fanclubs/yorumi-rena",
         "store": "https://shop.nijisanji.jp/1089",
         "wiki": "https://wikiwiki.jp/nijisanji/%E5%A4%9C%E8%A6%8B%E3%82%8C%E3%81%AA"
+      },
+      "fanName": {
+        "value": "鳩(・θ・)",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/rena-yorumi",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -33042,6 +34434,18 @@
         "store": "https://shop.nijisanji.jp/1132",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=IgarashiRika",
         "wiki": "https://wikiwiki.jp/nijisanji/%E4%BA%94%E5%8D%81%E5%B5%90%E6%A2%A8%E8%8A%B1"
+      },
+      "fanName": {
+        "value": "監督くん・監督ちゃん",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/rika-igarashi",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -33304,14 +34708,26 @@
         "store": "https://shop.nijisanji.jp/1158",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=ShigaRiko",
         "wiki": "https://wikiwiki.jp/nijisanji/%E5%8F%B8%E8%B3%80%E3%82%8A%E3%81%93"
+      },
+      "fanName": {
+        "value": "りこりすと",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/riko-shiga",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
       "id": "TMP_rin_shizuka",
       "status": "active",
       "name": "静凛",
-      "reading": null,
-      "englishName": null,
+      "reading": "しずかりん",
+      "englishName": "Shizuka Rin",
       "affiliation": "にじさんじ",
       "group": null,
       "branch": "JP",
@@ -33422,6 +34838,18 @@
         "store": "https://shop.nijisanji.jp/1004",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=ShizukaRin",
         "wiki": "https://wikiwiki.jp/nijisanji/%E9%9D%99%E5%87%9B"
+      },
+      "fanName": {
+        "value": "凛fam",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/rin-shizuka",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -33709,6 +35137,18 @@
         "x": "https://twitter.com/rine_yaguruma",
         "store": "https://shop.nijisanji.jp/1057",
         "wiki": "https://wikiwiki.jp/nijisanji/%E7%9F%A2%E8%BB%8A%E3%82%8A%E3%81%AD"
+      },
+      "fanName": {
+        "value": "無し",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/rine-yaguruma",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -34023,14 +35463,26 @@
         "store": "https://shop.nijisanji.jp/1043",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=TakamiyaRion",
         "wiki": "https://wikiwiki.jp/nijisanji/%E9%B7%B9%E5%AE%AE%E3%83%AA%E3%82%AA%E3%83%B3"
+      },
+      "fanName": {
+        "value": "ファンボ・ファンガ",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/rion-takamiya",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
       "id": "TMP_riri_yuhi",
       "status": "active",
       "name": "夕陽リリ",
-      "reading": null,
-      "englishName": null,
+      "reading": "ゆうひりり",
+      "englishName": "Yuhi Riri",
       "affiliation": "にじさんじ",
       "group": null,
       "branch": "JP",
@@ -34141,6 +35593,18 @@
         "store": "https://shop.nijisanji.jp/1012",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=YuhiRiri",
         "wiki": "https://wikiwiki.jp/nijisanji/%E5%A4%95%E9%99%BD%E3%83%AA%E3%83%AA"
+      },
+      "fanName": {
+        "value": "無し",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/riri-yuhi",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -34403,6 +35867,18 @@
         "store": "https://shop.nijisanji.jp/1141",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=UsamiRito",
         "wiki": "https://wikiwiki.jp/nijisanji/%E5%AE%87%E4%BD%90%E7%BE%8E%E3%83%AA%E3%83%88"
+      },
+      "fanName": {
+        "value": "無し",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/rito-usami",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -34665,6 +36141,18 @@
         "store": "https://shop.nijisanji.jp/1054",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=SakuraRitsuki",
         "wiki": "https://wikiwiki.jp/nijisanji/%E6%A1%9C%E5%87%9B%E6%9C%88"
+      },
+      "fanName": {
+        "value": "桜ンボ",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/ritsuki-sakura",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -34975,6 +36463,18 @@
         "fanclub": "https://www.nijisanji.jp/fanclubs/roa-yuzuki",
         "store": "https://shop.nijisanji.jp/1062",
         "wiki": "https://wikiwiki.jp/nijisanji/%E5%A4%A2%E6%9C%88%E3%83%AD%E3%82%A2"
+      },
+      "fanName": {
+        "value": "リリン",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/roa-yuzuki",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -35238,6 +36738,18 @@
         "store": "https://shop.nijisanji.jp/1134",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=KaburakiRoco",
         "wiki": "https://wikiwiki.jp/nijisanji/%E9%8F%91%E6%9C%A8%E3%82%8D%E3%81%93"
+      },
+      "fanName": {
+        "value": "アミューズメイト",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/roco-kaburaki",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -35500,6 +37012,18 @@
         "store": "https://shop.nijisanji.jp/1142",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=KoyanagiRou",
         "wiki": "https://wikiwiki.jp/nijisanji/%E5%B0%8F%E6%9F%B3%E3%83%AD%E3%82%A6"
+      },
+      "fanName": {
+        "value": "ロウルフ",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/rou-koyanagi",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -35837,6 +37361,18 @@
         "x": "https://x.com/RyomaBarrenwort",
         "store": "https://shop.nijisanji.jp/4040",
         "wiki": "https://wikiwiki.jp/nijisanji/Ryoma%20Barrenwort"
+      },
+      "fanName": {
+        "value": "Ryonins",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/ryoma-barrenwort",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -36113,6 +37649,18 @@
         "x": "https://twitter.com/HariRyu2434",
         "store": "https://shop.nijisanji.jp/3008",
         "wiki": "https://wikiwiki.jp/nijisanji/%E3%83%AA%E3%83%A5%E3%83%BB%E3%83%8F%E3%83%AA"
+      },
+      "fanName": {
+        "value": "Rimong",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/ryu-hari",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -36644,6 +38192,18 @@
         "store": "https://shop.nijisanji.jp/1031",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=Ryushen",
         "wiki": "https://wikiwiki.jp/nijisanji/%E7%B7%91%E4%BB%99"
+      },
+      "fanName": {
+        "value": "無し",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/ryushen",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -36906,6 +38466,18 @@
         "store": "https://shop.nijisanji.jp/1038",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=SasakiSaku",
         "wiki": "https://wikiwiki.jp/nijisanji/%E7%AC%B9%E6%9C%A8%E5%92%B2"
+      },
+      "fanName": {
+        "value": "笹キッズ",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/saku-sasaki",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -37219,6 +38791,18 @@
         "store": "https://shop.nijisanji.jp/1168",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=ItsukiSakyo",
         "wiki": "https://wikiwiki.jp/nijisanji/%E4%BA%94%E6%9C%A8%E5%B7%A6%E4%BA%AC"
+      },
+      "fanName": {
+        "value": "うさ部員",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/sakyo-itsuki",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -37507,6 +39091,18 @@
         "store": "https://shop.nijisanji.jp/1127",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=HyakumantenbaraSalome",
         "wiki": "https://wikiwiki.jp/nijisanji/%E5%A3%B1%E7%99%BE%E6%BA%80%E5%A4%A9%E5%8E%9F%E3%82%B5%E3%83%AD%E3%83%A1"
+      },
+      "fanName": {
+        "value": "サロメイト",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/salome-hyakumantenbara",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -37769,14 +39365,26 @@
         "store": "https://shop.nijisanji.jp/1117",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=SuoSango",
         "wiki": "https://wikiwiki.jp/nijisanji/%E5%91%A8%E5%A4%AE%E3%82%B5%E3%83%B3%E3%82%B4"
+      },
+      "fanName": {
+        "value": "ふぁんご",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/sango-suo",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
       "id": "TMP_sara_hoshikawa",
       "status": "active",
       "name": "星川サラ",
-      "reading": null,
-      "englishName": null,
+      "reading": "ほしかわさら",
+      "englishName": "Hoshikawa Sara",
       "affiliation": "にじさんじ",
       "group": null,
       "branch": "JP",
@@ -37888,6 +39496,18 @@
         "store": "https://shop.nijisanji.jp/1081",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=HoshikawaSara",
         "wiki": "https://wikiwiki.jp/nijisanji/%E6%98%9F%E5%B7%9D%E3%82%B5%E3%83%A9"
+      },
+      "fanName": {
+        "value": "星くず",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/sara-hoshikawa",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -38149,6 +39769,18 @@
         "x": "https://twitter.com/sayo_amemori",
         "store": "https://shop.nijisanji.jp/1047",
         "wiki": "https://wikiwiki.jp/nijisanji/%E9%9B%A8%E6%A3%AE%E5%B0%8F%E5%A4%9C"
+      },
+      "fanName": {
+        "value": "無し",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/sayo-amemori",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -38263,6 +39895,18 @@
         "x": "https://twitter.com/ScarleYonaguni",
         "store": "https://shop.nijisanji.jp/4026",
         "wiki": "https://wikiwiki.jp/nijisanji/Scarle%20Yonaguni"
+      },
+      "fanName": {
+        "value": "Scarlings",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/scarle-yonaguni",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -38573,6 +40217,18 @@
         "store": "https://shop.nijisanji.jp/3010",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=Seffyna",
         "wiki": "https://wikiwiki.jp/nijisanji/%E3%82%BB%E3%83%95%E3%82%A3%E3%83%8A"
+      },
+      "fanName": {
+        "value": "セフィナイト",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/seffyna",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -38688,6 +40344,18 @@
         "x": "https://x.com/Seible_2434",
         "store": "https://shop.nijisanji.jp/4044",
         "wiki": "https://wikiwiki.jp/nijisanji/Seible"
+      },
+      "fanName": {
+        "value": "Seinyan",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/seible",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -39047,6 +40715,18 @@
         "store": "https://shop.nijisanji.jp/1131",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=SeraphDazzlegarden",
         "wiki": "https://wikiwiki.jp/nijisanji/%E3%82%BB%E3%83%A9%E3%83%95%E3%83%BB%E3%83%80%E3%82%BA%E3%83%AB%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3"
+      },
+      "fanName": {
+        "value": "セラズク",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/seraph-dazzlegarden",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -39333,6 +41013,18 @@
         "store": "https://shop.nijisanji.jp/1095",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=ShellinBurgundy",
         "wiki": "https://wikiwiki.jp/nijisanji/%E3%82%B7%E3%82%A7%E3%83%AA%E3%83%B3%E3%83%BB%E3%83%90%E3%83%BC%E3%82%AC%E3%83%B3%E3%83%87%E3%82%A3"
+      },
+      "fanName": {
+        "value": "被疑者",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/shellin-burgundy",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -39595,6 +41287,18 @@
         "store": "https://shop.nijisanji.jp/1059",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=ShibaKuroi",
         "wiki": "https://wikiwiki.jp/nijisanji/%E9%BB%92%E4%BA%95%E3%81%97%E3%81%B0"
+      },
+      "fanName": {
+        "value": "世話係",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/shiba-kuroi",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -40111,6 +41815,18 @@
         "store": "https://shop.nijisanji.jp/1145",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=HoshirubeSho",
         "wiki": "https://wikiwiki.jp/nijisanji/%E6%98%9F%E5%B0%8E%E3%82%B7%E3%83%A7%E3%82%A6"
+      },
+      "fanName": {
+        "value": "インショウ派",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/sho-hoshirube",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -40439,6 +42155,18 @@
         "store": "https://shop.nijisanji.jp/1046",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=KandaShoichi",
         "wiki": "https://wikiwiki.jp/nijisanji/%E7%A5%9E%E7%94%B0%E7%AC%91%E4%B8%80"
+      },
+      "fanName": {
+        "value": "無し",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/shoichi-kanda",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -40553,6 +42281,18 @@
         "store": "https://shop.nijisanji.jp/4014",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=ShuYamino",
         "wiki": "https://wikiwiki.jp/nijisanji/Shu%20Yamino"
+      },
+      "fanName": {
+        "value": "Yaminions",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/shu-yamino",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -40814,6 +42554,18 @@
         "store": "https://shop.nijisanji.jp/1022",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=SisterClaire",
         "wiki": "https://wikiwiki.jp/nijisanji/%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%AF%E3%83%AC%E3%82%A2"
+      },
+      "fanName": {
+        "value": "たぬさん",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/sister-claire",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -41089,6 +42841,18 @@
         "x": "https://twitter.com/NagiSo2434",
         "store": "https://shop.nijisanji.jp/3004",
         "wiki": "https://wikiwiki.jp/nijisanji/%E3%82%BD%E3%83%BB%E3%83%8A%E3%82%AE"
+      },
+      "fanName": {
+        "value": "うなぎ",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/so-nagi",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -41424,6 +43188,18 @@
         "store": "https://shop.nijisanji.jp/4017",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=SonnyBrisko",
         "wiki": "https://wikiwiki.jp/nijisanji/Sonny%20Brisko"
+      },
+      "fanName": {
+        "value": "Briskadets",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/sonny-brisko",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -41686,14 +43462,26 @@
         "store": "https://shop.nijisanji.jp/1138",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=SophiaValentine",
         "wiki": "https://wikiwiki.jp/nijisanji/%E3%82%BD%E3%83%95%E3%82%A3%E3%82%A2%E3%83%BB%E3%83%B4%E3%82%A1%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3"
+      },
+      "fanName": {
+        "value": "ソフィリング",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/sophia-valentine",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
       "id": "TMP_sou_hayase",
       "status": "active",
       "name": "早瀬走",
-      "reading": null,
-      "englishName": null,
+      "reading": "はやせそう",
+      "englishName": "Hayase Sou",
       "affiliation": "にじさんじ",
       "group": null,
       "branch": "JP",
@@ -41805,6 +43593,18 @@
         "store": "https://shop.nijisanji.jp/1085",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=HayaseSou",
         "wiki": "https://wikiwiki.jp/nijisanji/%E6%97%A9%E7%80%AC%E8%B5%B0"
+      },
+      "fanName": {
+        "value": "らんナー",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/sou-hayase",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -42068,6 +43868,18 @@
         "store": "https://shop.nijisanji.jp/1167",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=NanaseSuzuna",
         "wiki": "https://wikiwiki.jp/nijisanji/%E4%B8%83%E7%80%AC%E3%81%99%E3%81%9A%E8%8F%9C"
+      },
+      "fanName": {
+        "value": "すずふぁーむ",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/suzuna-nanase",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -42548,6 +44360,18 @@
         "x": "https://twitter.com/nekokan_chu",
         "store": "https://shop.nijisanji.jp/1016",
         "wiki": "https://wikiwiki.jp/nijisanji/%E6%96%87%E9%87%8E%E7%92%B0"
+      },
+      "fanName": {
+        "value": "乗客",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/tamaki-fumino",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -43128,14 +44952,26 @@
         "store": "https://shop.nijisanji.jp/1105",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=GenzukiTojiro",
         "wiki": "https://wikiwiki.jp/nijisanji/%E5%BC%A6%E6%9C%88%E8%97%A4%E5%A3%AB%E9%83%8E"
+      },
+      "fanName": {
+        "value": "弦住民",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/tojiro-genzuki",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
       "id": "TMP_toko_inui",
       "status": "active",
       "name": "戌亥とこ",
-      "reading": null,
-      "englishName": null,
+      "reading": "いぬいとこ",
+      "englishName": "Inui Toko",
       "affiliation": "にじさんじ",
       "group": null,
       "branch": "JP",
@@ -43246,6 +45082,18 @@
         "store": "https://shop.nijisanji.jp/1070",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=InuiToko",
         "wiki": "https://wikiwiki.jp/nijisanji/%E6%88%8C%E4%BA%A5%E3%81%A8%E3%81%93"
+      },
+      "fanName": {
+        "value": "無し",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/toko-inui",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -43688,6 +45536,18 @@
         "store": "https://shop.nijisanji.jp/1103",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=ShirayukiTomoe",
         "wiki": "https://wikiwiki.jp/nijisanji/%E7%99%BD%E9%9B%AA%E5%B7%B4"
+      },
+      "fanName": {
+        "value": "小人・駄犬",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/tomoe-shirayuki",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -44047,6 +45907,18 @@
         "store": "https://shop.nijisanji.jp/1136",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=KoshimizuToru",
         "wiki": "https://wikiwiki.jp/nijisanji/%E5%B0%8F%E6%B8%85%E6%B0%B4%E9%80%8F"
+      },
+      "fanName": {
+        "value": "ばぶめいと",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/toru-koshimizu",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -44309,14 +46181,26 @@
         "store": "https://shop.nijisanji.jp/1150",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=TachitsuteToto",
         "wiki": "https://wikiwiki.jp/nijisanji/%E7%AB%8B%E4%BC%9D%E9%83%BD%E3%80%85"
+      },
+      "fanName": {
+        "value": "たちつてともだち",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/toto-tachitsute",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
       "id": "TMP_toya_kenmochi",
       "status": "active",
       "name": "剣持刀也",
-      "reading": null,
-      "englishName": null,
+      "reading": "けんもちとうや",
+      "englishName": "Kenmochi Toya",
       "affiliation": "にじさんじ",
       "group": null,
       "branch": "JP",
@@ -44421,6 +46305,18 @@
         "store": "https://shop.nijisanji.jp/1014",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=KenmochiToya",
         "wiki": "https://wikiwiki.jp/nijisanji/%E5%89%A3%E6%8C%81%E5%88%80%E4%B9%9F"
+      },
+      "fanName": {
+        "value": "無し",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/toya-kenmochi",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -45124,6 +47020,18 @@
         "x": "https://twitter.com/KataribeTsumugu",
         "store": "https://shop.nijisanji.jp/1067",
         "wiki": "https://wikiwiki.jp/nijisanji/%E8%AA%9E%E9%83%A8%E7%B4%A1"
+      },
+      "fanName": {
+        "value": "無し",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/tsumugu-kataribe",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -45238,6 +47146,18 @@
         "store": "https://shop.nijisanji.jp/4020",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=UkiVioleta",
         "wiki": "https://wikiwiki.jp/nijisanji/Uki%20Violeta"
+      },
+      "fanName": {
+        "value": "Stargazers",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/uki-violeta",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -45354,6 +47274,18 @@
         "store": "https://shop.nijisanji.jp/4035",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=VantacrowBringer",
         "wiki": "https://wikiwiki.jp/nijisanji/Vantacrow%20Bringer"
+      },
+      "fanName": {
+        "value": "Vantacrew",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/vantacrow-bringer",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -45469,6 +47401,18 @@
         "x": "https://twitter.com/Ver_Vermillion",
         "store": "https://shop.nijisanji.jp/4031",
         "wiki": "https://wikiwiki.jp/nijisanji/Ver%20Vermillion"
+      },
+      "fanName": {
+        "value": "Villions",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/ver-vermillion",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -45585,6 +47529,18 @@
         "store": "https://shop.nijisanji.jp/4034",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=VezaliusBandage",
         "wiki": "https://wikiwiki.jp/nijisanji/Vezalius%20Bandage"
+      },
+      "fanName": {
+        "value": "VezKits",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/vezalius-bandage",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -45699,6 +47655,18 @@
         "store": "https://shop.nijisanji.jp/4015",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=VoxAkuma",
         "wiki": "https://wikiwiki.jp/nijisanji/Vox%20Akuma"
+      },
+      "fanName": {
+        "value": "Kindred",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/vox-akuma",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -45961,6 +47929,18 @@
         "store": "https://shop.nijisanji.jp/1139",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=AkagiWen",
         "wiki": "https://wikiwiki.jp/nijisanji/%E8%B5%A4%E5%9F%8E%E3%82%A6%E3%82%A7%E3%83%B3"
+      },
+      "fanName": {
+        "value": "ぎゃうちゃんズ",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/wen-akagi",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -46238,6 +48218,18 @@
         "store": "https://shop.nijisanji.jp/3007",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=YangNari",
         "wiki": "https://wikiwiki.jp/nijisanji/%E3%83%A4%E3%83%B3%E3%83%BB%E3%83%8A%E3%83%AA"
+      },
+      "fanName": {
+        "value": "オトナリ",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/yang-nari",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -46565,14 +48557,26 @@
         "store": "https://shop.nijisanji.jp/1125",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=UmiseYotsuha",
         "wiki": "https://wikiwiki.jp/nijisanji/%E6%B5%B7%E5%A6%B9%E5%9B%9B%E8%91%89"
+      },
+      "fanName": {
+        "value": "シロツメイト",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/yotsuha-umise",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
       "id": "TMP_youko_akabane",
       "status": "active",
       "name": "赤羽葉子",
-      "reading": null,
-      "englishName": null,
+      "reading": "あかばねようこ",
+      "englishName": "Akabane Youko",
       "affiliation": "にじさんじ",
       "group": null,
       "branch": "JP",
@@ -46683,6 +48687,18 @@
         "store": "https://shop.nijisanji.jp/1020",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=AkabaneYouko",
         "wiki": "https://wikiwiki.jp/nijisanji/%E8%B5%A4%E7%BE%BD%E8%91%89%E5%AD%90"
+      },
+      "fanName": {
+        "value": "しかばね",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/youko-akabane",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -46799,14 +48815,26 @@
         "store": "https://shop.nijisanji.jp/4036",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=YuQWilson",
         "wiki": "https://wikiwiki.jp/nijisanji/Yu%20Q.%20Wilson"
+      },
+      "fanName": {
+        "value": "Wilsoneer",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/yu-q-wilson",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
       "id": "TMP_yuika_shiina",
       "status": "active",
       "name": "椎名唯華",
-      "reading": null,
-      "englishName": null,
+      "reading": "しいなゆいか",
+      "englishName": "Shiina Yuika",
       "affiliation": "にじさんじ",
       "group": null,
       "branch": "JP",
@@ -46918,6 +48946,18 @@
         "store": "https://shop.nijisanji.jp/1041",
         "magazine": "https://magazine.anycolor.co.jp/articles?tag=ShiinaYuika",
         "wiki": "https://wikiwiki.jp/nijisanji/%E6%A4%8E%E5%90%8D%E5%94%AF%E8%8F%AF"
+      },
+      "fanName": {
+        "value": "ゴリスナー",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/yuika-shiina",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     },
     {
@@ -47525,6 +49565,18 @@
         "x": "https://x.com/ZealGinjoka",
         "store": "https://shop.nijisanji.jp/4045",
         "wiki": "https://wikiwiki.jp/nijisanji/Zeal%20Ginjoka"
+      },
+      "fanName": {
+        "value": "Zerpent",
+        "verification": "legacy-unreviewed",
+        "sources": [
+          {
+            "label": "にじさんじ公式プロフィール（Excel入力）",
+            "url": "https://www.nijisanji.jp/talents/l/zeal-ginjoka",
+            "kind": "official"
+          }
+        ],
+        "showSources": true
       }
     }
   ]

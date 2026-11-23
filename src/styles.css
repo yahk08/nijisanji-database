@@ -27,3 +27,17 @@
 .profile-links .outline-button { display: inline-flex; align-items: center; gap: 8px; }
 .service-icon { width: 24px; height: 24px; object-fit: contain; background: white; border-radius: 4px; padding: 2px; }
 .avatar img { width: 100%; height: 100%; object-fit: cover; border-radius: inherit; }
+.liver-cards{grid-template-columns:repeat(2,minmax(0,1fr))}
+.face-card .liver-card-media{height:auto;aspect-ratio:1}
+.face-card img{object-fit:cover;object-position:center}
+.portrait{position:relative;padding:0;background:var(--surface-alt);cursor:zoom-in}
+.portrait>.media{height:auto;min-height:100%;object-fit:cover;object-position:top}
+.portrait-hint{position:absolute;bottom:0;left:0;right:0;background:#172037d9;color:white;font-size:12px;padding:6px 2px;text-align:center}
+.color-row{display:flex;gap:16px;flex-wrap:wrap;margin:18px 0;font-size:14px}
+.color-row span{display:flex;gap:8px;align-items:center}.color-row i{width:20px;height:20px;border-radius:50%;border:1px solid var(--line)}
+.portrait-dialog{padding:16px;border:1px solid var(--line);border-radius:18px;width:min(960px,96vw);max-width:96vw;height:94dvh;max-height:94dvh;background:var(--surface);color:var(--ink);overflow:hidden}
+.portrait-dialog::backdrop{background:#080e1bcc}
+.portrait-toolbar{display:flex;gap:8px;align-items:center;flex-wrap:wrap}.portrait-toolbar strong{margin-right:auto}.portrait-toolbar button{min-height:44px;padding:8px 12px;background:var(--surface-alt);color:var(--ink);border:1px solid var(--line);border-radius:8px}.portrait-toolbar output{min-width:48px;text-align:center;font-size:14px}
+.viewer-help{font-size:14px;color:var(--muted);margin:10px 0}
+.portrait-stage{height:calc(100% - 115px);overflow:hidden;display:flex;align-items:center;justify-content:center;touch-action:none;cursor:grab;background:var(--surface-alt);border-radius:12px}
+.portrait-stage:active{cursor:grabbing}.portrait-stage img{max-width:100%;height:100%;object-fit:contain;user-select:none;pointer-events:none;transform-origin:center}

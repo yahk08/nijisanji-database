@@ -109,5 +109,17 @@
     "x": "https://twitter.com/AiaAmare",
     "store": "https://shop.nijisanji.jp/4024",
     "wiki": "https://wikiwiki.jp/nijisanji/Aia%20Amare"
+  },
+  "fanName": {
+    "value": "Aiadmirers",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/aia-amare",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

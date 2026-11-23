@@ -257,5 +257,17 @@
     "store": "https://shop.nijisanji.jp/1031",
     "magazine": "https://magazine.anycolor.co.jp/articles?tag=Ryushen",
     "wiki": "https://wikiwiki.jp/nijisanji/%E7%B7%91%E4%BB%99"
+  },
+  "fanName": {
+    "value": "無し",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/ryushen",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

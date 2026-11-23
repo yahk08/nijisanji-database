@@ -314,5 +314,17 @@
     "x": "https://twitter.com/kirame_2434",
     "store": "https://shop.nijisanji.jp/1114",
     "wiki": "https://wikiwiki.jp/nijisanji/%E7%A9%BA%E6%98%9F%E3%81%8D%E3%82%89%E3%82%81"
+  },
+  "fanName": {
+    "value": "きらめいと",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/kirame-sorahoshi",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }

@@ -109,5 +109,17 @@
     "x": "https://twitter.com/EnnaAlouette",
     "store": "https://shop.nijisanji.jp/4010",
     "wiki": "https://wikiwiki.jp/nijisanji/Enna%20Alouette"
+  },
+  "fanName": {
+    "value": "Aloupeeps",
+    "verification": "legacy-unreviewed",
+    "sources": [
+      {
+        "label": "にじさんじ公式プロフィール（Excel入力）",
+        "url": "https://www.nijisanji.jp/talents/l/enna-alouette",
+        "kind": "official"
+      }
+    ],
+    "showSources": true
   }
 }
