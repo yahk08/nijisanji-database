@@ -2,8 +2,22 @@
   "schemaVersion": 1,
   "source": "https://www.nijisanji.jp/news",
   "eventSource": "https://www.nijisanji.jp/events",
-  "checkedAt": "2026-11-24T02:04:29.787Z",
+  "checkedAt": "2026-11-24T13:27:44.641Z",
   "news": [
+    {
+      "id": "1ef50cd112355cfd",
+      "title": "にじさんじから「にじさんじ ダイカットビジュアルパネルコレクション ここに居るよ。シリーズ第3弾」グッズが登場！2026年11月25日(水)18時から販売開始！",
+      "url": "https://www.nijisanji.jp/news/5fnzoi7fdf",
+      "category": "news",
+      "publishedAt": "2026-11-24T09:00:00.000Z"
+    },
+    {
+      "id": "8c4889513df9be57",
+      "title": "【NIJISANJI EN】BY THE BEAT、3rd Digital Single『hideout』を2026年11月26日(木)に配信リリース決定！",
+      "url": "https://www.nijisanji.jp/news/1xrew4ro2ps",
+      "category": "news",
+      "publishedAt": "2026-11-24T04:00:00.000Z"
+    },
     {
       "id": "11d0c27e2e7f2b19",
       "title": "にじさんじ「甘やかし同居ボイス」2026年11月26日(木)18時より発売決定！",
@@ -75,20 +89,6 @@
       "publishedAt": "2026-11-12T09:00:00.000Z"
     },
     {
-      "id": "a3a1bf9f886ed391",
-      "title": "「にじさんじ バディボイス」「にじさんじ よしよし全肯定ボイス」、「ボイスビジュアルカード」2026年11月13日(金)12時より販売決定！",
-      "url": "https://www.nijisanji.jp/news/2g5pg4397zm",
-      "category": "news",
-      "publishedAt": "2026-11-10T03:00:00.000Z"
-    },
-    {
-      "id": "6344d96809e1ccb8",
-      "title": "にじさんじから「Dolly Patchwork」グッズが登場！2026年11月10日(火)18時から販売開始！",
-      "url": "https://www.nijisanji.jp/news/vhb0ztz921pw",
-      "category": "news",
-      "publishedAt": "2026-11-09T09:00:00.000Z"
-    },
-    {
       "id": "959b8f8f415ec224",
       "title": "にじさんじ Girls Idol Festival 〜虹をつないで、未来を見つけて〜",
       "url": "https://www.nijisanji.jp/events/nijikimi/",
@@ -155,11 +155,11 @@
   ],
   "feeds": {
     "news": {
-      "checkedAt": "2026-11-24T02:04:29.787Z",
+      "checkedAt": "2026-11-24T13:27:44.641Z",
       "source": "https://www.nijisanji.jp/news"
     },
     "event": {
-      "checkedAt": "2026-11-24T02:04:29.787Z",
+      "checkedAt": "2026-11-24T13:27:44.641Z",
       "source": "https://www.nijisanji.jp/events"
     }
   }
