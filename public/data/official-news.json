@@ -2,8 +2,22 @@
   "schemaVersion": 1,
   "source": "https://www.nijisanji.jp/news",
   "eventSource": "https://www.nijisanji.jp/events",
-  "checkedAt": "2026-11-24T23:49:21.075Z",
+  "checkedAt": "2026-11-25T12:25:59.956Z",
   "news": [
+    {
+      "id": "5201318793336425",
+      "title": "「にじさんじ Girls Idol Festival 〜虹をつないで、未来を見つけて〜」グッズがにじさんじオフィシャルストアにて2026年11月26日(木)18時から販売開始！",
+      "url": "https://www.nijisanji.jp/news/qortp64y27ng",
+      "category": "news",
+      "publishedAt": "2026-11-25T08:00:00.000Z"
+    },
+    {
+      "id": "3c753fd011a20bc8",
+      "title": "【にじさんじ】本日発売 星川サラ 2ndミニアルバム『Stella Note』星川サラ&楽曲クリエイターコメントを公開！収録曲「Cheeky Wink」MV本日公開&デジタル配信キャンペーン開始！",
+      "url": "https://www.nijisanji.jp/news/29b59eg7m",
+      "category": "news",
+      "publishedAt": "2026-11-25T02:00:00.000Z"
+    },
     {
       "id": "1ef50cd112355cfd",
       "title": "にじさんじから「にじさんじ ダイカットビジュアルパネルコレクション ここに居るよ。シリーズ第3弾」グッズが登場！2026年11月25日(水)18時から販売開始！",
@@ -75,20 +89,6 @@
       "publishedAt": "2026-11-16T03:00:00.000Z"
     },
     {
-      "id": "4e2d3a8df5816502",
-      "title": "ROF-MAOが2026年11月15日(日)に200kmマラソンの完走をもって活動再開！キービジュアルやロゴを一新し、新曲リリースや新グッズ発売など情報解禁！",
-      "url": "https://www.nijisanji.jp/news/18nu9inae",
-      "category": "news",
-      "publishedAt": "2026-11-15T13:40:00.000Z"
-    },
-    {
-      "id": "3fa8a85a77200925",
-      "title": "にじさんじから「にじさんじデコラモード PART3」グッズが登場！2026年11月13日(金)18時から販売開始！",
-      "url": "https://www.nijisanji.jp/news/cf0kx4qk5g",
-      "category": "news",
-      "publishedAt": "2026-11-12T09:00:00.000Z"
-    },
-    {
       "id": "959b8f8f415ec224",
       "title": "にじさんじ Girls Idol Festival 〜虹をつないで、未来を見つけて〜",
       "url": "https://www.nijisanji.jp/events/nijikimi/",
@@ -155,11 +155,11 @@
   ],
   "feeds": {
     "news": {
-      "checkedAt": "2026-11-24T23:49:21.075Z",
+      "checkedAt": "2026-11-25T12:25:59.956Z",
       "source": "https://www.nijisanji.jp/news"
     },
     "event": {
-      "checkedAt": "2026-11-24T23:49:21.075Z",
+      "checkedAt": "2026-11-25T12:25:59.956Z",
       "source": "https://www.nijisanji.jp/events"
     }
   }
