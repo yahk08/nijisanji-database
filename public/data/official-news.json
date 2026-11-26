@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "https://www.nijisanji.jp/news",
   "eventSource": "https://www.nijisanji.jp/events",
-  "checkedAt": "2026-11-25T23:31:10.194Z",
+  "checkedAt": "2026-11-26T12:06:48.231Z",
   "news": [
     {
       "id": "5201318793336425",
@@ -155,11 +155,11 @@
   ],
   "feeds": {
     "news": {
-      "checkedAt": "2026-11-25T23:31:10.194Z",
+      "checkedAt": "2026-11-26T12:06:48.231Z",
       "source": "https://www.nijisanji.jp/news"
     },
     "event": {
-      "checkedAt": "2026-11-25T23:31:10.194Z",
+      "checkedAt": "2026-11-26T12:06:48.231Z",
       "source": "https://www.nijisanji.jp/events"
     }
   }
