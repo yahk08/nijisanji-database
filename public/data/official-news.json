@@ -2,8 +2,15 @@
   "schemaVersion": 1,
   "source": "https://www.nijisanji.jp/news",
   "eventSource": "https://www.nijisanji.jp/events",
-  "checkedAt": "2026-11-26T23:38:22.412Z",
+  "checkedAt": "2026-11-27T11:56:10.670Z",
   "news": [
+    {
+      "id": "a5301208b2a64caa",
+      "title": "VTuber / バーチャルライバーグループ「にじさんじ」より、新たに2名がデビュー！本日2026年11月27日(金)より活動開始！",
+      "url": "https://www.nijisanji.jp/news/790ff3u7g",
+      "category": "news",
+      "publishedAt": "2026-11-27T09:00:00.000Z"
+    },
     {
       "id": "5201318793336425",
       "title": "「にじさんじ Girls Idol Festival 〜虹をつないで、未来を見つけて〜」グッズがにじさんじオフィシャルストアにて2026年11月26日(木)18時から販売開始！",
@@ -82,13 +89,6 @@
       "publishedAt": "2026-11-16T09:00:00.000Z"
     },
     {
-      "id": "feb00c2bb70d5c16",
-      "title": "ROF-MAO、再始動第一弾楽曲「/SLASH」本日2026年11月16日(月)楽曲配信＆デジタルキャンペーン開始！",
-      "url": "https://www.nijisanji.jp/news/80oz0bg8u",
-      "category": "news",
-      "publishedAt": "2026-11-16T03:00:00.000Z"
-    },
-    {
       "id": "959b8f8f415ec224",
       "title": "にじさんじ Girls Idol Festival 〜虹をつないで、未来を見つけて〜",
       "url": "https://www.nijisanji.jp/events/nijikimi/",
@@ -155,11 +155,11 @@
   ],
   "feeds": {
     "news": {
-      "checkedAt": "2026-11-26T23:38:22.412Z",
+      "checkedAt": "2026-11-27T11:56:10.670Z",
       "source": "https://www.nijisanji.jp/news"
     },
     "event": {
-      "checkedAt": "2026-11-26T23:38:22.412Z",
+      "checkedAt": "2026-11-27T11:56:10.670Z",
       "source": "https://www.nijisanji.jp/events"
     }
   }
